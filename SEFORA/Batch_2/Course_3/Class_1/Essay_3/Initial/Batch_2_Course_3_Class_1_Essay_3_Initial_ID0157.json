@@ -1,0 +1,422 @@
+{
+  "paragraphs": [
+    {
+      "body": "Unhinged",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Unhinged",
+          "comment": "Great title. ",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "It was three hours into her shift before Maggie was able to speak with her favorite coworker. Usually, the gym was empty on the bright, sunny spring days, but today the phone at the membership desk had been going off nonstop, and Carl wasn’t able to join her behind the smoothie bar until noon. By the time he wandered over, Maggie had served a total of two customers and played seventeen rounds of wordle unlimited on the work computer. Sunny days were slow at the gym, but they made everyone want to sign up. Jake, the only trainer on Saturdays, whose classes had all been canceled, had been Maggie’s only companion while she’d desperately watched Carl speak on the phone and pray that he’d be free soon. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "computer",
+          "comment": "This made me laugh. You put us in this world very nicely. ",
+          "context_left": "limited on the work ",
+          "context_right": ". Sunny days were sl"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to sign up. ",
+          "comment": "Maybe “by phone” just to make this clear? ",
+          "context_left": " made everyone want ",
+          "context_right": "Jake, the only train"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "free soon. ",
+          "comment": "You kind of tell us Jake joins her twice — reduce to just one mention? ",
+          "context_left": "d pray that he’d be ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“About time,” Maggie groaned, as Carl finally slid behind the smoothie bar. “Today has been so boring.”",
+      "annotations": []
+    },
+    {
+      "body": "“Hey,” Jake said playfully. “I’ve been keeping you company the entire time you’ve been here. Am I nothing to you?”",
+      "annotations": []
+    },
+    {
+      "body": "Carl laughed and splayed himself over the countertop, “I literally can’t with this job anymore.”",
+      "annotations": []
+    },
+    {
+      "body": "“It’s really not that bad,” Jake said. “Imagine doing my job.”",
+      "annotations": []
+    },
+    {
+      "body": "Maggie laughed, “What job? All you’ve done all day is give me terrible answers to these puzzles.”",
+      "annotations": []
+    },
+    {
+      "body": "Jake shoved her, “I’m just offering a different perspective.” He took a breath and then looked over at Carl, “Hey speaking of, has Annie decided if she wants to sign up for my classes?”",
+      "annotations": []
+    },
+    {
+      "body": "“Um, I’m not sure. I think she’s just a bit busy right now.” Carl gave Maddie a look that meant he didn’t think Annie wanted to take any classes with Jake ever. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ever",
+          "comment": "It’s interesting that the story seems to be more about Jake than Maddie, but we didn’t get a ton of set up about Jake. ",
+          "context_left": "y classes with Jake ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Yeah, no I get it,” Jake persisted. “It’s just, I know that crazy thing happened to her friend, maybe I could teach her self defence or something.”",
+      "annotations": []
+    },
+    {
+      "body": "Maggie looked at Jake. “What crazy thing?”",
+      "annotations": []
+    },
+    {
+      "body": "“Wait, you don’t know?” Jake laughed. “Carl, you’ve told everyone, how does Maggie not know yet?”",
+      "annotations": []
+    },
+    {
+      "body": " Carl gasped, turning towards Maggie “Girl, do I have the story for you.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, this is gonna be great.” Jake leaned back against the counter and watched Maggie. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "watched",
+          "comment": "Slightly creepy! ",
+          "context_left": "nst the counter and ",
+          "context_right": " Maggie. "
+        }
+      ]
+    },
+    {
+      "body": "“A story?” Maggie asked. ",
+      "annotations": []
+    },
+    {
+      "body": "“Yes, okay you just have to listen and let me get through it.”",
+      "annotations": []
+    },
+    {
+      "body": "Maggie laughed, “Alright.” ",
+      "annotations": []
+    },
+    {
+      "body": "Carl took a deep breath and started, “Okay, so my best friend, Annie, you know her.”",
+      "annotations": []
+    },
+    {
+      "body": "Maggie nodded as Carl continued. ",
+      "annotations": []
+    },
+    {
+      "body": "“Okay, so Annie’s a nurse, right? And so her best friend at work has another best friend at work. And so this happened to her best friend’s best friend.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Annie’s a nurse, right",
+          "comment": "A little awkward. You might have Maggie say, “She’s a nurse” or “Right, the mysterious nurse I’ve never met” etc. ",
+          "context_left": "“Okay, so ",
+          "context_right": "? And so her best fr"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "friend",
+          "comment": "I laughed at this because it did feel like real conversation. ",
+          "context_left": "“Okay, so Annie’s a nurse, right? And so her best ",
+          "context_right": " at work has another best friend at work. And so this happened to her best friend’s best friend.”"
+        }
+      ]
+    },
+    {
+      "body": "Maggie laughed, “Uh huh.”",
+      "annotations": []
+    },
+    {
+      "body": "“No no no, I’m just giving you this backstory so you know it really happened. Like, this really happened and I need you to know that.”",
+      "annotations": []
+    },
+    {
+      "body": "Maggie nodded, and leaned back against the counter next to Jake.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to",
+          "comment": "You might give us a bit more of a hint that Maggie is enjoying this (I think). I’m assuming that she is not annoyed that her work bestie didn’t tell her this story before Jake, but I don’t know for absolute sure. ",
+          "context_left": "st the counter next ",
+          "context_right": " Jake."
+        }
+      ]
+    },
+    {
+      "body": "Carl took a drink from his water bottle and continued, “Okay, so, this girl, the best friend of the friend of the friend, right. So, she meets this guy on Hinge, you know, the dating app?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "know, the dating app?”",
+          "comment": "You don’t need this. She knows what Hinge is. (I also do!) ",
+          "context_left": "s guy on Hinge, you ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Maggie nods.",
+      "annotations": []
+    },
+    {
+      "body": "“Right so, she meets this guy on Hinge, and they go out on a couple dates and they go super well. So, at this point, it's been about six weeks that they’ve known each other and the dates have all gone really well. And this time, they’re meeting at a restaurant, but it’s an early dinner because the guy has to catch an early flight in the morning to go visit his family. They live in another state. And everything is going well, when suddenly his phone buzzes and he looks at it and curses. So obviously she’s like ‘what’s wrong? Is everything okay’, and he shakes his head and is like ‘sorry, it’s just my flight got moved up earlier for some reason’-”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "well. ",
+          "comment": "While I believe that people would repeat like this, try to tighten this up for a story. You want the feel of conversation but not quite a transcription, you know? ",
+          "context_left": "“Right so, she meets this guy on Hinge, and they go out on a couple dates and they go super ",
+          "context_right": "So, at this point, it's been about six weeks that they’ve known each other and the dates have all go"
+        }
+      ]
+    },
+    {
+      "body": "“Moved up?” Maggie interrupts, “Who moves a flight up?”",
+      "annotations": []
+    },
+    {
+      "body": "Carl smirks, “And then he looks up at her and laughs and says, ‘hey this is kind of weird, but you know how I live in the suburbs, like super far from the airport. And you live in the city, would I be able to crash at yours for the night? So I wouldn’t have to wake up as early?’ She thinks about it for a second, right? Because she hasn’t spent the night with him yet, they’ve only been on dates, but then she thinks to herself, like, they’ve known each other for six weeks already, and obviously people have done a lot more in a lot less time-” He interrupts himself, “I know I have.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "up",
+          "comment": "I love this story so far. Again, probably another way to get this information across that feels less like expositional dialogue. ",
+          "context_left": "Carl smirks, “And then he looks ",
+          "context_right": " at her and laughs and says, ‘hey this is kind of weird, but you know how I live in the suburbs, lik"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Because she hasn’t spent the night with him yet, ",
+          "comment": "Ah, key! I feel like Maggie might say something here or react in some way. ",
+          "context_left": "or a second, right? ",
+          "context_right": "they’ve only been on"
+        }
+      ]
+    },
+    {
+      "body": "Jake and Maggie laugh at him. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him",
+          "comment": "An opportunity for a joke from one of them. ",
+          "context_left": "and Maggie laugh at ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“So she thinks, what the hell, of course he can. But she says to him, ‘would you mind staying on the sofa in the living room? I’m not super comfortable with you sleeping with me in my bed.’ and he’s like, ‘omg of course, thank you so much that’s perfect.’ So, after the date is over, they split up and he goes home to grab his suitcases and uber back to her place and while he’s doing that, she’s getting her living room ready for him to crash on. Like putting some sheets on the sofa, stuff like that.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh gross, I already know he’s a creep,” Maggie shivers.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shivers",
+          "comment": "I like this but feel this is arriving at the wrong moment in the story. ",
+          "context_left": "’s a creep,” Maggie ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Jake looks at her, “What? There’s no way you can judge from that.”",
+      "annotations": []
+    },
+    {
+      "body": "“Well obviously there’s a story worth telling here, or else Carl wouldn’t be telling me.”",
+      "annotations": []
+    },
+    {
+      "body": "“Anyway,” Carl looks at them and they both stop talking. “He finally gets to her house and knocks on her door and she lets him in. So she shows him around and is like, ‘here’s the sofa you’ll be sleeping on and the kitchen is right here, obviously help yourself to anything.’ And she shows him the bathroom down the hall, and she’s lucky because even though it’s a one bedroom apartment, the unit has two full bathrooms so he can use the bathroom in the hallway and she can just use her ensuite bathroom without them, like, bothering each other all night.”",
+      "annotations": []
+    },
+    {
+      "body": "Maggie tilts her head and takes a sip from her own water bottle. “Okay?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Okay",
+          "comment": "Nice. I wondered, too, if Jake is still interested in this story, hearing it for the second time? ",
+          "context_left": " own water bottle. “",
+          "context_right": "?”"
+        }
+      ]
+    },
+    {
+      "body": "“Right, so, it’s already kind of late, so they both just say goodnight to each other and she goes into her room and shuts the door. Now, she lives alone, so usually when she goes to bed she always locks her bedroom door. And so this night, out of habit, she locks the door to her room, too. Not cause she’s like creeped out or anything, she just, like, doesn't even realize she’s done it. So anyway, she goes through her nighttime routine and then turns off her light, gets in bed and falls asleep.” Carl stops and takes a drink of his water. ",
+      "annotations": []
+    },
+    {
+      "body": "Maggie looks towards the door to make sure nobody is on their way in and then turns back to Carl. “Alright, continue. I need to know what happens.”",
+      "annotations": []
+    },
+    {
+      "body": "He laughs and keeps going. “Okay, so it’s like three in the morning, and she’s been asleep for a while when she wakes up for some reason. And you know how sometimes, when you’re really deep in sleep, you don’t always immediately realize what woke you up?”",
+      "annotations": []
+    },
+    {
+      "body": "Jake and Maggie nod.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "nod",
+          "comment": "Again, you might consider having them have different reactions since he’s heard the story and she hasn’t. ",
+          "context_left": "Jake and Maggie ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Carl sighs, “So she lays there for a second, like still barely awake, wondering why she woke up. And she’s about to fall back asleep, when suddenly, she hears the sound that woke her up. It’s her doorknob, rattling from side to side. And her heart just immediately sinks into her stomach. Like, have you ever gotten that uneasy feeling, when something is just really wrong? Then she hears the sound again, the rattling, and she knows for sure now, it’s not a dream. He’s on the other side of her door, trying to open it. So she sits up in bed and stares at her door while the knob keeps moving for a second. Then she calls out, ‘hey, is everything alright?’ Then the doorknob stops, suddenly, and there’s silence for a second, like he’s taken aback that she’s awake.”",
+      "annotations": []
+    },
+    {
+      "body": "Jake shivers, “Chills everytime, dude.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dude",
+          "comment": "Exactly, perfect deployment of the difference. ",
+          "context_left": " “Chills everytime, ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "Maggie shoves him, “Shh, let him talk.”",
+      "annotations": []
+    },
+    {
+      "body": "He continues, “And then he responds, ‘oh, yeah sorry. I just-, I know it’s really late, but I don’t have my phone charger, and I was gonna see if I could just go in and grab yours. I didn’t mean to wake you, I’m sorry.’ And she laughs, cause, like for a second it makes sense to her and she also just woke up, it’s not like her brain’s running on full capacity right now. So she walks over to her desk, grabs her charger, and is about to open her door when she stops again. Because she still has that really bad feeling in her chest, you know? Like she’s still really freaked out. And then it clicks, like, he’s literally going on vacation, shouldn’t the one thing he packed be his charger? So she backs away from her door and says ‘hey, sorry, my charger’s actually broken, I forgot’ and then she grabs her phone from her nightstand and runs into her bathroom and locks the door behind her.",
+      "annotations": []
+    },
+    {
+      "body": "“Holy shit.” Maggie covers her mouth with her hand.",
+      "annotations": []
+    },
+    {
+      "body": "“And she knows something is really wrong so she opens her phone now and dials 9-1-1.” Carl makes the voice of the emergency operator, “‘9-1-1, what’s your emergency?’ She can hear the door to her room rattling again at this point and she says, ‘hi, I’m sorry, I was wondering if you could send some officers over to help me. I met this guy online and he was staying in my living room tonight and I woke up and I think he’s trying to break into my room.’ And the operator responds, ‘okay, miss, whatever you do, do not open the door.’ She tells the operator her address, but she has to repeat herself a couple times because she’s crying at this point, she’s so freaked out. ‘I’m in my ensuite bathroom, I can hear him trying to get in, please send someone over now.’ At this point, he’s not shaking the doorknob anymore, he’s like, actively trying to break down the door, kicking it, and she’s completely freaked out. ‘Ma’am, the police are on their way, is there anything you can put in front of your door to block it further?’ ‘No!’ she screams into the phone, ‘there’s nothing, please just tell them to get here as fast as possible!’ And she’s crying super loudly now, just screaming to the operator on the phone that he’s gonna get into her room soon, and then her bathroom door will be next. And then, all of a sudden, the banging stops. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "really",
+          "comment": "I am riveted by the story! ",
+          "context_left": " knows something is ",
+          "context_right": " wrong so she opens "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "here",
+          "comment": "I didn’t quite follow why she had nothing to put in front of the door. There’s no furniture in her bedroom?So, the excitement of the story definitely picks up here and I’m engaged. At the same time, though, the story has crossed a bit into the territory when I’m asking, wait, what? And wondering if it all makes sense. ",
+          "context_left": "wn the door, kicking it, and she’s completely freaked out. ‘Ma’am, the police are on their way, is t",
+          "context_right": " anything you can put in front of your door to block it further?’ ‘No!’ she screams into the phone, "
+        }
+      ]
+    },
+    {
+      "body": "Maggie gasps.",
+      "annotations": []
+    },
+    {
+      "body": "“And she hears his footsteps receding down the hallway and then she hears her front door open and slam shut really loudly. ‘Ma’am? Are you still there?’ The operator asks her. ‘Yeah, I’m still here, I- I think he left? I heard the door open and then close really loudly-’ the operator interrupts her, ‘do not leave the bathroom, stay exactly where you are. The police are on scene.’ Then, once again, she hears her front door bang open, but it’s the police, she can hear them yelling and she tells the operator, ‘I can hear the cops, now.’ They respond, ‘okay, stay where you are, let them come to you, do not move.’ And then finally, the police knock on the door and tell her she can come out, so she confirms with the operator, hangs up and opens the door. And there are three officers standing out in her room, and she can hear more outside, like in her living area.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The police are on scene.’ ",
+          "comment": "I had a little trouble following how the operator would know exactly this. But maybe! ",
+          "context_left": "ctly where you are. ",
+          "context_right": "Then, once again, sh"
+        }
+      ]
+    },
+    {
+      "body": "Jake turns to look at Maggie as Carl continues.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "continues",
+          "comment": "Jeez, Jake. ",
+          "context_left": "k at Maggie as Carl ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“And she’s like, still crying a bit, of course, but she thanks them and one of them asks her if there’s anyone whose house she can stay at for the rest of the night, considering the situation. And she tells them yes, she can call her parents and stay with them for a bit. Especially because the cops weren’t able to find him yet, he ran away before they got there because he heard her on the phone with the police. And so, she goes to step out of her room when one of them stops her and holds his arm out, ‘Hold on, miss. Just stay in here for one second.’ And then she starts freaking out again, because what does he mean? Like, why can’t she go out into her own living room? And so she asks him, like ‘Why?’ and he says, ‘We just want to prepare you for what you’re about to see when you go out there.’ ",
+      "annotations": []
+    },
+    {
+      "body": "Maggie grabs Jake's armG.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "arm",
+          "comment": "Oh no!",
+          "context_left": "Maggie grabs Jake's ",
+          "context_right": "G."
+        }
+      ]
+    },
+    {
+      "body": "“And now she’s getting mad, because she’s imagining he ruined her apartment somehow ‘Oh my god, what did he do? Did he steal all of my stuff? I can’t believe-’ and the officer cuts her off, ‘No, we don’t have any reason to believe he stole anything from you at this time.’ So now she’s like, really confused because why can’t she go outside then, if nothing’s missing. So she asks him, ‘What’s going on?’ and the officer looks at her, takes a breath, and says, ‘Miss, he covered your entire living room in saran wrap and his suitcase was full of knives.’”",
+      "annotations": []
+    },
+    {
+      "body": "Maggie inhales quickly and stares at Carl in shock. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Yikes! But wouldn’t plastic tarps be more efficient? I enjoyed this story, Claire — it’s almost a ghost story in that it really hinges on believing something that doesn’t quite hold up in the daylight but is undeniably creepy in the moment. To be the part that needs your attention is Carl and Jake (and Maggie). Are they telling her the story just to freak her out? If so, why? Do they sincerely believe this is a true story? (Again, if so — why?) Why would Jake ask Carl to tell her this awful story? IN general, I’d just like a sense of their purpose here, especially since Carl is presented as Maggie’s best friend. Maybe he knows she will (on some level) enjoy the story, but it feels a little sadistic to me. And I wanted some closure there, so tie back to the quiet day and waiting so long for Carl to come over, etc. etc. This sounds a little cranky, I realize, so let me say again that so much here works great! It’s just that fringe 10% that needs work. Thanks, Claire! Happy revising!"
+    }
+  ]
+}

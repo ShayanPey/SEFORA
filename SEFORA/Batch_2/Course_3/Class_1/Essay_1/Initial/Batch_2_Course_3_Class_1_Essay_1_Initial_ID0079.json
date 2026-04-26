@@ -1,0 +1,277 @@
+{
+  "paragraphs": [
+    {
+      "body": "Arrest, Arraign, Abort",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Abort",
+          "comment": "While I like the title, I feel like it might give too much away. ",
+          "context_left": "Arrest, Arraign, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Doctor Carter?” ",
+      "annotations": []
+    },
+    {
+      "body": "I looked up from the charts to find a very nervous-looking Rylah in front of me. ",
+      "annotations": []
+    },
+    {
+      "body": "“What is it?”",
+      "annotations": []
+    },
+    {
+      "body": "She swallowed loudly, nervously rubbing the back of her neck. “They are here for your patient from this morning,” she said as she gestured to the officers standing at the doors of the unit. ",
+      "annotations": []
+    },
+    {
+      "body": "Police. I knew they would be here about the flag in the system. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "system",
+          "comment": "You really put us in the suspenseful world right away. I did wonder if Rylah was new to the job — she seemed to not quite know what to do. I think you could either dial that up or down. ",
+          "context_left": "out the flag in the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Don’t move quickly,” I said to her. “Calmly walk down the hall, go to her room and get her out of here. Do it now.” ",
+      "annotations": []
+    },
+    {
+      "body": "She nodded and moved away casually. I stood from behind the desk and began my approach. Beads of sweat begin to form on my forehead and back of my neck. Shook away the nervousness, trying not to think of the bloody scrubs in my locker. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ally",
+          "comment": "The narrator might note that she does a good job with this. Maybe the officers haven’t been talking to Rylah? ",
+          "context_left": " and moved away casu",
+          "context_right": ". I stood from behin"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "in my locker. ",
+          "comment": "I appreciated that she is actually nervous, which feels right. I’m not a medical person — do doctors head up units? ",
+          "context_left": "f the bloody scrubs ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“Officers, my name is Doctor Carter. This is my unit. One of my nurses told me you were looking for a patient. How can help?” ",
+      "annotations": []
+    },
+    {
+      "body": "\tThe meaty one looked me up and down, disgust dripping from his features to be in my presence. The woman who looked slightly older beside him spoke first. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "who looked slightly older ",
+          "comment": "We don’t know how old the other guy is supposed to be so this doesn’t track. ",
+          "context_left": "presence. The woman ",
+          "context_right": "beside him spoke fir"
+        }
+      ]
+    },
+    {
+      "body": "\t“We received a report this morning about an illegal procedure performed at this hospital on a Ms. Baylor. We have a warrant for her arrest. Could you point me in the direction of her room as well as inform me of the name of the doctor who performed this procedure? We will be needing to speak to them as well.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "them as well",
+          "comment": "It’s chilling. ",
+          "context_left": "needing to speak to ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "\tI breathed evenly. There was only so long I could stall them. I just had to hope that Rylah was moving with urgency. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Of course. I do have to ask for a warrant before I allow you onto the unit though.”",
+      "annotations": []
+    },
+    {
+      "body": "\tThe meaty one, whose uniform had a very large mustard stain on it, reached into his back pocket and retrieved a crumpled piece of paper, practically shoving it into my hands. What a way to carry a document that was signing someone’s life away. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "very large mustard stain on it",
+          "comment": "I would encourage you in your next draft to consider whether both police officers need to be horrible. I’m not especially sympathetic, but you’ve really painted them as awful people. ",
+          "context_left": "whose uniform had a ",
+          "context_right": ", reached into his b"
+        }
+      ]
+    },
+    {
+      "body": "\tI pulled apart the crinkled page, trying to smooth out the major creases. It had Jillian’s name typed in the middle, the signature of a judge hastily written across the bottom line, as if he hadn’t even bothered to read it in the first place, but it was missing the embossed seal in the upper right-hand corner. It was fake. I resisted the urge to crumple it back up, throw it in their faces and tell them to get the hell off my unit. There were sick parents and children here.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "There were sick parents and children here",
+          "comment": "We might get a sentence or two of what other people are around and what they’re doing — nurses hiding away children, etc.?Have these cops ever been here before? ",
+          "context_left": "e hell off my unit. ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tBut I couldn’t. This was happening. So, I took a breath. I had to stall. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Her room is right this way, if you would just follow me. Although, I must advise against taking her right this minute, as she has lost a lot of blood and is still in need of medical attention.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tThe female officer scoffed at me. “Yeah right. Why don’t you just let us be the judge of that?” ",
+      "annotations": []
+    },
+    {
+      "body": "\tI wanted to scream. How dare they come into my place of work and tell me how to do my job? But it wasn’t about me. I had mere seconds of walking before we got to her room, and I was praying to the high heavens that Rylah had gotten Jillian off of this floor. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“This is her room right here,” I gestured as we breached the doorway. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "doorway",
+          "comment": "Slightly surprised that Dr. Carter took them directly to that room. ",
+          "context_left": " as we breached the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tI was ahead of them by only a few steps and first to lay eyes on an empty bed. I breathed a small sigh of relief. It was quickly trampled by the meaty one’s gruff voice confronting me. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Where is she?” ",
+      "annotations": []
+    },
+    {
+      "body": "\tI turned to him, pushing sincerity into my voice. “I’m actually not sure. She may have some tests scheduled so I will check her orders to find out. If you’ll excuse me.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tBefore I could move past him, hands grabbed the front of my coat and shoved me into the wall. My vision went fuzzy as my head slammed into the plaster. For a second I swore drops of blood ran from my hands, but the spinning stopped, and they were clean. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Let me just remind you, doctor, if you are interfering with this arrest at all, I will make sure it is your name on the next warrant I bring in here,” the female officer hissed out. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "female",
+          "comment": "I appreciate that the women officer is the physically aggressive one. ",
+          "context_left": "bring in here,” the ",
+          "context_right": " officer hissed out."
+        }
+      ]
+    },
+    {
+      "body": "\tShe released me and I turned to find Rylah in the doorway. She looked at me assuredly. Jillian was safe. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Officers, I believe we are done here. Our security team is here to escort you off the unit. Your warrant isn’t valid.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Our security team is here ",
+          "comment": "This implies some plan was made but I didn’t see how it was put into action. How did Dr. Carter call the security team? How did she get across that the warrant wasn’t valid? ",
+          "context_left": "e we are done here. ",
+          "context_right": "to escort you off th"
+        }
+      ]
+    },
+    {
+      "body": "\tThe meaty officer began to protest, but the female one shut him up with a glance. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“We’ll be back,” she said as security entered the room and began to lead them away. “You can bet on that. I know you are hiding this woman and when I prove it, you’ll be behind bars.”",
+      "annotations": []
+    },
+    {
+      "body": "\tThe looks of resentment and disgust on their faces being escorted out by security was worth the potential concussion forming behind my eyes. I waited until the doors closed behind their retreating figures to turn to Rylah. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "resentment and disgust ",
+          "comment": "While they are worthy antagonists, I would like to see how they might change over the course of this story. ",
+          "context_left": "\tThe looks of ",
+          "context_right": "on their faces being"
+        }
+      ]
+    },
+    {
+      "body": "\t“How’d our covert hiding mission turn out,” I asked her. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I set her up in a new room. I was on my way to scrub her existing chart and forge her a new one, just in case they come back for her again. It would be as if she never existed as a patient here in the first place.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "place",
+          "comment": "So Rylah is pretty confident — maybe she tells Dr. Carter what to do instead at the top? ",
+          "context_left": "t here in the first ",
+          "context_right": ".” "
+        }
+      ]
+    },
+    {
+      "body": "\tI sighed. “It used to not be this way you know. Patients like her would be able to come here for whatever treatment they needed, and they were actually treated like human beings, not criminals.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t She nodded. “I know. I remember receiving the proper training in my nursing classes, but all of that’s been outlawed now. They are trying to erase medicine. And in the process, they are erasing women, pretending like these kinds of things don’t just happen. Like the women are doing it on purpose.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "all of that’s been outlawed now. They ",
+          "comment": "Dialogue as exposition. We will discuss this in class. ",
+          "context_left": "ursing classes, but ",
+          "context_right": "are trying to erase "
+        }
+      ]
+    },
+    {
+      "body": "\tAs I said, it used to not be this way. This wasn’t the first patient of mine they had come for. And I wasn’t so lucky with the first few. But ever since abortion became punishable by the death penalty, I found myself hiding a lot of women. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I really like this draft, Emery — it’s both dramatic and unnerving. You wrote a great story with compressed action and dialogue that still built suspense and had a conflict. All you need to do now is some tinkering! I asked some questions above worth thinking about — little changes can make for a richer story. I’m especially interested in your police officers, who are exactly as evil as I expected. What happens if they know Dr. Carter? What if the woman had an illegal abortion? Or some other connection? I’m not saying they need to be terrific people, but perhaps there’s more to them than cartoon bad guys. I’m also interested in this new America you’ve conjured up — abortion is illegal but the hospital seems to be pretty much as usual. That seemed unlikely to me. How is Dr. Carter getting away with this? Excellent draft."
+    }
+  ]
+}

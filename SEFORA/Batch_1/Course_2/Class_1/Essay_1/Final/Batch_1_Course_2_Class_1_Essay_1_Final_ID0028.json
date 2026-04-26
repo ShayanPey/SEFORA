@@ -1,0 +1,124 @@
+{
+  "paragraphs": [
+    {
+      "body": "Point State Park vs Quancheng Square: The Heart of the City",
+      "annotations": []
+    },
+    {
+      "body": "城市，是人类文明的缩影，每座城市都有其独特的灵魂。作为一个来自中国济 南的留学生，当我踏上匹兹堡这片陌生的土地时，内心既兴奋又忐忑。初到此地，哥 特式教堂尖顶与现代摩天大楼并立的景象，白天热闹的街道到了夜间便寂静如梦，砖 红色老建筑与钢铁结构桥梁的反差，这一切都让我感受到了这座城市的与众不同。看 着周遭的变化，我不禁开始思考，在不同文化背景下的城市规划与布局究竟反映了怎 样的文化与人文理念？带着这样的疑问，让我从匹兹堡Downtown的Point State Park与 我家乡济南的泉城广场开始，展开一段跨越东西方城市之间的文化与历史的探索之旅 。",
+      "annotations": []
+    },
+    {
+      "body": "Before visiting Point State Park in Pittsburgh, I had little idea of what it would be like. In my mind, I expected to see a large but ordinary urban green space surrounded by various city buildings. I imagined some neatly trimmed lawns, a few scattered trees, and perhaps some benches for people to rest on. I think the park would probably meet the meaning of \"urban lungs\" as I commonly see in Chinese cities’ parks: a place for people to briefly escape the concrete jungle, but not particularly eye-catching. I even thought that being located in the city center, it might be hemmed in by skyscrapers, making it feel somewhat crowded and cramped. I expected to see some residents walking or having picnics there, but I didn't think it would be a significant tourist attraction.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " making",
+          "comment": "I would start a new sentence here.",
+          "context_left": "d in by skyscrapers,",
+          "context_right": " it feel somewhat cr"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "think ",
+          "comment": "thought",
+          "context_left": "eople to rest on. I ",
+          "context_right": "the park would proba"
+        }
+      ]
+    },
+    {
+      "body": "However, when I visited Point State Park, I was greatly impressed. Standing in the center of the park, I found myself facing three large rivers and two tall bridges. It was far from the small urban green space I had expected. First, I noticed a huge fountain by the river, and the scale of the park was astonishing. If I hadn't visited in person, I would never have believed that such a paradise-like place existed in the city center. Its dense vegetation and vast scale made me feel as if I were in a forest. Point State Park is to Pittsburgh what Central Park is to New York, with all-natural elements perfectly integrated into the urban landscape.",
+      "annotations": []
+    },
+    {
+      "body": "(AI image of my imaginary Point State Park) (AI image of what I actually saw the Point State Park) This reminded me that there's a similar square in the city center of my hometown, Jinan. Jinan, located in China, is also a city with a long history of steel industry. After comparing Point State Park and Quancheng Square in Jinan, I discovered similarities and differences between them. Both are central landmarks of their cities and are built with water as a core element. Point State Park is located by the river with a fountain, while Quancheng Square in my hometown is built around the concept of spring water and also has a huge fountain. After living in Pittsburgh for three years, I realized that these two places are crucial to the history and identity of their respective cities. They both encapsulate the construction, development, and people's lives of their cities. (AI image of the feeling of Quancheng Square) The Steel Workers Union Building still stands next to Point State Park, serving as a symbol of the era, always reminding people of the city's former glory. As for Quancheng Square, the Jinan Incident Massacre Memorial(五卅惨案纪念碑)on the west side of the square records the bloody incident of Japanese imperialism massacring Chinese soldiers, civilians, and diplomats here, its presence will forever warn future generations of the suffering of war.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This ",
+          "comment": "Please specify what you mean by \"it.\"",
+          "context_left": "e Point State Park) ",
+          "context_right": "reminded me that the"
+        }
+      ]
+    },
+    {
+      "body": "Point State Park and Quancheng Square differ not only in physical space but also in their cultural connotations. Point State Park reflects America's emphasis on the natural environment and love for outdoor activities. I often see people jogging, cycling, or having picnics there. Quancheng Square, on the other hand, embodies the traditional Chinese concept of \"unity of man and nature\"(天人合一) and the modern city's need for public spaces. There, I often see elderly people exercising in the morning and playing chess, as well as young people participating in various cultural activities.",
+      "annotations": []
+    },
+    {
+      "body": "Point State Park is much larger than Quancheng Square and has more vegetation. It's hard to imagine such a huge place for enjoying natural scenery in such a modern city. People in Pittsburgh prefer to do various outdoor activities in the park, such as running. Due to the lower population density, this already enormous park often looks quite empty from Monday to Friday. In Jinan, the square hosts various cultural performances, which is also a common feature of Chinese cities. People fly kites in the square, and elderly people dance in groups. Apart from the nearby Baotu Spring Garden, I can hardly see any green spaces around the square.",
+      "annotations": []
+    },
+    {
+      "body": "To see the different functions of these two landmarks, I need to understand their respective populations. 在Point State Park，我经常听到人们用英语随意交谈： \"Hi, How are you doing？\"或\"Isn’t a good day for running?\"。而在泉城广场，我更常听到：\"哎呀 ，今天天气真不错啊！\"； \"某某某，来跳广场舞呗！\"。The use of language and social interaction patterns reflect the different ways people engage with each other in these two cultures. Americans tend to place more emphasis on personal space and polite interactions, while Chinese people typically emphasize group belonging and close interpersonal connections. These cultural differences not only affect how people behave in public spaces but also shape the usage patterns and atmosphere of these areas.",
+      "annotations": []
+    },
+    {
+      "body": "The Chinese way of socializing reflects a stronger sense of community and familiarity. Chinese people tend to quickly reduce social distance in relationships, and their conversations are often more direct and personal. In public places, they are more likely to form small groups, engaging in activities such as group dancing or playing chess together.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " are ",
+          "comment": "were",
+          "context_left": " public places, they",
+          "context_right": "more likely to form "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " they",
+          "comment": "Specify what you mean by \"they.\"",
+          "context_left": "l. In public places,",
+          "context_right": " are more likely to "
+        }
+      ]
+    },
+    {
+      "body": "The interactions observed in Point State Park and Quancheng Square serve as microcosms of the broader cultural differences between American and Chinese societies, each displaying unique characteristics in terms of social relationships and public life.",
+      "annotations": []
+    },
+    {
+      "body": "(AI image of comparison of Quancheng Square and Point State Park)",
+      "annotations": []
+    },
+    {
+      "body": "Before coming to the United States, I originally thought that public activity spaces in city centers were mainly to beautify the overall urban environment and add some natural color to modern cities. However, through comparison, I found that these two places played important roles in shaping urban identity, preserving historical memory, and promoting interaction between people. Moreover, I realized that two completely different urban planning schemes could achieve similar social functions. Each of them inherits the city's past glorious identity and history, passing on this sense of heritage to the people living in the city today.",
+      "annotations": []
+    },
+    {
+      "body": "Even similar concepts of public space can present completely different aspects under different cultural backgrounds. For example, Point State Park emphasizes nature and peace more, while Quancheng Square focuses more on cultural heritage and community interaction. This difference reflects the different expectations people have for the function of public spaces in the two cultures.",
+      "annotations": []
+    },
+    {
+      "body": "Point State Park is not only a modern place for relaxation but also a place that carries historical memories. Similarly, while Quancheng Square keeps traditional elements, it also keeps changing to meet the needs of modern city life. City planning isn't just about buildings and spaces; it's more about people and culture. The comparison experience between the two landmarks challenged how I thought about language and culture. I realized that each public space shows different values and ways of life in its community. In both Pittsburgh and Jinan, these city spots tell their city's story, linking the past and present, while also helping the community shape the future.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Point State Park is",
+          "comment": "This is a well-written paper. Please avoid vague pronouns such as \"they\" and use the simple past tense consistently throughout the paper. Overall, good job!",
+          "context_left": "",
+          "context_right": " not only a modern p"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 3,
+        "Sources": 3,
+        "Organization": 3,
+        "Writer's Ethos": 2
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

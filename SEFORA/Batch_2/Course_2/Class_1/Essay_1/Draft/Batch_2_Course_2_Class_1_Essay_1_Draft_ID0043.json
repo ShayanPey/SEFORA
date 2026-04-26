@@ -1,0 +1,255 @@
+{
+  "paragraphs": [
+    {
+      "body": "Steel Forest: Built For No One",
+      "annotations": []
+    },
+    {
+      "body": "I’ve dreamed about Pittsburgh couple of times before I came here. Apparently, pictures on the internet, whether it’s from the publicity websites or from upper-class students, made a deep mark in my mind—the second biggest city in Pennsylvania, the city of steel, of course, the Pittsburgh Steelers team that prevails in audiences of American football.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "in ",
+          "comment": "the audiences",
+          "context_left": " team that prevails ",
+          "context_right": "audiences of America"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "mind—the",
+          "comment": "representing the second biggest city...",
+          "context_left": "e a deep mark in my ",
+          "context_right": " second biggest city"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it’s",
+          "comment": "they were",
+          "context_left": "e internet, whether ",
+          "context_right": " from the publicity "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I’ve",
+          "comment": "You may consider enriching the introduction with quotes, anecdotes, and/or questions.",
+          "context_left": "",
+          "context_right": " dreamed about Pitts"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "made",
+          "comment": "left",
+          "context_left": "per-class students, ",
+          "context_right": " a deep mark in my m"
+        },
+        {
+          "type": "strikeout",
+          "text": "that p",
+          "comment": "",
+          "context_left": "burgh Steelers team ",
+          "context_right": "revails in audiences"
+        }
+      ]
+    },
+    {
+      "body": "Back then, my impression on such cities was somehow single: skyscrapers which stood in the center of the city, in Pittsburgh that is downtown, and prosperous civil business, like shopping malls or grand public facilities—just like what I’ve observed in metropolitans around Asia. Meanwhile, I was expecting to rent an apartment in the downtown, since it seemed engaging to me, for integrating to the city’s culture atmosphere. Pittsburgh, imaged like a generous mother in my dreams, was going to embrace me by her warm arms.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "the downtown area",
+          "context_left": "gh that is downtown,",
+          "context_right": " and prosperous civi"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I’ve observed in",
+          "comment": "observed - Please use the past tense more consistently throughout the paragraph.",
+          "context_left": "ties—just like what ",
+          "context_right": " metropolitans aroun"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " to me, for integrating",
+          "comment": "for me to integrate into the city's cultural atmosphere",
+          "context_left": "e it seemed engaging",
+          "context_right": " to the city’s cultu"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "single:",
+          "comment": "singular",
+          "context_left": " cities was somehow ",
+          "context_right": " skyscrapers which s"
+        }
+      ]
+    },
+    {
+      "body": "Well, sometimes things are a far cry from what we anticipated. I still remember that was about the third or fourth day I arrived in the city. After a bus ride of roughly half an hour, the bus stopped under the PNC Bank building that almost goes through the sky. We suddenly fell to our anticipated mother Pittsburgh without realizing so. We took a little walk, the sense of contrast almost eaten me: the city seemed merely possess uncountable tall buildings, but there was nothing that engages normal people like us. To me, this is the actualization of the concept “Steel Forest”. Everything is built for business—what I mean by this is for those large-scale business that looks irrelevant to people’s daily life. Not to mention the idea of renting apartment, there’s barely any residential area there. That is, people there were separated, in other words, alienated, from those buildings; only few interactions with the city itself, and consequently, I may regard people there and buildings, or the business order, as two entities. This was exactly the point I was surprised about. This scene was never witnessed by me within the very limiting 18 years of my life. In my city, Fuzhou, the most flourish region would be Dongjiekou (东街口), it shares basically the same function with downtown of Pittsburgh, but diverges from it in mainly two respects: first, as what I mentioned above, although Dongjiekou has numerous commercial skyscrapers, but it’s centered by 东方百货 (Eastern Mall), which gathers people from everywhere of this city, and indeed, this mall isn’t as tall as other buildings, maybe this is the reason why it expresses certain intimate to people. Second, the residential area and business area are intersected—which implies that we live right in the place where the large-scale, maybe even international, trades are taking place. Additionally, I can feel genuine humanity and life (烟火气) there.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "that was about the third or fourth day",
+          "comment": "the third or fourth day after I arrived",
+          "context_left": "d. I still remember ",
+          "context_right": " I arrived in the ci"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "Forest”. Everything ",
+          "context_right": "built for business—w"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " eaten ",
+          "comment": "consuming",
+          "context_left": "e of contrast almost",
+          "context_right": "me: the city seemed "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "",
+          "context_left": "eemed merely possess",
+          "context_right": " uncountable tall bu"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "are a",
+          "comment": "were",
+          "context_left": "l, sometimes things ",
+          "context_right": " far cry from what w"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "I would start a new sentence here.",
+          "context_left": "Well,",
+          "context_right": " sometimes things ar"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": ":",
+          "context_left": "f renting apartment,",
+          "context_right": "there’s barely any r"
+        }
+      ]
+    },
+    {
+      "body": "What is the reason behind this tremendous contrast? The answer appeared in my mind almost immediately: the strategy of urban planning in two countries/cultures is different. As a result of this difference, I observed another major contrast between Fuzhou and Pittsburgh, that is, people in Pittsburgh mostly live in houses that are concentrated in one area, while in Fuzhou, super-tall apartment buildings are most common choices (This also caused the atmosphere in residential community in Fuzhou is a lot indifferent than that in Pittsburgh, people in Pittsburgh might be more familiar with their neighbors and warmer to neighbors as well), in order to fit in the crowded downtown area. In short, this experience challenged my stereotype on city centers to a great extent—not all countries adopt solely one planning strategy; in China, commercial area overlaps residential area, but in the U.S. it’s the opposite, two areas are clearly separated.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(This",
+          "comment": "This difference also resulted in residents in Pittsburgh acting more indifferent than those in Fuzhou.",
+          "context_left": "most common choices ",
+          "context_right": " also caused the atm"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " two",
+          "comment": ", and the two areas",
+          "context_left": ". it’s the opposite,",
+          "context_right": " areas are clearly s"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "overlaps with",
+          "context_left": "ercial area overlaps",
+          "context_right": "residential area, bu"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Pittsburgh,",
+          "comment": "Fuzhou?",
+          "context_left": " between Fuzhou and ",
+          "context_right": " that is, people in "
+        }
+      ]
+    },
+    {
+      "body": "What I recognized as a piece of take-away information was that, there are multiple ways to arrange the city, while what I’ve seen was not the only way, obviously. Otherwise, I believe all of them possess their own merits and demerits. Take Fuzhou as an example, the cost of integrate residences and business is everyone lives in crowded places, while much more people in Pittsburgh own larger space for daily activities. Again, 万物并育而不相害，道并行而不相 悖 (Everything could prosper without harming each other, paths could be parallel without contradict each other), cultures are beautiful due to the fact that it’s plural.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "from the cross-cultural comparison",
+          "context_left": "a piece of take-away",
+          "context_right": " information was tha"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it’s ",
+          "comment": "they are",
+          "context_left": "ue to the fact that ",
+          "context_right": "plural."
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "contradicting",
+          "context_left": "l without contradict",
+          "context_right": " each other), cultur"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "Please fix the run-on sentence: , and that what I've seen is not the only way.",
+          "context_left": "to arrange the city,",
+          "context_right": "while what I’ve seen"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "integrate residences and business",
+          "comment": "combing residential and business areas is that...",
+          "context_left": "xample, the cost of ",
+          "context_right": " is everyone lives i"
+        },
+        {
+          "type": "strikeout",
+          "text": "information",
+          "comment": "",
+          "context_left": " piece of take-away ",
+          "context_right": " was that, there are"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": 100
+      },
+      "comment": "N/A"
+    }
+  ]
+}

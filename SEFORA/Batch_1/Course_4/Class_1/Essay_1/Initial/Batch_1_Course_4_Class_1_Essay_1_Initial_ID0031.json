@@ -1,0 +1,300 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Picture of Enid",
+      "annotations": []
+    },
+    {
+      "body": "The first time I noticed it, I thought I was seeing things. Like that one time I fell asleep and could’ve sworn there were hundreds of ants swarming me in my bed. I jumped, pulled the comforter back and saw them. There were at least two hundred. The light made them crawl down the sides of the mattress and hide between the floorboards, but they were there. I started yelling, shaking my wife.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I thought I was seeing things",
+          "comment": "It’s an interesting premise to start from, but I was a little confused by the jumble of different things happening. There’s an “it” that the narrator notices, but that’s not the story he tells — he tells a story about being asleep and then waking up (I think, but possibly still dreaming?) — it’s hard to parse all of that at once. ",
+          "context_left": " time I noticed it, ",
+          "context_right": ". Like that one time"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shaking my wife.",
+          "comment": "Is he still dreaming here? ",
+          "context_left": " I started yelling, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“What are you talking about? There’s nothing there.”",
+      "annotations": []
+    },
+    {
+      "body": "I was relentless. “There! They were just here, they bit me!”",
+      "annotations": []
+    },
+    {
+      "body": "“Go back to bed. I promise, you’re okay.” ",
+      "annotations": []
+    },
+    {
+      "body": "The ants were gone, but it took me a week to believe that they were never real. Even then, I had questions about my own sanity…about how much trust I had in my own eyes.",
+      "annotations": []
+    },
+    {
+      "body": "\tSo, when I started seeing the absurd again, my first instinct was to close my eyes to it—the same way you would close a car vent to combat the stench of roadkill. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the absurd again, ",
+          "comment": "I hate to keep harping on it but one dream doesn’t feel like “the absurd” yet. ",
+          "context_left": "en I started seeing ",
+          "context_right": "my first instinct wa"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "stench of roadkill",
+          "comment": "This is a great line. ",
+          "context_left": " vent to combat the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tIt was an otherwise unremarkable morning; before leaving for work, my wife had tied Enid’s hair into two low-hanging pigtails that danced happily on her shoulders, and she had requested waffles for breakfast as usual. And, of course, she clutched a little doll against her chest, whom she christened Angel.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "Unclear which “her” this is, but maybe identify Enid as (I think) their daughter? ",
+          "context_left": "\tIt was an ot",
+          "context_right": "wise unremarkable morning; before leaving for work, my wife had tied Enid’s hair into two low-hangin"
+        }
+      ]
+    },
+    {
+      "body": "The doll belonged to her Grandma Etna as a child, who had decided that Enid might make use of the little friend and passed it along to her on her sixth birthday. Even then, Enid’s connection to the doll seemed preternatural. The excited clinginess she felt on day one endured for weeks, months until it became clear that Enid’s fascination with the doll had grown into an irreversible co-dependence. Getting her to part with the doll even for a bath became a loud battle that could only be won by placing the doll upright on the toilet lid in full view of the tub.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Etna",
+          "comment": "A little too close to Enid! ",
+          "context_left": "nged to her Grandma ",
+          "context_right": " as a child, who had"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "seemed preternatural",
+          "comment": "Oh, yeah, the spooky doll! That’s a great premise. It does feel a bit of a slog from the ant dream to here. ",
+          "context_left": "nection to the doll ",
+          "context_right": ". The excited clingi"
+        }
+      ]
+    },
+    {
+      "body": "\t“Daddy, do you like my skirt? It looks like Angel’s, doesn’t it?” She twirled excitedly in our kitchen, forgetting her breakfast. Our old bulldog, Squint, so named for the folds around his eyes, lifted a heavy head to watch her sudden movement before setting it back down, dog tags clattering on the hard floor.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "doesn’t it?” She ",
+          "comment": "I think you need one more transitional sentence here, that gets us back to the breakfast tale. (I was still sort of at the tub!) ",
+          "context_left": "looks like Angel’s, ",
+          "context_right": "twirled excitedly in"
+        }
+      ]
+    },
+    {
+      "body": "\tI looked at her doll, Angel. Like Enid, it was adorned in a bright pink skirt that swung to her knees when she finished spinning.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Very cute hon—” my words choked me as my gaze travelled from the torso of the doll to its face, to its eyes.",
+      "annotations": []
+    },
+    {
+      "body": "\tHuman, fleshy; swollen with red veins that travelled towards the bright irises. The pupils were shaking—no vibrating—back and forth as they made eye contact with me. The eyes sat atop plump purple eyebags that faded into the porcelain of the doll’s face. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "porcelain",
+          "comment": "Yikes! Very spooky. You might want to mention earlier if the doll has freaked him out before. ",
+          "context_left": "that faded into the ",
+          "context_right": " of the doll’s face."
+        }
+      ]
+    },
+    {
+      "body": "\tI froze, matching its gaze, feeling the muscles in my throat churn and tasting a hint of bile. I couldn’t tell where the eyes stopped and the doll’s face started. The longer I looked, the larger my confusion grew. Planting both feet shoulder-length I blinked hard four or five times, trying to regain reality. I knew it couldn’t be real, this was another case of the ants taunting me, likely punishing me for my sleepless night.",
+      "annotations": []
+    },
+    {
+      "body": "\tI brought curled knuckles to my own eyes and rubbed, took in a deep breath and tried again.",
+      "annotations": []
+    },
+    {
+      "body": "\tThe eyes were normal now, harmless blue and white paint on a ceramic tan base. I exhaled a breath I didn’t know I was holding.",
+      "annotations": []
+    },
+    {
+      "body": "\t“The bus is here, daddy!!” Enid hopped off her stool, grabbed her backpack and ran for the front door. The bus was making its way down our street, shit. I chased Enid out the door.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "street",
+          "comment": "I appreciate how you’ve built a realistic world for the story to take place within. I wasn’t quite sure if it was typical for Enid to leave the doll behind or not. Is the dad spooked by having the doll in the house? Another point to think about — is the grandmother as the source of the doll a good choice? It seems a little heavy to have a grandparent be the giver of a cursed doll unless there’s some logic in that? ",
+          "context_left": "ng its way down our ",
+          "context_right": ", shit. I chased Eni"
+        }
+      ]
+    },
+    {
+      "body": "\tIt was a Friday, which meant I would work from home. Once Enid was safely planted on the bus, I turned around and walked back into an empty house, gravitating unconsciously towards the bathroom for a shower.",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "\tAt three pm, I watched the same yellow bus come rolling down the road to “deliver Miss Enid and Miss Angel to their manor” as the bus driver, Ms. Shutterlock, would say. She was the type of woman to bring treats for the neighborhood dogs and teach the kids new songs like “100 bottles of pop on the wall—something Enid would sing during bathtime, a serenade to Angel.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Miss Angel to their ",
+          "comment": "Ah, okay, the doll went with Enid. ",
+          "context_left": "liver Miss Enid and ",
+          "context_right": "manor” as the bus dr"
+        }
+      ]
+    },
+    {
+      "body": "\t“Good afternoon Mr. Benjamin,” said Ms. Shutterlock in a mocking British tongue, followed by a trumpet of girlish giggles from behind her. “I’ve come to deliver Miss Enid”",
+      "annotations": []
+    },
+    {
+      "body": "\t“And Miss Angel!” came a small voice from the back, and a quick patter of footfalls before Enid popped out of the bus.",
+      "annotations": []
+    },
+    {
+      "body": "\tI smiled, “Thank you Ms. Shutterlock, have a good weekend,” I called",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a",
+          "comment": "It’s cute but this dialogue can work a little harder for you — have it develop something in the story. ",
+          "context_left": "\tI smiled, “Th",
+          "context_right": "nk you Ms. Shutterlock, have a good weekend,” I called"
+        }
+      ]
+    },
+    {
+      "body": "\tI looked down at the doll. The sun was shining from behind Enid as she walked up; the effect was the plastic ringlets of Angel’s hair glowed artificially in the sun, like a halo that lit up her hair while simultaneously casting shadow over the face. Squinting against the sun, I had to struggle to see the doll’s face. It was normal now, excepting the glowering expression the shadow over her face seemed to create.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Can we take Squint for a walk today?” asked Enid cheerfully. She seemed to have had a good day at school.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Of course, honey. Let’s put your stuff down first.”",
+      "annotations": []
+    },
+    {
+      "body": "Enid loved taking Squint for afternoon walks, because it meant we would stop at Mrs. Winkly’s house and visit her little hamster, or on most days, giggle and watch it run around Mrs. Winkly’s living room floor in the lime-green plastic bubble that granted the creature, what they considered, freedom.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "afternoon",
+          "comment": "Just a note that you might think about what kind of day the father had — what did he do at work, was it a good, productive day, was he freaked out all day? The dialogue here is a little stiff, because it’s a first draft, but also because everything seems — fine. ",
+          "context_left": "d taking Squint for ",
+          "context_right": " walks, because it m"
+        }
+      ]
+    },
+    {
+      "body": "I never felt like the hamster enjoyed its bubble all that much, a victim less of footfall, now, and more of constant ogling; no matter how fast he ran, he would never outrun their gaze. And so it was with Enid. She could easily find and follow the little thing all over the Winkly’s living room and kitchen, entranced, erupting with mesmerized giggles. We would only stay for ten, fifteen minutes at most until I would tell her it was probably time to get out of Mrs. Winkly’s hair and let her start on dinner. We weren’t that close with the Winklys, and being in their house always seemed placatingly awkward. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like the hamster ",
+          "comment": "I can see the connection you’re forming from teh hamster to the doll, but we haven’t quite spent enough time with the doll to want to learn about the hamster yet. ",
+          "context_left": "I never felt ",
+          "context_right": "enjoyed its bubble a"
+        }
+      ]
+    },
+    {
+      "body": "Mrs. Winkly opened the door with a toothy grin on her face. “Hello, Enid! Biscuit has been waiting for you in his runner.”",
+      "annotations": []
+    },
+    {
+      "body": "Enid squealed. “BISCUIT” she called and charged inside the house. I left Squint tied to a tree outside, under which he quickly took the opportunity to lie down under and followed her inside.",
+      "annotations": []
+    },
+    {
+      "body": "Mrs. Winkly had already followed her into the living room, so I stood at the entrance to the space and watched them crouch down with Biscuit. He seemed to be in an especially frantic mood today because he was running circles around the pair. Enid’s face had gone completely still, concentrating all her energy into tracking Biscuit. She wore a thoughtless smile that seemed stuck on her face without her knowledge. It was like the muscles forgot they were working; meanwhile her eyes had gone wide and focused as they followed Biscuit’s path. The result was a creepy, incongruous, mask-like expression. I looked at Angel, clutched against her hip, she looked back at me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "expression",
+          "comment": "Very creepy. ",
+          "context_left": "ongruous, mask-like ",
+          "context_right": ". I looked at Angel,"
+        }
+      ]
+    },
+    {
+      "body": "“Alright, Enid say goodbye to Biscuit and Mrs. Winkly, it’s time to go home”",
+      "annotations": []
+    },
+    {
+      "body": "Enid snapped back into herself. “Oh, but I don’t want to go! Just five more minutes, please!”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, there’s no need to be in such a rush,” said Mrs. Winkly. She was middle-aged with short brown hair and an unusually high tolerance for other people’s children, herself being a preschool teacher during the week. “It’s always a delight to see Enid, and I know Biscuit looks forward to seeing her, too.”",
+      "annotations": []
+    },
+    {
+      "body": "I looked at Biscuit. He had run so hard into the couch that the lime-green plastic bubble had gotten wedged in between the couch and the floor. His nails made light scratching sounds against the side of the plastic as he threw his bodyweight in different directions, but to no avail. ",
+      "annotations": []
+    },
+    {
+      "body": "“That’s alright, it’s still how out. I don’t want Squint to overheat,”, it was early in September and the heat was still quite formidable. I said, “Enid, tell Mrs. Winkly goodbye, you’ll see her again tomorrow.”",
+      "annotations": []
+    },
+    {
+      "body": "“Goodbye, Mrs. Winkly. And goodbye Biscuit!” She stooped to wave to the hamster as Mrs. Winkly gently tugged his ball out of the couch.",
+      "annotations": []
+    },
+    {
+      "body": "“See ya later, Alligator!”",
+      "annotations": []
+    },
+    {
+      "body": "Of course, she was always sad to say goodbye to the gerbil, but happy to quickly pour her attention back into her own pet and myself, to finish telling us about show-and-tell that day, and to ask what was for dinner. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I think the story ran out of steam a bit in the last two pages — I wasn’t sure what you were trying to do with Biscuit (and maybe you weren’t either, which is okay!) and that section just sort of fell flat. In general, Grace, you have an interesting premise — a spooky doll is always interesting. So is a spooky kid! I did wonder about your choice to make the narrator a working dad. It felt a little stiff to me, and I couldn’t help but wonder if you’d feel more comfortable writing a mom, babysitter, someone like that. (Feel free to reject this idea, of course.) I also felt that starting by having the narrator tell us about his dream didn’t help your story. Were you trying to inject the idea that he’s not reliable? Or ..? So, anyway, I’d encourage you to really think about what you want to have happen in this story. Is the doll possessed? By who? Why is it suddenly appearing that way to the narrator? (Even if the narrator doesn’t know, you would!) What does the doll want? How does Enid factor in? What’s the conflict — the struggle over something or someone — in this story?There are so many great little details here, but the cohesion of the story isn’t there yet. With horror, you sometimes have to really take a firm hand with the plot, rather than just seeing what happens. Happy writing!"
+    }
+  ]
+}

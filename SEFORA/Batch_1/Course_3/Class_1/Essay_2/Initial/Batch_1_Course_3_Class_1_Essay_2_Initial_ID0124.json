@@ -1,0 +1,275 @@
+{
+  "paragraphs": [
+    {
+      "body": "School’s Out",
+      "annotations": []
+    },
+    {
+      "body": "\tMy name is Max Ismaili and I’ve lived at The University since the age of 15. And when I say “lived at,” I really mean “lived in.” Whether it was the crammed recesses of the janitor’s closet (and then campus basement) or the humble space of the teacher’s lounge (and then, inevitably, permanent on-campus apartment), I was there. With my foldable mattress and Gateway PC, I yearned to live in whatever modicum of square footage I could, as long as it meant I could spend every waking moment at a landmark of education. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "education",
+          "comment": "I’m intrigued! Small notes: “The University” feels almost sci-fi (maybe what you want) because we would not usually capitalize The here. And secondly, there’s not really any difference in the meaning between lived at and lived in, so this just confused me. ",
+          "context_left": "nt at a landmark of ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Now, I’m 27 and The University — which I received my associate’s, bachelor’s, master’s, and doctorate degrees from — has declared bankruptcy and will be closing its doors in a few weeks’ time.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "weeks’ time.",
+          "comment": "The persistent academic (who refuses to grow up and leave the U) is a great trope to play with. ",
+          "context_left": " its doors in a few ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“For God’s sake, why?” I ask at the Board of Directors meeting. As an overly generous alumnus (the amount of money I pay The University in rent alone is nothing to sneeze at), assistant professor (untenured), and something of a campus legend (a myriad of myths surround me, including that I’m the dean’s prisoner, a masochist, or an immortal being with magical abilities), I make it my business to attend these bi-monthly meetings. No one has ever objected to my presence — my tweed coat standing out like a sore thumb against the sea of suits around me — and it was all business as usual…until today.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "d",
+          "comment": "An untenured professor isn’t likel to have a lot of money in salary, so perhaps clarify that the money is family money perhaps? ",
+          "context_left": "\t“For Go",
+          "context_right": "’s sake, why?” I ask at the Board of Directors meeting. As an overly generous alumnus (the amount of"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "abilities",
+          "comment": "This made me laugh. Did Max start college at 15? ",
+          "context_left": " being with magical ",
+          "context_right": "), I make it my busi"
+        }
+      ]
+    },
+    {
+      "body": "\t“Simple. We ran out of money,” a Suit (despite my years attending these meetings, the rotation of board members is faster than the time it takes for me to learn a name) helpfully explains.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "takes",
+          "comment": "Nice arrogance here. ",
+          "context_left": "er than the time it ",
+          "context_right": " for me to learn a n"
+        }
+      ]
+    },
+    {
+      "body": "\t“I know what bankruptcy means, uh…” I squint at the laminated name tag pinned to his lapels, “Greg. What I don’t understand is how a beacon of learning such as The University could be shutting its doors!”",
+      "annotations": []
+    },
+    {
+      "body": "\tGreg goes on for minutes on end about the numerous factors that led to The University’s decision: enrollment decline, the costs of inflation overtaking the profit made from tuition, lack of funding coupled with crippling campus debt…but I stop listening the moment it’s made clear: the University is closing. For good.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "closing",
+          "comment": "If he hasn’t quite realized that the U is closing for sure, make that realization more of a moment here and show his trying to find that out. ",
+          "context_left": ": the University is ",
+          "context_right": ". For good."
+        }
+      ]
+    },
+    {
+      "body": "\tI leave the meeting, a boulder where my heart once was. Dragging my feet against the cobblestone paths that line the perimeter of The Great Hall, I tell myself I will not let the only home I’ve ever known shut its doors. Not with the autumn breeze kicking up golden leaves around my feet and the lanternflies fluttering, happily, atop the brick road.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "heart once was",
+          "comment": "You really nicely convey his pain here. Just help it land for us, too. ",
+          "context_left": " a boulder where my ",
+          "context_right": ". Dragging my feet a"
+        }
+      ]
+    },
+    {
+      "body": "\tI will do anything to prevent this beautiful place from being abandoned…even if it kills me.",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "\t“You’re killing me, Don! You’re the dean, for Christ’s sake! What do you mean you can’t do anything?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“I mean just what I said, Max. My hands are tied. The provost, the president, the investors, they’ve all spoken. I’m the dean, not the goddamn Tooth Fairy,” Don’s scruffy voice sounds uselessly from my Android as I anxiously pace the hall of my cluttered apartment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "cluttered",
+          "comment": "It’s a little funny (and frankly, very academic) that his big act after swearing he would save the U is to… make a phone call. ",
+          "context_left": "pace the hall of my ",
+          "context_right": " apartment."
+        }
+      ]
+    },
+    {
+      "body": "\t“But…isn’t there something you can do? A fundraiser you can raise, a string you can pull for an old friend?” I’ve known Don for almost as long as I’ve lived at The University (I saw him go from my Linguistics professor to the Dean of Arts and Sciences), but I hope my desperation isn’t obvious across the phone — Don has never been a sentimental guy.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Sciences",
+          "comment": "It’s hard to tell if they’re actually friends based on this, or not. ",
+          "context_left": "he Dean of Arts and ",
+          "context_right": "), but I hope my des"
+        }
+      ]
+    },
+    {
+      "body": "\tI hear Don sigh before he delivers his last words on the matter, “No, Max. And, truly, I think this could be a good thing for you. A great thing, in fact. I’ve always admired your…dedication to learning, but maybe it’s for the best that you take that passion elsewhere. Anywhere but here, really. Good luck, kid.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "luck",
+          "comment": "Feeling this, Don. ",
+          "context_left": " here, really. Good ",
+          "context_right": ", kid.”"
+        }
+      ]
+    },
+    {
+      "body": "\tWith that, Don hangs up on me, taking my hopes of saving The University with him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "University",
+          "comment": "The phone call was it? That was his attempt? ",
+          "context_left": "hopes of saving The ",
+          "context_right": " with him."
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "\tI think about calling my parents but think better of it. After all, they’ve been trying to convince me to move out of The University for years now. I’m sure they’d be delighted to hear that I’ll soon be kicked out.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Max, when are you going to move out? Make something of yourself? Lord, you have every degree under the sun and for what, to be some glorified teaching assistant?” Eight months of the year, they would chide me on the phone (as if to say, “Silly, Max! School isn’t supposed to last forever!”). It was only the rest of the year, when I temporarily moved back home, that they’d make their opinions even clearer, murmuring under their breaths across the dinner table (as if to say, “Stupid, Max. When will you learn that school isn’t everything?”). ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "assistant",
+          "comment": "Notice that your narration and this dialogue basically do the sam thing. ",
+          "context_left": " glorified teaching ",
+          "context_right": "?” Eight months of t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "temporarily moved back ",
+          "comment": "I thought he never left the U? ",
+          "context_left": "of the year, when I ",
+          "context_right": "home, that they’d ma"
+        }
+      ]
+    },
+    {
+      "body": "\tBut what if school could last forever? What if school is everything? After all, my mother was the one who skipped me past the 7th, 9th, and 11th grades. My father was the one who encouraged me to move out at 15, said “The closer you are to The University, the smarter you’ll become!” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "grades",
+          "comment": "Very funny that he had to take 10th. ",
+          "context_left": " 7th, 9th, and 11th ",
+          "context_right": ". My father was the "
+        }
+      ]
+    },
+    {
+      "body": "\tAnd smarter I became. I studied Linguistics and Mathematical Biology for my undergrad degrees, Physics and Foreign Affairs for my graduate degrees. I took every class most of The University’s programs had to offer, to the point that I was placed in at least one Independent Study course every semester, just to remove me from the hair of whatever professor I gravitated towards that term.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Affairs",
+          "comment": "This feels like backstory that perhaps should arrive earlier in the story. It derails the plot right now. ",
+          "context_left": "Physics and Foreign ",
+          "context_right": " for my graduate deg"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "term",
+          "comment": "A conversation with one of those professors might be interesting. ",
+          "context_left": "itated towards that ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tI rarely went out, not only because I preferred studying under the light of the setting sun amongst the barely landscaped blades of grass that made up The University’s soccer field, but also because I had no friends. No roommates and an obsession for academics made for a dangerous combination at a school that — I didn’t learn until my junior year of my undergrad — was most known for its party scene.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "scene",
+          "comment": "That’s funny and probably should be more obvious earlier? ",
+          "context_left": "known for its party ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tAll of this, combined with my status as Weirdo Who Lives in the Basement (long after I loved out of the basement, mind you), made for a pretty isolating decade of my life, my only friends each semester the professors I had grown to admire (even if the feelings weren’t mutual). ",
+      "annotations": []
+    },
+    {
+      "body": "Eventually, I graduated (for the fourth time) and got a job at The University as an assistant professor (much to the dismay of my parents who thought me running out of degrees to pursue would get me to finally move out, start anew). But I hardly spoke to the other faculty; my charm with authority figures had finally worn off — after all, I had become the authority figure.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "anew",
+          "comment": "Just noting again that you’ve weighted the end of the story with backstory. ",
+          "context_left": "lly move out, start ",
+          "context_right": "). But I hardly spok"
+        }
+      ]
+    },
+    {
+      "body": "The past two years have been spent holed up in my apartment, grading papers or, during the summer, holed up in my parents’ house, rotting in my childhood bedroom as I thought desperately of what I could do to fill the time. I have never done anything other than get good grades. I don’t think I’d be good at much of anything besides…school.",
+      "annotations": []
+    },
+    {
+      "body": " As I look around my apartment — littered with old papers, dirty paper cups from the on-campus coffee shop, takeout from the halal grill up the street — I realize I never really lived at The University. I just existed, a ghost too focused on the A+ on my latest assignment to look around and ask: what am I doing here?",
+      "annotations": []
+    },
+    {
+      "body": "Tonight, I’ll pack up my foldable mattress and Gateway PC. Take a walk around the campus grounds one last time. Say goodbye to The University and go find something else to be good at.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I like the ending. This is a nice first draft, Violet — lots ot work with here. I like the focus on a main character who really touches a lot of tropes about universities: the child prodigy, the student who never graduates, the alum who ends up on faculty. Fun. As I noted here, your story is almost backwards. You start a plot (he’s going to fight for the university), wrap that up very quickly (just one phone call!) and then give us a lot of history for this character before he decides to leave. It makes more sense to either include the backstory earlier or find a way to weave it more naturally into he scenes (I wonder, for example, if Greg might want to know more about Max?). I’d also like to see him fight at least a little bit longer before realizing that not only is it not going to work but also that he’s ready to move on. A smaller point, but I didn’t buy that he had no friends. That felt like narrative convenience. Every one in academia has found someone to talk to! Great work. Happy revising!"
+    }
+  ]
+}

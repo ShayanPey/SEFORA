@@ -1,0 +1,64 @@
+{
+  "paragraphs": [
+    {
+      "body": "When I Realized that Squirrel Hill Does Not Have Squirrels Sometimes, the name of a place does not represent the real appearance of that place. For example, there is a village called “Mars Village” in Hangzhou, Zhejiang. Although this village even has a “Mars road” and “space breeding base”, the gravity is still 1G just like Earth. Therefore, it is a lot of fun for me to discover different places with interesting names and compare their real faces with our imagination. Besides this, the same type of places like parks and neighborhoods in other areas or countries may have opposite purposes because of diverse cultural backgrounds. In this essay, the main idea I want to express is that we should celebrate differences and try to understand and accept them.",
+      "annotations": []
+    },
+    {
+      "body": "When I moved from my hometown, Suzhou, to Pittsburgh as a University of Pittsburgh sophomore, I quickly learned that the names of US locations oftentimes were full of surprises. Some names conveyed their history, but some really make me confused—Bloomfield, the Strip District, Shadyside. However, nothing intrigued me more than Squirrel Hill. Before I visited, I imagined a small mountain covered in thick pine trees teeming with squirrels. It also might be a natural reserve perfect for camping. Its name, after all, seemed as literal as the “Black Wind Hill” in the traditional story. But as with many things in cross-cultural life, reality oftentimes diverged from my expectations.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Its name,",
+          "comment": "Please see below.",
+          "context_left": "erfect for camping. ",
+          "context_right": " after all, seemed a"
+        }
+      ]
+    },
+    {
+      "body": "pine-covered mountain or chattering squirrels—only a quiet deer grazing near a crosswalk (and this is the sole wild animal I encountered). Instead of a natural reserve, I found a classic American neighborhood that consisted of red-brick houses with sloping roofs and wooden porches. For a moment, I doubted my map—where were the trees and squirrels? As I wandered around, Cafés and bookstores lined the streets, and students from nearby universities sipped coffee while typing on laptops. Where I had imagined a forest, there was a community. Where I expected squirrels, there were only street signs bearing their name. Maybe the squirrel-shaped bicycle racks on the side of the street were the most “squirrelly” thing here. This reminded me of Suzhou’s 金鸡湖, golden cock lake in English, a place whose name was based on ancient folklore.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "this",
+          "comment": "This experience",
+          "context_left": "ar a crosswalk (and ",
+          "context_right": " is the sole wild an"
+        }
+      ]
+    },
+    {
+      "body": "In Suzhou, my family lived in a 小区 (xiao qu, Chinese apartment complex) named “Golden Harmony Gardens,” though there was nothing particularly golden or harmonious about its concrete apartment buildings. Like Squirrel Hill, it was a community—but one shaped by different rhythms, spaces, and rules. What made Squirrel Hill and Xiaoqu different was the personal living space and the architecture. People in Squirrel Hill, or I should say in America, always live in a single-family home with a small garden at the entrance. But in Xiaoqu, people live in tall residential apartments, usually with a small balcony. The smaller personal space for people who live in Xiaoqu makes them more likely to interact with their neighbors. Of course, the difference between the two communities not only emerged from the perspective of buildings but also from their distinct cultural traditions. In Squirrel Hill, neighbors were bonded by Steelers games and pumpkin spice lattes; in Golden Harmony Gardens, connections were formed by dumpling-making during Spring Festival or complaints about broken elevators.",
+      "annotations": []
+    },
+    {
+      "body": "Living in both places, I began to see these differences not as flaws, but as answers to the same fundamental question: Where do we belong? In Squirrel Hill, the single-family house with a garden reflects individualism and private space, which represents the classic western value.",
+      "annotations": []
+    },
+    {
+      "body": "Meanwhile, my 小区 (Xiaoqu) in Suzhou, with its shared balconies and apartments complex, conveys the Chinese value of collectivism, where unity is victory. Despite these contrasts, both neighborhoods shared a deeper purpose: providing spaces where people belong. In Squirrel Hill, people gathered for birthday parties or Steelers games, while in Xiaoqu, neighbors met in the public square for morning practice 太极 (tai chi) or evening 广场舞 (square dancing). Though they differed in many places, cheeseburger versus 包子 (steamed buns), one thing is universal: people form connections with each other with shared activities.",
+      "annotations": []
+    },
+    {
+      "body": "This cross-cultural experience taught me that understanding builds beneath the surface of differences. At first, I over focused on how Squirrel Hill lacked squirrels or how my Xiaoqu lacked “golden harmony.” But, by comparing these places, it makes me reflect on the deeper meaning that lies beneath the literal name. Whether prioritizing individual or collective, they are simply different answers to the same question: How do we build belonging? In Pittsburgh, belonging is backyard barbecues and the Christmas tree in the house; in Suzhou, it is 春节 (Spring Festival) and making 饺子 (Jiaozi) with family and neighbors. Neither approach is “better”; both are rooted in their own unique culture. By learning these valuable lessons, I can say diversity is not a barrier but a testament to people’s creativity in forming connections. Now, when I encounter unfamiliar traditions and before I make any comments on them, I would ask: What purposes do they serve? This shift—from judging differences to evaluate their true intent—has deepened my empathy for the threads that wove communities together across cultures.",
+      "annotations": []
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Main Point": 2,
+        "Plot": 2,
+        "Details": 2,
+        "Transitions and Verb Tenses": 1.5,
+        "Writer's Ethos": 1.5,
+        "Overall": 9
+      },
+      "comment": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "paragraphs": [
+    {
+      "body": "Chinese cuisine is famous for its diversity and depth, with staple foods forming the foundation of its various regional dishes. These staples vary significantly based on geography and climate, with the primary staples being rice, wheat-based products, noodles, and soy products. Each of these ingredients plays a crucial role in shaping the food traditions and daily meals of people across China.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Chinese cuisine is famous for its diversity and depth, with staple foods forming the foundation of its various regional dishes. These staples vary significantly based on geography and climate, with the primary staples being rice, wheat-based products, noodles, and soy products. Each of these ingredients plays a crucial role in shaping the food traditions and daily meals of people across China.",
+          "comment": "Please add in-text citations to justify each factual claim and add hyperlinks to other relevant Wikipedia articles.",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Rice is the most important staple in southern China, where the climate is warm and ideal for rice cultivation. Steamed rice, or mi fan (米饭), is a regular feature at most meals and is commonly paired with a variety of side dishes. Beyond steamed rice, other rice-based dishes include congee (a type of rice porridge) and zongzi, sticky rice dumplings traditionally eaten during the Dragon Boat Festival. Rice is also used to produce rice noodles, such as those found in popular dishes like mi fen (rice vermicelli) and pho, highlighting the versatility of this staple[^1^][^2^].",
+      "annotations": []
+    },
+    {
+      "body": "In northern China, the colder and drier climate favors wheat over rice. Wheat is used to make a variety of products, including noodles, dumplings (jiaozi), and steamed buns (mantou). Noodles are particularly important in northern Chinese cuisine, and they come in many forms—boiled, stir-fried, or served cold. A well-known northern dish is zhajiangmian, which consists of thick noodles topped with a savory soybean paste sauce. Dumplings are also common, especially during holidays like Chinese New Year, when they are eaten to symbolize wealth[^3^].",
+      "annotations": []
+    },
+    {
+      "body": "Noodles hold a special place in Chinese culture as well. Not only are they a daily food staple, but they also carry symbolic meanings. Long noodles, in particular, are associated with longevity and are often eaten during birthdays or Lunar New Year celebrations to wish for a long life. Whether made from wheat or rice, noodles are versatile and can be served in soups, stir-fries, or with simple sauces[^1^].",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Noodles hold a special place in Chinese culture as well.",
+          "comment": "Please use a neutral tone throughout the Wikipedia edit.",
+          "context_left": "",
+          "context_right": " Not only are they a"
+        }
+      ]
+    },
+    {
+      "body": "Soy products, particularly tofu, are another key staple in Chinese cuisine. Tofu is used in a wide range of dishes, from stir-fries to soups, and is valued for its ability to absorb the flavors of the ingredients it is cooked with. Other soy-based products include soy milk, soy sauce, and fermented tofu (doufuru), which are integral to Chinese cooking. Soy sauce, in particular, is a fundamental seasoning in many dishes, adding a rich, savory flavor to stir-fries, marinades, and dipping sauces[^2^].",
+      "annotations": []
+    },
+    {
+      "body": "The staple foods of China—rice, wheat, noodles, and soy products—reflect not only the geography and climate of different regions but also the country’s rich cultural traditions. From steamed rice in the south to dumplings and noodles in the north, these staples are deeply ingrained in daily life and Chinese celebrations. They symbolize prosperity, longevity, and health, underscoring their importance in both the dietary and cultural landscape of China[^3^].",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The staple foods of China—rice,",
+          "comment": "This paper is well-written. I would suggest adding in-text citations to justify each factual claim, using a neutral tone throughout the Wikipedia edit, and adding hyperlinks to other relevant Wikipedia articles. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": " wheat, noodles, and"
+        }
+      ]
+    },
+    {
+      "body": "1. ^ Ebrey, Patricia Buckley. Cambridge Illustrated History of China. Cambridge University Press, 2010. 2. ^ \"Staple Foods in China.\" Travel China Guide, 2023. Retrieved October 23, 2024, from https://www.travelchinaguide.com. 3. ^ \"North China Food.\" China Highlights, from https://www.chinahighlights.com.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "2010.",
+          "comment": "I would suggest citing more recently published sources and meeting the minimum word requirement. ",
+          "context_left": "e University Press, ",
+          "context_right": ""
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.5,
+        "Writer's Ethos": 1.0,
+        "Total": 8.5
+      },
+      "comment": "N/A"
+    }
+  ]}

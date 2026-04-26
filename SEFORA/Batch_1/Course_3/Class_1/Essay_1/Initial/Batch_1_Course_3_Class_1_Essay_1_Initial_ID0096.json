@@ -1,0 +1,339 @@
+{
+  "paragraphs": [
+    {
+      "body": "Some Drastic Changes",
+      "annotations": []
+    },
+    {
+      "body": "I had been pretty active when I was younger, trying the few sports my tiny Louisiana high school had to offer. I eventually settled on soccer. The thrill of weaving through opponents with quick yet careful footwork, sinking a goal between the goalie’s ankles in the final seconds to score that last point to secure the win, there was nothing like it. I wasn’t the best, definitely not the “star player” sort, but I like to think I did well out there. Unfortunately, things happen. Life happens. Early November, back in 2025,  I was in class (PreCalc with Ms. Green, right before lunch) when I got called to the office. I can still feel that pang of confusion and dread as I walked towards the front of the school, the smell of hot dogs wafting from the cafeteria as I slowly paced by, looks of pity from the office ladies, Mom’s weak smile, her red eyes, frizzled hair.  Pa had been in a car accident on the way to work. There was a fierce rainstorm earlier that day, the remnants of a hurricane that hit the south coast during the night. His truck had hydroplaned of his truck on a patch of ice from last night’s snowstorm and was in critical condition. He passed away later that night. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "soccer",
+          "comment": "I like the first person here, the sense of a narrator maybe trying to sound a little older than he actually is. (It’s kind of Nick Carraway-ish?) ",
+          "context_left": "entually settled on ",
+          "context_right": ". The thrill of weav"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the goalie’s ankles ",
+          "comment": "Reword to avoid goal/goalie so close together",
+          "context_left": "king a goal between ",
+          "context_right": "in the final seconds"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Unfor",
+          "comment": "I appreciate the movement of the story — we’re not spending too long on the soccer stuff. ",
+          "context_left": "did well out there. ",
+          "context_right": "tunately, things hap"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "back in 2025,  I ",
+          "comment": "Great way of setting the time. ",
+          "context_left": "ns. Early November, ",
+          "context_right": "was in class (PreCal"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Pa had ",
+          "comment": "A small point but I feel like Mom and Dad go together, and Ma and Pa go together. ",
+          "context_left": "es, frizzled hair.  ",
+          "context_right": "been in a car accide"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was in critical condition",
+          "comment": "This implies the truck is in critical condition. ",
+          "context_left": "ght’s snowstorm and ",
+          "context_right": ". He passed away lat"
+        }
+      ]
+    },
+    {
+      "body": "Anyone who’s lost someone understands the pain that follows. People deal with grief in so many different ways, but I always felt some could deal with it better than others. I was not one of those people. I kept to my room, I gave up on school, stopped going to soccer practice, and started spending all my time playing video games, smoking weed, and doing whatever I could do to dull my brain. \t",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my brain. ",
+          "comment": "A quick summary. Now I do hope that we’re going to see a scene — we’ve had a lot of exposition here, and it’s been well written and nicely paced. But now I want to watch a scene. ",
+          "context_left": " I could do to dull ",
+          "context_right": "\t"
+        }
+      ]
+    },
+    {
+      "body": "One day, about a month after the funeral, I recall feeling particularly agitated, don’t even remember why. Paul came over that day to check how I was doing. I usually ignored the doorbell, but Mom was at work, and by the 8th ring I knew he wasn’t going to leave without talking to me. He had a bouquet for my Mom and a condolence card for me signed by the guys. Something about it all just flared the anger I had been building up. Maybe it was the same pitiful smile he wore on his face that reminded me of those ladies in the office. Maybe it was the fact that he was alone, that the others couldn’t be bothered to check on me (probably because I had rebuffed any text they sent to check on me and ask to hang out). Or maybe it was that one limp rose, barely hanging on, almost gone. I took the vase from him, raised it, and shattered it right there on the porch before wheeling around and slamming the door in his face. The anger I felt faded instantly, replaced by regret and self-pity.  I waited for him to leave, which took longer than I expected. After my head stopped throbbing and my heart calmed down a bit, I heard a faint repetitive scraping. A deep blue wave of sorrow rocked my body as I realized he was picking up the shattered pieces of the vase. That was just like him, always looking for ways to help, even if no one asked or cared. A few minutes later the scraping stopped. There was a long moment as he probably considered what had happened and what to do next. His footsteps briefly broke the silence and receded, until a much louder silence took hold.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "up",
+          "comment": "Maybe we could name Paul earlier as a friend on the team? I really like this moment of anger at an irrational time. Makes sense. ",
+          "context_left": "ce card for me signed by the guys. Something about it all just flared the anger I had been building ",
+          "context_right": ". Maybe it was the same pitiful smile he wore on his face that reminded me of those ladies in the of"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Or maybe it was that one limp rose, barely hanging on, almost gone",
+          "comment": "We haven’t been told about the rose before now. Needs more. Like the anger, though! ",
+          "context_left": "d ask to hang out). ",
+          "context_right": ". I took the vase fr"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "vase",
+          "comment": "Oh, that’s a hard image. ",
+          "context_left": "nd ask to hang out). Or maybe it was that one limp rose, barely hanging on, almost gone. I took the ",
+          "context_right": " from him, raised it, and shattered it right there on the porch before wheeling around and slamming "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "took hold.",
+          "comment": "I would like to meet Paul better earlier. ",
+          "context_left": "much louder silence ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I remember waking up to an unbearable heat and a pillow caked in sweat as AJ shook me awake. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Ed, man, Ed, wake up man. Something’s up,” he whispered.",
+      "annotations": []
+    },
+    {
+      "body": "\tNow, mind you, I was used to the Louisiana heat. I had grown up south of Baton Rouge, kayaking with the boys on the Mississippi during those hot and humid teenage summers, when things were better. The muggy air, thousands of insects all buzzing in unison, sipping beer that Paul stole from his dad, all of us just cruising down that lazy river. When I got jolted awake that day, I felt like I had woken up right on that river on the hottest day of the year. We had plenty of fans running in the room to keep this sort of heat off us, but none of them were on now. The room was quiet, much quieter than it should have been. It took me a second until I realized that there was no sound at all. No droning of our shitty AC unit, no obnoxious humming from the fluorescent light pole that sat right outside our second-story dorm window, not even whispers of noise from the other rooms. Total drowning silence.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "grown",
+          "comment": "This feels like a new story to me? I was confused and sorry to leave Paul and the narrator. ",
+          "context_left": "uisiana heat. I had ",
+          "context_right": " up south of Baton R"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "things were better",
+          "comment": "I might need some help understanding when this was — seemed like I was just introduced to a youth that wasn’t good. ",
+          "context_left": "enage summers, when ",
+          "context_right": ". The muggy air, tho"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "drowning silence.",
+          "comment": "Helpful to clearly state if this is college, army, etc. ",
+          "context_left": " other rooms. Total ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tI reached down and grabbed my glasses off the tiny shelf that I used as my nightstand, glancing at the alarm clock. It read: nothing. A blank digital face stared back at me. My glasses slid down my nose, the nose pads already slick with sweat. I pushed them back up before focusing on the source of my wake-up call, my roommate AJ. His tank top was drenched, a ring of sweat extending down to his belly button.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Ed, what time do you think it is?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you think it is?”",
+          "comment": "I’m a little confused about why AJ felt the need to wake Ed up right at this moment? Are they in some specific danger?Would also suggest naming Ed in part one, if this is the same character. ",
+          "context_left": "\t“Ed, what time do ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tI had this sense of dreadful fear when he said that, like waking up from a nightmare that felt all too real. It was the way he worded it, and the sudden realization that I could see him so clearly when I knew damn well from how exhausted I still felt that I couldn’t have been asleep for more than a few hours. Light poured in through the half-opened window to shed dim light around the room, as though it had been dawn. Following AJ’s gaze, I jumped from the bed to the window, peeking at the sky. It was… absolutely stunning. Shimmering lights danced across the sky, flowing and weaving like an acrobat. They were so intense, so bright, so vivid, I stared so long my jaw became stiff from the slack. Aurora borealis. Pa was an avid climber until a “freak stair accident”, as he had called it,  left him with a shattered leg bone. Once, he showed me pictures of one from when he climbed a peak in northern Canada. The lights I saw now absolutely shattered those little Polaroids, and I have never seen anything as stunning as those lights that first night. I could only wonder if he would’ve agreed.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Light poured in through the half-opened window to shed dim light ",
+          "comment": "Light can’t pour dim light",
+          "context_left": "e than a few hours. ",
+          "context_right": "around the room, as "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "borealis",
+          "comment": "Hmm. I’m having a little trouble following all of this. Is it a different world than ours, some sort of climate change, or can the Northern Lights really appear on very hot nights? Just confused about the science here. ",
+          "context_left": "m the slack. Aurora ",
+          "context_right": ". Pa was an avid cli"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "he would’ve agreed.",
+          "comment": "You might think about having Ed try to tell AJ about those photos and his dad here. Because you’ve basically got two guys silently looking? ",
+          "context_left": "ould only wonder if ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "A solar flare, we found out the next day. AJ, myself, and a slew of other students had gathered in the central part of campus to figure out what the hell was happening. Haymary College was a super small school with only about 400 students in a pretty low-income area of Louisiana, so we were used to Internet issues and rare outages. This was not one of those, as everyone who saw the light show last night agreed. Phone hotspots still seemed to work, and a few people contacted friends and family while we waited for the Dean to give us anything to relieve the stress of the unknown. AJ was lucky and got to call his folks. They, as well as every single other family, were about as in the dark as we were. Power was out nearly everywhere. AJ’s dad, a police officer in New Orleans, had said cities and critical infrastructure were still semi-operational. It seemed like the rest of the country was relying entirely on backup generators or nothing at all.  A couple of students were able to see some posts on social media, but they amounted to just more confusion and conspiracy theories which the seeming lack of government response failed to assuage. Finally, the president, Mr. Francisco, gathered us and made an announcement. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the hell was happening",
+          "comment": "I don’t know if it works to slip into the past tense here — maybe we could just watch them go to the central part of campus? ",
+          "context_left": " to figure out what ",
+          "context_right": ". Haymary College wa"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Haymary ",
+          "comment": "This is a great name for a school! ",
+          "context_left": "hell was happening. ",
+          "context_right": "College was a super "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "unknown. ",
+          "comment": "Can we read a little bit about what they’re experiencing? I’m still having some trouble understanding. ",
+          "context_left": "e the stress of the ",
+          "context_right": "AJ was lucky and got"
+        }
+      ]
+    },
+    {
+      "body": "This is what he relayed to us, almost exactly to the word: “Students, I’m sure you are all very aware of the current situation, so I’m just going to read exactly off the document I received. “Last night, at approximately 10:07 P.M.,  a massive solar flare struck the Earth. This was accompanied by a coronal mass ejection which, without getting into unnecessary detail, dramatically boosted the amount of energy transferred into our atmosphere. This influx of energy caused widespread power surges, which damaged a massive amount of electrical infrastructure in the ongoing geomagnetic storm and caused widespread power blackouts worldwide. However, due to the amount of energy emitted, the flare was predicted a few hours before the occurrence, and as such the United States was able to prevent a total national blackout. As it stands in the state of Lousiana, 55 of the 64 parishes are currently without power. The governor has enacted scheduled overnight outages in the cities of New Orleans, Baton Rouge, Shreveport, and Layfayette from 8 P.M. to 6 A.M., effective immediately. Due to the unprecedented nature of these events, it is unknown how long it will take for power grids to be repaired and restored. Estimates range from 2-3 weeks in more populated areas to months, potentially a few years in rural regions. In light of this international upheaval of our way of life, the government requests citizens to come together in these trying times. Help neighbors, assist those less fortunate, and build community in the face of adversity. America is a strong nation, and her citizens are even stronger. Godspeed and God bless.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "“Last night, at approximately ",
+          "comment": "I’m confused about when this announcement is being given. I thought they were still outside at night? ",
+          "context_left": "ocument I received. ",
+          "context_right": "10:07 P.M.,  a massi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Godspeed and God bless.”",
+          "comment": "I like the wording here — and I’m generally picky about such things — but I do think you’ve started a novel vs. a short story. ",
+          "context_left": " are even stronger. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tThat first month after was… challenging, to say the least. No lights, no running water, no way to charge our phones, it was a real struggle. One guy in my creative writing class said he was using one of those gimmicky hand-crank chargers almost daily to keep a charge. Only a few others asked for a turn with it after class, but everyone wanted to use it. Speaking of class, why the hell were we still having class in the first place? Well, Haymary wasn't exactly a prosperous school in the first place. The price of tuition reflected that for sure. As Francisco made clear to us the day after the announcement, Haymary College would not reopen if it had to close its doors. So, classes continued. It didn't matter much to save the school, since they went bankrupt a year after I graduated. On the bright side, I never got spammed with any “alumni donation” e-mails, which was nice. H",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was a real struggle",
+          "comment": "Yeah, here you’re back to summarizing. And you’ve given your main character a problem, but not a conflict. This situation is very challenging but it’s not really clear what he wants. ",
+          "context_left": "arge our phones, it ",
+          "context_right": ". One guy in my crea"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the first place. ",
+          "comment": "repetition",
+          "context_left": "rosperous school in ",
+          "context_right": "The price of tuition"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was nice. ",
+          "comment": "Eh. ",
+          "context_left": "ion” e-mails, which ",
+          "context_right": "H"
+        }
+      ]
+    },
+    {
+      "body": "\tBesides having to make daily water runs just to shower, the hardest thing for me was finding ways to entertain myself. I certainly wasn’t alone in this difficulty, but I had grown entirely dependent on video games and streaming services to waste my free time. Besides AJ, I didn’t know a single other person on campus. I had gotten so used to the tech-centric sedentary lifestyle that I had forgotten what it was like to pay attention to something other than a screen. There was this anthology book I’d been wanting to read that I kept on a shelf along with all the other books I told myself I’d read someday, and it took a global crisis to get me to read it. Except, after reading a couple of pages, I got bored and decided that staring at the ceiling, daydreaming for an hour sweating like crazy in the April heat was a better use of my time. I had the feeling that I needed my entertainment to be “on the move” otherwise my brain would crash from a lack of visual stimuli. As the month crept on, though, staying in my hot, muggy room became less and less ideal. With no electronics to submit our assignments instantly, it was back to pencil and paper. I hadn’t written assignments since the first grade, since it was later that year that my elementary school had required every student to receive Chromebooks. The combination of those written assignments, the spring heat, and not wanting to write by flashlight meant that I had to start spending more time outside. I know, how awful is that?! But at that time, I just didn’t care to. I brought my book out to read once, and I managed to read a full story in that one sitting. That had felt good.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "other",
+          "comment": "This is a little bit of a conflict? But not a big one. ",
+          "context_left": "ent on video games and streaming services to waste my free time. Besides AJ, I didn’t know a single ",
+          "context_right": " person on campus. I had gotten so used to the tech-centric sedentary lifestyle that I had forgotten"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "good",
+          "comment": "This is all interesting and well written but I see how you didn’t quite get your main character a conflict, so the story has fallen a bit flat. It makes sense that you moved on. ",
+          "context_left": "ting. That had felt ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tMom pulled into the driveway, and we finally came to a stop. When I got out of the car and stretched, I felt fresh. Refurbished, like new. Mom had noted when she came to pick me up that I seemed a little more lively, and I guess she was right. I didn’t feel physically all that different, but I was much more fulfilled mentally. My thoughts felt just a little clearer, enough that there was room for more optimistic thoughts. I decided that I was going to join the intramural soccer team for my final year, which weirdly didn't seem to surprise Mom when I told her. “Kinda figured you would, eventually,” she responded, not looking at me as she packed another box into the car. I could tell that she was smiling. ",
+      "annotations": []
+    },
+    {
+      "body": "I was psyched to live with electricity again. Heated water, internet, the works. The area around Haymary wasn’t projected to start getting power until the end of the fall. There was a lot of push to get the majority of the grid running again before the winter, and from the bits and pieces of news that made their way through campus, the sheer amount of people volunteering to rebuild and repair was helping make good time. I was thinking about joining in the effort, something to do over the summer that keeps me on the outdoorsy streak I’ve been on. Mom and I unpacked a couple of things from the car when I noticed someone strolling on the sidewalk towards our house. Paul. He looked older, but so did I of course. He grew out his facial hair a little. I was petrified, but I knew that I had to face him. I had been prepping my apology for so many years, and if I didn't talk to him now I might never get to again. And with that, I walked onto the sidewalk, and we made eye contact.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "now",
+          "comment": "We lost track of Paul during the middle section! Can you keep him in the story? And maybe the narrator seeks him out rather than happening to bump into him? ",
+          "context_left": " didn't talk to him ",
+          "context_right": " I might never get t"
+        }
+      ]
+    },
+    {
+      "body": "“Hey, Paul.”",
+      "annotations": []
+    },
+    {
+      "body": " “Ed.”",
+      "annotations": []
+    },
+    {
+      "body": "My thoughts were already shortcircuiting, the apology I thought I had down-pat just careened out of my ear and went splat on the concrete. With the jumble in my head and the moment fast coming to an end, I tried to speak softly, simply, and sincerely.",
+      "annotations": []
+    },
+    {
+      "body": "“I’m sorry. About everything. With everything with Pa, I…”",
+      "annotations": []
+    },
+    {
+      "body": "“You guys want some help unloading?” he offered plainly, pointing towards the car. I grinned and fought the unconscious urge to roll my eyes. That was just like him.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "B"
+      },
+      "comment": "This ending is a little pat — I’d love to see this be less smooth. Owen, I really like this draft. It’s a bit messy, but that’s all right. There’s lots of good writing here. The structure is unusual and interesting and I really enjoyed meeting Ed. I felt that the first part was the strongest section. I just totally bought that he would respond that way to the flowers (I am also prone to lashing out) and that he would then feel too embarrassed to apologize or make it right. The middle section takes a hard turn into sci-fi. I don’t hate it, but you really dropped much of what needs to be carried over from the first part. Paul doesn’t even appear in the section, not even as a memory or a worry. And I think we spend too much time learning about the narrator’s disconnected life — I’d prefer to see his interactions with AJ or anyone else and be able to see how he’s beginning to move out of intense grief (as I think you’re trying to show). Then, in the third section, you can have him reach out to Paul to try to repair the breach in some way. In other words, there’s a lot here already. Just think about what it is that Ed wants, what he’s trying to get and do, and who or what opposes him. I can see the potential in the story — the plot just needs to bring the conflict out. Happy revising!"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "paragraphs": [
+    {
+      "body": "Birthday Wishes",
+      "annotations": []
+    },
+    {
+      "body": "It was on the first Saturday of August, on the night of Jack Thompson’s tenth birthday, that Jeanine found herself walking the long and tedious stretch between the city bus stop and the Thompson residence. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "residence",
+          "comment": "Intriguing opening! ",
+          "context_left": "op and the Thompson ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "The humidity hung in a thick mist around her shoulders, and she could feel pools of sweat beginning to form under her armpits and on her lower back. She was starting to regret her decision. The walk was longer than she had been expecting. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "expecting",
+          "comment": "Ah, I well know that feeling. ",
+          "context_left": "r than she had been ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "She had been to the house many times and knew the way well, but it had always been during the day, and never on foot. She could hear her mother’s voice in her head, lecturing her on the danger of walking alone at night. She had offered to drive her, but Jeanine had declined, saying that the bus was fine. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "fine",
+          "comment": "I wondered how old Jeanine is. ",
+          "context_left": "ng that the bus was ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "She entertained herself as she walked by imagining what she would say when she finally got to the house. When she saw him. She tested the words in her mouth. The apologies lay on the tip of her tongue, ready to be released. She would say anything to make it better between them. She checked her phone again. She was expecting a call any minute now.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "make it better between them. ",
+          "comment": "The him here (to me) seems to be Jack, which I found a little perplexing, since he is a child. ",
+          "context_left": "uld say anything to ",
+          "context_right": "She checked her phon"
+        }
+      ]
+    },
+    {
+      "body": "She used her phone flashlight to guide her. She was getting closer. She passed a Home Depot, the one right by their house, and stopped in the gas station beside it. A group of teenagers sat in the parking lot, talking. Jeanine recognized one of them, Maverick, that had been in her Calculus class the year before. He was friends with David. She ducked her head when she saw him, and nearly tripped trying to avoid eye contact as she entered the store. The slabs of sidewalk were cracked and uneven, and Jeanine had to move to avoid rolling her ankle. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "before",
+          "comment": "Ah, okay, that helps. ",
+          "context_left": "ulus class the year ",
+          "context_right": ". He was friends wit"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the store. ",
+          "comment": "Interesting that she has a task before the task. I think you need to make it clear that she dated David, not Maverick. It’s a little confusing right now. ",
+          "context_left": "tact as she entered ",
+          "context_right": "The slabs of sidewal"
+        }
+      ]
+    },
+    {
+      "body": "The florescent lights were jarring against the darkness of the streets. Jeanine blinked, trying to adjust. She could hear Maverick outside, talking and laughing loudly, and wondered if they were talking about her. She supposed they were. She hadn’t seen any of his friends since the breakup. She walked through the aisles, trying to find what she was looking for. She picked up a Reese’s bar, and then put it down. What type of candy do ten-year-olds like? Jeanine didn’t know.",
+      "annotations": []
+    },
+    {
+      "body": "She chose a toy in the end. Decidedly neutral. A small toy soldier, made of cheap plastic, from the bin beside the cashier. Maverick and his friends were still in the parking lot when she left. She walked past them quickly, similar in fashion to the way she entered the store.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "cashier",
+          "comment": "I think this moment can perhaps work a little harder for you in the story. Why does she need a gift at all? Why is she stopping at a gas station — is this a preplanned stop or did she realize it as walking? ",
+          "context_left": " the bin beside the ",
+          "context_right": ". Maverick and his f"
+        }
+      ]
+    },
+    {
+      "body": "It was nearly eleven when she finally reached the family’s house. Someone had tied a splatter of balloons to the tops of the metal spires of the long gate that surrounded the entire property, along with a sign that read HAPPY BIRTHDAY JACK in big letters.",
+      "annotations": []
+    },
+    {
+      "body": "Jeanine released a sigh of relief at the sight. ",
+      "annotations": []
+    },
+    {
+      "body": "Readily, and maybe a little over-eager, she opened the lockbox and typed in the code. To her surprise, the buttons flashed red. She stilled herself, waited for the system to reset, and typed in the code again. It flashed red. She pulled at the gate’s handle. It was a small, metal thing, obviously brand new, but it didn’t budge. The door was locked. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "locked",
+          "comment": "Is David Jack’s brother? I love this detail of being locked out. I was shocked that she was showing up at a party at 11 PM! ",
+          "context_left": "budge. The door was ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Jeanine chuckled nervously. She hadn’t considered how she would get in if the code were locked. She checked her phone again. No reply.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "She checked her phone again. ",
+          "comment": "I think I missed or have forgotten who she sent a text to and when. ",
+          "context_left": "e code were locked. ",
+          "context_right": "No reply.  "
+        }
+      ]
+    },
+    {
+      "body": "Annoyed and slightly embarrassed, Jeanine thought about her options. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ". ",
+          "comment": "This moment can be a little longer. You really only give her one thought process and I think she might have two. ",
+          "context_left": "ht about her options",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "She couldn’t go home now. This was her chance, her one moment to get back into Jack’s life. She had to prove she was sorry. She felt for the toy soldier in her pocket. ",
+      "annotations": []
+    },
+    {
+      "body": "It was decided.",
+      "annotations": []
+    },
+    {
+      "body": "She pivoted to walk around the fence to the back end of the property. She had only used the entrance once before, years ago, in a game of hide-and-seek with Jack. ",
+      "annotations": []
+    },
+    {
+      "body": "The hole was of small, twisted metal, and Jeanine had to contort her body in odd angles to avoid catching herself of the sharp spears. Just as she thought she passed it she felt a tug on her lower left leg, followed by a sharp ripping sound. She fell swiftly as her balance broke, trying and failing to catch herself with one hand. ",
+      "annotations": []
+    },
+    {
+      "body": "Jeanine rose to her feet, cursing, and examined the damage. Her left pant leg was torn from her ankle to right below her knee. Mud covered her hands and elbow. Worst off was the present she had carried. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "carried",
+          "comment": "Wow, bad idea. But I love that you have her going for it. I wonder if we might see some small memory of Jack — something he said or did — that would help us understand whether her desire to be there is because of their genuine connection, or if she’s deluded. (Maybe a combo?) ",
+          "context_left": "the present she had ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "She held the toy soldier in the palm of her hand. The figure’s small frame was crushed and its right limb was gone.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ne",
+          "comment": "Cheap gift! ",
+          "context_left": "ts right limb was go",
+          "context_right": ".  "
+        }
+      ]
+    },
+    {
+      "body": "She could feel a lump growing in the pit of her stomach. She forced herself to calm. Breathe in, breathe out. The cloud in her head lifted slightly. ",
+      "annotations": []
+    },
+    {
+      "body": "The room she was looking for was in the back of the house, the last hall on the first floor. It was late into the night, 10PM at least, but when she looked inside the window, she knew she was in the right place. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "10PM at least, ",
+          "comment": "Already established as 11ish. ",
+          "context_left": "ate into the night, ",
+          "context_right": "but when she looked "
+        }
+      ]
+    },
+    {
+      "body": "She knocked on the window and waited.",
+      "annotations": []
+    },
+    {
+      "body": "A minute or so passed, and another, and then the blinds opened just a crack. A face looked out at her. It was a small, freckled face, and the boy it belonged to turned white when he saw her.",
+      "annotations": []
+    },
+    {
+      "body": "“Jack? Can you let me in?” Jeanine whispered. And then, as though an afterthought, “Please?”",
+      "annotations": []
+    },
+    {
+      "body": "She stood there a moment as he blinked at her the small crack in the blinds. A feeling of panic seized her. What if he didn’t let her in? Then, finally, pursing his lips in a rather grown-up expression unbecoming of his age, he rolled up the remainder of the blinds and unlatched the lock.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lock",
+          "comment": "Oh, I like this kid. ",
+          "context_left": "s and unlatched the ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Jeanine climbed in, rather ungracefully, head first into the bedroom. She was out of breath by the end of it, and the mud from her shoes smeared all over his comforter. Her head was pounding still, a steady thump disrupting her rational thought.",
+      "annotations": []
+    },
+    {
+      "body": "When she finally got herself situated, she found Jack staring at her with big eyes. He was in his footy pajamas, the ones he had worn last Christmas Eve with dinosaurs on them, and the sight was so familiar and Jeanine was struck with such an intense happiness that she couldn’t help herself when she squealed and pulled the boy close to her chest. ",
+      "annotations": []
+    },
+    {
+      "body": "She felt the boy’s arms relax slightly as he turned to hug her back. He, though taller than when she last saw him, still only reached the crook of her elbow. ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, Jack,” she whispered as she pulled away at last. “I missed you so much.”",
+      "annotations": []
+    },
+    {
+      "body": "Jack blinked up at her, face no longer as pale but confused nonetheless, before replying in that small, nervous voice. “I missed you, too.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tJeanine smiled, ignoring the edge in his voice.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "his",
+          "comment": "You might even give him a “but…” here. I enjoyed the complexity of this scene. I’m happy for her that they’re reunited, but he’s just a kid! ",
+          "context_left": "gnoring the edge in ",
+          "context_right": " voice."
+        }
+      ]
+    },
+    {
+      "body": "\tShe ruffled him playfully on the head. “What’s up, buddy. How was your birthday? Did you get any cool presents?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“It was good. Dad gave me a football and my friend Josh gave me a–” he paused, as if suddenly remembering something important. “Why are you here?”",
+      "annotations": []
+    },
+    {
+      "body": "Jeanine paused, taken aback. ",
+      "annotations": []
+    },
+    {
+      "body": "“What do you mean?” she hit him playfully on the shoulder. “It’s your birthday. I wouldn’t miss it.”",
+      "annotations": []
+    },
+    {
+      "body": "“I thought you and Davie broke up.”",
+      "annotations": []
+    },
+    {
+      "body": "“Well– we did. But… ” Jeanine rubbed her arm, suddenly uncomfortable. “I am going to make it right.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "make it right.”",
+          "comment": "This is new information. Is she surprised that Jack knows this information? Is she displeased? And of course, I want to know what it is that she needs to make right! ",
+          "context_left": "ble. “I am going to ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Jack looked unconvinced. “I don’t know. David was really mad.” He twiddled with one of the stuffed dinosaurs on his bed, twirling it around in his small fingers.",
+      "annotations": []
+    },
+    {
+      "body": "“That was months ago. He can’t be mad forever. I’m part of the family.”",
+      "annotations": []
+    },
+    {
+      "body": "Jack nodded, but maintained the strange look on his round face. “I don’t think David likes you very much. He says you cheated on him” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him",
+          "comment": "Wow, getting down into it, Jack. ",
+          "context_left": "says you cheated on ",
+          "context_right": "” "
+        }
+      ]
+    },
+    {
+      "body": "“Oh– that…” Jeanine giggled nervously. “It’s nothing. Just a big misunderstanding. I promise.”",
+      "annotations": []
+    },
+    {
+      "body": "“Okay…” the boy looked unconvinced. They sat for a while. The video game illuminated the room. He looked down and picked up the toy soldier from the carpet, holding it away from his face. “Is this mine?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "They sat for a while. ",
+          "comment": "I wonder if she is processing at all that she should not be there? Feels little that aspect has gotten away a bit. Maybe you can move this along a bit — he tries to get rid of her, she offers the toy? ",
+          "context_left": "looked unconvinced. ",
+          "context_right": "The video game illum"
+        }
+      ]
+    },
+    {
+      "body": "Jeanine smiled, “Sure is. It’s for you to add it to the collection.” She gestured towards a bin on his bedside table. ",
+      "annotations": []
+    },
+    {
+      "body": "“So…” she started, and then stopped, trying to keep her tone casual. “Where is everyone else tonight?”",
+      "annotations": []
+    },
+    {
+      "body": "“Mom and Dad are upstairs, I think. They were cleaning after the party.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, that’s nice,” Jeanine said. She stared, waiting for him to continue.",
+      "annotations": []
+    },
+    {
+      "body": "His face paled. He said in a small voice, tucking his chin into his chest so he didn’t have to look her in the eyes, “David’s with um…” his voice faltered. “With Macy.”",
+      "annotations": []
+    },
+    {
+      "body": "Jeanine blinked at him. She smiled, off-kilter. “What?” ",
+      "annotations": []
+    },
+    {
+      "body": "Jack looked at her. His eyes were wide, apologetic. “He’s on a date with Macy.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "with",
+          "comment": "One thing to think about here. Is her intention really just to see David? Because I did feel like she genuinely was happy to see Jack. But this implies he’s a ruse? ",
+          "context_left": "ic. “He’s on a date ",
+          "context_right": " Macy.”"
+        }
+      ]
+    },
+    {
+      "body": "“Where?”",
+      "annotations": []
+    },
+    {
+      "body": "“The Tavern, I think. The one next to the middle school.” Jack grabbed her arm. “Wait. I don’t think I was supposed to tell you that. Where are you going? ",
+      "annotations": []
+    },
+    {
+      "body": "Jeanine didn’t realize that she had stood up. Her mind was roaring. She walked to the window and looked back. “Sorry, I have to go. Have a good birthday.”",
+      "annotations": []
+    },
+    {
+      "body": "Jack sat there for a moment, dumbfounded. He texted his brother. Jeanine was coming.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "A fun ending. I think it can work well for you if she doesn’t quite realize why she’s there (or at least part of why she’s there) until the issue of David comes up. Maybe that can hit a little harder for her, and she starts to realize that she cares. That said, I had trouble squaring up how uneasy she was at the gas station with this new, angry Jeanine who goes to the Tavern to find David. I think her emotional journey needs some thought. What does she really want in this story? All of that said, there’s so much here that works well. The use of the innocent kid (who maybe is on to her a bit?) is great. She’s just off-kilter enough to make me uneasy, and I liked that. I couldn’t tell if she’s justifiably nuts or just in a tough place, and that makes her compelling. (So, too, does the idea that she brought this all on herself somehow?). Strong work, Maddy. It did come in a little late, but I’ll allow it this time."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "paragraphs": [
+    {
+      "body": "A New Start",
+      "annotations": []
+    },
+    {
+      "body": "Laila stood in the driveway gazing at the peaceful sights around her. The house was wedged between the city apartments and the burbs to the east. She finally got her own, individual yard, even if it was a doormat's size. A box came flying at her, books upon books tumbling out. One was heading for her face. The assault on the books stopped as hands reached out to catch the escaped paperbacks.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and the burbs to the east. ",
+          "comment": "I like the title and I was immediately interested in Laila. “Wedged” feels strange here, because I pictured it literally — stuck between an apartment building and…? So maybe it’s situation or sat? ",
+          "context_left": "the city apartments ",
+          "context_right": "She finally got her "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "A box came flying at her",
+          "comment": "I had trouble picturing this. How would something that heavy come flying at her? ",
+          "context_left": "s a doormat's size. ",
+          "context_right": ", books upon books t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "paperbacks",
+          "comment": "How did he get there in time to stop the books if he tripped? ",
+          "context_left": "o catch the escaped ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“Oh, sorry about that. Oops.” Jamie said. “You should’ve put fewer books in this thing.” He had tripped over a crack in the concrete driveway.",
+      "annotations": []
+    },
+    {
+      "body": "“Ugh…Look I know you wanted me to get rid of some, but I need these. And boxes are usually sturdier than stacking them like a magician in a balancing act.” Lianne sighed. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "stacking them like a magician in a balancing act.” ",
+          "comment": "Wording is off. ",
+          "context_left": "ually sturdier than ",
+          "context_right": "Lianne sighed. "
+        }
+      ]
+    },
+    {
+      "body": "She bent over to help Jamie pick up the fallen books. Unfortunately, a good chunk of them were paperbacks to Laila’s dismay. More dog-eared, marginal condition books would be displayed on her shelves along with her prized children’s book collection. She paused at the front door; its bright orange paint had seen better days. It was flaking in the corners and reminded her of a tangerine. The townhouse was an older one, some building from the population boom in the eighties up in Talaske, Michigan. Laila had driven up here for a new job, she’d start tomorrow with the new faculty orientation meet n greet.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Laila’s dismay. More ",
+          "comment": "I’m confused by why she’s surprised about the condition of her own books? ",
+          "context_left": " were paperbacks to ",
+          "context_right": "dog-eared, marginal "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "of a tangerine",
+          "comment": "Switch order so the tangerine comment links back to the paint not the flaking. ",
+          "context_left": "rs and reminded her ",
+          "context_right": ". The townhouse was "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "up in Talaske, Michigan",
+          "comment": "Why “up in” here? ",
+          "context_left": "oom in the eighties ",
+          "context_right": ". Laila had driven u"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "w job, she’d ",
+          "comment": "Run on. Why “driven up” when she’s moved to this town, right? ",
+          "context_left": "ven up here for a ne",
+          "context_right": "start tomorrow with "
+        }
+      ]
+    },
+    {
+      "body": "“So, are you excited for tomorrow? First non-official day in the office. I remember being moderately excited my first day, well until the dread of grading papers for the rest of my career and natural life kicked in. You come to discover that dread around a week in.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "around a week in.”",
+          "comment": "Jamie is funny! ",
+          "context_left": "discover that dread ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tJamie was a good friend of hers from undergrad that’d convinced her to take a job up here. She already had a list of things to do to settle in before she started shaking hands and conversing with people she didn’t know. She was glad she didn’t take that job up in Chicago or Utica, both would be a headache just driving through traffic for hours each day. The campus would be walkable, no more late classes because of an uber late bus or rain, or whatever the weather threw at her each day. Laila and Jamie pulled the last few boxes inside and had begun to unpack. Laila didn’t have too much from her tiny apartment back in Indy, but it would be enough to fill her new living area at least.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "things",
+          "comment": "I wondered why it’s a really tight timeframe? Why didn’t she move earlier? ",
+          "context_left": "ready had a list of ",
+          "context_right": " to do to settle in "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "do to settle in before ",
+          "comment": "In one day? ",
+          "context_left": "a list of things to ",
+          "context_right": "she started shaking "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The campus would be walkable, no more late classes because of an uber late bus or rain, or whatever the weather threw at her each day. ",
+          "comment": "She’s going to teach there, right? So is it a campus? ",
+          "context_left": "for hours each day. ",
+          "context_right": "Laila and Jamie pull"
+        }
+      ]
+    },
+    {
+      "body": "“Hey, Laila about the little welcome party I had planned. You’re still good with it right? Figured we could do it over at my apartment, do a pre-introduction before the orientation tomorrow. I doubt you’re gonna host anything for a while. There are still more boxes of these ridiculous books.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "tomorrow",
+          "comment": "I love a compressed time frame, but it’s insanity for these folks to drive up, move in, have a party and then start school in 36 hours! ",
+          "context_left": "ore the orientation ",
+          "context_right": ". I doubt you’re gon"
+        }
+      ]
+    },
+    {
+      "body": "“Oh, right. I forgot to put that on my schedule for today. I’ve been so busy planning things for the move, my schedule, and my upcoming class.” Laila dug into the box nearest to her, throwing packaging paper on the floor. After a few hours (precisely four hours and fifty-six minutes to be exact) the pair had gotten all of Laila’s belongings out of boxes and onto whatever furniture was sitting nearby. The hickory floorboards were covered with at least two dozen sheets of packaging paper. An old newspaper page that had been torn and beaten caught Laila’s attention. A faculty member had gone missing from this very campus a few years back. Jamie had mentioned it in passing back in grad school. Jamie assisted with the cleanup and their job here was done. Her new home was cozy but simplistic.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my upcoming class.” ",
+          "comment": "She’s going to teach the class, right? ",
+          "context_left": "e, my schedule, and ",
+          "context_right": "Laila dug into the b"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "nearby",
+          "comment": "They’re very efficient! ",
+          "context_left": "rniture was sitting ",
+          "context_right": ". The hickory floorb"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "back in grad school. ",
+          "comment": "If you want the story to be about this person, you might get here quicker. ",
+          "context_left": "ioned it in passing ",
+          "context_right": "Jamie assisted with "
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "The campus was a remarkable sight, the fall weather made it even more picturesque. Rust colored leaves swayed in the wind as Laila walked around campus. It looked like the university of her dreams, a campus with lots of space in a little area. The community would be tight knit, much like the other liberal arts colleges she had visited in undergrad. It would be quite a change from the hustle and bustle of the city. The University of Talaske was wedged between Grand Rapids and the upper gloved part of Michigan’s mitted hand. Laila walked aimlessly through the campus quad, keeping her eye out for the Westlin building, where the Sociology department was held. She turned to her right and followed the small university map on her phone, zooming and pinching it to fill up the screen. Floor 13, Office 203B. A large square-like building sat before her, its limestone columns towering in their pre-war architectural glory. A cool breeze tickled Laila as she walked up the steps. It was a chilly day out, so she’d decided to wear her itchy sweater she’d gotten from Jamie last Christmas. The grayness of her sweater contrasted against the warm interior of the building; her shoes clacked against its stone floors. She stuck out amongst the students and professor rushing to classes. The orientation would be later today, and Laila imagined it would be filled with scholars and socialites from varying backgrounds.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "remarkable sight, the ",
+          "comment": "Run onJust a note that it’s likely late August so not really fall weather yet. ",
+          "context_left": "The campus was a ",
+          "context_right": "fall weather made it"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "area. ",
+          "comment": "A little confused that she hasn’t seen it before? If she’s a professor, she would likely have had to interview there in person. ",
+          "context_left": "f space in a little ",
+          "context_right": "The community would "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "bustle of the city",
+          "comment": "You’ve mentioned this a couple of times already. ",
+          "context_left": "from the hustle and ",
+          "context_right": ". The University of "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "architectural",
+          "comment": "You have a really nice ear for setting description. That said, the plot of this story isn’t clear yet. What does this main character want? ",
+          "context_left": "ng in their pre-war ",
+          "context_right": " glory. A cool breez"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "gotten from Jamie last Christmas",
+          "comment": "Jamie feels like more than a friend? ",
+          "context_left": "itchy sweater she’d ",
+          "context_right": ". The grayness of he"
+        }
+      ]
+    },
+    {
+      "body": "After turning down the wrong hallway several times she finally found the Sociology Department offices. Her office was small and positioned in the furthest corner of the floor, down a crooked hallway and then some. With that figured out, all I have to do is find some of the classrooms I’d be teaching in and then Jamie. Then I can start the anxiety-ridden ceremony for new hires. And of course, try not to embarrass myself. It shouldn’t be too hard since the campus only had around 3,000-ish students. Laila walked into one of the nearby classrooms down the left wing of the floor. I could just peek; the semester hasn’t really started yet. It's only been a week so I’m sure I could take a peep at it. Laila was a late hire, she’d been the replacement for Gwen Sanders, a professor that’d skipped town. Or moved, no one really knows. Apparently, she was a divisive figure not just in the sociology department but throughout the campus.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Department offices",
+          "comment": "Again, she almost surely would have been there before. ",
+          "context_left": "found the Sociology ",
+          "context_right": ". Her office was sma"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "000-ish students. ",
+          "comment": "That’s still pretty big, actually. ",
+          "context_left": "s only had around 3,",
+          "context_right": "Laila walked into on"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "t. It's only ",
+          "comment": "Why is she starting this job a week into the semester? ",
+          "context_left": "’t really started ye",
+          "context_right": "been a week so I’m s"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Laila was a late hire, she’d been the replacement for Gwen Sanders, a professor that’d skipped town",
+          "comment": "Ah. Hmm. Okay, I would establish that much earlier. ",
+          "context_left": " take a peep at it. ",
+          "context_right": ". Or moved, no one r"
+        }
+      ]
+    },
+    {
+      "body": "Laila jimmied open the door and stepped inside. A man had his back turned to her and was talking to a shorter man with curly hair. She could recognize that curly head of hair anywhere. He was talking to Jamie of all people. It was clear now to Laila that she walked in on a rather private conversation between the pair. She turned back to sneak out the door. The door had been closed. Had she missed? Did she already fuck up on her very first day on campus? Would she embarrass the shit out of herself trying to find her way back to the main office? Probably. It was too late now she’d be forced to socialize and mention she didn’t know where the hell she was going. The door squeaked loudly. She’d been found out. Jamie turned around to face Laila with a light smile.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "between the pair. ",
+          "comment": "Is this a classroom? ",
+          "context_left": "rivate conversation ",
+          "context_right": "She turned back to s"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "light smile.",
+          "comment": "Is he smiling or is he curt? ",
+          "context_left": "o face Laila with a ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Oh, hello Laila.” Jamie gave a curt nod.",
+      "annotations": []
+    },
+    {
+      "body": "“Fancy seeing you here. We weren’t expecting you for a good while.” He had the look of a lost puppy for a few moments and then drew his attention to Laila.",
+      "annotations": []
+    },
+    {
+      "body": "“We?” Laila asked. The man talking Jamie stepped forward to shake Laila’s hand. She obliged.",
+      "annotations": []
+    },
+    {
+      "body": "“I apologize for not properly showing you around campus. I wish Jamie had mentioned that to me. We as faculty have to be hospitable to our recruit, am I right Jamie?” The man grinned. His dark hair made a great contrast to his cream toned shirt and light slacks. Laila couldn’t look away, she was mesmerized.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "mesmerized",
+          "comment": "Is this the Chair? ",
+          "context_left": " look away, she was ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“You’re the new recruit. Great to have you here. Joshua Ritter. I’m a professor in the economics department and the department chair. It's nice to meet you, I’ve already heard quite a bit from Jamie.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "economics department and the department chair. ",
+          "comment": "If this is the sociology department, why is he the Economics Department chair? ",
+          "context_left": " a professor in the ",
+          "context_right": "It's nice to meet yo"
+        }
+      ]
+    },
+    {
+      "body": "“Yep. I’m sure you have. He can really talk your ear off. I am Laila Bennett; you can guess I’m new by how totally lost I am.” Laila smiled.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "He can really talk your ear off. ",
+          "comment": "I’d love to see how Jamie reacts to that. ",
+          "context_left": " I’m sure you have. ",
+          "context_right": "I am Laila Bennett; "
+        }
+      ]
+    },
+    {
+      "body": "“Well, it’s good to meet you. I’m sure I’ll see you later at the new faculty party later.” With that Joshua left. Jamie accompanied her to the front office where she got her picture taken and faculty I.D. issued. The incoming party was all that Laila could think of. That and that econ professor. He seems interesting. She exited the building and as she did, a creeping suspicion followed her.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Jamie accompanied her to the front office where she got her picture taken and faculty I.D. issued. ",
+          "comment": "How is he treating her? Is she attracted to the Chair of the Economics program? ",
+          "context_left": "h that Joshua left. ",
+          "context_right": "The incoming party w"
+        }
+      ]
+    },
+    {
+      "body": "A woman was following her, for what reason Laila couldn’t be sure. There wasn’t anything to steal from her. I’m just out of grad school. I barely have enough money to stay at that old townhouse, now I’m about to get mugged. Crap. The hairs on her neck were on edge as she walked back to her apartment looking back over her shoulder. Eventually the woman disappeared. Laila tried to walk faster, and as she crossed the roadway to her house that same woman grabbed her hand. The woman started to murmur something.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Laila couldn’t be sure",
+          "comment": "This is a twist! Is Jamie not with her anymore? ",
+          "context_left": "er, for what reason ",
+          "context_right": ". There wasn’t anyth"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "oadw",
+          "comment": "Is she a ghost or something? ",
+          "context_left": "as she crossed the r",
+          "context_right": "ay to her house that"
+        }
+      ]
+    },
+    {
+      "body": "“I am trying to warn you. Stay away from this place. It's cursed I tell you. Cursed! Everyone on this campus is being brainwashed. You’re next.” The woman bared a finger at Laila. She looked disheveled and clearly hadn’t had any sleep for weeks. Laila yelped and backed away. She quickly ran through the crosswalk and waited ten minutes until she was sure the lady was gone.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and",
+          "comment": "This is an exciting development, but it’s rather late in the story for it to arrive. ",
+          "context_left": "campus is being brainwashed. You’re next.” The woman bared a finger at Laila. She looked disheveled ",
+          "context_right": " clearly hadn’t had any sleep for weeks. Laila yelped and backed away. She quickly ran through the c"
+        }
+      ]
+    },
+    {
+      "body": "The strange woman was on Laila’s mind as she sipped from a strong Moscow Mule. She had decided to go to the party despite the weird scare. Didn’t want to miss anything important with some of the staff or miss an opportunity to meet folks. Laila could see some movement out of the corner of her eye. It was just another party goer enjoying a drink at Jamie’s makeshift bar. Folks were crammed into his apartment like a tin of sardines. She had to almost elbow others to get through the mass of party guests. There were plenty from the new faculty orientation and even more from Jamie’s vast friend group. Jamie had been missing from the party for around twenty minutes now. Jamie had been there to greet everyone and Laila, fixed himself a drink and then disappeared. Maybe he went to the bathroom or one of his rooms for some space?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sipped from a strong Moscow Mule. ",
+          "comment": "I’m confused — she went home but then went to the party again? The party has sort of shifted over the story — it was a meet ’n’ greet, but now seems to have morphed into an actual evening party? ",
+          "context_left": "Laila’s mind as she ",
+          "context_right": "She had decided to g"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Jamie’s makeshift bar",
+          "comment": "Oh, this is the party that was originally supposed to have happened last night, at Jamie’s house. Okay, what happened to the meet n greet? ",
+          "context_left": "enjoying a drink at ",
+          "context_right": ". Folks were crammed"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "minutes now",
+          "comment": "How does she know this? She just got there. ",
+          "context_left": "y for around twenty ",
+          "context_right": ". Jamie had been the"
+        }
+      ]
+    },
+    {
+      "body": "Laila walked through each of Jamie’s bedrooms looking for the host only to find them empty. She called him. He wasn’t answering. She asked around for him and people ignored her. Mindlessly dancing to the music like beaten records. They just looked through her. The same look Jamie had earlier when talking to the economics professor. She walked out into the hallway and searched down each corner. No luck. The halls were barren, as to be expected for a stuffy place like this.",
+      "annotations": []
+    },
+    {
+      "body": "Jamie was outside slumped back on a bench. It was dark out and Laila couldn’t see anyone around. She was screwed. Joshua slowly turned to face her standing next to Jamie. No weapons, nothing on him. He appeared to be whispering into Jamie’s ear. She could feel herself being pulled to him, unflinchingly and without resistance. She tried to walk away, but something in her mind told her to go to him. It was that same magnetizing gaze he gave her where she couldn’t look away. No, she wouldn’t dare look away this time. Laila could feel her eyes fluttering, desperately trying to stay open. Alas, her vision was failing her, and she could feel herself falling into a deep sleep.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "B"
+      },
+      "comment": "Feels like the story is just getting started, but you stopped writing! Nana, there is so much that’s interesting here, with so much potential. That said, it is very much a first draft — there’s no real conflict and not much of a plot. I would suggest, first of all, that you look through what you’ve written and decide which of the many different possible stories here you are interested in writing. What do you feel most engaged by and what do you feel capable of telling in about 6 pages? The entire opening scene doesn’t so much for you, so I would suggest that you might begin with Laila’s arrival to campus, making it clear to us why she’s unfamiliar with it. Then think about what it is that she wants — what is her goal over the course of the story? It could be anything — seducing Jamie, figuring out where her classroom is, making a new friend in Joshua, whatever. Then think about what opposes her getting that thing done — why is she not able to get what she wants? You could decide that what she wants is a smooth entry into a new job, and the mysterious machinations of Michael keep her from being able to get that. That’s great, but then we need to see her fighting against Michael to get the calm she actually wants. She can’t just be a victim of whatever he’s doing, or we just won’t care about her. Whatever you decide in streamlining the plot, I suggest just one party/gathering. The two of them are confusing and too much for a short story. Happy revising and of course, happy to discuss with you! (there’s not really an ending here)."
+    }
+  ]
+}

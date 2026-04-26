@@ -1,0 +1,49 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Gates of Campus In My Mind – My Visit To University of Pittsburgh Before I arrived in Pittsburgh, I was certain about what a university should look like. Based on my experiences with Chinese universities, I expected an impressive entrance— perhaps a stone arch or a grand gate displaying the institution's name in bold, elegant lettering. In my mind, the University of Pittsburgh would have a similar layout, with walls or gates surrounding the campus to clearly define its boundaries. Once I walked through the entrance, I imagined discovering a well-organized environment inside—classrooms, dormitories, administrative buildings, student facilities, libraries—all situated within the university's grounds. To me, a university was meant to be a self-contained setting, a learning environment separate from the distractions of urban life.",
+      "annotations": []
+    },
+    {
+      "body": "Still, I was surprised when I finally made it to the University of Pittsburgh. There was no magnificent gate, no large stone arch to indicate my arrival, no one spot where I would declare, \"Here begins the university.\" Rather, the university melted into the city and was evident on several streets and blocks. Rising alongside stores, restaurants, and offices, university buildings created a complex network of academic and urban life. I first found this perplexing; I looked for the \"main gate\" but never came upon one. Without a clear barrier, the campus seemed to have no beginning or finish, no change from the \"outside world\" into the \"academic world.\" Universities are set up in my hometown as contained spaces. From the crowded streets of the city to the quiet, concentrated atmosphere of academics, a clear gate defines the change. It fosters exclusivity; once I pass those gates, I belong to a unique group committed to education and personal development. It was almost strange to me not having this function at the University of Pittsburgh. Though I had imagined the university as a haven for students, a universe unto itself, it was actually part of the greater city and interacted with it in a way I had never seen before.",
+      "annotations": []
+    },
+    {
+      "body": "This awareness made me consider the more general cultural variations between American and Chinese university campuses. The enclosed architecture of the institution in my city supported a feeling of identification and belonging. Students live, study, and interact inside a well-defined area that helped to build close relationships among them. The university's physical location, distant from the distractions of ordinary urban life, is a psychological one as well; it is a place set just for education. By contrast, the open system of the University of Pittsburgh points to another ideology. Here, education is included in the society rather than occurring apart from it. The university is a component of the city itself, not another entity. Examining the University of Pittsburgh, I started to see both parallels and contrasts with the university in my hometown. Fundamentally, they consisted of libraries, classrooms, student lounges, and study areas—the same basic components. Still, the manner in which these places were set out was rather different. Everything in my hometown was focused in one, contained region. Students walked between buildings without crossing the specified boundaries of the university. The experience was immersive, like living in a little village devoted just to education.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "same as above.",
+          "context_left": "",
+          "context_right": " awareness made me c"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "they",
+          "comment": "These two locations - I would clarify what you mean by \"they.\"",
+          "context_left": "own. Fundamentally, ",
+          "context_right": " consisted of librar"
+        }
+      ]
+    },
+    {
+      "body": "At the University of Pittsburgh, nevertheless, the lines separating the institution from the city are hazy. Walking from one building to another, students stroll along public streets past persons not connected to the university community. Along the streets are coffee shops and bookstores for city dwellers as well as students. In a conventional Chinese university, this transparency would be rare in terms of interactions between students and the surrounding community. While an enclosed campus offers a feeling of concentration and unity, an open campus promotes flexibility, independence, and interaction with the outside world, I started to realize.",
+      "annotations": []
+    },
+    {
+      "body": "This encounter made me rethink the interaction between architecture and culture. China's contained university concept captures ideas of discipline, fit, and uniqueness. The well-defined limits foster intellectual commitment by means of a disciplined, concentrated surroundings. Conversely, the University of Pittsburgh's open campus represents American ideas of freedom, integration, and accessibility. Education was not limited here; rather, it was entwined with daily life and motivates students to view learning as something occurring in all spheres of their surroundings rather than only in classrooms.",
+      "annotations": []
+    },
+    {
+      "body": "This insight allowed me to see what constitutes a university environment from another side. I used to think that only physical barriers—those of walls and gates separating the academic world from everything else—could help one to develop a strong feeling of identity and belonging. But my time at the University of Pittsburgh let me realize that a university does not have to be surrounded to build a feeling of community. While pushing students to interact with the surroundings, an open campus could nonetheless foster a strong intellectual atmosphere.",
+      "annotations": []
+    },
+    {
+      "body": "In the end, this encounter helped me to see how many cultures shape the places where we live and study. A university was more than just its physical form whether contained or open. It is a place where community, knowledge, and culture collide. My trip to the University of Pittsburgh made me realize how various campus layouts capture various cultural viewpoints on community, identity, and education. More crucially, it made clear to me that a university cannot have one \"correct\" model of existence. Whether closed or open, every design represented the values of the society it serves and has certain special advantages.",
+      "annotations": []
+    }
+  ]
+}

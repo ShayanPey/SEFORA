@@ -1,0 +1,703 @@
+{
+  "paragraphs": [
+    {
+      "body": "FELINE",
+      "annotations": []
+    },
+    {
+      "body": "So quick are we to love,  ",
+      "annotations": []
+    },
+    {
+      "body": "To trust, to hope, to fall—  ",
+      "annotations": []
+    },
+    {
+      "body": "Believing in the best of us, ignoring  ",
+      "annotations": []
+    },
+    {
+      "body": "Bold road signs that scream: turn back.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Bold road signs that ",
+          "comment": "I feel like all road signs are bold, just by their nature? ",
+          "context_left": "",
+          "context_right": "scream: turn back.  "
+        }
+      ]
+    },
+    {
+      "body": "But how far must we travel,  ",
+      "annotations": []
+    },
+    {
+      "body": "Down a path unbargained for,  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "unbargained",
+          "comment": "Not a word. Myself, not a huge fan of starting with a poem. But others will feel differently. ",
+          "context_left": "Down a path ",
+          "context_right": " for,  "
+        }
+      ]
+    },
+    {
+      "body": "Before we see the truth:  ",
+      "annotations": []
+    },
+    {
+      "body": "That it’s always been you,  ",
+      "annotations": []
+    },
+    {
+      "body": "With those feline eyes,  ",
+      "annotations": []
+    },
+    {
+      "body": "Sharp as a dagger,  ",
+      "annotations": []
+    },
+    {
+      "body": "Stalking, watching,",
+      "annotations": []
+    },
+    {
+      "body": "Waiting to end my life,  ",
+      "annotations": []
+    },
+    {
+      "body": "While I still plead for more.  ",
+      "annotations": []
+    },
+    {
+      "body": "CHAPTER 1: Meeting Madeline",
+      "annotations": []
+    },
+    {
+      "body": "The lock on the door clicks. The knob twisted slowly to the right before cracking open with a creak. This is my first time seeing her. She’s short. If I stood up, I would probably have about five or six inches on her. Her hair is a strawberry-blonde color that cascades down her back in waves. Way different than her Facebook profile. Maybe she dyed it. Her face is round and pale with splattered freckles across her rosy cheeks. She looks up at me with piercing, hazel eyes. They’re cat-like, I noted. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her. She’s short",
+          "comment": "I like the way you’ve begun this in present tense, and captured the feeling of this narrator seeing this person (Madeline?) for the first time. I would clock “short” too. ",
+          "context_left": "y first time seeing ",
+          "context_right": ". If I stood up, I w"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", I noted. ",
+          "comment": "You’re switching between two ways of showing the narrator’s thoughts — just stating them (“She’s short”) and using the italics and “I noted.” Later. I feel the less intrusive style you used first is more effective. We are basically reading the narrator’s thoughts, no need to flag that. ",
+          "context_left": "es. They’re cat-like",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Hey, Madeline, right?” I ask nonchalantly as I sprawl out on my twin XL, still taking in the appearance of my new roommate while simultaneously popping a chip into my mouth.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a",
+          "comment": "This person is really studied. ",
+          "context_left": "“Hey, M",
+          "context_right": "deline, right?” I ask nonchalantly as I sprawl out on my twin XL, still taking in the appearance of "
+        }
+      ]
+    },
+    {
+      "body": "“Yep, that’s me,” she smiles as she steps into the room, setting her suitcase beside her bed. I notice her cheeks get rosier as she glances at me from her side of our shoe box-sized room. “You must be Jessica.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh god, please never call me that again. Jesse is fine. Jessica is, like, so valley girl,” I joke while doing my best impression of Paris Hilton. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Jesse",
+          "comment": "This is typically the male spelling of the name — do you want that? I think you’ve written this scene well. I’m not sure we need to watch all of it. ",
+          "context_left": "call me that again. ",
+          "context_right": " is fine. Jessica is"
+        }
+      ]
+    },
+    {
+      "body": "Her laugh is somewhat of a witch's cackle. It surprises me, but not in a bad way. I find myself laughing with her.",
+      "annotations": []
+    },
+    {
+      "body": "“Okay then, Jesse it is,” she smiles and tucks a piece of her hair behind her ear. ",
+      "annotations": []
+    },
+    {
+      "body": "Smiling, I swing my legs off my bed and jump onto the floor. I was right. I am a lot taller than her. Her eyes get wider the closer I get to her. I stop moving, sticking my hand out with a grin. “It’s nice to meet you, roomie.” ",
+      "annotations": []
+    },
+    {
+      "body": "She looks at my hand in shock before her expression softens, and she takes my hand in hers. Her palm is a bit sweaty, but underneath her nervousness is soft, delicate skin that trembles ever-so-gently in my grasp. She smiles too. “It’s nice to meet you too, roomie.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "roomie",
+          "comment": "You give us a nice sense of the power imbalance here. I do wonder if you could push this just a bit more, so I begin to have an idea of the relationship. That Chapter was pretty short — you can probably combine it with this one for one Chapter 1. ",
+          "context_left": "ce to meet you too, ",
+          "context_right": ".” "
+        }
+      ]
+    },
+    {
+      "body": "CHAPTER 2: The Diner",
+      "annotations": []
+    },
+    {
+      "body": "After moving her in, Madeline and I decide to go for a walk and explore our new home for the next ten months.",
+      "annotations": []
+    },
+    {
+      "body": "“Damn this place is nice. Nothing like Walsh,” I laugh loudly. The campus wasn’t big by any means but compared to my small ass community college back home, it’s like I got the golden ticket to Wonka’s chocolate factory. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "factory",
+          "comment": "I can’t quite tell if the narrator is deliberately being sort of loud/obnoxious or if they’re unaware that that’s how they’re coming off. ",
+          "context_left": "o Wonka’s chocolate ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“What was Walsh like?” Madeline asks. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like",
+          "comment": "I found this sort of a strange get to know you question. ",
+          "context_left": "“What was Walsh ",
+          "context_right": "?” Madeline asks. "
+        }
+      ]
+    },
+    {
+      "body": "“Oh, small. Dingy. Dirty. I’m so glad I got the hell out of there,” I smile, taking out my phone and snapping a picture of the courtyard. ",
+      "annotations": []
+    },
+    {
+      "body": "“So, I guess it’s a no-brainer why you left, but why did you choose Rockwell?” ",
+      "annotations": []
+    },
+    {
+      "body": "“My older brother went here for grad school. He got all the brains, and I got…well…four tattoos and several piercings that I regret. But, hey whatever! I visited once when I was a kid…looks a lot different now,” I nudged her shoulder, drawing her attention to a proudly displayed pride flag in the window of a brick building labeled ‘Gary’s Diner.’  ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, for sure! I’m glad that they’re more accepting of people like me,” she says as she cracks a smile.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like",
+          "comment": "Nice, I like the way you worked this in. Feels natural. But I can’t tell who has an agenda here. ",
+          "context_left": "accepting of people ",
+          "context_right": " me,” she says as sh"
+        }
+      ]
+    },
+    {
+      "body": "“Oh? You’re gay too?” I ask, surprised by her statement. There go her cheeks again. ",
+      "annotations": []
+    },
+    {
+      "body": "“No, I mean, I’m not gay. I guess I’m still figuring it out? But I like girls for sure…I’ve liked guys before too, it's just complicated I guess,” she trails off, looking down at the ground.",
+      "annotations": []
+    },
+    {
+      "body": "I nod, listening intently to what she has to say. “Well college is the perfect place to figure it out. \"Now come on, dude, I’m hungry,” I smile, trying to lighten the mood, before grabbing her hand and leading her inside a nearby diner. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her hand and ",
+          "comment": "Again, the narrator is coming on STRONG. I wonder if we might get a better sense of why — what’s motivating this SUPER friendliness? ",
+          "context_left": "od, before grabbing ",
+          "context_right": "leading her inside a"
+        }
+      ]
+    },
+    {
+      "body": "Walking into Gary’s is like opening a time capsule. Apart from the relatively modern and updated campus, this is one of the few places that kept Rockwell’s old charm. The black and white checkered floors are cracked and sticky underneath our feet. The red leather booths have chunks missing out of them and are littered with mysterious stains. The overhead lights flicker in and out every few seconds. Every part of me should be grossed out, but I felt oddly at home when breathing in the smell of burnt pancakes and greasy fries. Madeline and I take our pick of the few booths that are in the diner, sitting in the furthest corner by a window. She sits across from me, looking around her in awe. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Apart from the relatively modern and updated campus, this is one of the few places that kept Rockwell’s old charm. ",
+          "comment": "Notice how more “narrator-y” this voice is — you just established that this character was last here a few years ago, but this is the voice of someone who knows this place really well. ",
+          "context_left": "ing a time capsule. ",
+          "context_right": "The black and white "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "around her in awe. ",
+          "comment": "Wow. At a diner? ",
+          "context_left": "ss from me, looking ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Never been to a diner before?” I chuckle at the wonder in her eyes.",
+      "annotations": []
+    },
+    {
+      "body": "“No,” she shakes her head, her hair swooshing from side to side. ",
+      "annotations": []
+    },
+    {
+      "body": "“Ah, damn, you’re missing out. Diners are, like, the coolest. The food is shitty and greasy, but there’s something comforting about it, ya know? I mean, where else are you going to order breakfast for dinner and a side of loaded fries with your pancakes?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "missing out. ",
+          "comment": "It’s so interesting to me that she isn’t really all that interested in why her roommate has never been to a diner. The hand on her hand is… a lot. Is she coming on to her? ",
+          "context_left": "“Ah, damn, you’re ",
+          "context_right": "Diners are, like, th"
+        }
+      ]
+    },
+    {
+      "body": "“Cheese fries with pancakes?” She makes a face of disgust. ",
+      "annotations": []
+    },
+    {
+      "body": "“Hey,” I say, placing my hand on top of hers, “don’t knock it till you try it.”",
+      "annotations": []
+    },
+    {
+      "body": "“I’ll keep it in mind,” she giggles. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ",” she giggles. ",
+          "comment": "Are they flirting? Do they both know that? ",
+          "context_left": "I’ll keep it in mind",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“So, I told you why I came here and about my strange eating habits. Your turn. Why did you choose Rockwell?” I grin before picking up one of the menus in front of us. ",
+      "annotations": []
+    },
+    {
+      "body": "“Well, I just graduated from my high school in New York and decided to follow my heart,” she smiles. “There’s just something about it here.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "There’s just something about it here.”",
+          "comment": "? ",
+          "context_left": "eart,” she smiles. “",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Hey, I hear you. Wanna split some mozzarella sticks? I’m starving.”",
+      "annotations": []
+    },
+    {
+      "body": "She laughs, picking up a menu of her own. “Sure.”",
+      "annotations": []
+    },
+    {
+      "body": "There’s an awkward silence as we both stare at the menu in contemplation. ",
+      "annotations": []
+    },
+    {
+      "body": "“So, New York huh? Like the city?”",
+      "annotations": []
+    },
+    {
+      "body": "“No, I’m from Lyver. It’s a small town that you’ve probably never heard of.” ",
+      "annotations": []
+    },
+    {
+      "body": "“Gotcha. What did your parents do that made them settle down in Lyver?”",
+      "annotations": []
+    },
+    {
+      "body": "“Well, it’s just my dad and me. He grew up there, so I guess it just kind of stuck.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, so your mom is-”",
+      "annotations": []
+    },
+    {
+      "body": "“Dead. Yeah, she died giving birth to me,” she states matter-of-factly. ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, damn, Madeline I’m sorry-” I begin before she promptly cuts me off.",
+      "annotations": []
+    },
+    {
+      "body": "“Call me Mads.”",
+      "annotations": []
+    },
+    {
+      "body": "“Hmm?”",
+      "annotations": []
+    },
+    {
+      "body": "“You told me to call you Jesse instead of Jessica. Madeline is, like, so old lady,” she says mocking an old lady's voice.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "voice",
+          "comment": "I liked this moment. I could tell that she’s deciding on the spot to go with Mads, and it was intriguing. ",
+          "context_left": "cking an old lady's ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "I burst out laughing, smacking my hand on the table. “Damn, I was not expecting that! I love you already, Mads.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Damn, I was not expecting that! I love you already, Mads.” ",
+          "comment": "Again, the narrator is coming on STRONG. ",
+          "context_left": "hand on the table. “",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "She just smiles at me.",
+      "annotations": []
+    },
+    {
+      "body": "“But, hey, if you ever need to talk about anything, I’m here for you,” I smile back at her.",
+      "annotations": []
+    },
+    {
+      "body": "“Noted,” she grins.",
+      "annotations": []
+    },
+    {
+      "body": "Moments later, the waitress comes over to take our order. I order our mozzarella sticks on top of a burger with loaded fries for myself. She gets the pancakes. ",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "We stayed and talked for hours at Gary’s. It wasn’t until the clearly very pissed off waitress who served us came over for the third time to ask if we needed anything that we got the hint to leave. I pick up my faux leather jacket from the booth beside me and slither out of the seat. “God my legs feel like jelly,” I say as I animatedly shake them out.",
+      "annotations": []
+    },
+    {
+      "body": "“Mine too. Guess we lost track of time, huh?” Madeline nudges me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Madeline nudges me.",
+          "comment": "The thing of it is, while the scene above did a lot of nice work to share us some of their background. I’m not yet understanding their vibe — mostly because the narrator is only telling me the action, not sharing her thoughts or response to it. I’d like to know if she’s feeling like, I am going to score, or what. ",
+          "context_left": "rack of time, huh?” ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Yeah, I guess so. I never would’ve thought that we have so much in common. Especially the fries on top of the pancakes. I thought you were seriously going to throw up when I suggested that.”",
+      "annotations": []
+    },
+    {
+      "body": "“I thought I was too, but it was surprisingly good…like potato pancakes.”",
+      "annotations": []
+    },
+    {
+      "body": "“I guess we’re both freaks now,” I grin, shoving her shoulder playfully. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shoving her shoulder playfully",
+          "comment": "Okay, officially, we have seen too much teasing/flirting/physical stuff. Gotta get the plot going. ",
+          "context_left": "reaks now,” I grin, ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Hey! Speak for yourself!” She laughs as we exit the diner, “Jeez, it got cold.”",
+      "annotations": []
+    },
+    {
+      "body": "I watch her as she brings her arms up to hug herself, shivering ever so slightly. ",
+      "annotations": []
+    },
+    {
+      "body": "“Do you want my jacket?” I offer, stripping the leather from my body.",
+      "annotations": []
+    },
+    {
+      "body": "“Are you sure? I don’t want you to be cold too,” she looks at me as if she’s embarrassed.",
+      "annotations": []
+    },
+    {
+      "body": "“Dude, this weather is nothing. I’m used to way colder weather. This is hot for Maine,” I tell her before draping the jacket over her tensed up shoulders. ",
+      "annotations": []
+    },
+    {
+      "body": "She noticeably relaxes, leaning into the jacket’s warmth. “Thanks, Jesse. You’re a really great friend,” she says, a small smile tugging at her lips. ",
+      "annotations": []
+    },
+    {
+      "body": "“Anytime, short stack,” I laugh and ruffle her hair.",
+      "annotations": []
+    },
+    {
+      "body": "“Are you really going to keep calling me that?”",
+      "annotations": []
+    },
+    {
+      "body": "“That depends. Are you going to get the pancakes everytime we go back to Gary’s?” ",
+      "annotations": []
+    },
+    {
+      "body": "“Only if you get the fries,” she laughs. ",
+      "annotations": []
+    },
+    {
+      "body": "We continue to chat about everything and nothing, walking back to our dorm side by side. ",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "Back at the dorm, I grab my toiletries and head off to the showers. I walk down the brightly lit hall to the bathrooms, hanging a right to the showers. I celebrate silently that no one else is in the bathroom, so I can have a moment to myself. I pop into the first shower pod, hanging my robe on one of the hooks directly outside the shower before turning the water on. Cold water hits my skin, making me wince and jump back slightly. I turn the dial hotter, standing out of the way of the water stream while the shower heats up. After a painfully cold two minutes, the water heats up to my liking, and I step into the warmth, letting hot water fall over my body. I close my eyes, leaning into the shower's hotness as I run my hands through my hair. It’s gotten a lot longer over the past few months. It used to be a little bit above my shoulders, but now the length falls just above my breasts. Not ideal for me, but I’ve been lazy recently. There’s much more pressing issues on my mind than getting a haircut. A soft sigh leaves my lips as my body relaxes. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "toiletries",
+          "comment": "You’re going to want to summarize some of this. Pay attention on Tuesday! (You always do, I’m just kidding!) ",
+          "context_left": "the dorm, I grab my ",
+          "context_right": " and head off to the"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a moment to myself. ",
+          "comment": "This is so interesting — I didn’t get the sense that her interacting with Maddie was a strain on her at all, but this implies she needs the break. ",
+          "context_left": "room, so I can have ",
+          "context_right": "I pop into the first"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "more pressing issues on ",
+          "comment": "Didn’t get that sense earlier. She seemed pretty carefree. ",
+          "context_left": "ently. There’s much ",
+          "context_right": "my mind than getting"
+        }
+      ]
+    },
+    {
+      "body": "I go about my routine as I usually would. Shampoo. Rinse. Conditioner. Rinse. Face wash. Rinse. Body wash. Rinse. As I massage the face wash into my skin, I hear the familiar squeak of shower shoes enter the bathroom. They round the corner to head toward the showers. The squeaking gets louder as they get closer, but I pay no mind to them. I continue going about my business as they do theirs. I rinse the soap from my face, rubbing my eyes gently as I lose myself in the pitter patter of water against the tiled floor. I turn back around to face the curtain to reach for body soap when I notice the shoes. Black shower shoes peek out the bottom of my shower curtain. My breath hitches as I make out the faint silhouette of a person standing there. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wash",
+          "comment": "Feels a little treading-water-ish. ",
+          "context_left": "I go about my routine as I usually would. Shampoo. Rinse. Conditioner. Rinse. Face ",
+          "context_right": ". Rinse. Body wash. Rinse. As I massage the face wash into my skin, I hear the familiar squeak of sh"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "theirs",
+          "comment": "I wonder if they have any experience with this kind of bathroom set up from their old college? ",
+          "context_left": "business as they do ",
+          "context_right": ". I rinse the soap f"
+        }
+      ]
+    },
+    {
+      "body": "Every part of me wants to scream or to ask what the fuck they’re doing. But when you’re trapped in a confined space with nowhere to run, your brain works a little differently. My mind runs through a million thoughts. How long have they been standing there? My lips tremble as I walk backwards away from the curtain and further into the water until my back is pressed against the cool tile wall. The feet remain there, watching, waiting for me. What are they doing? My heart feels like it’s going to beat out of my chest the longer they stand there. Maybe they’ll go away? Water begins pooling at my feet the longer I remain in the shower. I feel the person’s eyes watching me, as if piercing through the shower curtain and taking me in. Can they see me through the curtain? I never pegged myself to be someone who shuts down in a situation like this, but, being at the mercy of a stranger who’s face I can’t even see, I find myself feeling like prey. A slab of meat about to be cut up. The water rushing out of the faucet is becoming deafening, and I realize by my pruning fingers that I can’t stay in here much longer. I hug my body, trying my best to cover myself as I muster up the courage to say something. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "works",
+          "comment": "Definitely got more interested here. ",
+          "context_left": " to run, your brain ",
+          "context_right": " a little differentl"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that",
+          "comment": "It’s so interesting (not wrong) that they see this as a threat. To me, I seemed like a come-on. ",
+          "context_left": " my pruning fingers ",
+          "context_right": " I can’t stay in her"
+        }
+      ]
+    },
+    {
+      "body": "“What do you want?” I manage to spit out.",
+      "annotations": []
+    },
+    {
+      "body": " There’s no reply. A few seconds go by before the tension collapses, and the shoes finally move. The voyeur turns away from the shower and begins to walk towards the bathroom door. The squeaking of the shoes gets softer as they make their way to the bathroom door. I turn back to the faucet quickly and turn the water off before whipping around again, and yanking the curtain open just enough to peek my head out to catch the back of whatever pervert had been watching me shower, but I see no one. The culprit is gone.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The voyeur ",
+          "comment": "Can they see anything through the curtain? ",
+          "context_left": "shoes finally move. ",
+          "context_right": "turns away from the "
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "I’m sprinting back to my room, clutching my robe around myself tightly as I fling the door to Madeline and my room open. I slam it aggressively and lock it immediately after. Madeline is laying on the bed with a book in hand. When she sees me, she puts the book down and frowns, sitting upright as she looks at me. ",
+      "annotations": []
+    },
+    {
+      "body": "“Jesse? Are you alright?” she asks, a twinge of concern in her tone.",
+      "annotations": []
+    },
+    {
+      "body": "“I don’t even know,” I shake my head in disbelief. “There was someone in the bathroom.”",
+      "annotations": []
+    },
+    {
+      "body": "“Well…it’s a communal bathroom,” she starts.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "starts",
+          "comment": "Good point! ",
+          "context_left": "unal bathroom,” she ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“No, I mean in the showers. They were standing outside my shower and watching me,” I breathe out as I make my way over to my bed. ",
+      "annotations": []
+    },
+    {
+      "body": "“Are you sure they were watching you? Maybe they were just getting ready to shower, or maybe they left something in there earlier? Or what if they were-”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "were",
+          "comment": "It’s fun that she doesn’t immediately go along with the premise, especially since she was portrayed as so innocent. ",
+          "context_left": "“Are you sure they ",
+          "context_right": " watching you? Maybe they were just getting ready to shower, or maybe they left something in there e"
+        }
+      ]
+    },
+    {
+      "body": "“Goddamn it, yes, Mads, they were watching me shower,” I snap at her. She looks taken aback by my outburst but stays silent. I groan and put my head in my hands. “Maybe you’re right. Maybe I’m just imagining the worst-case scenario.”",
+      "annotations": []
+    },
+    {
+      "body": "She jumps off her bed and approaches me, grabbing my hand gently. “If you want to go to the RA tomorrow about it, I’ll come with you.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "RA tomorrow ",
+          "comment": "Why tomorrow? ",
+          "context_left": "u want to go to the ",
+          "context_right": "about it, I’ll come "
+        }
+      ]
+    },
+    {
+      "body": "“Really?” I ask, looking into her hazel eyes.",
+      "annotations": []
+    },
+    {
+      "body": "“Really,” she smiles sincerely. “Now, let’s get to bed. We have class in the morning.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Now, let’s get to bed. ",
+          "comment": "This just doesn’t feel like something a new roommate would say? ",
+          "context_left": " smiles sincerely. “",
+          "context_right": "We have class in the"
+        }
+      ]
+    },
+    {
+      "body": "I nod and turn away from her as she crawls into her bed. I slip an old band t-shirt over my body and put a pair of underwear on before crawling into my bed. ",
+      "annotations": []
+    },
+    {
+      "body": "“Goodnight, Mads.”",
+      "annotations": []
+    },
+    {
+      "body": "“Goodnight, Jesse.”",
+      "annotations": []
+    },
+    {
+      "body": "We both turn our bedside lamps off. Madeline turns over to face the wall, but I can’t sleep. I stay on my back, staring up at the ceiling. My mind races with thoughts of the bathroom. The black shoes. The squeaking. The silhouette of the figure outside the curtain. I try to come up with explanations for why someone would do something like that. Maybe it was a prank? An incredibly weird and unfunny prank, but it could have been. Maybe it’s what Madeline said, and they were getting ready to shower or left something in that shower earlier and came to get it back? I sigh, shaking my head to stop my mind from spiraling about the infinite possibilities of who that person could have been. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "been",
+          "comment": "You placed her musing at the right point in the story. ",
+          "context_left": "something like that. Maybe it was a prank? An incredibly weird and unfunny prank, but it could have ",
+          "context_right": ". Maybe it’s what Madeline said, and they were getting ready to shower or left something in that sho"
+        }
+      ]
+    },
+    {
+      "body": "I reach to my bedside table and grab my earbuds, putting both in gently. Music will calm me down. As I listen to the soothing voice of Phoebe Bridgers, I hear the bedroom door shut. Peeking my eyes open, I see nothing but darkness and an empty bed where Madeline was.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Hmm. This, to me, doesn’t feel very noteworthy. Maybe if you had established that Maddie said she never gets out of bed once in, or something. But as it is, it ends up making Jesse seem even more paranoid. I really enjoyed this excerpt, Elizabeth. Your writing has grown so much over the last year! I can see so much that works here — the use of scene, the use of dialogue, the truly creepy set up of the shower. I do think you need to work on having your narrator feel more comfortable establishing things about this situation for us. The choice to use present tense, while not wrong, is somewhat a barrier for you. I want Jesse to explain that she likes to take a late night shower when no one else is around, for example (it did feel like these two girls are alone in the dorm!). I also wanted to know if she’s hitting on Madeline and vice versa (and if she recognizes that that’s a terrible idea!). In general, I want you to keep going, but do keep thinking about how you can sort of seed ideas earlier. You have a lot of flirty banter in the diner, but that can work harder in the story. What if Maddie were to say, “I wasn’t allowed to eat in restaurants.” (Not actually suggesting that, but wow, does that seem… WEIRD, right?). Great work. Keep writing!"
+    }
+  ]
+}

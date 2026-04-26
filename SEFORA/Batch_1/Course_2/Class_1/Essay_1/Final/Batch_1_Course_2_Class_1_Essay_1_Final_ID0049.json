@@ -1,0 +1,58 @@
+{
+  "paragraphs": [
+    {
+      "body": "A Tale of Two Cities: Steel City Dreams vs.Concrete Jungle reality When I first arrived in Pittsburgh, it was the middle of summer and I was about to begin my four-year college experience. The city's name always made me think of towering smokestacks, gray skies, and a constant torrent of steel, like a documentary about the industrial age. The word \"downtown\" in my friends' mouths made me think of it as a low-lying, chaotic, and even dangerous place, and I couldn't help but think of Chicago or Gotham City in the movies, full of darkness and uncertainty. With this stereotype in mind, I was hesitant to set foot downtown. Although I had heard about the many interesting events there, such as Heinz's Gherkin Festival, the Senator John Heinz History Center, and watching Steeler football games at the stadium, I was turned off by all the negative news about downtown, such as homeless people, robberies, and shootings. Downtown was shrouded in mystery.（钢铁城市，匹兹堡曾经是美 国著名的钢铁工业城市，有“世界钢都”之称） Shortly after the school year started, when I set foot in downtown Pittsburgh in person with great anticipation, I realized that I was very wrong, and the reality completely overturned my imagination and conception. Pittsburgh's downtown is bustling, with skyscrapers rising into the sky and looking spectacular in the sunlight. Home to many different companies such as UPMC, PNC, and JLL. is still a sports city, and Pittsburgh is aptly called the \"City of Champions,\" (冠军的城市）with three famous professional sports teams - the Steelers, Penguins, and Pirates - each of which is home to their own team. The Pirates, each team has its own dynamic history of world championships, incredible moments and Hall of Famers. In addition, Pittsburgh's famous sightseeing spots such as Point State Park, PNC Park, Benedum Center for the Performing Arts, and the Roberto Clemente Bridge have made Pittsburgh so vibrant and alive that I was pleasantly surprised. It was not dirty and dangerous as one might Instead, I was greeted with a sense of peace and tranquility. Skyscrapers line the streets, highlighting the city's bustle and energy, and at night, the city is lit up in a glamorous way. I began to realize that \"downtown\" was not a geographic low point, but rather the center of the city, the crossroads of economy, culture and commerce.（有三支著名的职业运动队-企鹅队 ， 钢人队、和海盗队，每支球队都有自己的主场） In stark contrast to the tranquility of Pittsburgh is my hometown of Shanghai. Known as the \"Magic City,\"(“魔都”的名字，来自于英语单词“modern”现代的音译), this cosmopolitan city has always been synonymous with hustle and bustle in my mind. The Bund, the skyscrapers of Pudong, and the crowds of People traveling through every corner of the city make Shanghai unique. cityscape. Shanghai's downtown is a blend of history and modernity, where Chinese and Western cultures collide. Shanghai's downtown area is similar to Pittsburgh's downtown, but there are similarities and differences in language (Chinese and English) and cultural differences (Chinese food and American food). Shanghai's famous tourist attractions include People's Square, Jing'an Temple, and Yuyuan Garden, as well as the commercial districts of Nanjing Road Pedestrian Street, Xintiandi, and the historic Peace Hotel and the Bund. (上海的著名旅游 景点包括人民广场、静安寺和豫园，以及南京路步行街、新天地、历史悠久的和平饭店和 外滩等商业区). The biggest cultural difference is the traditional festivals, as the historical development of China and the United States is different, such as the Chinese New Year, Dragon Boat Festival and Mid-Autumn Festival in China, while Thanksgiving, Halloween and Christmas are celebrated in the United States, which is a significant difference between the two. Touring the famous sites on both sides of the border allowed me to better understand the cultural heritage of both sides and the exchange of Chinese and American culture and history, expanding my awareness of diversity and different insights.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The Pirates,",
+          "comment": "I would remove the Pirates here.",
+          "context_left": " to their own team. ",
+          "context_right": " each team has its o"
+        }
+      ]
+    },
+    {
+      "body": "Lin 4 Although the downtowns of Pittsburgh and Shanghai both display the bustle of a modern city, there are many differences in atmosphere and culture. The cross-cultural experience changed my perspective on the difference between Pittsburgh and Shanghai. First of all, the Pittsburgh side of town is quiet and peaceful, with lunchtime restaurants filled with small talk. Downtown's unique boutiques and distinctive products attract visitors from far and wide. In the summer and fall, downtown's green spaces and city parks host midday concerts and special events to make Pittsburgh's atmosphere even more pleasant. Shanghai, on the other hand, is bustling and busy, described as a \"showpiece\" of mainland China's booming economy. Here the traffic is heavy and the crowds are heavy. Spending time amidst the stress and anxiety of a hectic work schedule, the city exudes a unique style and flavor that is very different. Completely changing my view of Pittsburgh, plus comparing it to Shanghai, the different culture challenged my stereotypes of language, place and culture. I gradually began to understand that each city has its own unique charm, whether it is quiet and peaceful or busy and noisy are part of the city's character. (摩天大楼）",
+      "annotations": []
+    },
+    {
+      "body": "Lin 5 Through this experience, I have not only gained a more comprehensive and objective understanding of these two cities, but more importantly, it has taught me to look at different cultures with a tolerant and appreciative eye, and to draw nourishment from them to enrich my life experience. I believe that this valuable experience will become a precious treasure in my life, guiding me to move forward.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Through this experience,",
+          "comment": "This is a well-written paper. Please avoid vague pronouns and use the simple past tense more consistently throughout the paper. Overall, good job!",
+          "context_left": "Lin 5 ",
+          "context_right": " I have not only gai"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " it ",
+          "comment": "the experience",
+          "context_left": "ut more importantly,",
+          "context_right": "has taught me to loo"
+        }
+      ]
+    },
+    {
+      "body": "It taught me that true understanding comes from first-hand experience, and that sometimes the greatest discoveries are the ones that shatter our initial expectations. Ultimately, this experience has left an indelible mark on my heart, encouraging me to continue to seek new adventures and embrace the richness that cultural diversity brings to our world.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 3,
+        "Organization": 3,
+        "Writer's Ethos": 2
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

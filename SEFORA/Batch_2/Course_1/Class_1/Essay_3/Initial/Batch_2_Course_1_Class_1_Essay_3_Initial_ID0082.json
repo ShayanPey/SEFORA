@@ -1,0 +1,37 @@
+{
+  "paragraphs": [
+    {
+      "body": "Hello Mr. Greaves, My name is James Anderson and I’m a student at the University of Pittsburgh. A few days ago, I read your article, “Are You Allowed to Criticize Simone Biles?” and was fascinated by the impact it made with such little you wrote. Like you, I’d like my writing to make a similar impact. Although your article was centrally focused on SImone Biles, I really got a sense of how empowered you were by the injustice and criticism that was given to SImone Biles after a bad performance. Your use of curse words honestly made the writing more impactful and meaningful when I read it. Additionally, I loved the way that the chart is structured in a way that shows how many challenges and accomplishments Simone Biles has touched on throughout her entire career as an Olympic Gold Medal winning Gymnast. In terms of my experiences, this type of chart can work for anyone who faces challenges. As a soccer player, I was faced with injuries, a set of bad coaches, lack of time, and problems with friends. While this doesn’t sound like the end of the world, it crushes your confidence as a player and makes your star studded performances turn into duds. If you had learned about my experiences, you too would have written a similar chart about my life. My main question is what inspired you to write about the problems Simone Biles was facing from the public and society as a whole? What influenced you to write this article in such a way that focused on connecting to Simone Biles rather than expressing your outrage. Why do people criticize so often and never take a step back and look at it from the perspective of the person who is going through the problem. Thank you for sharing this article about a problem that many people face but don’t even know. As someone going through it, I’ll make sure I block out the noise. As someone outside looking in, I’ll make sure I take a second to think before I judge.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "As someone going through it, I’ll make sure I block out the noise. As someone outside looking in, I’ll make sure I take a second to think before I judge.",
+          "comment": "This is so great how you're looking at yourself from both the insider and outsider perspectives--I'd love to see you explore this even more.",
+          "context_left": "ut don’t even know. ",
+          "context_right": ""
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "what inspired you to write about the problems Simone Biles was facing from the public and society as a whole?",
+          "comment": "Great question! I would be really interested in seeing your own exploration of potential answers--in other words, what are the connections between your own soccer experiences and this piece of writing?",
+          "context_left": "My main question is ",
+          "context_right": " What influenced you"
+        }
+      ]
+    },
+    {
+      "body": "Sincerely, James Anderson",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Grade": 98.0
+      },
+      "comment": "Great stuff here! I really appreciate the way you're making connections between your own life and the experiences of another athlete. I am excited to see what you do next with this--I'm super curious, for instance, about your own struggles with different sports situations, how you've overcome them, and how this affects the person you are today."
+    }
+  ]}

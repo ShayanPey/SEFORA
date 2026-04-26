@@ -1,0 +1,287 @@
+{
+  "paragraphs": [
+    {
+      "body": "Poncho’s Diary",
+      "annotations": []
+    },
+    {
+      "body": "Not part of my story but can I ask for specific feedback? I always write like poetic, sad, depressing stuff and I just felt like writing about something more fun this time, so I wrote about Poncho, my dog. But it just feels so not me and not my voice and juvenile. So I guess like is this terrible? Does it seem like a 3rd grader wrote it? Genuinely asking. I kind of hate it. Not what I usually write",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "juvenile",
+          "comment": "I haven’t read it yet, but honestly, this sounds like it was really fun to write and a nice break for you. So I’d start from embracing the pleasure of writing something light and personal and fun! ",
+          "context_left": "nd not my voice and ",
+          "context_right": ". So I guess like is"
+        }
+      ]
+    },
+    {
+      "body": "It was after a long day of lounging about, yelling at the horrible people through the window, and chasing my favorite ball through the house, that disaster struck. My Owner had risen, suddenly, from the couch we were sitting on together, spilling my entire being onto the floor as they stood. Then, with no warning, they reached for the Orange Bag. It has long been my suspicion that within this bag lay the tools of their departure, the means by which they would abandon me. Though I’d never had the chance to investigate the contents, I knew in my heart that it contained all they needed to step into the world and leave me behind. They put on their shoes, shuffled through the pile of things on the table, and clutched keys. It was horrible. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "My Owner ",
+          "comment": "I love being in the dog’s head. I wonder if this would be a more casual name? We always joke that my brother’s dog thinks of him as “that guy” for example. ",
+          "context_left": "at disaster struck. ",
+          "context_right": "had risen, suddenly,"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me",
+          "comment": "I love the voice. It honestly feels like a cross between a dog and a Civil War letter writer. ",
+          "context_left": "range Bag. It has long been my suspicion that within this bag lay the tools of their departure, the ",
+          "context_right": "ans by which they would abandon me. Though I’d never had the chance to investigate the contents, I k"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "clutched keys",
+          "comment": "One thing to think through is how they both don’t know what’s in the bag but do know what keys are. ",
+          "context_left": "s on the table, and ",
+          "context_right": ". It was horrible. "
+        }
+      ]
+    },
+    {
+      "body": "I followed them. I stared, wide-eyed, making my small body appear smaller by the weight of despair. I pawed at their leg, a tragic figure of abandonment. I barked. Once. Twice. I thought, surely they will see reason. No. They opened the Door. And they left me. I was betrayed.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the",
+          "comment": "This is very funny because it’s 100% what dogs think, I bet! ",
+          "context_left": "I followed ",
+          "context_right": "m. I stared, wide-eyed, making my small body appear smaller by the weight of despair. I pawed at the"
+        }
+      ]
+    },
+    {
+      "body": "For a time, I mourned. I sighed deeply, dramatically, as if all the weight of the entire world had been placed upon my tiny, trembling shoulders. The silence of the house swallowed me whole. I was but a speck in the cold, vast, uncaring void of the universe. Who could ever know my pain? The pain of abandonment; of neglect. The pain of being left behind, cast aside like an old toy, no longer loved.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "loved",
+          "comment": "Honestly LOLing",
+          "context_left": " old toy, no longer ",
+          "context_right": ".  "
+        }
+      ]
+    },
+    {
+      "body": "What else was I to do? I threw my head back and wailed, a tragic aria of sorrow echoing through these hallowed walls. My cries were not just unsophisticated noise— they were poetry, the language of the forsaken. I whined, louder and louder, so that the world might bear witness to my suffering. Perhaps a kind soul would hear me and rush to my aid. Perhaps the heavens themselves would open and deliver me from this torment.  ",
+      "annotations": []
+    },
+    {
+      "body": "For a brief moment, I found solace in the sound of my own voice filling the empty space around me. It was a noble sound, a sound that said, I have been wronged. I paced, I sniffed, I threw myself dramatically onto the floor with a huff so mighty it shook my very core. How long had it been? Minutes? Hours? Days?  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Days",
+          "comment": "Love it. Formatting is weird by the way. ",
+          "context_left": "en? Minutes? Hours? ",
+          "context_right": "?  "
+        }
+      ]
+    },
+    {
+      "body": "You just can’t imagine my misery, time and time again, contemplating; pondering. I, nothing more than a small, adorable dog, who brings light to all who meet me, trapped in this prison day after day. But wait! There was something here. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "something",
+          "comment": "So the earlier section sort of implied that this was the first time the dog had been left alone but here we see that it happens all the time, which makes more sense to me. ",
+          "context_left": "But wait! There was ",
+          "context_right": " here. "
+        }
+      ]
+    },
+    {
+      "body": "Bee.  ",
+      "annotations": []
+    },
+    {
+      "body": "The Big Dog.  ",
+      "annotations": []
+    },
+    {
+      "body": "She was there. She had always been there. Watching. Judging. Unbothered by my plight. I lifted my head and gazed at her scruffy, undignified body sprawled across the green couch in an infuriating display of serenity. How did she do it? How did she accept her fate so easily? Did she not know we had been abandoned? Did she not care? Her acceptance of her fate disturbed me, and I crept closer. I sniffed her ear. She dif not stir. I had to test her. I had to see if she, too, felt the pain. Slowly, I lift a paw and place it, gently, on her face. Nothing! I whined. A soft, pleading sound.  She grunted and flicked her ear. Silence, fool, the gesture said.  I gasped. Betrayed. Alone. Forgotten.  I fell once more into despair. The tragedy of my life continued.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was there",
+          "comment": "Oh, this made me laugh. It’s a great reveal. ",
+          "context_left": "She ",
+          "context_right": ". She had always bee"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "gasped. Betrayed",
+          "comment": "I think you can have some fun with playing with the idea that the narrator either always forgets this has happened before? Because it’s fun that she’s experiencing it as if for the first time, although clearly this has happened before. ",
+          "context_left": "he gesture said.  I ",
+          "context_right": ". Alone. Forgotten. "
+        }
+      ]
+    },
+    {
+      "body": "After a time, when I felt that my torment to the world had gone on long enough, I retreated from Bee, from the couch. There was no use in sitting there, anyway, not with Bee’s big, ugly head blocking the view to my favorite window. I lifted myself from my despair and ventured to make the journey around the house.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "around the house.",
+          "comment": "I like the ritual of this. Maybe we can get a better sense of why the dog does it, at least in her mind. Protection? ",
+          "context_left": "to make the journey ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": " In the dining room, I conducted my daily inspection under the table and around the chairs. Sometime in the past, I had been lucky and found discarded food spread across the carpet. It was undignified, I know, but no dog could have done better in my position. But as fate would have it, on this day, there was no food. Disappointed (and really, I needed to stop hoping—there was nothing to hope for), I slunk up the stairs onto the Nothing Floor. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Nothing Floor",
+          "comment": "LOVE this. ",
+          "context_left": "the stairs onto the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Up here, where the People lived, the doors were always shut. Even my human’s room, where I slept at night, is closed to me during the day. The betrayal is almost too much, and I fear that I can’t contain my suffering when I think about it too long. That I, Poncho, am not allowed into my Human’s room without an escort. Almost too much for a small dog like me. \nBut when I reached the top of the stairs,. I smelled something. Success! What luck I had today! The Forbidden Room. It was open! A mysterious, unattainable fortress, no hand to swat me away, no voice to call my name when I’ve explored too far into corners and under bed. But today... today, the door was slightly open, just for me.  I approached with caution. The oaf had gotten up from lounging on the couch and was watching me from down the stairs, bored but interested. You shouldn’t, her eyeIs said. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "small",
+          "comment": "I wondered why she goes upstairs, then? Just hopeful? ",
+          "context_left": "most too much for a ",
+          "context_right": " dog like me. \nBut w"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "eyeIs",
+          "comment": " Love the return of Bee. ",
+          "context_left": " You shouldn’t, her ",
+          "context_right": " said. "
+        }
+      ]
+    },
+    {
+      "body": "Oh, but I must.",
+      "annotations": []
+    },
+    {
+      "body": "I slipped inside. It was glorious. It smelled like the Large One. Like forbidden knowledge. I sniffed deeply, inhaling secrets. I ran with the speed of a squirrel onto the bed (the whole bed, just for me!) and with great effort, I jumped onto the Bed. I squirmed. I wiggled. I shuffled my long, magnificent body under the covers, making as much noise as possible. I rolled around before moving to right on top of my Owner’s pillow. The victory I had today was unmatched. The euphoria I contained was inconceivable. I knew this day could not be any better. And then, I saw it. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "One",
+          "comment": "I enjoy how you’re leaning into the dog having her own way of understanding her world, which is fun. I did want to better understand whose room this is, though. ",
+          "context_left": "lled like the Large ",
+          "context_right": ". Like forbidden kno"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "contained",
+          "comment": "This is especially funny since I assume she was just in the bed before being kicked out an hour or so ago. ",
+          "context_left": "hed. The euphoria I ",
+          "context_right": " was inconceivable. "
+        }
+      ]
+    },
+    {
+      "body": "A Sock!",
+      "annotations": []
+    },
+    {
+      "body": "A magnificent, delicious Sock. I seized it. It was mine. I chewed. I reveled in my victory. I really shouldn’t have done it, but how could I not? Especially when my Owner had the audacity to lock me away day after day while they do whatever unimportant tasks they feel are worth more than me. I’d hide the evidence before they came home, I told myself, or I could place it near Bee while she slept. No matter, I’d deal with it accordingly. For now, it was mine and I would choose to indulge and enjoy it. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "it",
+          "comment": "Again, love it. ",
+          "context_left": "A magnificent, delicious Sock. I seized ",
+          "context_right": ". It was mine. I chewed. I reveled in my victory. I really shouldn’t have done it, but how could I n"
+        }
+      ]
+    },
+    {
+      "body": "I was nearly done with the sock, carefully pulling threads and seams to my liking, when I heard it: the unmistakable creak of the front door. My heart pounded. No. Not now. I was so close to perfection. My ears twitched, tracking each footstep as it echoed through the house, giant shoes striking the floor with purpose. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "purpose",
+          "comment": "I guess I wasn’t sure if only the Owner lives here. ",
+          "context_left": "king the floor with ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "I screamed, of course, which was my duty. My warning cry echoed through the house, announcing to anyone who entered that I, Poncho, the rightful ruler, was here. But even as I sounded the alarm, my focus remained on the sock, on its unraveling glory, on the conquest that I was not yet ready to surrender.  ",
+      "annotations": []
+    },
+    {
+      "body": "Then, came the sound that ripped me from my delight. Those heavy feet coming up the stairs. It was time to move. I clamped the sock in my mouth, threads dangling like the remnants of a fallen empire, and leapt from the bed. I would hide it. I turned and ran to the door to make my escape when, horror upon horrors, I saw it. The door was shut. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "door",
+          "comment": "I really enjoy this so much. ",
+          "context_left": "e the remnants of a fallen empire, and leapt from the bed. I would hide it. I turned and ran to the ",
+          "context_right": " to make my escape when, horror upon horrors, I saw it. The door was shut. "
+        }
+      ]
+    },
+    {
+      "body": "I skidded to a halt, my paws scrabbling against the floorboards. Trapped! My heart pounded in my chest, the sock now a leaden weight in my jaws. Had I been betrayed? I was sure it was that horrible Bee. She must have done this. I would deal with her treachery later, but for now—I needed an escape.  I frantically searched for a miracle but none came.  ",
+      "annotations": []
+    },
+    {
+      "body": "Suddenly, the door swung open. ",
+      "annotations": []
+    },
+    {
+      "body": "The Human stood there, frozen, their expression a portrait of shock and betrayal. Their eyes darted from the tattered remains of the sock, to the bed, to me. I knew that look. Doom!  For a moment, neither of us moved. I needed to act fast. I did the only thing I could. I rolled onto my back. I wagged my tail. I gave them the most sorrowful, most pitiful, most tragically beautiful eyes ever mustered by a creature of my stature. I may have been guilty, but I was also adorable. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The Human ",
+          "comment": "Is this the Owner or someone else? ",
+          "context_left": "",
+          "context_right": "stood there, frozen,"
+        }
+      ]
+    },
+    {
+      "body": "The Human exhaled slowly. And then, a hand. A pat. I was forgiven. I had won. The sock had perished. But a greater victory had been claimed. I defied the rules of this world. I was adored. And that, in the end, is what matters most. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Sophia, I think this story is fantastic — no lie. It’s funny and really shrewdly observant of dogs. I can tell you know them well. I also think the class is going to LOVE it. My notes above are mostly about pulling the conflict forward a bit more (I’d like to connect the sock chewing to revenge, at least at first for the dog). That will give you more of a plot arc. I also suggested a few places where the world of the story could be changed a bit. But overall: terrific!"
+    }
+  ]
+}

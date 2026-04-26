@@ -1,0 +1,81 @@
+{
+  "paragraphs": [
+    {
+      "body": "Shaxian Delicacies: Culinary Heritage of Fujian Province Introduction to Shaxian Delicacies Shaxian Delicacies, originating from Shaxian County in Fujian Province, China, are known for their simplicity, rich flavors, and affordability. Popularized nationwide, these traditional dishes have gained international recognition as an emblem of Chinese street food culture, blending convenience with unique, regional taste. In recent years, Shaxian Delicacies have become a culinary phenomenon, serving as a bridge between rural Chinese traditions and urban dining trends. By promoting local dishes through food stalls and small eateries, the cuisine of Shaxian County reflects the resilience and adaptability of Chinese food culture in a globalized world.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In recent years, Shaxian Delicacies have become a culinary phenomenon, serving as a bridge between rural Chinese traditions and urban dining trends. By promoting local dishes through food stalls and small eateries, the cuisine of Shaxian County reflects the resilience and adaptability of Chinese food culture in a globalized world.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "ue, regional taste. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Key Dishes and Ingredients The distinctiveness of Shaxian Delicacies lies in their use of fresh, local ingredients, which embody the essence of Fujianese culinary traditions. Iconic dishes include “Banmian” (a noodle dish often served with a sesame or peanut sauce), “Yundun” (wontons served in a flavorful broth), and “Chaoshou” (dumplings with vinegar and chili sauce). These dishes, typically simple in presentation, emphasize the balance of flavors that characterize Shaxian cuisine. The incorporation of spices, peanuts, and fragrant oils highlights the county’s emphasis on creating harmony in taste and texture.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "“Yundun”",
+          "comment": "I would add hyperlinks to other relevant Wikipedia articles.",
+          "context_left": "e or peanut sauce), ",
+          "context_right": " (wontons served in "
+        }
+      ]
+    },
+    {
+      "body": "Evolution and Expansion The success of Shaxian Delicacies can be traced to the adaptability of its cuisine and entrepreneurial spirit. In the 1990s, local authorities and businesspeople saw an opportunity to transform this regional food culture into a nationwide chain, with thousands of small, standardized outlets emerging across China. Today, Shaxian Delicacies stalls are easily recognizable in urban centers, from bustling cities like Beijing and Shanghai to international locations where overseas Chinese communities reside. Their expansion reflects broader trends in Chinese society, where regional foods are celebrated and reimagined for wider audiences. While Shaxian Delicacies are widely loved for their taste and affordability, they also offer nutritional benefits. Many dishes are low in fat and high in protein, with an emphasis on fresh vegetables and lean meats. Soups and broths, for instance, are central to many meals, often prepared with minimal oil and seasoned lightly to enhance the ingredients’ natural flavors. The reliance on natural flavors and modest portions is consistent with Fujianese dietary traditions, which prioritize healthful, balanced meals.",
+      "annotations": []
+    },
+    {
+      "body": "Socioeconomic Impact and Cultural Significance Shaxian Delicacies serve as more than just food—they represent a socioeconomic model that empowers local entrepreneurs. The chain-style management of small eateries offers business opportunities for Shaxian natives, allowing them to share their heritage while making a livelihood. The affordability of Shaxian Delicacies also plays a role in its popularity, catering to working-class customers who appreciate its accessibility. For many, Shaxian food evokes nostalgia, as it symbolizes the warmth of home-cooked meals within the fast-paced, urban lifestyle.",
+      "annotations": []
+    },
+    {
+      "body": "Future of Shaxian Delicacies As global interest in traditional Chinese cuisines grows, Shaxian Delicacies are positioned to become a prominent feature of Chinese culinary diplomacy. Efforts to modernize the brand, such as enhancing the presentation and maintaining consistent quality across outlets, are underway. Moreover, the potential for fusion dishes and creative adaptations could increase its appeal to a diverse audience. As Shaxian Delicacies continue to expand internationally, they serve as a cultural ambassador, representing the tastes and traditions of Fujian Province on the world stage.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Future of Shaxian Delicacies",
+          "comment": "This paper is well-written. I would suggest adding in-text citations to justify each factual claim, adding hyperlinks to other relevant Wikipedia articles, and formatting the sources according to Wikipedia's citation style. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": " As global interest "
+        }
+      ]
+    },
+    {
+      "body": "References 1. Charles, L. (2021). The Expansion of Regional Cuisines in China: A Case Study of Shaxian Delicacies. Journal of Chinese Food Studies, 35(3), 105-123. 2. Li, W. (2019). Street Food and Urban Identity in Modern China. Beijing University Press.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Charles, L. (2021).",
+          "comment": "Please use Wikipedia's citation style to format the sources.",
+          "context_left": "References 1. ",
+          "context_right": " The Expansion of Re"
+        }
+      ]
+    },
+    {
+      "body": "3. Lucy, Q., & Thomas, X. (2020). Culinary Heritage and Economic Empowerment: Shaxian Delicacies and Regional Development. Fujian Cultural Studies, 27(2), 72-84.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.0,
+        "Writer's Ethos": 1.5,
+        "Total": 8.5
+      },
+      "comment": "N/A"
+    }
+  ]}

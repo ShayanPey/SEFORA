@@ -1,0 +1,382 @@
+{
+  "paragraphs": [
+    {
+      "body": "Questions for Workshop:",
+      "annotations": []
+    },
+    {
+      "body": "What are your thoughts on the voicemail form of the story?",
+      "annotations": []
+    },
+    {
+      "body": "How would you describe the pacing?",
+      "annotations": []
+    },
+    {
+      "body": "Landline",
+      "annotations": []
+    },
+    {
+      "body": "Hello. Please leave a message after the tone. If you are satisfied with your message, press # then 1. If you would like to re-record your message, press # then 3.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "3",
+          "comment": "I was immediately interested in this set up — I like the idea of “listening” to a voicemail. The “satisfied with your message” has an effective double meaning. ",
+          "context_left": "ssage, press # then ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tHi Kaitlyn, it’s Maria. Just calling because it’s been a while.",
+      "annotations": []
+    },
+    {
+      "body": "Did you know that the brain is the last removed organ in an autopsy? As I learned from some true crime show, they cut the head with a bone saw and place the insides on ice. Then, they slice it in half. The hemispheres separate, every memory ever formed divides in two, and nerves split apart, one by one, reduced from a cause of feeling to a sensation of nothing. All because one of the most cherished parts of us became the reason of death, a betrayal by the thing that shapes us. That’s the way you made me feel. You gave me a feeling that I don’t think I’ll ever forget.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "an",
+          "comment": "I like the writing here, I just have trouble buying that someone would leave a voicemail like this. It just sounds very writerly. So maybe it’s not a voicemail? It’s just first person? ",
+          "context_left": "Did you know that the brain is the last removed org",
+          "context_right": " in an autopsy? As I learned from some true crime show, they cut the head with a bone saw and place "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "All because one of the most cherished parts of us became the reason of death, a betrayal by the thing that shapes us. That’s the way you made me feel.",
+          "comment": "This narrator traveled a long way from “Hi” to here! ",
+          "context_left": "nsation of nothing. ",
+          "context_right": " You gave me a feeli"
+        }
+      ]
+    },
+    {
+      "body": "\tWe both know the day things began to change. I guarantee we both know that much, my old apprentice.",
+      "annotations": []
+    },
+    {
+      "body": "\tThe vines of a hanging plant spun around the legs of your easel, and your cautious touch brought paint to paper for the final touches. We sat in front of it: the next painting to add to my shop. I took it by the sides, like my arms wrapped around its waist, and hung it onto the exposed brick wall. “This one’s going to sell immediately, and it better because we need the money,” I said, standing back. On the canvas, a picture of a pond behind a barn displayed. It was similar to one you told me about before.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "touches",
+          "comment": "Again, lovely writing. Doesn’t feel like a voicemail. ",
+          "context_left": "paper for the final ",
+          "context_right": ". We sat in front of"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "pond behind a barn displayed",
+          "comment": "Word order is off. ",
+          "context_left": "vas, a picture of a ",
+          "context_right": ". It was similar to "
+        }
+      ]
+    },
+    {
+      "body": "\tBetween painting sessions, you would always tell me how your life was growing up out in the Midwest. Calm and different were the words that fled your mouth. This pond you said was where you learned to paint, sneaking out midday to paint images of the places you wanted to go. You made it clear you wanted to go back. When you told me, I wasn’t sure where in Detroit you’d find such a pond, but knowing you, you’d try hard to find one.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "different",
+          "comment": "I wondered why the narrator is telling this story to someone who already knows it? ",
+          "context_left": "e Midwest. Calm and ",
+          "context_right": " were the words that"
+        }
+      ]
+    },
+    {
+      "body": "\tYou, with your face washed a pinkish glow wedged between your lush brunette hair, stood in front of the painting as well. “If it’s anything like the pottery I made two months ago, it’ll be here for a while,” you chuckled.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you chuckled.",
+          "comment": "Usually more effective to just go with “said” or “said with a laugh.” ",
+          "context_left": " here for a while,” ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Then, there was a knock on the shop’s backdoor. I glanced at my watch; it was noon. “It must be the mail. Kaitlyn, you mind going out back and grabbing it?”",
+      "annotations": []
+    },
+    {
+      "body": "You nodded and left the room, but it was in that moment I did something I regret. You see, I knew how much you wanted to go back to where you grew up, so I wanted to find out your parent’s information to get you a ticket back. Your tote hung over the shoulder of your chair, and I glanced to the door before deciding I needed to do what I needed to do.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "did something I regret. ",
+          "comment": "Okay, here, I bought the narrator and the need to tell this audience this part of the story. ",
+          "context_left": "as in that moment I ",
+          "context_right": "You see, I knew how "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "go back to where you grew up, so I wanted to find out your parent’s information to get you a ticket back",
+          "comment": "You might consider having Kaitlyn say something that makes this seem more pressing, something that helps justify what the narrator does.",
+          "context_left": " much you wanted to ",
+          "context_right": ". Your tote hung ove"
+        }
+      ]
+    },
+    {
+      "body": "\tI sifted through old CVS receipts and brushes and supplies in your bag. I tunneled through your badge from your daytime receptionist job and a picture of your Burmese cat. That was until I found a letter, sandwiched between gum wrappers and other paperwork, from the Michigan State Department of Health addressed to you. Scanning the document further, I saw you went to the hospital the month previous. But I made it all the way to the bottom when I saw a diagnosis in the last line: pancreatic cancer, stage three.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ies ",
+          "comment": "How long does it take to get the mail? ",
+          "context_left": "nd brushes and suppl",
+          "context_right": "in your bag. I tunne"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "cancer, stage three.",
+          "comment": "I’m skeptical of information like this arriving by letter. Maybe the narrator could find some medicine or something like that?Does Kaitlyn seem sick at all? That’s a very serious cancer. ",
+          "context_left": "st line: pancreatic ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tImmediately, I planted the paper back into your bag. I sat. Silence. Only the AC’s roar contrasted the uncanny quiet of my breaths. Meanwhile, the shop’s painting looked down at me. I’m sure they saw me shiver from stifling my thoughts behind my lips.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shop’s painting ",
+          "comment": "Just one? ",
+          "context_left": "ths. Meanwhile, the ",
+          "context_right": "looked down at me. I"
+        }
+      ]
+    },
+    {
+      "body": "The sound of your footsteps neared and burrowed through the hardwood flooring to my ears. I packed up your bag, as fast as I could.",
+      "annotations": []
+    },
+    {
+      "body": "\t“We did it, my God,” you said, swinging the door open with an open letter unfolded in your right hand. I sat up on my stool, hands on my lap, your belongings back in your bag. “That artist that came by last month liked our work and said we qualify.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and said we qualify.”",
+          "comment": "Would this be an artist or a judge of some kind? ",
+          "context_left": "onth liked our work ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tI extended my hand, and you placed it in my palm:",
+      "annotations": []
+    },
+    {
+      "body": "Maria Bernard,",
+      "annotations": []
+    },
+    {
+      "body": "We congenially invite you to our annual Rustbelt Art Expedition in Chicago, IL. You, with a guest artist of your choosing, must present a piece fitting this year’s theme of Ties to the Past. The winners split a $100,000 prize.",
+      "annotations": []
+    },
+    {
+      "body": "Wishing you the best,",
+      "annotations": []
+    },
+    {
+      "body": "The Rustbelt Art Committee",
+      "annotations": []
+    },
+    {
+      "body": "\tI stood, our glances interlocking. Lifting my hands, I suffocated you between my arms. “Thank God, we need this money for the shop. This is our break,” I said, with my eyes watery and subdued. And then…then we went…",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "this money for the shop",
+          "comment": "But what if they don’t win? ",
+          "context_left": "“Thank God, we need ",
+          "context_right": ". This is our break,"
+        }
+      ]
+    },
+    {
+      "body": "# 3",
+      "annotations": []
+    },
+    {
+      "body": "Hey Kaitlyn. Maria speaking, and I hope this message gets to you. You’ve been on my mind recently. Every brush I hold feels like a trace you left behind. Every time I look in the window of the shop, I think I see your face. It brings me back to how things started.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "back",
+          "comment": "This definitely sounded more like a voicemail. ",
+          "context_left": " face. It brings me ",
+          "context_right": " to how things start"
+        }
+      ]
+    },
+    {
+      "body": "I remember when I made you my apprentice last year. You were the girl who washed in from Kansas asking for a job, freshly twenty-two, only four years younger than me. You just finished art school at some college a few blocks over, and despite donning white Crocs and a hideous oversized collared shirt, I took a chance on you, mainly because I needed help to prevent my shop from going under.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "donning white ",
+          "comment": "This implies she put them on in the store. ",
+          "context_left": "s over, and despite ",
+          "context_right": "Crocs and a hideous "
+        }
+      ]
+    },
+    {
+      "body": "Month one you helped launch a marketing campaign. Our work appeared in art magazines and students from your alma mater visited in higher numbers than ever before. Vintage works I owned, and our own art, flew off the shelves, and there were days we didn’t know if we could keep up with the demand. That same marketing put the shop in debt, however. I counted the numbers and there wasn’t a profit. No matter what we did, I had no clue how to leave the grave we dug ourselves into.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "campaign",
+          "comment": "Chronologically, this happened before the prior section, right? Maybe they should go in the correct time order. ",
+          "context_left": " launch a marketing ",
+          "context_right": ". Our work appeared "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "marketing",
+          "comment": "Again, slightly confusing that she’s telling all of this to someone who knows it. ",
+          "context_left": "Month one you helped launch a ",
+          "context_right": " campaign. Our work appeared in art magazines and students from your alma mater visited in higher nu"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wasn’t a profit",
+          "comment": "I like this detail, which feels like a real reflection of small business ownership. ",
+          "context_left": "e numbers and there ",
+          "context_right": ". No matter what we "
+        }
+      ]
+    },
+    {
+      "body": "“$100,000 is life changing,” I said a few weeks out from the expedition. “If we can restock our inventory, I know the shop will stay afloat.” The Detroit Institute of Arts was empty as we walked past varying paintings. Our reflection warped along the polished ivory floor. As we sauntered through the hallways, your boots threatened to scratch the white surface.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "from",
+          "comment": "This refers back tot he prior section? Just a little confused about the way you’re moving across time (and formatting). ",
+          "context_left": "aid a few weeks out ",
+          "context_right": " the expedition. “If"
+        }
+      ]
+    },
+    {
+      "body": "You, slightly ahead of me, brought a finger to your chin in front of a painting containing black-headed seagulls on lake-like water. “This one. It’s 2012’s winner, Maria.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Maria",
+          "comment": "Can you make it more clear how this contest works? I interpreted the letter to be that they were supposed to bring art they had made to the judging. But here, it seems like she’s examining art on display and judging it? ",
+          "context_left": "It’s 2012’s winner, ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "I examined it from behind you. Brush strokes paralleled one another the way pairs of figure skaters leave tracks in ice, and the oil’s greenish blues splattered a glow from the background’s water all the way to the peripheries of each seagull’s delicately feathered body. Bumps were smoothed out, slow dried to perfection. Paint superimposed onto the flaw-gouged scene.",
+      "annotations": []
+    },
+    {
+      "body": "“This was made three years ago, so ours needs to be even better.” I snapped a picture with my phone. “Next, we’ll create a vision—”",
+      "annotations": []
+    },
+    {
+      "body": "“Wait,” you interjected. You turned around, holding a hand to your lower stomach. Then, your feet picked you up and carried you down the hall to the direction of the bathroom sign. You entered and I followed.",
+      "annotations": []
+    },
+    {
+      "body": "A stall’s door slammed shut, and from the space underneath the plastic frame you dropped to your knees. “Kaitlyn?” I held a hand to the door. “What’s going on?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Maria, I’m fine, alright?” you said, your voice cracking. I stood back from the door and waited for you…and…and I don’t know where I’m going with this.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "going",
+          "comment": "I like this note of confusion here. I think that if you want to make the voicemail thing work, you’ll need to find more opportunities for it to sound like she is talking. ",
+          "context_left": "on’t know where I’m ",
+          "context_right": " with this."
+        }
+      ]
+    },
+    {
+      "body": "# 3",
+      "annotations": []
+    },
+    {
+      "body": "\tKaitlyn, it’s your old boss here. I wanted to say hello, despite how everything ended.",
+      "annotations": []
+    },
+    {
+      "body": "\tOnce, late at night, I looked up the symptoms of pancreatic cancer, a while before you knew that I knew. Google said abdomen pain, fatigue, loss of appetite. Even after that day in the museum, you didn’t tell me. I knew the signs of chemo. Before my mom died, I experienced everything that comes with it, and it was clear you weren’t doing it. If you knew you weren’t going to ever get better, why do the expedition?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Even after that day in the museum, you didn’t tell m",
+          "comment": "This is really nice. It builds on what we were told in the prior version but we also believe that Kaitlyn would know “that day” without further explanation. ",
+          "context_left": ", loss of appetite. ",
+          "context_right": "e. I knew the signs "
+        }
+      ]
+    },
+    {
+      "body": "I wondered for so long what your plan was. I researched the rules of the competition, and it required two artists to be present, so I thought through every scenario. If I pulled you out, I would finish the painting myself, but I would have no one to attend the expedition with. If you stayed in the competition, I didn’t know if your health would deteriorate more. I felt out of options, and seriously, Kaitlyn, I was confused about what to do…",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "two artists to be present, ",
+          "comment": "Really do not understand this competition. ",
+          "context_left": "on, and it required ",
+          "context_right": "so I thought through"
+        }
+      ]
+    },
+    {
+      "body": "# 3",
+      "annotations": []
+    },
+    {
+      "body": "Where the story will go from here: Kaitlyn and Maria continue to prepare a painting for the expedition, but Kaitlyn’s health worsens so Maria makes the decision to withdraw from the competition behind Kaitlyn’s back. Maria reveals she knows about Kaitlyn’s cancer diagnosis, which causes the two to have a falling out.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Lots of good stuff here, Elijah. I was interested to know a bit more about how this connects to the section we read already. I enjoyed learned more about Maria and I always like works about friendship. My two biggest notes — besides, keep going! — are that I didn’t entirely believe the voice here. It’s strongest in the last section, when it does finally start to sound like a real voice mail. I think you can have more fun with it. Maybe there’s a version in which she only gets two lines in before pressing #3? Also, will we ever find out why she’s calling? And my second note is my confusion over what this contest is, exactly. Why did they go to the museum? Why must two artists work on the painting (that’s pretty unusual, a dual-painted painting)? Strong work. Happy writing!"
+    }
+  ]
+}

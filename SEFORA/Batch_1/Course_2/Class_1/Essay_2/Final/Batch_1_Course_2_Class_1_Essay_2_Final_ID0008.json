@@ -1,0 +1,93 @@
+{
+  "paragraphs": [
+    {
+      "body": "For Chinese people, eating hot pot is sometimes more than just a meal. Usually, because there are many dishes to choose from and the portions are large, people do not eat hot pot alone, but several people (usually relatives or friends) sit around the hot pot and chat while eating. Many people gather around a steaming pot, so eating hot pot often makes people feel warm, relaxed and comfortable. While waiting for the food in the pot to cook, people can use this time to talk to the people around them. Hot pot is usually eaten by several people sharing a pot, so some socializing is inevitable. [1] Around the steaming hot pot, people's communication makes the atmosphere very lively and cheerful, and a hot pot meal usually lasts for more than an hour. Thus, eating hot pot for Chinese people can be regarded as a \"social activity\" in a sense, and it can also be regarded as a symbol of reunion. People can enhance their feelings, narrow the distance between each other, and establish a united relationship through eating hot pot.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Many people gather around a steaming pot, so eating hot pot often makes people feel warm, relaxed and comfortable.",
+          "comment": "Please use formal, academic language and a neutral tone throughout the Wikipedia edit.",
+          "context_left": " chat while eating. ",
+          "context_right": " While waiting for t"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "People ",
+          "comment": "I would clarify what you mean by \"people.\"",
+          "context_left": " symbol of reunion. ",
+          "context_right": "can enhance their fe"
+        }
+      ]
+    },
+    {
+      "body": "Such a cheerful hot pot may also be used as a way for people to celebrate festivals. As early as the Han Dynasty (475 BC-221 BC), a poem wrote: \"bells were hit, and tripods were displayed.\" It means that people rang bells and set out hotpots during sacrificial activities. During the Qing Dynasty, Emperor Qianlong held a \"Qiansou Banquet\" and prepared 1,500 hotpots for a total of 5,000 people to enjoy. Through this lively and warm hot pot, Qianlong successfully narrowed the distance between himself and the bureaucrats, so that he had more authoritative power in his future work. [2]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " \"bells were hit, and tripods were displayed.\"",
+          "comment": "Citations are needed.",
+          "context_left": "1 BC), a poem wrote:",
+          "context_right": " It means that peopl"
+        }
+      ]
+    },
+    {
+      "body": "Hot pot etiquette [edit] In the \"social activity\" of eating hot pot, it is also necessary to pay attention to the relevant etiquette, so people will also use hot pot etiquette to judge whether it is worth continuing to interact with new acquaintances. These etiquettes include but are not limited to: -Try not to stir the hot pot constantly with chopsticks to scoop up the food you want to eat. You can use a colander to pick up some fine food.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "ry not to stir the hot pot constantly with chopsticks to scoop up the food you want to eat. You can use a colander to pick up some fine food.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "e not limited to: -T",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "-When tasting a dish, you should share it with people around you, and you can't finish it all by yourself.",
+      "annotations": []
+    },
+    {
+      "body": "-Respect the other person's taste, such as whether they have allergic foods, whether they can eat spicy food, etc. -Keep hygiene when eating, such as waiting for the water to boil before taking out the food, not using plastic tableware or kitchen utensils to put into the pot, etc.[3]",
+      "annotations": []
+    },
+    {
+      "body": "-Do not add raw food to the pot when the other person is picking up food -Do not put the food that has been dipped in seasoning in your own sauce dish back into the pot Different habits [edit] In addition, eating hot pot is a very personalized thing, and different people have different habits when eating hot pot. These different habits can also enable people to judge whether the other person has the same eating habits as themselves, whether they get along with themselves, etc. when eating hot pot. Hot pot habits vary from person to person. Usually, people have different hot pot eating habits: -Whether to use public chopsticks to pick up food in the hot pot -The order of putting different dishes in the pot -The amount of dishes put in the pot -The flavor of the seasoning These etiquette and habits make hot pot more socially significant, which also reflects the socialist core value of \"harmony\" in traditional Chinese culture. The round pot, the rising heat, and the various dishes on the table symbolize the beautiful meaning of reunion, vitality and prosperity that has been passed down for thousands of years by the Chinese nation.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "These etiquette and habits",
+          "comment": "This paper is well-written. I would suggest using formal, academic language and a neutral tone throughout the Wikipedia edit, avoiding vague pronouns, and adding in-text citations to justify each factual claim. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "or of the seasoning ",
+          "context_right": " make hot pot more s"
+        }
+      ]
+    },
+    {
+      "body": "References 1. Passport, Frayed (2020-11-08). \"What Is Hot Pot? History, Styles, Where to Eat It, Recipes & More\". Frayed Passport. Retrieved 2024-10-23.",
+      "annotations": []
+    },
+    {
+      "body": "2. ^ Charles, Tingwei (2019-12-23). \"Chinese Hotpot: a Communal Food Culture\". ArcGIS StoryMaps. Retrieved 2024-10-23. 3. ^ Wanderluster, The (2019-02-07). \"MUST-KNOW ETIQUETTE FOR CHINESE HOTPOT\". Hotpot Ambassador. Retrieved 2024-10-23.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.5,
+        "Writer's Ethos": 1.0,
+        "Total": 8.5
+      },
+      "comment": "N/A"
+    }
+  ]}

@@ -1,0 +1,508 @@
+{
+  "paragraphs": [
+    {
+      "body": "Hearing Things",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Things",
+          "comment": "Fun title",
+          "context_left": "Hearing ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "After all those years, Maria Mia finally went deaf, or she felt inclined to declare at the ripe age of seventy-eightS.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "seventy-eight",
+          "comment": "Small point, but “After all those years” and “ripe age…” kind of tell us the same thing — she’s old! Other than that, I enjoyed the opening here. ",
+          "context_left": " at the ripe age of ",
+          "context_right": "S."
+        }
+      ]
+    },
+    {
+      "body": "When she was young enough to be pulled in a Radio Flyer wagon with red wooden slats and a light oak bottom, her father brought her to the playground on a Wednesday evening. Wednesday evening because there wouldn’t be any other kids there, so she thought.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "other kids there, so she thought.",
+          "comment": "I was slightly confused that it seemed like he made the decision to take her to the playground, but then it was her who thought no other kids were there. ",
+          "context_left": "ere wouldn’t be any ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Wagon cruising on neighborhood streets named after trees, she laid back to look at the evening sky — infinite yet familiar. The row of houses smelled like fresh cut grass and summer’s humidity was settling in. Birds lofted by. A distant lawnmower hummed. She closed her eyes, blonde head lightly bouncing on the wood.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Wagon cruising ",
+          "comment": "As the wagon cruised…",
+          "context_left": "",
+          "context_right": "on neighborhood stre"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "summer’s humidity was settling ",
+          "comment": "This felt a little old for a child to think? (Which is what the narrator seems to be reflecting…) ",
+          "context_left": "fresh cut grass and ",
+          "context_right": "in. Birds lofted by."
+        }
+      ]
+    },
+    {
+      "body": "Minutes later, by the definitive bump of the wagon, they crossed into the elementary school parking lot. Pushing up off the wagon’s bottom, excitement took hold. The old playset just had a new one constructed next to it — bright red, monkey bars, a fireman's pole. You name it, and she was about to try it.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wagon’s bottom, excitement took hold",
+          "comment": "You need a subject in here  — “excitement took hold of her” or however you wish to put it. ",
+          "context_left": " Pushing up off the ",
+          "context_right": ". The old playset ju"
+        }
+      ]
+    },
+    {
+      "body": "Beholding its red glory, she started crying.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "red glory, she started crying.",
+          "comment": "The order here seems slightly off — she wouldn’t see the swing set before the boys, right? You have a strange narrative tic going on in this story, the phrasing as in this sentence. We know that the story takes place in the past, so using a present tense phrase as you’re often doing seems off. You want something more like “As she beheld its glory…” ",
+          "context_left": "Beholding its ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Two boys hogged the set. No sense in staying. Maria wouldn’t play with them. Couldn’t with their shrieking. As the wagon pulled to a stop at the edge of the playground grass, she wiped her tears too obviously. She felt stuck in her own skin. Overwhelmed. Overloaded.",
+      "annotations": []
+    },
+    {
+      "body": "“Jesus Christ,” Dad said, seeing the wipe of her damp eyes with her hair, “What the hell now?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the wipe of her damp eyes with her hair, ",
+          "comment": "I’d just “her” hereInteresting that her dad is so clueless. ",
+          "context_left": ",” Dad said, seeing ",
+          "context_right": "“What the hell now?”"
+        }
+      ]
+    },
+    {
+      "body": "No one said anything to him about her sensitivities. He poked fun at those kinds of things. So, when Maria came up in conversation, he told people all he knew: she cried too much to be considered normal. Word moved fast on loose lips, and soon enough, that’s what everyone knew about Ron’s daughter. In a town without much else going on, no one — no matter the age — was above being served as subject matter for gossip and judgment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "judgment",
+          "comment": "I’m again having trouble reconciling the narrator — sometimes she’s close to the MC as a child, and then sometimes we have this sort of broader POV. ",
+          "context_left": "tter for gossip and ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“I wanna go home,” she nearly whispered. Wiped her nose on her forearm. “I miss Mom.”",
+      "annotations": []
+    },
+    {
+      "body": "It wasn’t a lie, but also wasn’t exactly the truth. Mom was her rock. Strangers and their noises were more upsetting when she wasn’t there.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wasn’t exactly the truth. ",
+          "comment": "How is it not the truth? ",
+          "context_left": "n’t a lie, but also ",
+          "context_right": "Mom was her rock. St"
+        }
+      ]
+    },
+    {
+      "body": "He scoffed. “Missing mummy. I can’t leave mummy at home. I just drug your ass all the way here. Get out.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "out",
+          "comment": "The dad feels a little bit of a caricature, tbh — just the mean, abusive dad. I wonder if you can explore whether he might be embarrassed by her behavior? (Not that that’s okay, just… worth exploring)",
+          "context_left": "l the way here. Get ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "Her tears quickened. Maria climbed over the side of the wagon as quietly as possible and placed her little white flat on the ground, then the other. Knuckles grasping the wagon’s side, she stood at the edge of the blacktop and waited for her tears to stop. For the ball of anxiety in her chest to lessen just enough to let her take a few steps toward the old playset.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "little white flat ",
+          "comment": "?",
+          "context_left": "ible and placed her ",
+          "context_right": "on the ground, then "
+        }
+      ]
+    },
+    {
+      "body": "Dad clicked his tongue in disgust behind her. He pulled out his flask and swigged.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "his flask and ",
+          "comment": "Leaning way into this guy as a jerk! ",
+          "context_left": " her. He pulled out ",
+          "context_right": "swigged."
+        }
+      ]
+    },
+    {
+      "body": "She forced herself to start walking because each gulp emboldened him to say more than she wanted to hear. This knowledge came to her faster than she learned to write her name consistently facing the correct direction.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "This knowledge came to her faster than she learned to write her name consistently facing the correct direction.",
+          "comment": "Unclear metaphor. ",
+          "context_left": "she wanted to hear. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Maria ignored the boys on the red playset. They clambered like animals. They wasted her trip.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "playset",
+          "comment": "I was a little confused here because it did seem like the boys were the reason she didn’t want to play after all. But now when she is even more upset, she easily ignores them? ",
+          "context_left": "the boys on the red ",
+          "context_right": ". They clambered lik"
+        }
+      ]
+    },
+    {
+      "body": "She stepped onto the familiar wooden playset with the purple tunnel that connected its two towers. Taking the creaky steps up the first tower, she crawled into the tunnel held about six feet above the mulch with rusty screws. She laid in the smell of plastic and sweat. Dad started chatting up the boys’ mom. Or maybe their babysitter. It didn’t matter to him.",
+      "annotations": []
+    },
+    {
+      "body": "Maria closed her eyes, held her ears, and let her tears flow freely. She worried about whether or not she’d have to face the boys on her way down — about if they’d leave so she could get a few moments of peace before heading home. Home, where Dad would inevitably find something to yell about before passing out. Home, where she’d be overloaded at least once more before the day’s end.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "end",
+          "comment": "I would suggest reshaping this a bit so that perhaps it feels to both of these characters like everything is going to go well this particular trip to the playground. And then, as the story goes on, we see that her desire to have a nice time with her dad is running up against his desire to drink/be a jerk. But have that become a realization for her over the course of the story, not something predetermined. I also wondered if she is a little annoying? ",
+          "context_left": "re before the day’s ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "Until Maria was about twelve, Dad liked to watch NASCAR. Flopped out on his dark brown recliner, Stone Cold Steve Austin t-shirt peppered with snuff flakes, he dozed on and off every few Sundays to the sounds of commentators screaming and engines roaring. He’d eventually tip his Bud Light onto his jorts and jolt up, pushing his rectangular glasses back up his sweaty nose.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "jorts",
+          "comment": "Again, you really have this guy as a type, which feels limiting to the story. The potential for him to be anyone but a complete asshat isn’t in the story right now. ",
+          "context_left": " Bud Light onto his ",
+          "context_right": " and jolt up, pushin"
+        }
+      ]
+    },
+    {
+      "body": "“Ron,” Mom would hiss at him from the couch. He’d turn his glassy eyes on her and glare.",
+      "annotations": []
+    },
+    {
+      "body": "One day, as was often the case, Maria sat at her play table with horses and stables, creating scenes. The Clydesdale was the biggest horse and would, as a result, consistently save the world three to five times a day. The same figure was also sometimes used as a unicorn — or a Pegasus — and she would gladly sit you down to explain the difference if asked. Of course, she was never asked.",
+      "annotations": []
+    },
+    {
+      "body": "While writing in her purple notebook, — invisible werewolves about to take over the stables, ultimately defeated by their residents — she indulged in Fruit Roll-Ups. Dunkaroos. Kid Cuisine. Nourishment of the highest quality for an eight-year-old artistic protégée.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "old",
+          "comment": "After re-reading, I understood, but at first I was confused because I thought this character was 12 in this section. ",
+          "context_left": "y for an eight-year-",
+          "context_right": " artistic protégée."
+        }
+      ]
+    },
+    {
+      "body": "The clamor from the TV pulled her out of writing every few minutes, though. Commentators boomed; pieces of cars flew around the screen. How they managed to crash so much eluded her. Twice in fifteen minutes. She rubbed her face in frustration.",
+      "annotations": []
+    },
+    {
+      "body": "Mom sighed through her nose and walked soft-footed over to Dad’s recliner, ever so gently sliding the remote out from under his bulking hand. Her dainty thumb pressed the volume down.",
+      "annotations": []
+    },
+    {
+      "body": "“I got it,” she mouthed.",
+      "annotations": []
+    },
+    {
+      "body": "They grinned at each other. Mom quietly placed the remote back on the arm of the chair and sat back down on the couch. Maria turned to her work and lost herself in portraying the beauty of equines. She even let the Kid Cuisine go cold.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "equines",
+          "comment": "Nice moment with the mom. ",
+          "context_left": "aying the beauty of ",
+          "context_right": ". She even let the K"
+        }
+      ]
+    },
+    {
+      "body": "A grunt came from the blob of person on the chair about twenty minutes later. He mumbled something about “dumbass” as he fumbled for the remote. Eyes half open, he gazed out at the TV from smudged glasses. Dread filled Maria’s stomach.",
+      "annotations": []
+    },
+    {
+      "body": "In the midst of trying to regain focus on her notebook, she sensed the change in Dad’s alertness. Like a needle popped out of his chair and poked him in the ass.",
+      "annotations": []
+    },
+    {
+      "body": "The CRANK IT UP meter flew onto the bottom left-hand corner of the NASCAR broadcast as the camera switched to view the cars coming around the turn at track-level. The meter signaled middle-aged men around the United States to blow out their TV speakers with sounds of engines blasting right next to the camera.",
+      "annotations": []
+    },
+    {
+      "body": "Slurring, “CRANK IT UP,” to the room at large, thumb smashed white on the volume button, Dad beamed as the room was bombarded with sound.",
+      "annotations": []
+    },
+    {
+      "body": "Bursting up from the table, Maria bolted away from the godawful living room roaring with cars and people. Fingers in her ears, the corner of the kitchen was a safe place to feel somewhat removed from the overwhelming room. To let out a few tears over it, although she largely tried to hold them back by that age. The taunting was getting old.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The taunting was getting old.",
+          "comment": "Who is taunting her at this point? The dad doesn’t seem to notice her, we’re told. ",
+          "context_left": "m back by that age. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Ron, just turn the damn TV down,” Mom said through clenched teeth.",
+      "annotations": []
+    },
+    {
+      "body": "Maria heard the remote’s hard plastic smack against Mom’s flesh. Heard the scuffle after that. Heard it over NASCAR, so maybe it was more than a scuffle.",
+      "annotations": []
+    },
+    {
+      "body": "Tears flooded harder, plopping on the cracked linoleum floor. Hating herself, hating her tendencies, she sunk back into the coldest corner of the kitchen and sat until the evening grew dim.",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "On the night of Maria’s first college hangout in a random dorm suite, she wasn’t expecting the red LED light strips glued to the room’s trim or music so full of bass that it had no genre, but she stumbled across the UNO table and sat down anyways.",
+      "annotations": []
+    },
+    {
+      "body": "“Deal me in this round,” she smiled at the lanky blond dealer. He didn’t acknowledge her but obliged.",
+      "annotations": []
+    },
+    {
+      "body": "A girl from her floor, possibly named Yvonne, slid a red Four Loko her way. She barely caught it before it fell into her lap. Her first sip of alcohol wasn’t pleasant, like trying black coffee the first few times, but it also wasn’t terrible. She kept sipping. Flipping cards. Sipping.",
+      "annotations": []
+    },
+    {
+      "body": "Minutes ticked by. The orange oak chair was so comfortable. She leaned back. Languid. Sounds floated slowly past, and she let them go by.",
+      "annotations": []
+    },
+    {
+      "body": "Not so bad, she thought to herself, smiling to no one in particular. Cards flashed around her vision.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "vision",
+          "comment": "I felt like the story started to come into its own here — this felt much more unique than the opening sections — but I also had trouble reconciling the traumatized girl in the first part with this more confident, outgoing girl who shows up at parties by herself and gets in on the card action. ",
+          "context_left": " flashed around her ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Sticky, she poked at the table where a drink was spilled earlier. Tap tap tapped her finger on it.",
+      "annotations": []
+    },
+    {
+      "body": "Her turn again. So quick, she nearly said aloud, Yellow goes on… yellow.",
+      "annotations": []
+    },
+    {
+      "body": "Halfway around the table, a Draw 4+ card popped up. People got excited. Maria joined in the group’s collective Ohhh!",
+      "annotations": []
+    },
+    {
+      "body": "Around and around the table they went. Around and around the Coca-Cola wall clock turned. Seconds, minutes, perhaps hours — at least one, maybe two.",
+      "annotations": []
+    },
+    {
+      "body": "However long later, another Draw 4+ was thrown on the table by a guy who already had his hands raised in victory. Ohhh!",
+      "annotations": []
+    },
+    {
+      "body": "Another Draw 4+ was placed atop that. No cards were left in his hands either.",
+      "annotations": []
+    },
+    {
+      "body": "“Holy shit. Holy SHIT,” the guy next to her yelled a few inches from her right ear.",
+      "annotations": []
+    },
+    {
+      "body": "It sent a jolt of pain through her head. Her clothes felt too tight. The LED lights were too red. The table was too sticky. She was sticky. Maria squirmed and still tried to grin.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sticky",
+          "comment": "Here, I’m starting to understand that she hates loud noises. I didn’t get that from the playground scene (although it’s nicely shown in the TV scene). I did wonder why she choose to go to a party if she hates loud noises? ",
+          "context_left": "f pain through her head. Her clothes felt too tight. The LED lights were too red. The table was too ",
+          "context_right": ". She was sticky. Maria squirmed and still tried to grin."
+        }
+      ]
+    },
+    {
+      "body": "The third Draw 4+ was placed on the pile. Three people flipped their chairs. All of them screamed. The dealer pulled a megaphone out from behind the tattered blue fabric couch, stood on his wooden chair, and started yelling unintelligibly.",
+      "annotations": []
+    },
+    {
+      "body": "Maria clambered back from the table. She left her empty Four Loko sitting in the midst of the people-flood and stumbled out of the door into the fluorescent lit hall. It was too bright, but her eyes appreciated the distinctiveness. No more red.",
+      "annotations": []
+    },
+    {
+      "body": "It was the first week of freshman year. No one knew her well enough to run after her and coax her back into noise she wanted no part of. The realization that she was free to go wherever slammed into her. She could go to her room. Her room where she lived alone. Go walk around campus. Go anywhere, really.",
+      "annotations": []
+    },
+    {
+      "body": "She rounded the corner of the hall and felt a genuine smile bloom.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "genuine",
+          "comment": "I like this moment for her, but I still didn’t quite understand why she chose to go to the party. ",
+          "context_left": "the hall and felt a ",
+          "context_right": " smile bloom."
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "At seventy-eight, Maria liked to lounge in her well-cushioned rocker. Her hearing aids thoughtlessly tossed on the little wooden side table, she kicked her slippered feet back and blissfully dozed through most afternoons of life. One of her teenage granddaughters particularly hated it.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "igh",
+          "comment": "Nothing to report for years 19 - 77? ;) ",
+          "context_left": "At seventy-e",
+          "context_right": "t, Maria liked to lo"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ". One of her teenage granddaughters ",
+          "comment": "This implies that more than one teenage granddaughter would say this but then it seems like the rest of the family loves her. (I will also say that I have literally never heard of anyone calling a 78-year-old lazy!) ",
+          "context_left": "t afternoons of life",
+          "context_right": "particularly hated i"
+        }
+      ]
+    },
+    {
+      "body": "“So fucking lazy,” the girl would mumble to anyone who would listen to her complaints. Everyone brushed her off. Everyone loved Gram.",
+      "annotations": []
+    },
+    {
+      "body": "“Let her rest,” they’d say, “If she doesn’t want to hear sometimes, then she doesn’t want to hear sometimes.”",
+      "annotations": []
+    },
+    {
+      "body": "One day when snow blanketed the yard, Maria didn’t hear her family in the kitchen, didn’t hear the Christmas special airing on QVC, but felt a poke on her arm that startled her into what easily could have been the next lifetime. Her vision somewhat cleared to reveal an annoyed teenage girl standing in front of her. Maria fumbled with her shaky hands to put her hearing aids in.",
+      "annotations": []
+    },
+    {
+      "body": "“Yes, dear?”",
+      "annotations": []
+    },
+    {
+      "body": "The girl took the opportunity to make a jab and jumped at it. “Why the hell don’t you use your hearing aids? Quit acting deaf, Gram,” her voice dripped with condescension, “Where’s the rolling pin? We’re making sand tarts. For Christmas, if you know what time of year it is.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "deaf",
+          "comment": "What an unpleasant young woman. ",
+          "context_left": "g aids? Quit acting ",
+          "context_right": ", Gram,” her voice d"
+        }
+      ]
+    },
+    {
+      "body": "Maria sighed. “In the drawer under the sink unless it got moved. I can’t help it if I can’t hear, sweetie. And don’t say the h-word.”",
+      "annotations": []
+    },
+    {
+      "body": "“You can hear. You just don’t want to put your hearing aids in.” Her granddaughter planted her hands on her hips, waiting for an explanation.",
+      "annotations": []
+    },
+    {
+      "body": "Three memories flurried through Maria’s head, but until the girl was older, it was simply easier to chuckle and say, “These days, my concerns lie with seeing the backs of my eyelids.”",
+      "annotations": []
+    },
+    {
+      "body": "She scoffed. “Well, I hope you’re satisfied with the world passing you by.” The girl turned on her heel and started towards the kitchen archway.",
+      "annotations": []
+    },
+    {
+      "body": "Maria leaned back with a small grin at the dramatic exit and popped out her hearing aids once again.",
+      "annotations": []
+    },
+    {
+      "body": "“Yes, I’m very satisfied.”",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I like this ending. Layla, your story is interesting and I enjoyed the riff on the idea of a disability as being only terrible. As someone with hearing loss, I can confirm that your main character is right — it’s pretty nice not to hear things, sometimes. A long time story is hard to write and here, you’ve run into the problem that you can’t fit this woman’s lifetime into the pages you have (presumably, a few things happened between college and old age?). I also have to say that the first part of the story didn’t really work for me. The dad is a jerk, yes, but he also seems flat, and then the conflict the character faces wasn’t really connected to her later joy in being slightly deaf. I would either reshape that section or abandon it. The other two scenes nicely show her avoidance of loud noises (although the party perplexed me a bit too — why did she go?). I wonder if you can think of an additional scene between the party and the ending, perhaps one in which we see some change in her approach to loud noises? Surely she didn’t just sort of wait to go deaf? Maybe she realized that her loss had begun and had mixed feelings? I’d also suggest that the granddaughter might be more concerned than, like, openly hostile? A really intriguing first draft, Josie. Eager to see where you go with it!"
+    }
+  ]
+}

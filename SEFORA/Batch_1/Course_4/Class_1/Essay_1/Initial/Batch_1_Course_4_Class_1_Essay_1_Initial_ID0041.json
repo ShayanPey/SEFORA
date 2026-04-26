@@ -1,0 +1,379 @@
+{
+  "paragraphs": [
+    {
+      "body": "Chapter One: ",
+      "annotations": []
+    },
+    {
+      "body": "\tIf you’ve ever been fortunate enough to experience having a best friend, you’ll know just why I love Marly so much. I’ve been with Marly since she was five years old– I'm a product of her, really. Her and I were inseparable, she’d talk to me when she was bored, when she was upset… There was never a time where she didn’t talk to me. The familiarity warmed me, having someone rely on me so heavily, being someone’s “ person” (although I’m not really real) was my only purpose, and I never realized how addicted I was to that until it started to disappear. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "having a best friend",
+          "comment": "I liked this opening — it’s just off-kilter enough to make me slightly confused, which is what I think you want. (Possibly, it could be even more so. The confusion of this narrator considering themselves Marly’s best friend, while actually being her ? Imagine friend is really nice and can be played up.) ",
+          "context_left": "nough to experience ",
+          "context_right": ", you’ll know just w"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "although I’m not really real",
+          "comment": "I know what you’re going for here, but I need to know the project to get this. ",
+          "context_left": "omeone’s “ person” (",
+          "context_right": ") was my only purpos"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "addicted I ",
+          "comment": "Great word to use here. ",
+          "context_left": " never realized how ",
+          "context_right": "was to that until it"
+        }
+      ]
+    },
+    {
+      "body": "\tI know this is what happens when they age. They get older, realize that people aren’t always so daunting, that class isn’t so scary, that Mom and Dad don’t fight forever. That the world doesn’t make space for your imaginary friends forever. I know this was my fate, as it was for all my friends. Marly was different though, I thought we were inseparable, really. That nothing could really get in between me and Marly. We would go the distance. Together. That she’d always be the sweet, innocent girl who’s tears ricocheted from her eyes onto the counter every time she was forced to talk to people at school, who’d run and sit on her pink, fluffy carpet, nose full of snot, and talk to me for hours about how it’s not fair that she can’t show me off to the world without being ridiculed.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "they",
+          "comment": "Might be helpful to think of a term for what the imaginary friends call their creator? ",
+          "context_left": "s what happens when ",
+          "context_right": " age. They get older"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that Mom and Dad don’t fight forever. ",
+          "comment": "Interesting to think about situations where mom and dad DO fight forever. ",
+          "context_left": "ass isn’t so scary, ",
+          "context_right": "That the world doesn"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I know this was my fate, as it was for all my friends. Marly was different though",
+          "comment": "This feels like a very key distinction that somehow gets a bit lost. ",
+          "context_left": "ry friends forever. ",
+          "context_right": ", I thought we were "
+        }
+      ]
+    },
+    {
+      "body": "\tAll the time my friends would tell me, ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "time my friends would tell me, ",
+          "comment": "This makes me really interested in knowing more about how the imaginary friends know each other and hang out. ",
+          "context_left": "\tAll the ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“ Wow, you got a good one.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“ She really likes you, pal” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I don’t think she’ll ever forget about you…” ",
+      "annotations": []
+    },
+    {
+      "body": "All words that filled my body with that tingly, euphoric feeling of bliss. Naturally, I ignored the comments about how I need to “distance myself” in order to protect myself from the inevitable and that I’m “in too deep and going to get hurt”. Their words of warning at the time felt something like jealousy: jealous that they were about to disappear forever while my bond showed no sign of fading. As I’ve watched Marly get older though, and I watch the ones like me fade away forever, I’ve realized there may be some truth to that statement. That Marly wasn’t any different than other children, that she has ulterior plans with her life. Knowing that doesn’t fill me with the same tingly, warm, mind numbingly addictive feeling I once got years ago. It fills me with something different, more urgent. I look now at Marly and I despise her life– how weak now without her constant attention. More specifically, I despise the way I’m not a part of it, that I’m merely a small blurb in the back of her mind she hides so desperately from all of her friends. I can’t help but think that she has other plans for me, for her life. Plans that I know aren’t good for her. And there’s a small part of me that knows I have other plans for my existence too, plans that revolve around her. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "need to “distance myself” ",
+          "comment": "Maybe this could be a distinct character, who is super annoying (but also often correct)? ",
+          "context_left": "omments about how I ",
+          "context_right": "in order to protect "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " they ",
+          "comment": "Again, a term here would be helpful. ",
+          "context_left": "alousy: jealous that",
+          "context_right": "were about to disapp"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I look now at Marly and I despise her life– how weak now without her constant attention",
+          "comment": "Your narrator is doing a lot of asserting, and generally, it would be better if we could *see* some of this. The voice definitely took a turn in this section — less cheerful and more ominous. I don’t think that’s a bad idea, but that tone should probably be clear from the start. In general, this opening is a bit… vague. Not bad, but just more of you working out some ideas before you really start. I suspect starting with the next paragraph works better for you. ",
+          "context_left": "erent, more urgent. ",
+          "context_right": ". More specifically,"
+        }
+      ]
+    },
+    {
+      "body": "\tMarly’s worst decision lands us in her new apartment on the outskirts of the University of Pennsylvania. It was a quaint apartment, the white interior walls held up tacky Twilight posters solidifying the house as “Team Owen” and obscure inside jokes. The battered cabinets hold a conglomerate of dishes, most the same variation of the 50 cent Target silverware in the accent color each girl picked out before moving in. The girls– I hate them. There’s Becca: the “We’re 20 why are we worrying about chemistry when we could be drinking”- loud, almost aggrandized sex on weeknights… so much so it keeps Marly awake– roommate. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " lands ",
+          "comment": "Verb tense is switching around. ",
+          "context_left": "rly’s worst decision",
+          "context_right": "us in her new apartm"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The girls– I hate them",
+          "comment": "Ha! Yes, this opening works better for you. ",
+          "context_left": "t before moving in. ",
+          "context_right": ". There’s Becca: the"
+        }
+      ]
+    },
+    {
+      "body": "\t“Marly, girl!” she squealed out as Marly (and I, unknowingly) entered the apartment, suitcase still in hand, “I missed you so much! How was your summer? We need to catch up soon because I have SO much to tell you. You should put your stuff down though, don’t listen to me right now.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " unknowingly",
+          "comment": "Needs more clarification — this implies that the narrator is entering unknowingly. ",
+          "context_left": "out as Marly (and I,",
+          "context_right": ") entered the apartm"
+        }
+      ]
+    },
+    {
+      "body": "\t“ Becca!” Marly replies as her cheeks begin to blush from overstimulation, “I’m good! Summer was busy, fun! But busy. And yea, we need to catch up. I need to put my stuff down and unpack a little, but eventually we should get everyone together for a little wine and movie and debrief.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "yea",
+          "comment": "Dialogue is a little clunky. Not a big deal. ",
+          "context_left": " fun! But busy. And ",
+          "context_right": ", we need to catch u"
+        }
+      ]
+    },
+    {
+      "body": "\t“Ok yes, definitely. But, I have to ask now. So, I was looking at your Instagram and…” Becca pauses to take a breath, signaling she was about to go on another one of her long winded tangents that make my eyes roll into the depths of my skull, “Well I kind of noticed that you deleted all of your photos with Andre. I don’t want to push you to talk about it, ‘cause like I know it’s probably sensitive and you haven’t even put your bags from vacation down, but I just feel like I have to ask in case you need to cry, or like, scream, or smoke a bowl.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tAndre. I hate him. As if watching Marly grow distant from me wasn’t agonizing for me enough, watching him fill the void I once did was enough to be considered a form of cruel and unusual punishment. I despised him for the way he could care for Marly the ways I never could. The new bouquet of lilies and baby’s breath each week, the breakfast in bed, the long hugs each day– the thing I want most in the world. To touch her. I can’t though, none of us can, a rule that, if broken, results in an immediate disconnection. With Andre gone now though, that void in Marly is back open, and with my connection at its weakest, I need to fill it. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Andre. I hate him. ",
+          "comment": "It’s very funny that this narrator (name?) hates all of Marly’s human friends. ",
+          "context_left": "\t",
+          "context_right": "As if watching Marly"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "despised him for the way he could care for Marly the ways I never could. ",
+          "comment": "Interesting hint of sexual jealousy here. Although I don’t quite understand how it will work, I like the idea that touching is possible but would break a rule. ",
+          "context_left": "usual punishment. I ",
+          "context_right": "The new bouquet of l"
+        }
+      ]
+    },
+    {
+      "body": "\t“Oh… yea, we broke up like a month ago. It’s not a big thing though…” ",
+      "annotations": []
+    },
+    {
+      "body": "\tBefore Marly could finish her sentence, Sophia quickly opens her door, revealing she’s been eavesdropping the entire time. Isla’s sneaky like that, a reason I don’t fully trust her. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sneaky like that, a reason I don’t fully trust her",
+          "comment": "Like notices like! I’m noticing that while Becca got a little build-up of an introduction, Sophia did not. ",
+          "context_left": "entire time. Isla’s ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\t“No fucking way I just heard the word break up mentioned in this household without mention of how we’re gonna celebrate!” Sophia exclaimed as she made her way from her room, plopping on the tattered green couch in the center of the living room. ",
+      "annotations": []
+    },
+    {
+      "body": "\tI divert my attention from the girls and peer into Sophia’s room. While doors never stop me, I’ve always gotten an eerie feeling from Isla’s room. As I peer in, I don’t notice anything out of the ordinary. A bookcase filled with every Toni Morrison book imaginable, posters of different variations of flowers and mushrooms covering every inch of bare wall space, warm yellow string lights to counter the harsh white overhead lights. All normal things. I begin to press further into the room until I get that eerie feeling again… the feeling that I’m not alone. I pause, immediately scanning the entire room. Nothing could have prepared me for what I saw, a sight I haven’t seen in a long, long time. There in the corner behind Anna’s record player is a friend just like me. I barely notice them, nearly transparent, blending in with the wall behind them. Their connection is weak, weaker than Marly and I’s. I haven’t seen another friend since Marly was in fifth grade– even then they were a rare sight. As the kids grow older, they push us into the back of their head so far they eventually forget all about us, leaving us to disconnect forever. I’ve been locked away far back in Marly’s mind now for years. The space where you send those memories you’d rather never think about ever again. I love being a part of Marly’s life, but I can’t help the jealousy. Jealousy that other people have been able to walk into Marly’s life and see the happy, go lucky girl I spent years making. Jealous that Marly will never know what it’s like to watch her friends’ connection fade with nothing to do, watching your friends dwindle day by day, while your connection is getting weaker. I’ve become a last resort to Marly, something she’d never dare bring up to any of her friends. Something she turns to when all else fails. The thought of it makes me sick, and that warm sense of anger comes back again. Before I can think into it, the friend in the corner calls out. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "While doors never stop me, I’ve always gotten an eerie feeling from Isla’s room.",
+          "comment": "Keep helping us understand how this works. ",
+          "context_left": "\tI divert my attention from the girls and peer into Sophia’s room. ",
+          "context_right": " As I peer in, I don’t notice anything out of the ordinary. A bookcase filled with every Toni Morris"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lights",
+          "comment": "A really small point but I wondered why two of them seem to be completely moved in but Marly isn’t yet? ",
+          "context_left": "rent variations of flowers and mushrooms covering every inch of bare wall space, warm yellow string ",
+          "context_right": " to counter the harsh white overhead lights. All normal things. I begin to press further into the ro"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like me. ",
+          "comment": "Is Marly new to living with Sophia? I like the idea but am confused about the entire set up of how this works. ",
+          "context_left": "er is a friend just ",
+          "context_right": "I barely notice them"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Marly’s mind now for years",
+          "comment": "That’s super interesting, but also a little confusing — it might be helpful to see the narrator try to interact with Marly before we see her (Marly) with other people? ",
+          "context_left": "ed away far back in ",
+          "context_right": ". The space where yo"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lucky girl I spent years making",
+          "comment": "Nice. ",
+          "context_left": "d see the happy, go ",
+          "context_right": ". Jealous that Marly"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I’ve become a last resort to Marly, something she’d never dare bring up to any of her friends. ",
+          "comment": "Yeah, that might be where to start. ",
+          "context_left": " is getting weaker. ",
+          "context_right": "Something she turns "
+        }
+      ]
+    },
+    {
+      "body": "\t“Man, I never thought I’d see a friend around here.” they cried out. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a friend ",
+          "comment": "This term doesn’t quite do it for me. There are too many other people/beings it means. ",
+          "context_left": "ver thought I’d see ",
+          "context_right": "around here.” they c"
+        }
+      ]
+    },
+    {
+      "body": "\tYou lose enough companions that you stop naming them to protect yourself, so let's call this one X. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I’m usually the only one,” I reply, “You don’t make yourself too visible.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“What’s the point? I could get disconnected any second now. Sophia hasn’t thought about me in months.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“What happened?” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Sophia met her partner, and suddenly she didn’t need me anymore. Look at her,” X said, motioning to look out the door, “there’s no room for me anymore. She lives her life.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“What, so you’ve just given up? You’re just going to throw your whole connection away like that?” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like that?” ",
+          "comment": "I like this dialogue. It might be helpful to think about how it affects the narrator — maybe this is a new idea, or something new to struggle with? ",
+          "context_left": "ole connection away ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“My friend, this is where we differ. In my mind, I’m lucky enough to be around Sophia for this long. I got to watch her find her person, who loves her in all the ways she needs. That’s my purpose.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tI shrivel at X calling me their friend. I haven’t made any friends since I watched all of mine fade away. I am not X’s friend. I never will be. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "am not X’s friend. ",
+          "comment": "I appreciate the strength of this feeling but it doesn’t quite feel justified yet. ",
+          "context_left": "f mine fade away. I ",
+          "context_right": "I never will be. "
+        }
+      ]
+    },
+    {
+      "body": "\tI turn to leave Sophia’s bedroom and head back into the living room to watch Marly. Her suitcase sits in the kitchen, yet to be unpacked as she sits criss-crossed on the couch sandwiched between Becca and Isla. I watch as the tears begin to roll down her face, falling down onto her striped shirt. The same tears she used to let fall at any minor inconvenience– the tears I helped stop, making sure to never touch her. Anna strokes Marly’s hair as Becca blots her tears with a cheap Dollar Tree tissue, a painful sight knowing that’ll never calm her down… it’s like these girls know nothing about her. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "I’m wondering — this is not a question you have to answer here, just wondering — if the strangeness in this relationship is a flaw in the narrator? ",
+          "context_left": " begin to roll down ",
+          "context_right": " face, falling down "
+        }
+      ]
+    },
+    {
+      "body": "\t“Marly, I love you girl, but he’s gone and there’s no use crying over a man, especially a man like Andre.” Becca exclaimed, making eye contact with Sophia over Marly’s shoulders. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“ Becca’s right,” Sophia added, “He’s not worth it. Besides, it’s getting late. You should get some sleep. I think you’ll feel better in the morning.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "“He’s not worth it",
+          "comment": "He did seem kind of worth it? ",
+          "context_left": "ght,” Sophia added, ",
+          "context_right": ". Besides, it’s gett"
+        }
+      ]
+    },
+    {
+      "body": "\t“You’re right, I’m just gonna head to bed. Panera tomorrow?” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Duh!” the girls replied in unison. ",
+      "annotations": []
+    },
+    {
+      "body": "\tMarly barely managed to lift her head enough to walk over to her room and shut the door. The door never stops me, and I watch Marly look in the mirror at her puffy, red face, put her messy hair into a low ponytail, and crawl into bed. No sooner do the tears begin to fall again, only this time harder. I watch as she struggles to catch her breaths as the tears begin to fall harder and harder, turning her pink sheets to a pool. It’s moments like this where I wish I could touch her. Crawl into bed with her, stroke her hair and rub her back until she falls asleep. I know that I should do this out of a place of caring for her. That’s the part X got right. But I can’t help but want to touch her to let her know that this never would have happened if she had never tried to replace me. That if she had just sat with me like she did when she was a child, that I could have prevented all of this. As I watch her fall asleep, that intensity comes back through my body, and I wonder how long I can watch this car wreck of a life go on without intervening, a thought even scary for me. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I think maybe don’t bring up the no touching thing until here. Luna, this is a nice first draft — I’m intrigued by what you’re developing. At this point, I’m not sure you’re going to get a whole novel out of it. It feels a little shallow for that. (It’s not a shallow idea, but I’m thinking about how Toy Story became an adventure — it was not just about Woody’s feelings.) It might be helpful for you to spend some time talking with a friend (or me!) about the world you’re building here. You’re hesitating to figure some of this stuff out and it’s limiting what you can write. Even if you ultimately decide to change things, I think you need some firm decisions about how things work here — and I definitely would like to see some interaction (or refusal of interaction) between Marcy and the narrator. You may have started the story too late — maybe everything’s fine with them until today. Anyway, lots to play with, and it’s going to be super fun! Happy writing!"
+    }
+  ]
+}

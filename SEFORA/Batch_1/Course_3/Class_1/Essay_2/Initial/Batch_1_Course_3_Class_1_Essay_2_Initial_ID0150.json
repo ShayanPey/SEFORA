@@ -1,0 +1,737 @@
+{
+  "paragraphs": [
+    {
+      "body": "L O V E",
+      "annotations": []
+    },
+    {
+      "body": "Interview 1",
+      "annotations": []
+    },
+    {
+      "body": "3:00a.m.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "m",
+          "comment": "I honestly almost always love a story that begins with details like this. ",
+          "context_left": "3:00a.",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "This was it, the Big Show. Gordon was in the bathroom, splashing a little cold water in his eyes, slapping the sides of his face, trying to wake up. What was it the old codger had said?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Show",
+          "comment": "Great to put us in an important day. ",
+          "context_left": "his was it, the Big ",
+          "context_right": ". Gordon was in the "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "old codger ",
+          "comment": "This slightly confused me — I thought this person might be in the story? ",
+          "context_left": "up. What was it the ",
+          "context_right": "had said?"
+        }
+      ]
+    },
+    {
+      "body": "\tI’m afraid I have my rituals. I’m up early, especially after traveling. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThis wasn’t the worst occasion. Charlie Hunnam had once insisted he’d only do the interview as they scaled the side of a cliff. They’d done it, too, how else would people know Gordon Regent was hard as nails? It was hard enough to become famous with the name Gordon, Indiana Jones didn’t go by Hank. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "name Gordon",
+          "comment": "Ha! (I have a dear friend named Gordon, who would agree!) ",
+          "context_left": "ome famous with the ",
+          "context_right": ", Indiana Jones didn"
+        }
+      ]
+    },
+    {
+      "body": "Regent stared into the mirror, shaping his mouth into the words. Hello, I’m Gordon Regent for Regency. Today, it’s my pleasure to bring you…Fidele Allard had dodged interviews for five years, now he came calling looking for one? Three a.m. or not--hell, eight-hour drive into the country or not--Regent wasn’t missing the opportunity. ",
+      "annotations": []
+    },
+    {
+      "body": "He stared in the mirror for a second, fixed his game face, and stepped out into the magnificent wine cellar. It was cavernous, an archive of bottles. Thousands of rows of black shelves shone like oil under warm overhead lighting. Next to one of these shelves Allard waited with a bottle in his hands, wearing an artfully faded purple robe, trimmed with black fur. He examined the label with his fingers.",
+      "annotations": []
+    },
+    {
+      "body": "“It’s beautiful, you see?” He held the bottle up to the light—a line of delicate chandeliers—letting the liquid slosh around over his head. Regent stepped in next to him to squint at the dark puddle in the glass.",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, yes.” Sure, he knew a little about wine. “I like Spanish grapes, I find.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Sure, he knew a little about wine. ",
+          "comment": "This made me laugh. ",
+          "context_left": "“Oh, yes.” ",
+          "context_right": "“I like Spanish grap"
+        }
+      ]
+    },
+    {
+      "body": "Allard hummed. “After a while,” he gestured to the hall of wine, “they all become…so distinct. Each different grape, every flavor. You can taste the stories of the land in the wine.”",
+      "annotations": []
+    },
+    {
+      "body": "“Wow.” Said Regent, and they both nodded like it was true. Allard tenderly fit the bottle back into its slot—where it vanished into long row of identical vintages—and strode deeper into the cellar. Regent followed. The critic’s shoes clicked, echoing off the brick walls. These brogues were uncomfortable, but he always wore them on special occasions (after all, they’d been nearly €2,000). ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ".” Said Regent",
+          "comment": "Punctuation is off Again, I love the tone here — the slight parody of this entire situation. The sucking up. ",
+          "context_left": "“Wow",
+          "context_right": ", and they both nodd"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ". The critic’s ",
+          "comment": "I don’t know which man this is. ",
+          "context_left": "lar. Regent followed",
+          "context_right": "shoes clicked, echoi"
+        }
+      ]
+    },
+    {
+      "body": "Allard padded across the floor, his slippers making less than a rustle on the stones as he flitted from shelf to shelf. Here was the finest orange wine he’d found in Denmark, on a boat with Franklin Richesse and Dona Volko. There was a glossy red Hermitage, a gift from Roman Polanski himself. Across the aisle, he uncorked a red which he’d had as a boy in Poitiers. Producing two glasses from a cabinet, poured the wine, and held one out to Regent, who fiddled with his phone’s recording app. He cleared his throat and started, “Hello, I’m Gord—” Allard pressed a glass into his hand.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hand",
+          "comment": "I guess I thought that they were going to do a television interview. It would be very unconventional (and also illegal) to record without getting the interveiwee’s permission on the audio. ",
+          "context_left": "ed a glass into his ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Gordon Regent: Do you often start the morning with a glass of wine?",
+      "annotations": []
+    },
+    {
+      "body": "Fidele Allard: I’m sorry, is this the beginning of the interview?",
+      "annotations": []
+    },
+    {
+      "body": "Q: I suppose so. Sorry to start off so accusatory.",
+      "annotations": []
+    },
+    {
+      "body": "A: (Laughs) No, no it’s alright. I don’t come down here to drink every morning. No, this--",
+      "annotations": []
+    },
+    {
+      "body": "He looked at the wine in his cup.",
+      "annotations": []
+    },
+    {
+      "body": "A: --this is for my nostalgia. I feel something in this wine, some memory or sensation that I left behind as a young man. Drinking it, I can feel myself scraping the surface.",
+      "annotations": []
+    },
+    {
+      "body": "Allard raised the glass to his lips, and Regent did the same. He took a small taste—it was early, after all—and swirled the liquid in his cup. The director, on the other hand, drained his drink in one and smacked his lips. It was dry and sour, there was little more to say. Allard replaced the bottle and his glass, then pulled another out to show its label.",
+      "annotations": []
+    },
+    {
+      "body": "A: I make sure to keep the shelf stocked.",
+      "annotations": []
+    },
+    {
+      "body": "Q: These are all the same wine?",
+      "annotations": []
+    },
+    {
+      "body": "A: Yes. I normally order in bulk.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "bulk",
+          "comment": "It’s a great detail that he downs the whole glass as that is not how you’re supposed to drink fine wine. ",
+          "context_left": "I normally order in ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Q: What do you mean by nostalgia?",
+      "annotations": []
+    },
+    {
+      "body": "A: I think of Poitiers. The cobblestones, often. Uhm, the full moon, the stars. I think of where I started from and where we’ve arrived. As I say, all very nostalgic.",
+      "annotations": []
+    },
+    {
+      "body": "Q: Incredible, yes. And how does that inform your filmmaking?",
+      "annotations": []
+    },
+    {
+      "body": "A: Everything informs my filmmaking. Memory—memory more than anything else.",
+      "annotations": []
+    },
+    {
+      "body": "Q: Fascinating. Can I ask—may I be so bold, why did you ask for my publication specifically?",
+      "annotations": []
+    },
+    {
+      "body": "A: It is important, to me, to speak to the lower, grounded sources in the media now.",
+      "annotations": []
+    },
+    {
+      "body": "Q: The lower…you’re saying, like, we’re the underground voices?",
+      "annotations": []
+    },
+    {
+      "body": "A: Certainly, in a sense. ",
+      "annotations": []
+    },
+    {
+      "body": "Q: Right, that describes our reporting pretty well, I think. Do you like Regency?",
+      "annotations": []
+    },
+    {
+      "body": "A: Oh. I would say so, yes. I confess, I could not be interviewed on the topic.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the",
+          "comment": "This is such a bad interview, which makes it fun to read. ",
+          "context_left": "t be interviewed on ",
+          "context_right": " topic."
+        }
+      ]
+    },
+    {
+      "body": "Q: Right, yes. Sorry. Your most recent film—Carnelian from 2018—was extremely contentious. Do you fear that this film will be the same?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "same",
+          "comment": "It seemed odd that he didn’t ask about the new film — title, topic, etc first (although perhaps that’s the point, that he’s not a good interviewer) ",
+          "context_left": "is film will be the ",
+          "context_right": "?"
+        }
+      ]
+    },
+    {
+      "body": "A: Ah yes, Carnelian. Well, no one wants to watch the baby die, do they?",
+      "annotations": []
+    },
+    {
+      "body": "Q: I doubt anyone expected quite that many babies, no.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "babies",
+          "comment": "Made me laugh. ",
+          "context_left": "ted quite that many ",
+          "context_right": ", no."
+        }
+      ]
+    },
+    {
+      "body": "A: This is the Hollywood audience. Without the provision of…hm, of scandal, I think, there would be no reason for them to come. No one wants a simple exchange of dialogue, it’s not the point of a story. It’s spectacle, scandal, or—forgive me, I’m rambling.",
+      "annotations": []
+    },
+    {
+      "body": "Q: Not at all, no. Do you like scandalizing the audience? Or, uh, creating that contention?",
+      "annotations": []
+    },
+    {
+      "body": "A: Maybe. Yes, I think it’s important for the audience to confront these things on the screen. Art is the space for us to challenge our interpretation of a religious experience. This is the important part for me, to convey that there is a transcendence to the interaction between director and audience.",
+      "annotations": []
+    },
+    {
+      "body": "Q: Wow.",
+      "annotations": []
+    },
+    {
+      "body": "A: Have another drink with me.",
+      "annotations": []
+    },
+    {
+      "body": "He found another shelf and another bottle. Another glass went down the hatch. Regent took a courtesy sip.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sip",
+          "comment": "I wondered how this worked since his glass would still be full from the first bottle. ",
+          "context_left": "ent took a courtesy ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "A: We must study the things that drive us. I think of my past, my struggles, but also of the things and the people I love. My stories I’ve collected along the way, my loves.",
+      "annotations": []
+    },
+    {
+      "body": "Q: You’ve made several genre-bending films in the past. Yet in the statement you put out, you were very clear that this was going to be a love story. At this stage in your career, are you trying to make a point by telling a more traditional story?",
+      "annotations": []
+    },
+    {
+      "body": "A: “At this stage in my career”? You mean, “Now you’re old” yes? (Laughs) It’s the story I’ve always been telling, I think that to portray love authentically, one must see the whole spectrum of genre.",
+      "annotations": []
+    },
+    {
+      "body": "Q: In your last interview before your hiatus, you had mentioned writing a coming-of-age tale. What came of that story?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hiatus",
+          "comment": "The interview feels a little flat — we don’t have quite enough information to follow and get something out of it. (For example, what if he announces his hiatus in this interview, instead of it being a fact we don’t have and Regent mentions). ",
+          "context_left": "terview before your ",
+          "context_right": ", you had mentioned "
+        }
+      ]
+    },
+    {
+      "body": "A: It became more, it grew. That’s love, yes? Le Seul L’Unique came from it. Because the story is about growing up. Really, it’s a love story, all stories are love stories.",
+      "annotations": []
+    },
+    {
+      "body": "Q: Will you give me an elevator pitch?",
+      "annotations": []
+    },
+    {
+      "body": "A: What do you want—you want a synopsis? Watch the film.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the",
+          "comment": "He’s a jerk here, but it doesn’t register because we don’t see Gordon’s reaction. ",
+          "context_left": "t a synopsis? Watch ",
+          "context_right": " film."
+        }
+      ]
+    },
+    {
+      "body": "Q: What’s it like, dealing with all the pressure of such an anticipated release?",
+      "annotations": []
+    },
+    {
+      "body": "A: Pfah, I anticipate it more than any other person could. This is for lovers, not just film-lovers. There is something for everyone in this story. If they could forget me, they’d still remember this film.",
+      "annotations": []
+    },
+    {
+      "body": "Q: That’s some boast…but you’ve been scant on details to the press.",
+      "annotations": []
+    },
+    {
+      "body": "A: I save my details for the screen. This is a personal work, and I realize it’s…it’s easier to release these personal moments all at once. As an, uh, an outburst, maybe.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "outburst, maybe.",
+          "comment": "While I got a sense of the director as a bit of a jerk, this interview didn’t quite set up the rest of the story for me yet. I’m not sure what Gordon wants/isn’t getting. ",
+          "context_left": "once. As an, uh, an ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "INTERVIEW 2",
+      "annotations": []
+    },
+    {
+      "body": "April 14th ",
+      "annotations": []
+    },
+    {
+      "body": "11:35p.m.",
+      "annotations": []
+    },
+    {
+      "body": "\tKatherine Greene, Allard’s wife, was much more reasonable in her sleep schedule. After the interview, Regent escorted the director back to the main house and spent several hours fending off sleep over too many games of chess. When the rest of the house had begun to wake up, Allard had slapped his knees and stood.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Please excuse me, I’m going to go fix something to eat.” And Regent hadn’t seen him again after that.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "after",
+          "comment": "Very funny. ",
+          "context_left": "dn’t seen him again ",
+          "context_right": " that."
+        }
+      ]
+    },
+    {
+      "body": "The journalist had wandered around the manor house looking for one of the residents. In the third dining room, he found a maid folding tablecloths who told him that he could probably catch Miss Greene out on the porch. Smelling a candid interview, he exited the house onto a wraparound veranda. Soft music, something poppy and bright, drifted from somewhere around the corner of the house. He followed it.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "it",
+          "comment": "It’s not impossible but it seemed odd to me that no help (a PR person, etc.) was there to watch over him. ",
+          "context_left": "ld him that he could probably catch Miss Greene out on the porch. Smelling a candid interview, he ex",
+          "context_right": "ed the house onto a wraparound veranda. Soft music, something poppy and bright, drifted from somewhe"
+        }
+      ]
+    },
+    {
+      "body": "Katherine was there, curled in a wicker armchair, watching birds through a pair of ornate binoculars. She didn’t put them down as he approached, nor when he sat down, so he sat and waited while she gazed at the specks in the sky. ",
+      "annotations": []
+    },
+    {
+      "body": "The woman was gorgeous. Even early in the morning, she was the picture of a starlet. Katherine wore her short hair in simple finger waves, she had a beauty mark on her upper lip, and her eyes were a bright amber. Looking at her, the word “bombshell” ran loudly through his head. She was twenty-nine, a few years younger than Regent and forty-seven years younger than her husband. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ". Even early in the morning, ",
+          "comment": "But it’s 11:30 at night? ",
+          "context_left": "e woman was gorgeous",
+          "context_right": "she was the picture "
+        }
+      ]
+    },
+    {
+      "body": "The story of their marriage was tabloid mythology. While casting his fourth film—Cold Day in Hell (2012)—Allard had made an enormous and extremely public effort to secure the young singer as his heroine. Professional wooing had, at some point, become personal—much to the fury of Allard’s then-wife. One swift divorce later, Cold Day in Hell was in production.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "marriage",
+          "comment": "Yay, backstory! ",
+          "context_left": "The story of their ",
+          "context_right": " was tabloid mytholo"
+        }
+      ]
+    },
+    {
+      "body": " Renowned for her crooning, Katie Greene had become a household name after the catchy single “Wild Darts” before exploding in popularity onscreen for her turn as a doomed drug addict in Cold Day in Hell. Regent had thought that the movie was downright depressing, though she’d been alright. In fact, she’d been excellent, but he was thinking of a different character.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "In fact, she’d been excellent, but he was thinking of a different character.",
+          "comment": "Didn’t follow this. ",
+          "context_left": "she’d been alright. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tIt had come to be a lovely morning, one which Regent was struggling to enjoy without having slept. The comfortable May air did not make life easier for him, nor did the gentle breeze blowing through the trees around them. He gave his wrist a firm pinch. He’d let Allard play coy with plot details, but maybe Katherine would be more forthcoming. If she wasn’t, he decided, he could easily apply the journalistic thumbscrews.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "more",
+          "comment": "I didn’t realize she was in the movie. ",
+          "context_left": " Katherine would be ",
+          "context_right": " forthcoming. If she"
+        }
+      ]
+    },
+    {
+      "body": "\tHe was dozing, nearly, when she turned to face him. “So. You’re here to interview us.”",
+      "annotations": []
+    },
+    {
+      "body": "\tThe words landed like a splash of cold water. “I—yeah, yes. I’m here. For that.” He fumbled with his phone, got the recording started. “Sorry about that.”",
+      "annotations": []
+    },
+    {
+      "body": "Katie Greene: I didn’t expect an interview today, is all. It’s normally a hullabaloo, or I’ve got a movie coming out, or something.",
+      "annotations": []
+    },
+    {
+      "body": "Gordon Regent: Well, you do have one coming out, sort of. Allard has a movie coming out, you’re listed as an executive producer.",
+      "annotations": []
+    },
+    {
+      "body": "A: Yep, I mean, whatever keeps him happy, right?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "keeps him happy, right",
+          "comment": "Ah! Okay. This interview is immediately more interesting. ",
+          "context_left": "p, I mean, whatever ",
+          "context_right": "?"
+        }
+      ]
+    },
+    {
+      "body": "Q: Sure. What can you tell me about it?",
+      "annotations": []
+    },
+    {
+      "body": "A: It’s his thing, you know? If he couldn’t put it into words for you, I don’t wanna try…he’s a visionary, he’s got a vision. With whatever this is that he’s working on—”",
+      "annotations": []
+    },
+    {
+      "body": "Q: Le Seul, l’Unique.",
+      "annotations": []
+    },
+    {
+      "body": "A: l’Unique, right. With l’Unique, he thinks he’s finally found the exact way to communicate his point with the audience. I don’t know, I had the money. Let him.",
+      "annotations": []
+    },
+    {
+      "body": "Q: Let’s talk about your work, do you have any projects underway?",
+      "annotations": []
+    },
+    {
+      "body": "A: Oh, yeah. I’ve got some really exciting things cooking. Let’s see…I’ve been working with a few acting schools. We’ve spoken to Corleyne, Julliard, a handful of influencers, y’know…about creating kind of an online brand for them.",
+      "annotations": []
+    },
+    {
+      "body": "Q: What would that look like?",
+      "annotations": []
+    },
+    {
+      "body": "A: We’re trying to produce shorter, sharper lessons-- ",
+      "annotations": []
+    },
+    {
+      "body": "The music changed. Regent recognized the song, but he couldn’t pin it down. He followed the tempo and trills until he caught up with it—“Adagio for Strings”—and then he realized that Katherine was still talking.",
+      "annotations": []
+    },
+    {
+      "body": "“—main engaged. It’s getting worse every year, everyone says it. But it’s hardest for students to stay focused in school, right? So obviously you have to meet them halfway, find your way into their life.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“And…and the way you do that—” Regent faltered, trying to make it seem that he’d been hearing her.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that",
+          "comment": "Did the format change because you got tired of it, or is it reflective of something that changes in the scene? ",
+          "context_left": "\t“And…and the way you do ",
+          "context_right": "—” Regent faltered, trying to make it seem that he’d been hearing her."
+        }
+      ]
+    },
+    {
+      "body": "\t“Exactly, we already brought them the screen. And the camera. And the microphone. They’re the audience or the performer. The closer that social media comes to the entertainment industry, the better.” She pulled a brightly colored vape bar from her pocket, still in its plastic, and unwrapped it. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“You have a major social media presence already.” Said Gordon, as a plume of cotton candy-scented fog washed his face.",
+      "annotations": []
+    },
+    {
+      "body": "\t“So do you,” she said, pointing at him with the vape, “Mr. Gordon Regent. Esquire before that. Buzzfeed before that.” She sucked on the bar, which glowed pink. “Letterboxd before that. Did you really despise Carnelian so much when it came out?”",
+      "annotations": []
+    },
+    {
+      "body": "\tGordon did not flinch, though it took effort. He pictured The Man With No Name and Eastwood’s fixed jaw. “I was a fledgling reviewer.”",
+      "annotations": []
+    },
+    {
+      "body": "\tShe had a hell of a movie star laugh. He’d never known what the writers meant by ‘tinkling’ before. “You were. You’re better now?”",
+      "annotations": []
+    },
+    {
+      "body": "\tHe rose to the challenge. “I’m the best now.”",
+      "annotations": []
+    },
+    {
+      "body": "\tShe did not laugh this time, only dragged harder on her vaporizer. She tilted her head back, letting the steam ooze out of her nose. At the base of the bar, a red bead of light pointed at him like a laser pointer. With a deep exhale, she coated Regent in blue vapor.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Why did you give yourself a stage name?”",
+      "annotations": []
+    },
+    {
+      "body": "\tThe Man With No Name vanished, Gordon blinked. “Excuse me?”",
+      "annotations": []
+    },
+    {
+      "body": "\tKatie Greene gave him a pitying look. “Come on. Regent?” She waited a beat for him to collect himself, then, “Like sees like, right?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", “Like sees like, right?”",
+          "comment": "This is interesting but I don’t see a connection between them yet so I wasn’t quite sure if she’s f’ing with him or means it. ",
+          "context_left": "ollect himself, then",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“Like sees like,” he repeated. Equals. Gordon bobbed his head, relieved. For a moment, he’d thought that the tenuous balance of the interview had flipped. It was a tricky game, to keep a subject focused on the professional questions but relaxed enough to let the persona slip.",
+      "annotations": []
+    },
+    {
+      "body": "\tHe pulled himself together. “Tell me—ah, let me ask…let me go back to l’Unique—”",
+      "annotations": []
+    },
+    {
+      "body": "\t“To what?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Allard’s film.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Right. The romance.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Is it a traditional romance?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“What do you mean traditional? You mean like Titanic or Moonstruck or something?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“I guess.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Yeah, it’s about a guy and a girl.”",
+      "annotations": []
+    },
+    {
+      "body": "“Is it about the two of you?” Gordon felt himself flush with excitement. Finally, a morsel. Katie Greene’s head lolled to the side. Her eyes slid to his phone. A smile, lazy and mischievous, appeared on her lips.",
+      "annotations": []
+    },
+    {
+      "body": "\t“I shouldn’t say too much.”",
+      "annotations": []
+    },
+    {
+      "body": "\tGordon rushed to reassure her, “He told me he was making a love story.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Did he tell you that all stories are love stories?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“I…yes.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“He likes that line. He believes it, I think.” She was affecting a languid, apathetic tone, but there was something rigid under her voice that snagged in his ears. “Do you know when he first told me about the movie?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“What movie?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“l’Unique.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Right, of course, when did he tell you?” He licked his lips, this was it.",
+      "annotations": []
+    },
+    {
+      "body": "\tShe took another crackling pull from the vaporizer. “He was on mushrooms, or mescaline, or something,” she gave Gordon a look, “He was definitely on something. He called me crying, told me he understood like he’d never understood before. Fidele said he loved me, that he loved our story, that he loved my voice, and he wanted to immortalize it.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hold on, are you saying Le Seul, l’Unique is about you?”",
+      "annotations": []
+    },
+    {
+      "body": "\tKatherine made a little humming sound. “Not my words.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“What were his words?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“He told me that he understands how I feel,” she looked up at the windows of the house, “that…he hadn’t before but now he got it.”",
+      "annotations": []
+    },
+    {
+      "body": "\tThe was a note in her voice that Gordon interpreted as melancholy, and he interpreted that melancholy as a crack in her shield. “You think that he’s going to tell your story in this movie.”",
+      "annotations": []
+    },
+    {
+      "body": "\tShe smiled at him, so dazzling and glamorous that he could not see that there was nothing behind it. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Do you know what I think?”",
+      "annotations": []
+    },
+    {
+      "body": "\tHe leaned forward in his chair, “Tell me.”",
+      "annotations": []
+    },
+    {
+      "body": "\tThe vapors wreathed her head, “I think I’ve heard it all before.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I think I’ve heard it all before.” ",
+          "comment": "What is the “it” she means here? ",
+          "context_left": "wreathed her head, “",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "And with that she rose from her cloud of steam, leaving everything on the table, and left him blinking and breathless on the porch. ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh my God,” said Gordon, near euphoric, “oh my God, did I—” he scrambled for his phone. Already the sheer viral potential of the scoop was dancing through his mind: “Fidele Allard’s Wife Spills the Beans on new film l’Unique” had a ring to it, and then the name Regent would be in the mouth of every cinephile. Why wasn’t the phone turning on?",
+      "annotations": []
+    },
+    {
+      "body": "He stared at it stupidly, squeezing the power button in his hands like he didn’t already know the answer. The screen remained blank. The phone was dead, had been dead, had witnessed nothing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "nothing.",
+          "comment": "This is not the end of this story, it’s just the last time we hear from the Allards. I am working on the ending, and wonder what threads of the plot a reader expects to be most relevant to the final interview (in which Regent is explicitly the interviewee)",
+          "context_left": "dead, had witnessed ",
+          "context_right": ""
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "B"
+      },
+      "comment": "I wondered if she had noticed it. So, it is hard to respond to an incomplete story, which is why I do ask for a full draft. But I’d say here that the beginning and ending set up and continue the idea that this interview is a huge deal for Gordon, but I don’t see that in the interviews themselves enough, especially with him. I actually don’t know that you need the interview with him at all — the interview with her is more effective and more engaging. That’s not to say that the writing is bad, but you’ve effectively captured a pretentious blowhard, so it’s not much fun to read. Whereas once I met her, I was more interested, and I wanted to see Gordon latch on to that a bit more too. That makes the phone incident more effective. I also think it might be helpful to have her not know him at all. The fact that she knows his career makes it harder to pull off that he’s floundering a bit. You’ve done an amazing job of creating this world but it’s also a little inside baseball without a little more help of knowing who these folks are. Interested to see where this goes!"
+    }
+  ]
+}

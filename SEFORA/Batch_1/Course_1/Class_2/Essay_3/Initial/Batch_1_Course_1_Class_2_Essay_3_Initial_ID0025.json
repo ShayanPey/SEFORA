@@ -1,0 +1,136 @@
+{
+  "paragraphs": [
+    {
+      "body": "Pointe Shoes and Blood",
+      "annotations": []
+    },
+    {
+      "body": "Every once in a while, on a boring Sunday afternoon, I decided to clean my bedroom, which I shared with my thirteen-year-old brother. That meant I would clean the closet where the dusty, worn-out ballet point shoes that barely fit me were stored. It wasn’t the pointe shoes that were in the cold, humid, and dust-filled closet; it was my lifelong dream of becoming a professional ballerina dancing in the New York City Ballet. When I encountered the pointe shoes in the dark corner, I reached for them. As I examine them, my chest feels weird. My chest feels warm as if some part of my body sparked the flame of that dream all over again. Feeling nostalgic, I tried the pointe shoes again, but every time I did that, I felt like one of Cinderella’s sisters because they didn’t fit anymore. I only managed to wear the “box” of the pointe shoes. The box at the front is made of layers of fabric, cardboard, and glue, which support the toes and help distribute the weight. I tried to do some steps in the pointe shoes, but as expected, I couldn’t. Not only couldn’t I because more than five years had gone by since the last time I wore pointe shoes, but because they also hurt in the front because of how stiff and strong they were. I quickly took them off as I felt the frustration and anger overwhelm me. But I couldn’t resist traveling back in time to when I danced ballet and the now tight pointe shoes fit like Cinderella’s slippers.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "“box” of the pointe shoes. The box at the front is made of layers of fabric, cardboard, and glue, which support the toes and help distribute the weight. I tried to do some steps in the pointe shoes, but as expected, I couldn’t.",
+          "comment": "Great details!",
+          "context_left": "managed to wear the ",
+          "context_right": " Not only couldn’t I"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "It wasn’t",
+          "comment": "what do you mean by \"it\"?",
+          "context_left": "fit me were stored. ",
+          "context_right": " the pointe shoes th"
+        },
+        {
+          "type": "note",
+          "comment": "I'm interested in this scene! Just remember to keep your verb tense consistent and make it about one moment in time :)",
+          "context_left": "e pointe shoes that ",
+          "context_right": "were in the cold, humid, and dust-filled closet; it was my lifelong dream of becoming a"
+        },
+        {
+          "type": "strikeout",
+          "text": "ut I couldn’t resist traveling back in time to when I danced ballet and the now tight pointe shoes fit like Cinderella’s slippers.",
+          "comment": "",
+          "context_left": "nger overwhelm me. B",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Every Monday and Wednesday at 5 pm, I had ballet classes. I was in Junior 3, which was the highest category for my age. I had danced 5 years before being allowed to dance in pointe shoes, but I always thought I was in pointe shoes too early because I struggled to advance at the same pace my other friends were. The whole period I danced ballet in pointe shoes, I went on relevé, which is to rise up on pointe from flat feet, but the box of the pointe shoe didn’t exactly touch the rubbery, grey floor we danced on as it was supposed to. Other girls made it seem so easy, and what frustrated me the most was that they started at the same time as me. It made me wonder what was wrong with me. As time went by, I started to lose my passion for ballet. Losing that feeling of being inspired made me feel like I was also failing in my mother’s dream. At that time, I didn’t realize I was giving up on my only true passion and hers.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Nice paragraph! Great details :)",
+          "context_left": "touch the rubbery, grey floor we danced on as it was supposed to. Other girls made it seem so",
+          "context_right": " easy, and what frus"
+        }
+      ]
+    },
+    {
+      "body": "I thought I was failing my mother. I have always wondered if quitting ballet disappointed her. My mother danced ballet around the same age as me and stopped. When I was in 5th grade, I remember her taking me and my sister to our first ballet class. It was so spontaneous, but little did I know it was my mom introducing us to her passion, too. My sister quit, but I continued dancing ballet for another six years. After those six years, I didn’t think there would be a moment when I told my mother I wasn’t going to dance ballet anymore. As soon as those words came out of my mouth, it made me feel like I had a wound in my heart and I was going to bleed out. It was the moment my dream died.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "thought I was failing my mother. I",
+          "comment": "Nice transition!",
+          "context_left": "I ",
+          "context_right": " have always wondere"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "As soon as those words came out of my mouth, it made me feel like I had a wound in my heart and I was going to bleed out. It was the moment my dream died.",
+          "comment": "I wonder if this moment should be a story? Could you write a narrative?",
+          "context_left": "nce ballet anymore. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Blood, in this case, didn’t mean a wound was open, just that the doorway of fulfilling my dream closed in the matter of a sentence. I don’t mean real blood. Blood had always scared me. Blood has made me dizzy and sick. Blood means something bad until now. Now, I mean the blood containing the passion that ran through my veins. The passion that also ran through my mother's veins. It showed me how blood refers to my family. Blood is the vital liquid that travels through my veins and arteries, and family is vital to me. Blood is the part of a saying my family has always lived by: \"Everything you do, put your blood, sweat, and tears into it.” When I danced ballet, blood wasn’t only blood coming out of my wounds and blisters; it meant how hard I worked to achieve what I wanted. In the same way, my family has worked throughout the years to achieve what they want, to take care of their families, and to pass on their knowledge, effort, and strength. For this reason, blood makes me feel connected to my family tree. I know that their blood also runs through my veins, and each one of them has contributed to the creation of amazing, hardworking human beings in our family. It makes me feel connected to their wisdom, beauty, and culture that has been passed on from generation to generation.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Now, I mean the blood containing the passion that ran through my veins.",
+          "comment": "Neat! This definition is intriguing :)",
+          "context_left": "hing bad until now. ",
+          "context_right": " The passion that al"
+        },
+        {
+          "type": "note",
+          "comment": "Just keep defining using concrete and specific details! Don't explain :) Create the meaning through definition.",
+          "context_left": "o pass on their knowledge, effort,",
+          "context_right": " and strength. For t"
+        }
+      ]
+    },
+    {
+      "body": "Although it could sound a little disturbing, I quickly realized that the blood wasn’t only related to my wounds when I danced for hours. It demonstrated how passion for ballet was passed on through generations. My grandma put my mom in ballet classes like my mother introduced her daughters to ballet. My grandmother, my mother, and I share a passion for ballet. My blood shares a passion for ballet. The relationship between my mother and how she is my blood—how her blood is the blood that runs through my veins, the blood that shapes me to be the woman she raised alongside my father. The bloody wounds she helped to heal are the blood that has run through our family history.",
+      "annotations": []
+    },
+    {
+      "body": "Pointe shoes always go hand in hand with blood somehow. Professional ballerina’s feet are destroyed, and after a show, they can bleed, but that is the least of their worries. They are doing what they love alongside the people that they love and with the support of their loved ones. Every day of my life I regret quitting ballet. I don’t even remember why I quit in the first place. It is frustrating because I know I could’ve gotten far if I pulled it together, but it taught me something valuable in other aspects of my life. Not everything in life is going to be easy; sometimes, I will encounter painful situations, whether physical, mental, or emotional. Those tough moments will sometimes help me get closer to my goals whenever I encounter an obstacle. But I also need to remember those who come along with the process. Those who support you and direct you towards your aspirations. Mostly, those who support you could be your family or people you consider your family, your blood.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Pointe shoes always go hand in hand with blood somehow. Professional ballerina’s feet are destroyed, and after a show, they can bleed, but that is the least of their worries.",
+          "comment": "Perhaps this information should come earlier in the essay? What if you wrote a descriptive paragraph about it right after your intro? That would intro the notion of \"blood\" that your definition paragraph would _redefine_ in an interesting way.",
+          "context_left": "",
+          "context_right": " They are doing what"
+        }
+      ]
+    },
+    {
+      "body": "I mentioned before that the doorway to fulfilling my dream closed in a matter of a sentence, but I didn’t know then that it was the only doorway I was focusing on. I didn’t look back and noticed how the challenge these pointe shoes gave me allowed me and helped me to open other doors. It taught me the importance of thinking through when deciding and looking for alternatives to achieve my dream. I could still be able to dance in pointe shoes, but at that moment, I got stuck and didn’t think things through. Those pointe shoes in the corner of my dark, humid closet remind me constantly of never shutting the door on that dream, no matter how difficult it gets.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "I mentioned before that the doorway to fulfilling my dream closed in a matter of a sentence, but I didn’t know then that it was the only doorway I was focusing on. I didn’t look back and noticed how the challenge these pointe shoes gave me allowed me and helped me to open other doo",
+          "comment": "I think you're starting to notice some frictions/ideas about blood and your family,  but I'm not sure you've quite discovered the center of gravity for this essay--the one central focusing idea with value, meaning, and purpose (the \"so what\") for an audience larger than yourself. Let's talk about it and then \"map\" this essay!",
+          "context_left": "",
+          "context_right": "rs. It taught me the"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves.": 16,
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea.": 16,
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.).": 13,
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole.": 12,
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole.": 14,
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation.": 13
+      },
+      "comment": "So many fascinating insights and repetitions in this essay! I'm drawn to so many places of heat and energy. I'm particularly taken with the potential relationships/discoveries around the word \"blood\" and can't wait to talk about them. Let's talk about the center of gravity for this essay so that we can decide which parts of this essay are necessary for your essay's purpose and which aren't. Audience is key, here, too. So is the metaphor. What _is_ the metaphor of the ballet shoes? Of blood? So let's talk about those things, too. Also, let's talk about how you can leverage your descriptive and definition paragraphs in this essay to support your essay's central focusing idea :) Well done!"
+    }
+  ]
+}

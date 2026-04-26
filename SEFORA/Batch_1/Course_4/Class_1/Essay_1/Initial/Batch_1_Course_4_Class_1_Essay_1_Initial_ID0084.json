@@ -1,0 +1,372 @@
+{
+  "paragraphs": [
+    {
+      "body": "* This is the beginning of one of the short stories in my collection.",
+      "annotations": []
+    },
+    {
+      "body": "Protégé",
+      "annotations": []
+    },
+    {
+      "body": "\tSunlight yellowed through the window and around the sapling, plunging its roots into its pot’s dirt the way I dive deep enough into memories to drown, praying I never resurface. The plant suffocated between my arms, my hand fastening the strap across the seat. The loudspeaker crackled. “Clear skies in Michigan today. This trip should be about sixty hours and we’re expected to be at Santa Cruz by Tuesday,” the bus driver said. “Thank you for choosing Greyhound.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "yellowed through the window ",
+          "comment": "This opening slightly confused me — how does sunlight yellow? And it felt as if I was inside, watching the light come in through the window, but then I realized I was actually outside, with the sapling. ",
+          "context_left": "\tSunlight ",
+          "context_right": "and around the sapli"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "plunging its roots ",
+          "comment": "This would refer back to the sunlight, which doesn’t have roots. ",
+          "context_left": "around the sapling, ",
+          "context_right": "into its pot’s dirt "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "said",
+          "comment": "Oh, we’re on a bus! Okay. ",
+          "context_left": "ay,” the bus driver ",
+          "context_right": ". “Thank you for cho"
+        }
+      ]
+    },
+    {
+      "body": "The bus moved forward. Outside the window, the terminal transformed into a landscape of false advertising billboards and fields of corn synchronously fluttering in the wind. Inside, a group of children, three rows ahead, shrieked with impatience to their mom. With the plant in my lap, I traced the lines of acrylic paint filling the sides of the pot. Flowers upon trees outside a city displayed in blotches of blue and brown and pink. And with each bump of rough oils I touched, my fingers dragged me back to when I was seven.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a group ",
+          "comment": "How many kids could there be? ",
+          "context_left": "n the wind. Inside, ",
+          "context_right": "of children, three r"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "in my lap, ",
+          "comment": "I feel so uncomfortable for the narrator, holding a tree for 60 hours. I wondered if there’s anyone seated next to them? ",
+          "context_left": "mom. With the plant ",
+          "context_right": "I traced the lines o"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I was seven",
+          "comment": "Interesting that the sapling brings up memories since they didn’t want to experience them, it felt like. I wonder why the tree hasn’t been shoved in an overhead compartment or in the bus’s stomach somehow. ",
+          "context_left": "ged me back to when ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "In the grove of madrones behind our house, Mom and I each placed a palm against a tree’s trunk. Our two blank canvases faced away from the woods, the madrones battling with the clouds to provide us shade. Mom grabbed her brush, dipped in orange paint, and created a stroke. Then, another, until the outline of a tree juxtaposed the white backdrop. Like her and as if the breeze lifted my arm, my brush’s bristles also met the color-lacerated cotton while my lips curved into a smile. From there, every time Mom taught me to paint, I imagined it was what I would do until my life was done.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Our two blank canvases faced away from the woods, ",
+          "comment": "I had a little trouble here — they’re each touching a tree, or the same tree? But getting ready to paint? ",
+          "context_left": "nst a tree’s trunk. ",
+          "context_right": "the madrones battlin"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "From there, ",
+          "comment": "From then? ",
+          "context_left": "urved into a smile. ",
+          "context_right": "every time Mom taugh"
+        }
+      ]
+    },
+    {
+      "body": "\t“I’m sorry, everything that could be done was done,” said the doctor over the phone when Mom died five months back. In my kitchen with the sea salt walls, I sat at the coffee table in my apartment. The clock read quarter to twelve. My heels hovered above the floor. Those words pushed me further into my seat. I just turned twenty-four. I couldn’t make sense of what I felt, even when I mentally prepared myself for this after a year of treatment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "kitchen with the sea salt walls, I sat at the coffee table ",
+          "comment": "There was a coffee table in the kitchen? I would suggest staying with this scene for a little longer — you can get across some very helpful information if you show more of this conversation and how it leads to your MC being on a bus with a tree. ",
+          "context_left": " months back. In my ",
+          "context_right": "in my apartment. The"
+        }
+      ]
+    },
+    {
+      "body": "\tI didn’t speak much to Dad after the divorce. It led to Mom and me moving halfway across North America from Santa Cruz to Detroit for her new job. I called him that night from her house. “So, what happens now?” I asked.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "from her house. ",
+          "comment": "I need some help understanding the proximity the MC had to their mother’s house — I kind of thought they were on the bus to go to the mother’s home. ",
+          "context_left": "lled him that night ",
+          "context_right": "“So, what happens no"
+        }
+      ]
+    },
+    {
+      "body": "\tA pause. “What does her will say?” I put the phone down and fished for it through her drawers. A crumbled-up note shoved in the corner of her nightstand, the will said, along with plenty of other asks, two instructions: to be cremated, then to be turned into a madrone tree, planted in the grove behind our old house.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "our old house.",
+          "comment": "I wondered if we could have more of a conversation with the father as well. Is this the first time they’ve spoken in years? Does the MC want to be comforted and not get it? How does the dad react? ",
+          "context_left": "in the grove behind ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tHer ashes and the seed arrived in the mail, and I booked my bus ticket within the same day, two months from then.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Her ashes ",
+          "comment": "I wondered about this too — if the MC is close enough to the mom’s house to access her will, why didn’t they just go and pick up her ashes from the crematorium? (It may actually be illegal to mail human remains). Also, why buy seeds for a madrone tree? How can her ashes be “turned into” a tree? Does anyone they know own the old house or does the MC have a plan for being able to get on the property in some way? ",
+          "context_left": "\t",
+          "context_right": "and the seed arrived"
+        }
+      ]
+    },
+    {
+      "body": "\tMy nearly broken vent hummed. It synchronized with the bus’s roar to drown out the children’s screams. And the cold air flowed past my view of the dark river of forest surrounding the asphalt road. I kept my right hand hooked onto Mom’s pot, but suddenly the screeching of tires hit me like a right-handed hook. I felt the emergency lights’ click pulse. The bus began grinding to a halt, and we pulled over. I kneeled on my seat for a better view to be met with every other passenger’s head swinging back and forth looking for the same answers I sought. “Sorry folks,” the bus driver said from the speaker, “I’m not sure what’s wrong with the bus, but I’m going to call someone to fix it. Since it’s so late, it might take a while for a replacement bus to arrive.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hooked onto Mom’s pot",
+          "comment": "Okay, so this is the tree grown from seed? I know I’m asking a lot of questions but I’m trying to get across that the story, which probably seems very clear to you, is somewhat opaque to readers still. That’s okay. That’s a first draft. ",
+          "context_left": " kept my right hand ",
+          "context_right": ", but suddenly the s"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "replacement",
+          "comment": "This has happened to me so many times on a bus, I completely bought it. Still a little confused about the relationship with the Dad. It might be a little confusing to have that relationship be fine and the one with Trevor seem much more tense. ",
+          "context_left": " take a while for a ",
+          "context_right": " bus to arrive.”"
+        }
+      ]
+    },
+    {
+      "body": "\tAfter waiting a few minutes, I made a decision out of desperation. I held my phone. Aside from Mom and Dad, my list of favorited contacts contained one other person. I pressed his name, Trevor, and the phone rang. When his voice murmured “hey,” a rush of tenseness pounded to the peripheries of my body.",
+      "annotations": []
+    },
+    {
+      "body": "Hesitant, I said in response, “I need you to pick me up.”",
+      "annotations": []
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "I remembered the day I met him. Four days after Mom’s funeral, I went to church. I grew up mostly Christian, but after Mom and I moved from Santa Cruz to the Midwest, it fizzled out of my life.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Four days after Mom’s funeral",
+          "comment": "I appreciate the time marker here, but I’m really confused about how time is unfolding in the story in general. Have you considered beginning the story here instead of leaping around in time? ",
+          "context_left": " the day I met him. ",
+          "context_right": ", I went to church. "
+        }
+      ]
+    },
+    {
+      "body": "\tSunbeams filtered through stained glass, painting the wooden benches in a mosaic of muted reds and blues throughout the cavern-like building. I was the only one sat in my row, with people slowly filing in for the service. The afternoon air was thick with the incense of old prayers mixed with the scent of polished oak. And another person finally sat on that polished oak to my left. Clean-cut, nice smile, recently hit twenty-eight, Trevor had a conversation with me through our eyes. I followed him home back when I didn’t know where my home was—moving from place to place constantly. Due to circumstance or not, all I saw was a future with him after someone I loved was stripped from my world.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The afternoon air ",
+          "comment": "Interesting (but not impossible) time for a church service. ",
+          "context_left": "in for the service. ",
+          "context_right": "was thick with the i"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "recently hit twenty-eight, ",
+          "comment": "How could the MC tell this by looking at him? ",
+          "context_left": "an-cut, nice smile, ",
+          "context_right": "Trevor had a convers"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "world",
+          "comment": "Maybe it’s because I’m overlapping my reading with what I understood you to be writing about, but I thought that Trevor was going to be the Mom’s ex. If it’s the MC’s ex, I’m not sure we need to see how they met if we’re not going to learn any details. I would love to spend some time just watching this character interact with anyone for more than a sentence or two. ",
+          "context_left": "as stripped from my ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tTrevor picked me up about four hours after the call, and the still broken-down Greyhound bus vanished into the blackness behind us.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "behind",
+          "comment": "Wow, four hours is a long time. ",
+          "context_left": " into the blackness ",
+          "context_right": " us."
+        }
+      ]
+    },
+    {
+      "body": "The smoke from his cigarette, rolling between his index and middle, penetrated the wool of his black flannel the way termites devour logs from inside the cracks. One hand he used for steering, the other for smoking. And when the paper greeted his lips, he inhaled. The fumes leaked to his lungs; his cheeks washed yellow-red, and the smoke fled his mouth and dissolved. He flicked the cigarette, carried by the wind, out of his maroon Buick and onto the never-ending highway no other vehicles rolled across shortly after four in the morning. “Motherfucker,” he whispered, “just passed the exit because they didn’t make it clear enough,” slowing to make a U-turn.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "mouth",
+          "comment": "Just noting that you’ve spent more words on describing Trevor smoking than you have on the conversation with the father. ",
+          "context_left": " the smoke fled his ",
+          "context_right": " and dissolved. He f"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "enough",
+          "comment": "I love this line of dialogue. Really showed me who he is. (Also appreciated that they met in church and yet he curses like this.) ",
+          "context_left": "idn’t make it clear ",
+          "context_right": ",” slowing to make a"
+        }
+      ]
+    },
+    {
+      "body": "\t“Just take a left up here and it’ll be fine.” The occasional streetlamp illuminated the seatbelt clinging to my body and Mom in my lap. I adjusted my feet, sitting in a pool of half-drank water bottles and empty Marlboros swimming around on the floor.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "fine",
+          "comment": "I’m having some trouble tracking the location — the MC got on a bus so presumably near his home. And the bus broke down within an hour or so? But it takes Trevor 4 hours to come and get him. And now the MC seems to know exactly where they are. ",
+          "context_left": "p here and it’ll be ",
+          "context_right": ".” The occasional st"
+        }
+      ]
+    },
+    {
+      "body": "\tHe held out his hand where the beginning of his sleeve of grayscale tattoos rivered up his arm. “One of those packs probably has another,” he said. I sifted through the trash and gave him one feeling heavier than the others.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "he",
+          "comment": "Trevor is really vivid to me. ",
+          "context_left": "\tHe ",
+          "context_right": "ld out his hand where the beginning of his sleeve of grayscale tattoos rivered up his arm. “One of t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "feeling heavier ",
+          "comment": "That feels The leap to “at 23” is again confused. Slow down. You have lots of room to tell this story. You don’t have to leap form information point to point. Just let us watch people talk to each other. What is the MC feeling right now? Is he frustrated or happy to be off that bus? ",
+          "context_left": "sh and gave him one ",
+          "context_right": "than the others."
+        }
+      ]
+    },
+    {
+      "body": "\tAt twenty-three, I opened my art shop. I flew Mom to Grand Rapids so she could be the first customer. Next to an empty dirt field beside an overpass, A New Splash was my project for half a year.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "flew Mom to ",
+          "comment": "Having trouble following the MC’s financial picture — has to take a bus and call an ex for a ride, can afford to fly mom out. ",
+          "context_left": "ened my art shop. I ",
+          "context_right": "Grand Rapids so she "
+        }
+      ]
+    },
+    {
+      "body": "\tThe floorboard squeaked underneath each step Mom took, and the sound reflected onto the many art pieces collected or made by me over the last decade. Her fingers grazed the edges of hand-painted ceramics and framed canvases. She paused in front of a delicate watercolor, her gaze softening from what I hoped was appreciation. For a moment, the shop felt less like a business and a project, and more like a piece of a shared story.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shared",
+          "comment": "This, too, might be a place to open the story. ",
+          "context_left": "e like a piece of a ",
+          "context_right": " story."
+        }
+      ]
+    },
+    {
+      "body": "\t“What’s this?” she said, pointing to a lone flowerpot resting on the bottom shelf. On its sides, pink and brown flowers bunched together under an array of red roofed homes and churches threatening to rip holes in the sky with their spires. The buildings were reflective of the architecture I saw once on an advertisement for traveling to Belgium.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Local artist. I bought it at a show last month. But I don’t know what town is painted on it,” I responded, as she picked up the pot and wrapped her elbow around its waist. I spent countless days renovating and readying the shop, and whenever I felt like stopping, the one key motivator that kept me continuing was just knowing one day I could show it off to her.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "Why did we need to see this scene? ",
+          "context_left": "th. But I don’t know what town is painted on it,” I responded, as she picked up the pot and wrapped ",
+          "context_right": " elbow around its waist. I spent countless days renovating and readying the shop, and whenever I fel"
+        }
+      ]
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "“You can expect Mom’s tree by Tuesday, Dad,” I said into my phone, hanging up, and placing it on the hood of Trevor’s Buick connected to the gas pump. Mom, with her leaves glistening, watched from the passenger’s seat the morning sky background the rural Gas Mart parking lot. Beginnings of autumn smeared across the few soon-to-be orange oaks. I slept maybe three hours in the backseat, Trevor in the front. It was my first time in Missouri.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "pump",
+          "comment": "Was the dad expecting the tree? Is the MC still planning to bring it to him? ",
+          "context_left": "onnected to the gas ",
+          "context_right": ". Mom, with her leav"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Missouri",
+          "comment": "I would like to know more about how Trevor decided to drive Maria to her father’s house. ",
+          "context_left": "as my first time in ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tHe came out of the store holding two tinfoil-wrapped breakfast burritos; I extended my hand. “Maria, you’re lucky I’m even here to give you one of these,” he said tossing one into my palm. “If I didn’t have the time from getting laid off last month, I would’ve made you mail this plant to California instead.” He released the nozzle from the car and placed it back into its slot.",
+      "annotations": [
+      ]
+    },
+    {
+      "body": "* From here, the story will continue with Maria and Trevor driving the sapling across the United States, while explaining her parents’ divorce and her internal decision on why/if she should even bring the sapling to her dad.",
+      "annotations": []
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Elijah, I think the feeling I’m left with at the end of this story’s beginning is intrigued. There’s much here I really would like to know more about — many questions were asked above! I find myself interested in Maria and the people around her (especially Trevor, who really pops off the page). It was a bit of a surprise to me that the MC was Maria — a young woman traveling by herself across the country by bus is unusual, so I assumed she felt she had no choice? But why didn’t Trevor seem like an option? There certainly didn’t seem to be any tension between them when he does arrive. My suggestion is to slow down your retelling. You’re leaping from data point to data point and we’re not being allowed to watch the characters long enough to get to know them and understand what they want. For example, the scene where Trevor and Maria meet was so intriguing — in church!? — but it was over before it really got started, so I haven’t yet understood their connection or why he’d be willing to suddenly agree to drive her across the country. Is he in love with her? Is he just up for whatever? So many questions to explore, which is good because you get to figure stuff out now. You may have your first 50 pages here, actually, as it feels more like a novel to me. Happy writing!"
+    }
+  ]
+}

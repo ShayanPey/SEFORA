@@ -1,0 +1,29 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Academy under the Church - the academic atmosphere under the Gothic architecture I want to express the contrast between the expectation and the reality of the modern use of churches, and to change our understanding of the use of religious architecture by recognizing that the interior of a church can be converted into a teaching building.",
+      "annotations": []
+    },
+    {
+      "body": "I had never set foot in the Cathedral of learning before my sophomore year. At first, I thought it was a tall cathedral with worshippers and chanting. I expected to learn about some of the local religious culture and architectural features of Pittsburgh, after all, I had never seen such a tall church. Because of its Gothic style appearance and amazing height, I became interested in it. I was surprised when I explored this place this semester. I discovered that the Cathedral of learning is a huge teaching building. His interior is filled with many modern facilities but is integrated with all the styles of the original church inside. In each different small room: many wooden prayer pews, wooden lecterns for chanting, metal chandeliers and other church ornaments are rationally used as teaching places. No conflict and perfectly presents the \"Gothic classroom\" style. This reminds me of my hometown, the Sacred Heart Cathedral in Guangzhou, Guangdong Province, China. As the largest stone structure church in China and even Southeast Asia, it has a similar Gothic style and the same stone cone shape as the cathedral of learning. However, the internal structure and use of Sacred Heart Cathedral are mainly in accordance with Christian religious activities, while the Cathedral of learning uses its internal structure as a classroom and the internal use as a learning place. Through the cross-cultural comparison of the above two buildings, I have learned some innovative ideas on resource utilization and breaking traditional concepts. It was thought that the church would serve as a place to spread religious culture and organize religious activities in every part of the world. However, through comparison, I found that cathedral of learning can break the conventional concept and combine the original style of the cathedral building with the elements of the learning place, which is used as a teaching building, which has opened my eyes. I think this exploration experience has made me deeply understand the integration and collision of elements in the utilization of the previous architecture and modernization and taught me to understand and respect some ideas that break the conventions, which has enriched my vision of culture, advancing with The Times and combining ancient and modern.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "after all,",
+          "comment": "After all,",
+          "context_left": "ures of Pittsburgh, ",
+          "context_right": " I had never seen su"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Overall": 5
+      },
+      "comment": "N/A"
+    }
+  ]}

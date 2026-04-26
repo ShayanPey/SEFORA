@@ -1,0 +1,189 @@
+{
+  "paragraphs": [
+    {
+      "body": "When You Realized that Squirrel Hill Does Not Have Squirrel Sometimes, the name of a place does not represent the real appearance of that place. For example, there is a village called “Mars Village” in Hangzhou, Zhejiang. Although this village even has a “Mars road” and “space breeding base”, the gravity is still 1G just like Earth. So it is a lot of fun to discover different places with interesting names and compare their real faces with our imagination. Besides this, the same type of places like parks and neighborhoods in other areas or countries may have opposite purposes because of diverse cultural backgrounds. In this essay, the main idea I want to express is that we should celebrate differences and try to understand and accept them.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "So it is a lot of fun to",
+          "comment": "Therefore, it was a lot of fun for me to...",
+          "context_left": "1G just like Earth. ",
+          "context_right": " discover different "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "You",
+          "comment": "I",
+          "context_left": "When ",
+          "context_right": " Realized that Squir"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "Please add a 0.5'' indentation at the beginning of each paragraph.",
+          "context_left": "ot Have Squirrel Som",
+          "context_right": "Sometimes, the name "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Squirrel",
+          "comment": "Squirrels",
+          "context_left": "n You Realized that ",
+          "context_right": " Hill Does Not Have "
+        }
+      ]
+    },
+    {
+      "body": "When I moved from my hometown, Suzhou, to Pittsburgh as a University of Pittsburgh sophomore, I quickly learned that American place names often hold surprises. Some names show their history, but some really make me confused— Bloomfield, the Strip District, Shadyside. However, nothing intrigued me more than Squirrel Hill. Before I visited, I imagined a small mountain covered in thick pine trees teeming with squirrels. It also might be a natural reserve which is perfect for camping. Its name, after all, seemed as literal as the “Black Wind Hill” in the traditional story. But like many things in cross-cultural life, reality does not match expectations.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "like",
+          "comment": "as with",
+          "context_left": "ditional story. But ",
+          "context_right": " many things in cros"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "show",
+          "comment": "conveyed",
+          "context_left": "rprises. Some names ",
+          "context_right": " their history, but "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "does not match ",
+          "comment": "oftentimes diverged from my expectations.",
+          "context_left": "tural life, reality ",
+          "context_right": "expectations."
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "American place names often hold surprises.",
+          "comment": "the names of US locations oftentimes were full of surprises",
+          "context_left": "uickly learned that ",
+          "context_right": " Some names show the"
+        },
+        {
+          "type": "strikeout",
+          "text": "which is",
+          "comment": "",
+          "context_left": "e a natural reserve ",
+          "context_right": " perfect for camping"
+        }
+      ]
+    },
+    {
+      "body": "When I finally visited Squirrel Hill, I found no pine-covered mountain or chattering squirrels— only a quiet deer grazing near a crosswalk (and this is the sole wild animal I encountered).",
+      "annotations": []
+    },
+    {
+      "body": "Instead of a natural reserve, I found a classic American neighborhood that consists of red-brick houses with sloping roofs and wooden porches. For a moment, I doubted my map—where were the trees and squirrels? As I wandered around, Cafés and bookstores lined the streets, and students from nearby universities sipped coffee while typing on laptops. Where I had imagined a forest, there was a community. Where I expected squirrels, there were only street signs bearing their name. Maybe the squirrel-shaped bicycle racks on the side of the street are the most “squirrel” thing here. This reminded me of Suzhou’s 金鸡湖, golden cock lake in English, a place whose name is based on ancient folklore.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " of",
+          "comment": "consisted of - please use the past tense consistently throughout the paragraph.",
+          "context_left": "orhood that consists",
+          "context_right": " red-brick houses wi"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": " a place whose name ",
+          "context_right": "based on ancient fol"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " are",
+          "comment": "were",
+          "context_left": "e side of the street",
+          "context_right": " the most “squirrel”"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "“squirrel” thing",
+          "comment": "\"squirrelly\" thing",
+          "context_left": "street are the most ",
+          "context_right": " here. This reminded"
+        }
+      ]
+    },
+    {
+      "body": "In Suzhou, my family lived in a 小区(Xiaoqu, Chinese apartment complex) named “Golden Harmony Gardens,” though there was nothing particularly golden or harmonious about its concrete apartment buildings. Like Squirrel Hill, it was a community—but one shaped by different rhythms, spaces, and rules. What made Squirrel Hill and Xiaoqu different was the personal living space and the architecture. People in Squirrel Hill, or I should say in America, always live in a single-family home with a small garden at the entrance. But in Xiaoqu, people live in tall residential apartments, usually with a small balcony. The smaller personal space for people who live in Xiaoqu makes them more likely to interact with their neighbors. Of course, the difference between the two communities is not only from the perspective of buildings but also the cultural traditions. In Squirrel Hill, neighbors bonded by Steelers games and pumpkin spice lattes; in Golden Harmony Gardens, connections formed by dumpling-making during Spring Festival or complaints about broken elevators.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is not only from ",
+          "comment": "not only emerged from the perspective of buildings but also from their distinct cultural traditions.",
+          "context_left": "the two communities ",
+          "context_right": "the perspective of b"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "were bonded",
+          "context_left": "rrel Hill, neighbors",
+          "context_right": "bonded by Steelers g"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "were formed",
+          "context_left": "Gardens, connections",
+          "context_right": "formed by dumpling-m"
+        }
+      ]
+    },
+    {
+      "body": "Living in both places, I began to see these differences not as flaws, but as answers to the same human question: How do we belong? …",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "How do",
+          "comment": "Where",
+          "context_left": "ame human question: ",
+          "context_right": " we belong? …"
+        }
+      ]
+    },
+    {
+      "body": "Observing the differences in residential structures helped me appreciate how cultural and societal factors influence urban planning. For example, the naming of “Squirrel Hill” shows how names can sometimes carry symbolic or historical significance rather than being literal…",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "Please add more sentences to enrich the content of this concluding paragraph.",
+          "context_left": "ence urban planning.",
+          "context_right": " For example, the na"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": 100
+      },
+      "comment": "N/A"
+    }
+  ]
+}

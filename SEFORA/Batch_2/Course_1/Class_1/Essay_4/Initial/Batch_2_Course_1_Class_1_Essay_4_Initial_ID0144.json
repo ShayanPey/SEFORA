@@ -1,0 +1,93 @@
+{
+  "paragraphs": [
+    {
+      "body": "I walked onto the field as the bolling Louisiana sun hit my back. The crisp summer air sharpens my lungs. Each step feels heavier as I get closer to the center circle. Sweat drips down my skin as there is nothing but anticipation. My breathing intensifies, knowing what is about to come. I feel my heartbeat thumping throughout my body. I bend over to tie my shoe once more. My knee feels the flawless golf course grass. I loop my laces just as I have done thousands of times before. I put my hand against the fresh grass and switched to my other knee. I finish tying my shoes as the refs come onto the field. All the parents, coaches, and the 22 players on the field watched intently as the referee walked over. He had three balls, all identical to him. The balls were white with blue and red stripes around them. As he got to the center circle, he dropped one ball, went to one side, punted the ball to the goalie, and did the same for the other. He then pointed to the goalies, ensuring they were ready to play. I looked at my teammate who played next to me, and as we did before every game, we dapped each other up. I took one more deep breath, and the ref blew his whistle. I close my eyes and hear the screeching sound, and the anticipation is gone.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I ",
+          "comment": "",
+          "context_left": "t is about to come. ",
+          "context_right": "feel my heartbeat th"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "looked at my teammate who played next to me, and as we did before every game, we dapped each other up.",
+          "comment": "Nice voice :). Great detail",
+          "context_left": "re ready to play. I ",
+          "context_right": " I took one more dee"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Sweat drips down my skin as there is nothing but anticipation. My breathing intensifies, knowing what is about to come. I feel my heartbeat thumping throughout my body.",
+          "comment": "Great details!",
+          "context_left": " the center circle. ",
+          "context_right": " I bend over to tie "
+        },
+        {
+          "type": "note",
+          "comment": "Keep your verb tense consistent throughout :)",
+          "context_left": "intently as the referee walked",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Cradled between the shin and the thigh, a humble hinge that quietly folds. It does not get the notability of the beating heart, it does not stretch like a big muscle, it doesn't get the prominence of the thinking brain, yet it carries us every step with a silent strength. It gives us the ability to leap to the skies and dip below. It gives a firm platform for our falls so we get back up. On its best day, it goes unnoticed; it bends with grace and rises with veracity. It is a stoic servant to the body. It takes on damages of brutal scrapes and twists in unnatural ways, but sometimes, it cannot hold firm. The cuts and twists grow too much, and then it gives. There is a pop! You know it's over; you fall to the ground in insufferable pain. You've seen it a dozen times and heard about it plenty more. You never think it happened to you until it does. You slam your fist into the ground, knowing instantly what has happened. Tears stream ever so slightly down your cheeks, trying to stay strong in the midst of defeat. A crowd gathers and mummers as all you can do is sit in your brokennesses.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Cradled between the shin and the thigh, a humble hinge that quietly folds. It does not get the notability of the beating heart, it does not stretch like a big muscle, it doesn't get the prominence of the thinking brain, yet it carries us every step with a silent strength.",
+          "comment": "Fascinating! I'm so curious about the shift in focus, here. I wonder what your knee is a metaphor for?",
+          "context_left": "",
+          "context_right": " It gives us the abi"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "There is a pop! You know it's over; you fall to the ground in insufferable pain. You've seen it a dozen times and heard about it plenty more. You never think it happened to you until it does. You slam your fist into the ground, knowing instantly what has happened. Tears stream ever so slightly down your cheeks, trying to stay strong in the midst of defeat. A crowd gathers and mummers as all you can do is sit in your brokennesses.",
+          "comment": ":(       I wonder, though, if this experience should be in its own paragraph (perhaps narrative?)",
+          "context_left": " and then it gives. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Returning meaning is to come back to something. People return every day: returning home from work, returning to their favorite restaurant, returning to a favorite vacation spot, or returning home for the summer. Returning is a constant part of the human experience. When you return somewhere, there is a reason. When you return to work, you do it so you can provide financially. When you return to a favorite restaurant, it is so you can enjoy their food. You return because there is something valuable in what you are returning to. I tore my ACL in August of 2024. It was ironic when I tore it because I had played competitive sports for my whole adolescence, and when I finally finished playing competitively, my first serious injury happened. I did all the things you were supposed to do; I got surgery and participated in physical therapy. I went through the motions, trying to repair myself back to whole. I was inconvenienced by it; I had an annoying brace, walked on irritating crunches, and showering was never fun, but there was no competitive soccer it kept me from. It was just something that I had to deal with. A few months went by, and then the middle of November came. In previous years this was when the soccer season began. My body, as is done every year, started to prepare. Unfortunately, there was nothing to prepare for. I got the indescribable itch to put on my boots and head to the field. Instead, there was nothing to do but crunch my way to class. In class, I fortuitously looked up the dates for U19 regionals. It was June 13th when the first game took place. I did some quick math and realized if my recovery went well, I would be back healthy by the beginning of May. Giving me enough time to practice with my team and get back to form. So, I decided to take my recovery seriously because I had something to return for. Since that class, I have lifted, done agility work, ate right, and trained almost every day. I set my return to play with my team and have the feeling of walking onto that grass one more time.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " Returning is a constant part of the human experience.",
+          "comment": "I think there's even more to explore with the word \"return.\" What does return, in all its forms and associations bring up for you? Let's do a deep dive, here, in our conversation :)",
+          "context_left": "home for the summer.",
+          "context_right": " When you return som"
+        },
+        {
+          "type": "note",
+          "comment": "I'm interested in this word! I wonder, though, how you might _leverage_ your definition to create greater emphasis on your essay's large subject?",
+          "context_left": "Returning meaning is to come back to something. People return every day: returning",
+          "context_right": " home from work, ret"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves. (20)": "N/A",
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea. (20)": "N/A",
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.). (15)": "N/A",
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole. (15)": "N/A",
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole. (15)": "N/A",
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation. (15)": "N/A",
+        "TOTAL": "N/A"
+      },
+      "comment": "This is a great start. There's a lot to talk about and explore, here. Let's talk about the metaphor of your object...and is it the \"right\" object? And is this paragraph about the knee a descriptive paragraph? Also, let's explore \"return\" from more angles and perspectives. I bet, once we figure out your essay's large subject and \"map\" your essay, you'll be able to leverage your definition paragraph with better concrete and specific details to reveal and complicate your essay's central focusing idea and purpose. I look forward to our conversation!"
+    }
+  ]}

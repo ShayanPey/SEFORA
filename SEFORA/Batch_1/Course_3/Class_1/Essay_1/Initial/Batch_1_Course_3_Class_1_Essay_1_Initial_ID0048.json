@@ -1,0 +1,397 @@
+{
+  "paragraphs": [
+    {
+      "body": "Singer, Actress…Whatever",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "tever",
+          "comment": "Fun title. ",
+          "context_left": "Singer, Actress…Wha",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "They met in college as most people she figured do nowadays. A cliché at its finest, he  lived across the street and saw her struggling to move her ridiculously large bedframe up the stairs to her brand new studio apartment by herself and had rushed to offer his assistance. Violet was determined not to need it, she was an independent woman after all. After a hasty attempt to maneuver the box around the corner of the winding staircase and almost breaking her neck in the process she decided that maybe this one time she would benefit from the giant offering her a hand. She figured at the very least, if the box fell, it would probably do less damage to him. Relinquishing her pride, they each took an end and eventually were able to get it into her apartment. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "owaday",
+          "comment": "Maybe the time period is not current, but I’d just note that many people met in college way before 2024. Including my parents! :) ",
+          "context_left": "ple she figured do n",
+          "context_right": "s. A cliché at its f"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "assistance",
+          "comment": "But this isn’t meeting in college! They met in the neighborhood. ",
+          "context_left": "rushed to offer his ",
+          "context_right": ". Violet was determi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "apartment",
+          "comment": "Honestly, bed frames are huge. It’s hard to imagine she could have done this without him. ",
+          "context_left": "nd saw her struggling to move her ridiculously large bedframe up the stairs to her brand new studio ",
+          "context_right": " by herself and had rushed to offer his assistance. Violet was determined not to need it, she was an"
+        }
+      ]
+    },
+    {
+      "body": "She was surprised at how easily their conversation flowed, it was a rare occurrence for her to meet someone that coaxed the less uptight version of herself out. She was typically labeled “too much” and her friends would say that she had an almost uncanny intensity about her and that was the reason that people were put off by her. But with Lincoln it had been different, they had always been friendly with each other, just neighborly. It was like when you knew of someone and maybe had even crossed paths with them a few times but who they actually were was a mystery waiting to be solved. They would pass each other on the street and exchange a casual but pleasant “Hi, how are you” but would never really stand around and talk about much of anything. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "put off by her. ",
+          "comment": "That definitely does tie back to her thinking she could move a bed by herself! ",
+          "context_left": "on that people were ",
+          "context_right": "But with Lincoln it "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "they had always ",
+          "comment": "I was confused by this phrasing — didn’t they just meet? How could he have always been friendly with her? ",
+          "context_left": "had been different, ",
+          "context_right": "been friendly with e"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "anything",
+          "comment": "Confused by this too — they rarely talk but he coaxes out a less uptight version of her? The flow of time is perplexing in the story. Also, just noting that they did not seem to have met in college? ",
+          "context_left": " talk about much of ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Until the day he offered to help her. It just happened to be one of the hottest days of year, then again mid-July was always scorching but  that day was particularly scalding, and of course the ancient apartment buildings didn’t have any kind of central air. That was all she could afford at the moment but the historic buildings had sort of a rustic charm to them that she was trying to get used to. So, he asked if she wanted to come over for a beer. It was hot, the beer was cold and a little bit of booze always took the awkwardness out of any situation. At this point, violet figured that she really had nothing left to lose and decided that she would take a chance and see if he was worth spending time with. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", he asked if she ",
+          "comment": "Why would her inability to afford a bigger apartment be why he asked her over for a beer? ",
+          "context_left": "g to get used to. So",
+          "context_right": "wanted to come over "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to come over for a beer",
+          "comment": "Okay, so this is a different story than the day he helped her with the bed? They’ve been living nearby for a while?Inviting someone over for a beer really feels like a hook up attempt. I mean, more power to her. ",
+          "context_left": "asked if she wanted ",
+          "context_right": ". It was hot, the be"
+        }
+      ]
+    },
+    {
+      "body": "Maybe it was that he played the guitar or that he had just radiated a calm energy, but she felt inexplicitly drawn to him. Intellectually, their conversations had flowed with ease. Her deadpan and his dark humor surprisingly fit together in an unexpected but satisfying way. Violet had often considered herself to be somewhat of a chameleon, always shifting and changing depending on who she was with. Her mother had always said she was going to be an actress, with how easily she was able to switch her mood depending on the situation. If it called for tears, she could cry on demand and if she needed to be happier than ever she could do that too. This “talent” was a blessing and a curse as she often got lost in herself and struggled to understand even who she was. Then again, so was he. It seemed that every couple months Lincoln had a new haircut, and his style was everchanging. He always seemed to have a new hyper fixation, sometimes she wished it were her. Violet just figured it was the college state of mind, the one where everyone is evolving and just trying and failing to find their niche. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "inexplicitly drawn to him",
+          "comment": "This makes more sense if it’s noted when he helps her move the bed. Here, she’s not that drawn to him if it’s weeks later and he had to invite her over? ",
+          "context_left": "nergy, but she felt ",
+          "context_right": ". Intellectually, th"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "their conversations had flowed with ease",
+          "comment": "Could we watch this scene, and overhear what they say to each other? ",
+          "context_left": "im. Intellectually, ",
+          "context_right": ". Her deadpan and hi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "This",
+          "comment": "This feels somewhat different than the uptight girl described earlier. ",
+          "context_left": " could do that too. ",
+          "context_right": " “talent” was a bles"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "niche. ",
+          "comment": "I can’t quite figure out if she knows this guy well or not at all. ",
+          "context_left": "iling to find their ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "When she had first met Lincoln, she didn’t believe that he could play the guitar at all. she had honestly just thought that it was another one of those lines that guys typically said in order to get a girl to go home with them and then they would sit there and play one chord mediocrely at best and expect her to swoon. She’d been in that specific situation a few too many times unfortunately, and it was always pathetic. That was until she had heard him play on his porch across the street a few days after she had moved in, it was hypnotic, smooth and haunting. The sound was like something she would have sung to, if she still sang that is. When she heard it, she stopped dead in her tracks and stood at the entranceway to her building for far longer than she should have just hoping that the music wouldn’t stop. It was the first time in years that she was inspired to sing again and she wanted to hold onto that feeling for just a moment longer, it was intoxicating and addictive. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "swoon. ",
+          "comment": "Ha, yes, that type. ",
+          "context_left": "t and expect her to ",
+          "context_right": "She’d been in that s"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "smooth and haunting. ",
+          "comment": "I would love to see this scene as it happened, too, not just in memory. What if she moves in, he helps, she rebuffs him, then later that night she hears him playing? ",
+          "context_left": "n, it was hypnotic, ",
+          "context_right": "The sound was like s"
+        }
+      ]
+    },
+    {
+      "body": "That was one of the reasons she sang, music had always called to her, it was seductive and dangerous like a lover that she just couldn’t shake. Which was, unfortunately, also one of the main reasons why she knew she could never go back. She had closed that chapter after making one of the worst decisions of her life. Never wanting to relive that fateful moment, she had abandoned the idea all together. Bad decisions make good stories later, at least that is what everyone in her life had always told her. Violet very rarely made a bad decision, but when she did it had catastrophic consequences and she swore she wouldn’t give into the temptation again. But he was starting to make her want to. She was just about to press the code to get into her building when she heard her name being called from across the road and when she looked up Lincoln was flagging her down. She grinned and waved and he said, ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "music had always called to her",
+          "comment": "This somewhat contradicts the prior paragraph’s statement that she hasn’t sung in years. ",
+          "context_left": "e reasons she sang, ",
+          "context_right": ", it was seductive a"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "worst decisions of her life. ",
+          "comment": "Sounds interesting. Maybe we could read about that? ",
+          "context_left": "r making one of the ",
+          "context_right": "Never wanting to rel"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "told her",
+          "comment": "There are multiple references in this story to other people in her life, yet we don’t really sense them. She seems very alone. ",
+          "context_left": "her life had always ",
+          "context_right": ". Violet very rarely"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "consequences and she swore ",
+          "comment": "Maybe that’s the more interesting story to tell us? ",
+          "context_left": "it had catastrophic ",
+          "context_right": "she wouldn’t give in"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and",
+          "comment": "Wait, is this before or after she had a beer with him? ",
+          "context_left": "That was one of the reasons she sang, music had always called to her, it was seductive ",
+          "context_right": " dangerous like a lover that she just couldn’t shake. Which was, unfortunately, also one of the main"
+        }
+      ]
+    },
+    {
+      "body": "“Hey, what’s going on? I haven’t seen you in a while…” ",
+      "annotations": []
+    },
+    {
+      "body": "“Honestly, I’m just trying to keep my head above water with the start of the semester and working two jobs… but  I heard you playing and you’re actually starting to sound somewhat decent.” She replied ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "decent.” She replied ",
+          "comment": "Why is she kind of nasty to him? If she really likes him and the music? ",
+          "context_left": "g to sound somewhat ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Only somewhat?” He grinned and raised a subtle questioning brow. ",
+      "annotations": []
+    },
+    {
+      "body": "She didn’t even know how to respond she just looked at him wide-eyed, flustered. He laughed and then said, ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I’m just messing with you, but seriously do you want to come by later?” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hmm tempting, what’s happening later?” She replied ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Nothing much just having a few friends over, maybe having a drink or two. You should come though, it’s been awhile since we’ve hung out and I figured that this was the time especially because it’s not too deep into the semester.” He said. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "maybe",
+          "comment": "Is this the beer we’ve been told her asked her to have a couple of pages back? ",
+          "context_left": "a few friends over, ",
+          "context_right": " having a drink or t"
+        }
+      ]
+    },
+    {
+      "body": "She thought about this for a second, and the longer she thought about it the longer she figured well, ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Fuck it, why not.” She shrugged ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Amazing, you free at seven?” He shoved his hands in his pockets, while waiting for an answer. ",
+      "annotations": []
+    },
+    {
+      "body": "\tShe pretended to think it over, and then said ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I  can do 8?” It was only four and she didn’t have anything else to do with her night but he didn’t need to know that. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that",
+          "comment": "She’s so manipulative towards him! Hard to parse whether I’m rooting for her or not. ",
+          "context_left": "didn’t need to know ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\t“I’ll take what I can get, 8 it is.” He nodded and then said, “So, I’ll see you at 8 then?”\n\t“Yep, you better make it worth my while.” She sauntered into the building, feeling not at all as confident as she looked. Violet had no idea what the night would hold but as much as she didn’t want to admit it, she was excited to see where it went. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "went",
+          "comment": "Okay, so this is the first time they’ve hung out? ",
+          "context_left": "ted to see where it ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tWhen she walked into his apartment, one that she’d never been into before even though he had seen all of hers she wasn’t surprised that it had a skater boy chic aspect to it. There were old records everywhere, which didn’t surprise her at all and faded rockstar posters that she bet he thought were unique but she had seen in pretty much every male dominated space she’d been in. What she wasn’t expecting was to want to spend more time with him even after all his other friends had left. She didn’t expect the clock to turn to two in the morning and then to five thirty. Sitting on his couch she turned to him, his arm had somehow managed to wrap itself around her torso and she said; ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "didn’t surprise her at all ",
+          "comment": "She seems very unsurprised by him. ",
+          "context_left": "s everywhere, which ",
+          "context_right": "and faded rockstar p"
+        }
+      ]
+    },
+    {
+      "body": "\t“Let’s watch the sunrise.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“It can’t be that late yet Violet, we only just sat down.” He said back",
+      "annotations": []
+    },
+    {
+      "body": "She twisted in his arms and grabbed her phone from off the table to show him indeed just how late it had gotten, to which he replied ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "replied",
+          "comment": "This moment is really nice — the dialogue and action make sense. I’ll just note that it’s confusing that the narrator tells us how great their conversations always are, and then this is the first time they’ve actually conversed? ",
+          "context_left": "gotten, to which he ",
+          "context_right": " "
+        }
+      ]
+    },
+    {
+      "body": "\t“Holy shit, how have we been talking this long?” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I don’t know but we might as well take advantage of it.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Well to quote you… fuck it, why not.” He grinned at her and she felt her heart drop to her stomach. ",
+      "annotations": []
+    },
+    {
+      "body": "They both grabbed their coats, as it was the time of year where the mornings were just a bit crisp and the leaves were all on the cusp of melting into the vibrant reds, oranges and yellows that made fall Violet’s favorite season. She also knew the perfect spot to take him to see the sunrise over the city. There was nothing more perfect then seeing the sun break through the skyscrapers and through the trees, lighting up the sky in the most astounding way. As soon as they made it to what she liked to call her secret sunrise spot, she found the rock that she usually sat on and crossed her legs just as the sun was starting to peak up over the horizon. He sat down next to her, his presence thick in the September air and they didn’t need to say two words to each other they just had to exist. And when the sun finally did begin to fully rise, she turned to him and said;",
+      "annotations": []
+    },
+    {
+      "body": "“Isn’t it amazing?” ",
+      "annotations": []
+    },
+    {
+      "body": "His eyes never leaving hers he said, ",
+      "annotations": []
+    },
+    {
+      "body": "\t“It’s perfect.”  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "It’s",
+          "comment": "It’s a nice moment. I like that she was sincere with him. ",
+          "context_left": "\t“",
+          "context_right": " perfect.”  "
+        }
+      ]
+    },
+    {
+      "body": "Five Years Later ",
+      "annotations": []
+    },
+    {
+      "body": "Violet had always wondered what it would be like to be a star, to be known to the world. She wondered what it would be like to get recognized on the street or have someone come up to her and ask if they could take a picture with her. Of course this was assuming that stardom would be considered a good thing, in her case Violet had achieved her dream of being a “star” but in a catastrophic way. Once, she dreamed of traveling the world and walking on luxurious red carpets wearing clothes from designers she could only wish to be able to afford. Instead her she sat, closed and contained behind the four walls of her bedroom and blackout curtains, paparazzi waiting outside to see if she would slip and walk out. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and walk out. ",
+          "comment": "We don’t need this jump forward in time. It’s confusing and doesn’t help us understand the main plot line. ",
+          "context_left": "e if she would slip ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Violet knew better though, she wasn’t going to be torn apart by the internet for her looks, or lack thereof or whatever else cruel people in this cruel world would deem her. She had achieved her dream, the whole world knew her name now. Ruthless, that was the only word she could think of to describe how vicious people could be when protected by a faceless Instagram profile, she often wondered would they dare say half of the nasty comments they were bold enough to say on the internet to her face? She highly doubted it. She never knew that one night, a stupid decision and a man who turned out to be not who she thought he was would change her life in such a drastic way. In some ways, she figured that this had been a long time coming, she was due for some cosmic justice but she just didn’t think it would come in this strong. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dream, ",
+          "comment": "No sense of what that dream was. Dreams don’t just happen — they take work. We didn’t see any of that. ",
+          "context_left": "he had achieved her ",
+          "context_right": "the whole world knew"
+        }
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "What happened to the guy? So, Elias, this story really feels like a first draft. That’s not bad! But it is all over the place. I had trouble locating the main plot, the story you wanted to tell. There’s a strange thread throughout where you tell us something happened, then you tell us again in another way, and then you actually show us the thing happening — specifically, the first conversation between Violet and her beau. So the story has a stop & start feel that makes it hard to grab onto. I also feel you searching for this character, Violet. You assert multiple different, contradictory things about her (she lives for singing, she’s given up singing, she has lots of friends and family, she alway son her own). Even the initial assertion of the story, that these two met in college, turns out not be true. So the story does have a flailing around feel to it. I would suggest that you stop and think about who you want to write about. Who is the Violet that intrigues you? What does she want? In this story, she eventually wants the guy, but that works out really easily for her. What might you be able to build a conflict out of, something that moves the story forward? For example, you might have him offer to help her move her stuff in. She might absolutely refuse, since she is an independent woman. And then he finds her rude. So every time they run into each other, it goes badly. Until something changes that? Or you could have them hit it off right away and all is good until she hears him play the guitar. Realizing he’s good makes her abandonment of singing even more painful and she feels she can’t be with him. Or… your call. But a simple plot, told over just a couple of days will really help you. Who is Violet?"
+    }
+  ]
+}

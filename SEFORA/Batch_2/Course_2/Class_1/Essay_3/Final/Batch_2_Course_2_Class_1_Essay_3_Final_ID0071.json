@@ -1,0 +1,116 @@
+{
+  "paragraphs": [
+    {
+      "body": "Generative AI and Academic Integrity: Rethinking the Boundaries of Plagiarism in Higher Education. Introduction: Artificial intelligence tools (AI tools) such as ChatGPT are transforming higher education rapidly. It has been developed from an experimental tool into an academic assistant since it was published in 2022. Many students rely on AI to support their studies. On the one hand, these tools are able to be teaching assistants that give personalized help (Chiu, Thomas KF, et al. 2024). On the other hand, they can be used for cheating (Lee, V. R., Pope, D., Miles, S., & Zárate, R. C. 2024), especially in math problems and writing assignments that students might get without understanding the basic ideas.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Introduction:",
+          "comment": "Please center align the level 1 headings according to the APA 7th handout.",
+          "context_left": "lagiarism in Higher Education. ",
+          "context_right": "Artificial intelligence tools "
+        }
+      ]
+    },
+    {
+      "body": "ChatGPT can create whole essays with good structure and logic with a few prompts (Harvard Summer School, n.d.). It can also analyze problems and write well-developed code. Distinguishing the difference between manual work and AI-generated work is becoming harder. For example, a student at Columbia University was caught using AI during an Amazon internship interview to help solve LeetCode programming challenges in February 2025. This event was discussed widely on social media, making people think about when and how AI should be used in tests and evaluations.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "whole",
+          "comment": "complete",
+          "context_left": "ChatGPT can create ",
+          "context_right": " essays with good st"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "For example, a student at Columbia University was caught using AI during an Amazon internship interview to help solve LeetCode programming challenges in February 2025. This event was discussed widely on social media, making people think about when and how AI should be used in tests and evaluations.",
+          "comment": "Please add in-text citations to justify each claim.",
+          "context_left": "is becoming harder. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "In response, colleges are beginning to rethink their approach to AI tools. Many schools are updating their academic honesty policies for the AI age. Research shows that while AI can help students work faster, it might also reduce their ability to think on their own (Knapp, 2025). As AI-generated content becomes more indistinguishable from human work, maintaining academic integrity and clearly defining plagiarism become increasingly critical issues. Finding the right balance is important.",
+      "annotations": []
+    },
+    {
+      "body": "This paper explores the benefits and drawbacks of AI tools in academia, with a particular focus on how they challenge the definition of plagiarism, and argues that institutions must establish clear, flexible guidelines to ensure these tools enhance, rather than hinder, students’ learning and development. 1. Impact of AI tools on academic work AI tools are changing learning and teaching methods in higher education. According to Stohr et al.'s (2024) study, more than a third of university students worldwide regularly employ AI tools in their studies, though usage patterns vary significantly between different fields of study. Additionally, Students primarily use these tools for academic tasks, such as drafting writing frameworks, comprehending complex theories, translating languages, and preparing for examinations. In response, university libraries have begun to recognize their critical responsibility in guiding the responsible use of AI technology, which reflects an institutional response to this technological wave (Buitrago-Ciro et al., 2023).",
+      "annotations": []
+    },
+    {
+      "body": "Furthermore, Youssef et al.’s research demonstrates that AI tool usage patterns differ significantly among various groups. Specifically, STEM students tend to rely on these tools more frequently compared to humanities students, while graduate students are more likely to view AI as a research assistance tool (2024). Consequently, educators' attitudes toward AI have become increasingly polarized: some perceive it as an opportunity for teaching innovation, whereas others are concerned that it might undermine students' independent thinking capabilities. Currently, the most prominent challenge is that academic integrity policies are lagging behind technological developments, thereby creating ambiguous ethical boundaries for students using these tools (Perkins & Roe, 2024). This disconnects between policy adaptation and technological innovation poses a significant challenge in higher education, one that requires urgent resolution. As AI tools become more integrated into academia, universities must redefine academic integrity to address the ethical complexities of AI-generated content. 2. The Ethical problems of AI Tools As AI tools become widely adopted in academic settings, the definition of academic integrity grows increasingly complex, particularly in the context of plagiarism. The University of Oxford’s definition of plagiarism states: “Presenting work or ideas from another source as your own, with or without consent of the original author, by incorporating it into your work without full acknowledgement.” (University of Oxford, n.d.). However, this definition becomes more difficult to apply to AI-generated content.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Youssef et al.’s ",
+          "comment": "Youssef et al.'s (2024)",
+          "context_left": "Furthermore, ",
+          "context_right": "research demonstrate"
+        },
+        {
+          "type": "strikeout",
+          "text": "(2024)",
+          "comment": "",
+          "context_left": "rch assistance tool ",
+          "context_right": ". Consequently, educ"
+        }
+      ]
+    },
+    {
+      "body": "The use of generative AI tools challenges traditional definitions of originality and plagiarism. An article on Nvidia’s website explains how generative AI works, which allows users to leverage the power of language. For instance, ChatGPT enables users to generate complete articles based on brief prompts. Similarly, Stable Diffusion allows users to create realistic images from text inputs (Nvidia, n.d.). This raises a critical ethical question: when AI output depends entirely on user input, how should we define ‘originality’? Should we consider the user’s prompt as original content, or view the AI-generated output as an original work? The boundaries blur further when AI provides indirect contributions, such as generating outlines, modifying writing styles, or suggesting creative ideas, making it difficult to determine whether a work constitutes plagiarism. In some cases, it can be more confusing since AI can provide outlines, modify writing styles, and even offer creative ideas. These indirect collaboration methods make it extremely difficult to determine whether a work constitutes plagiarism, as the boundaries between human and AI contributions have become increasingly blurred.",
+      "annotations": []
+    },
+    {
+      "body": "Furthermore, there are significant differences in AI usage standards between various fields and educational stages. For instance, AI applications considered helpful tools in creative writing might be viewed as serious academic misconduct in scientific paper writing. These inconsistent rules aggravated ethical confusion, complicating the development of clear AI usage guidelines. Therefore, universities must urgently redefine plagiarism to address the ethical complexities of content co-created with generative AI tools like ChatGPT. 3. The Positive and Negative Impacts of AI Use in Academia 3.1 Positive AI tools offer significant benefits to academic settings. For instance, AI can analyze numerous studies to identify research gaps and provide data-driven opinions for topic selection (Khalifa & Albadawy, 2024). AI tools significantly enhance research efficiency as well. Translation tools like iFLYTEK allowed non-native researchers to overcome language difficulties, enhancing their participation in global academic exchanges. Last but not least, platforms like Elsevier leverage AI assistants to extract key arguments from papers, allowing readers to quickly grasp essential content (Fig. 1). However, even these positive uses of AI must be guided by clear rules to prevent unintended breaches of academic integrity, such as accidental plagiarism particularly when AI-generated content is not properly cited. These advancements promote effective knowledge dissemination and accelerating academic innovation.",
+      "annotations": []
+    },
+    {
+      "body": "Fig.1.:AI Assistant for sciencedirect.com 3.2 Negative Despite these benefits, excessive reliance on AI tools poses significant risks to academic integrity and student development. Students may misuse AI to cheat by submitting non-original work, a practice that undermines higher education’s core purpose of challenging students and fostering their skills (Cotton et al., 2023). A crucial problem is called “cognitive offloading”. Dolan’s (2025) research indicates that frequent dependence on AI tools can cause students to substitute independent thinking processes with AI, thereby weakening critical thinking skills. For example, when students habitually delegate complex problems to AI, they gradually lose their capacity for independent analysis, information evaluation, and argument construction. The evidence suggests that students who are habited to obtaining immediate answers often feel disoriented when confronting complex problems requiring sustained independent thinking and struggle to persist in solving challenging issues. These negative impacts highlight the urgent need for balanced policies that harness AI’s benefits while safeguarding academic integrity. 4. Survey: Student Survey on AI Use and Academic Integrity To better understand how students use AI tools and what they think about academic integrity, this study made a short anonymous survey. The survey was given to 30 students from different majors at PITT. It focused on their habits of using AI, their opinions about the link between AI and cheating, and whether they got any advice or rules from teachers or the school. Survey Highlights: Q1: Have you ever used AI tools (e.g., ChatGPT) for academic purposes? – Yes: 80% (n=24) – No: 20% (n=6) Q2: Do you believe using AI without AI statement is plagiarism? – Yes: 60% (n=18)",
+      "annotations": []
+    },
+    {
+      "body": "– No: 40% (n=12) Q3: Have your instructors provided clear guidelines about AI use? – Yes: 30% (n=9) Q4: Do you think AI affects your independent thinking?",
+      "annotations": []
+    },
+    {
+      "body": "This survey shows that AI tools are widely used in students’ learning. However, more than half of the students are not sure if using AI without saying it is a kind of cheating. Also, up to 70% of the students said their teachers did not give clear rules. This shows that many universities still do not have clear guidance about how to use AI properly. Additionally, 60% of the students said that AI has affected their ability to think independently. This matches what Dolan (2025) called the problem of “cognitive offloading.” It supports the worry that using AI too much may weaken students’ critical thinking skills.",
+      "annotations": []
+    },
+    {
+      "body": "So, the survey results show that universities need to make clear and practical rules to help students use AI tools in the right way, while still keeping academic integrity. 5. Solutions for Balancing AI Use and Academic Integrity To address the challenges AI poses to academic integrity, universities should avoid a blanket restriction and instead focus on providing balanced guidance. Cornell University works as a model approach that its administrators have explicitly indicated that AI technology is now integral to students’ and faculty’s daily academic activities, requiring instructors to provide clear guidance on using generative AI responsibly (Cornell University, n.d.). In Spring 2023, Cornell established a committee to evaluate the feasibility, benefits, and limitations of generative AI in education, as well as its impact on learning outcomes. The committee proposed a flexible framework, allowing instructors to integrate AI into their courses as long as academic standards are met, while encouraging students to use AI to enhance creative thinking and achieve higher-level learning goals, such as critical analysis and problem-solving (Cornell University, 2024). This approach not only safeguards academic integrity by setting clear expectations but also fosters intellectual growth by leveraging AI as a tool for innovation. To further ensure ethical use, universities must develop institutional policies that explicitly redefine plagiarism in the context of AI-generated content, offering transparent and practical guidance to both students and faculty on proper citation and usage. 6. Conclusion In conclusion, AI tools offer considerable opportunities in higher education by enhancing learning efficiency, supporting research, and fostering academic innovation. However, their widespread use introduces profound ethical challenges, including the risk of undermining academic integrity through non-original work, complicating the definition of plagiarism, and diminishing students’ critical thinking skills through cognitive offloading. To address these issues, institutions must develop flexible yet clear guidelines that not only redefine plagiarism in the context of AI-generated content but also balance technological benefits with the preservation of independent thinking. In these ways, universities can make sure AI works as a facilitator and empowers students to achieve higher-level learning goals, rather than a replacement for genuine intellectual effort, ultimately safeguarding the integrity and value of higher education. ",
+      "annotations": []
+    },
+    {
+      "body": "References Knapp, A. (2025, January 10). The Prototype: Study suggests AI tools decrease critical thinking skills. Forbes. https://www.forbes.com/sites/alexknapp/2025/01/10/the-prototype-study-suggests-ai-tools-decrease-critical-thinking-skills/ Stöhr, C., Ou, A. W., & Malmström, H. (2024). Perceptions and usage of AI chatbots among students in higher education across genders, academic levels and fields of study. Computers and Education: Artificial Intelligence, 7, 100259. Buitrago-Ciro, J., Samokishyn, M., Moylan, R., Hernándex Pérez, J., Bakare-Fatungase, O., & Firdawsi, C. (2023). Bridging the AI gap: Comparative analysis of AI integration, education, and outreach in academic libraries. IFLA Journal, 03400352251325274. Youssef, E., Medhat, M., Abdellatif, S., & Al Malek, M. (2024). Examining the effect of ChatGPT usage on students’ academic learning and achievement: A survey-based study in Ajman, UAE. Computers and Education: Artificial Intelligence, 7, 100316. Perkins, M., & Roe, J. (2024). Decoding academic integrity policies: A corpus linguistics investigation of AI and other technological threats. Higher Education Policy, 37(3), 633-653. University of Oxford. (n.d.). Plagiarism. Retrieved April 1, 2025, https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism NVIDIA. (n.d.). What is Generative AI? Retrieved April 1, 2025, from https://www.nvidia.com/en-us/glossary/generative-ai/ Khalifa, M., & Albadawy, M. (2024). Using artificial intelligence in academic writing and research: An essential productivity tool. Computer Methods and Programs in Biomedicine Update, 5, 100145. https://doi.org/10.1016/j.cmpbup.2024.100145 Cotton, D. R., Cotton, P. A., & Shipway, J. R. (2024). Chatting and cheating: Ensuring academic integrity in the era of ChatGPT. Innovations in education and teaching international, 61(2), 228-239. Dolan, E. W. (2025, March 21). AI Tools May Weaken Critical Thinking Skills by Encouraging Cognitive Offloading, Study Suggests. PsyPost. https://www.psypost.org/ai-tools-may-weaken-critical-thinking-skills-by-encouraging-cognitive-offloading-study-suggests/#google_vignette Cornell University. (n.d.). AI & academic integrity. https://teaching.cornell.edu/generative-artificial-intelligence/ai-academic-integrity Cornell University. (2023). CU committee report on generative artificial intelligence in education. https://teaching.cornell.edu/generative-artificial-intelligence/cu-committee-report-generative-artificial-intelligence-education Chiu, Thomas KF, et al. \"Teacher support and student motivation to learn with Artificial Intelligence (AI) based chatbot.\" Interactive Learning Environments 32.7 (2024): 3240-3256. Lee, V. R., Pope, D., Miles, S., & Zárate, R. C. (2024). Cheating in the age of generative AI: A high school survey study of cheating behaviors before and after the release of ChatGPT. Computers and Education: Artificial Intelligence, 7, 100253. Harvard Summer School. (n.d.). Should I use ChatGPT to write my essays? Harvard University. https://summer.harvard.edu/blog/should-i-use-chatgpt-to-write-my-essays/",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Knapp,",
+          "comment": "Please use double spacing to format the references and add a 0.5'' hanging indent at the beginning of each reference.",
+          "context_left": "References ",
+          "context_right": " A. (2025, January 1"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 2.0,
+        "Sources": 3.0,
+        "Organization": 3.0,
+        "Writer’s Ethos": 2.0,
+        "Total": 13.0
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]
+}

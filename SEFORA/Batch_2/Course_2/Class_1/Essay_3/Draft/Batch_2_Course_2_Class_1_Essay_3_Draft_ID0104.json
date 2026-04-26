@@ -1,0 +1,99 @@
+{
+  "paragraphs": [
+    {
+      "body": "How AI can help and hurt education",
+      "annotations": []
+    },
+    {
+      "body": "Introduction Artificial intelligence (AI) is changing many aspects of our lives, including the way we learn and teach. In recent years, AI tools such as smart tutoring systems, automatic grading software, and personalized learning platforms have become more common in schools and universities. These tools can help students learn better and make teachers' jobs easier. However, there are concerns. Some worry that AI could replace teachers or that it could treat students unfairly. Others say AI tools are expensive or might collect too much personal data.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Introduction",
+          "comment": "Please format the headings according to APA",
+          "context_left": "",
+          "context_right": " Artificial intellig"
+        }
+      ]
+    },
+    {
+      "body": "Many studies have looked at how AI can support learning. For example, Holmes et al. (2019) show that AI can provide personalized feedback to students to help them learn at their own pace. But Selwyn (2019) points out that not all students and schools have access to the same tools. My research question is: How can we use AI in education to help all students while avoiding issues such as bias, privacy risks, and inequality?",
+      "annotations": []
+    },
+    {
+      "body": "I believe schools should use AI to support teachers, not replace them. We need clear rules to ensure AI is fair, safe, and useful for all students. I will explain the benefits and problems of using AI in education and offer a solution to make its use more fair and effective.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "believe",
+          "comment": "Certain paragraphs are bit short. You may consider expanding these paragraphs to enrich their content.",
+          "context_left": "I ",
+          "context_right": " schools should use "
+        }
+      ]
+    },
+    {
+      "body": "The Benefits of Using AI in Education Benefits of using AI One of the biggest benefits of AI in education is personalized learning. AI can track students’ progress and provide learning materials that match their level and style. For example, platforms such as Carnegie Learning or Squirrel AI use machine learning to recommend courses and quizzes based on student performance. According to Luckin et al. (2016), such systems can help students who struggle in regular classes because it gives them more opportunities to practice and learn at their own pace.",
+      "annotations": [
+        {
+          "type": "strikeout",
+          "text": "Benefits of using AI",
+          "comment": "",
+          "context_left": "ing AI in Education ",
+          "context_right": " One of the biggest "
+        }
+      ]
+    },
+    {
+      "body": "AI can also save teachers time by marking homework or providing feedback. Instead of spending hours checking assignments, teachers can use AI tools to do some of the work. This allows teachers to focus more on helping students one-on-one. In addition, AI can help students with disabilities by providing speech-to-text tools, reading support, or other assistive tools (Holmes et al., 2019).",
+      "annotations": []
+    },
+    {
+      "body": "The Problems with AI in Education Despite its many benefits, AI also has its problems. One major issue is bias. If the data used to train the AI is biased, the tool may treat students unfairly. For example, if an AI grading system is trained using data from primarily one group of students, it may not grade students from other backgrounds fairly. According to Binns et al. (2018), biased algorithms in education can harm minority or low-income students.",
+      "annotations": []
+    },
+    {
+      "body": "Another issue is privacy. Many AI systems collect personal data about students, such as test scores, study habits, and even moods. Without strict rules, this data could be used in the wrong way. Williamson and Eynon (2020) warn that AI companies may collect more information than they need, and schools may not always understand how the data is used.",
+      "annotations": []
+    },
+    {
+      "body": "Finally, there is the issue of access. Not all schools have the funding or internet to use AI tools. This means that some students may receive more help than others simply because they go to a better-funded school. Selwyn (2019) argues that this makes educational disparities even greater. My Solution: Fair and Helpful Use of AI in Schools I suggest three steps. First, AI should be used to support teachers, not replace them. AI can be a helpful assistant, but students still need human connection, especially when they are having a hard time. Second, we need clear rules and standards for the use of AI in education. Governments and schools should check AI tools to make sure they are fair, safe and transparent. For example, every AI system should be tested to see if it treats all students equally, and students and parents should know what data is being collected.",
+      "annotations": []
+    },
+    {
+      "body": "Third, we need to ensure that all schools have access to useful AI tools. This may mean providing more funding to schools in disadvantaged areas or providing free versions of certain tools. Education should be equitable, which means giving everyone an equal chance to succeed.",
+      "annotations": []
+    },
+    {
+      "body": "Conclusion (optional but added here for clarity)",
+      "annotations": []
+    },
+    {
+      "body": "AI has the power to change education for the better. It can help students learn more effectively and save teachers time. But if we’re not careful, it can also lead to new problems, such as bias, privacy issues, and inequality. By using AI to assist rather than replace teachers, and by having strong rules and equal opportunities, we can ensure AI supports a better future for all students.",
+      "annotations": []
+    },
+    {
+      "body": "References Binns, R., Veale, M., Van Kleek, M., & Shadbolt, N. (2018). 'It's reducing a human being to a percentage': Perceptions of justice in algorithmic decisions. CHI Conference on Human Factors in Computing Systems, 1-14. https://doi.org/10.1145/3173574.3173951 Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial Intelligence in Education: Promises and Implications for Teaching and Learning. Center for Curriculum Redesign. Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence unleashed: An argument for AI in education. Pearson Education. Selwyn, N. (2019). Should robots replace teachers? AI and the future of education. Polity Press. Williamson, B., & Eynon, R. (2020). Historical threads, missing links, and future directions in AI in education. Learning, Media and Technology, 45(3), 223–235. https://doi.org/10.1080/17439884.2020.1798995",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Binns,",
+          "comment": "Please add a hanging indent of 0.5''",
+          "context_left": "References ",
+          "context_right": " R., Veale, M., Van "
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Total": "N/A"
+      },
+      "Peer Comment": "Purpose/Thesis: After reading the draft, what would you say is the purpose or thesis the paperis trying to get across? How does the draft fulfill (or not fulfill) that purpose? The purpose of this paper is to argue that artificial intelligence should be used in education to support teachers rather than replace them, and that schools should adopt clear rules and ensure equal access to AI tools to avoid problems like bias, privacy violations, and inequality. This thesis is clearly stated in the introduction and reiterated in the solution and conclusion sections. The draft effectively fulfills its purpose by presenting a balanced discussion of both the benefits and drawbacks of AI in education, and by offering a clear and thoughtful solution that aligns with the thesis. Persuasiveness: What did you learn about the topic after reading the paper that you didn't fullyappreciate before you read it? ls this something you find significant or interesting? lf so, why?How well did the author address counterarguments? After reading the paper, I gained a better appreciation of the ways AI can support students with disabilities and help struggling learners through personalized learning systems. This insight felt especially significant because it shows how AI can promote inclusivity and adaptability in classrooms. The topic is definitely interesting, particularly because it touches on both the promise and the ethical challenges of using AI in education. While the author acknowledges potential problems like bias and privacy concerns, the paper would be even more persuasive if the proposed solution addressed those issues more directly, perhaps by linking each concern to a specific policy or practice recommendation. Support: Did you find the claims, reasons, and evidence in the document convincing? Why orwhy not? Did you see a balanced coverage/an even distribution of claims and evidence? Whatinformation can be omitted or added to help your peer focus on the thesis? (Include paragraphnumbers). The claims, reasons, and evidence presented in the draft are mostly convincing. The author uses well-cited studies and specific examples, such as Carnegie Learning and Squirrel AI, to support the benefits of personalized learning. There is also a fair representation of the challenges posed by AI, with studies like Binns et al. (2018) and Williamson and Eynon (2020) cited to support concerns about bias and privacy. The coverage feels balanced overall. However, paragraph 3 could benefit from a more concrete example or mini-case study to make the advantages of AI more vivid. Additionally, in paragraphs 7 to 9, the proposed solutions would be strengthened by including some form of supporting evidence, such as a school that has successfully implemented these steps. Quoting and Paraphrasing: How effective has the author quoted and paraphrased information? Has the author used a signal phrase to introduce a quote/paraphrase and explain thequote/paraphrase in their own words? The author paraphrases sources effectively and consistently uses signal phrases to introduce expert opinions. For example, in paragraph 2, the phrase “According to Luckin et al. (2016)” smoothly leads into the paraphrased claim. However, the draft could benefit from occasionally including direct quotes for emphasis or to highlight particularly strong or nuanced points made by the sources. Furthermore, some paraphrased ideas, such as the warning from Williamson and Eynon (paragraph 5), would be even clearer if followed by a brief explanation in the author's own words to connect the quote to the paper’s argument more directly. Organization: How is the draft organized in a logical manner (e.g., using headings/subheadings)?Given the organization, could the main points be presented in a more effective way? (include paragraph numbers) The draft is well-organized, with logical and helpful headings that guide the reader through each section of the paper. The progression from the introduction to the benefits, problems, and finally the proposed solution is clear and easy to follow. Each section stays focused on a distinct aspect of the overall argument. That said, the three steps proposed in the “My Solution” section (paragraphs 7 to 9) could be presented more clearly—perhaps through numbered points or more distinct paragraph breaks—to ensure that readers can easily identify each individual recommendation. Transition: What suggestions can you make for transitions both between and within paragraphs that would make connections clearer and easier to follow? (include paragraph numbers). Most transitions between sections are smooth and effective, but there are a few areas where they could be improved to better guide the reader. For example, the transition from paragraph 3 to paragraph 4 would benefit from a phrase like “However, while AI offers many benefits, it also introduces significant risks.” Similarly, the transition at the beginning of paragraph 7 could be strengthened by starting with a phrase like “To address these issues, I propose a three-part strategy.” These changes would help create clearer connections between the benefits, problems, and solutions discussed in the paper. The sentences: Choose 1-2 sentences you consider the most interesting or best written-stylistically effective, entertaining, or otherwise memorable. Then choose 1-2 sentences you seeas weak-confusing, awkward, or uninspiring. Advise your peer on how to revise the weaksentences. (include paragraph numbers). One of the most effective and stylistically strong sentences appears in paragraph 1: “Artificial intelligence (AI) is changing many aspects of our lives, including the way we learn and teach.” This sentence is clear, engaging, and sets up the topic well. Another memorable sentence is in paragraph 9: “Education should be equitable, which means giving everyone an equal chance to succeed.” This sentence effectively appeals to the reader’s sense of fairness and justice. On the other hand, a sentence in paragraph 2 is somewhat awkward: “Benefits of using AI One of the biggest benefits…” appears to contain a formatting or editing error. It would be clearer if rewritten as: “One of the biggest benefits of using AI in education is personalized learning.” Another weaker sentence is in paragraph 5: “Without strict rules, this data could be used in the wrong way.” This sentence could be more specific—for instance, “Without strict regulations, this data could be misused for marketing purposes or student profiling.” The format/design: To the best of your ability, check for and point out mechanical/grammaticalerrors, word choice issues, spelling mistakes, and APA formatting issues. Did the authors useformal academic language and a first/third person serious tone? (Include paragraph numbers) Overall, the draft is mostly free of grammatical or spelling errors, and it uses formal academic language appropriately. The tone is consistent and serious, with only occasional first-person usage in the “My Solution” section, which is acceptable given the nature of the argument. There are some APA formatting issues in the references. For example, in APA style, only the first word of a title and proper nouns should be capitalized, so “Artificial Intelligence in Education: Promises and Implications for Teaching and Learning” should instead be “Artificial intelligence in education: Promises and implications for teaching and learning.” Additionally, a quick proofread could help correct some minor spacing and punctuation inconsistencies. Introduction/conclusion: What strategy/strategies have been used to introduce and conclude the draft? Does the introduction catch the reader's interest? Does the draft conclude in amemorable way? How else might this draft begin and end? The introduction uses a clear and straightforward approach to draw the reader into the topic by stating the growing role of AI in education and the associated benefits and concerns. It effectively sets up the research question and thesis. The conclusion provides a strong summary of the argument and ends with an optimistic statement about using AI to support a better educational future. While both the introduction and conclusion are effective, they could be more engaging. The introduction might begin with a short anecdote, statistic, or rhetorical question to better capture the reader’s attention. Likewise, the conclusion could end with a thought-provoking quote or future-looking question to make it more memorable. Any other comments? No."
+    }
+  ]
+}

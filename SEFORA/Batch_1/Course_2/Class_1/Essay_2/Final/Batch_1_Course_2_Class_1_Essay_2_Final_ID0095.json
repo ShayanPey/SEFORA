@@ -1,0 +1,98 @@
+{
+  "paragraphs": [
+    {
+      "body": "The topic I want to discuss is the impact of the rapid development of short videos on human beings. In the past five years, with the rapid development of short videos, almost everyone has short video-related software in their mobile phones. Short videos occupy a lot of time in our lives. Next, I will explain the impact of short videos on human society from 4 angles.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The topic I want to discuss is the impact of the rapid development of short videos on human beings. In the past five years, with the rapid development of short videos, almost everyone has short video-related software in their mobile phones. Short videos occupy a lot of time in our lives. Next, I will explain the impact of short videos on human society from 4 angles.",
+          "comment": "Please use a neutral tone throughout the Wikipedia edit.",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "1. Socio-cultural perspective: The rapid development of short videos has many positive effects. Taking YouTube as an example, we can see the development trend of short videos in recent years[1]. It makes information spread more quickly and widely in a concise and vivid way, lowers the threshold of information acquisition, breaks the traditional time and space restrictions, and also promotes the spread of multiculturalism[2]. Global users can share through short video platforms. Their culture, customs and daily life enhance the communication and understanding between different cultures.",
+      "annotations": []
+    },
+    {
+      "body": "2. Economic perspective: Short video has spawned a new industrial chain, such as content creation, network marketing, live delivery and so on. Many young people rely on short video platforms to develop their careers, providing plenty of job opportunities. In addition, it also promotes marketing and business model innovation. Enterprises promote products through short videos, accurately target specific user groups, and achieve efficient brand exposure and product transformation. However, the rapid spread and strong visual impact of short videos may induce excessive consumption, especially through impulse shopping, live delivery and other forms of consumerism.[3]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "it ",
+          "comment": "I would suggest clarifying what you mean by \"it.\"",
+          "context_left": "ities. In addition, ",
+          "context_right": "also promotes market"
+        }
+      ]
+    },
+    {
+      "body": "3. Psychological and behavioral perspectives: personalized expression and social enhancement: Short video platforms provide a platform for people to show themselves and express their personalities, enhance social interaction and expand people's social circle; At the same time, there are many negative effects. The first is the fragmentation of memory. The high frequency of information update and visual impact of short videos can easily cause people to have short-term attention distraction, which will affect the ability to focus and think deeply for a long time[4]. Excessive use of short videos may lead to addiction, affect daily life and mental health, and produce negative emotions such as anxiety and low self-esteem, especially in teenagers.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": " there are",
+          "comment": "these videos are perceived to have negative effects",
+          "context_left": "e; At the same time,",
+          "context_right": " many negative effec"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "At the",
+          "comment": "; at the same time",
+          "context_left": "le's social circle; ",
+          "context_right": " same time, there ar"
+        }
+      ]
+    },
+    {
+      "body": "4. Education and learning perspective: Short video provides innovative learning methods, and short video platforms provide a new channel for knowledge dissemination, making learning easier and more interesting through interesting and fragmented content. Moreover, knowledge popularization is effectively carried out. Through short video communication, more people can have access to basic knowledge in various fields in a short time, and the overall knowledge level of the public is improved. The knowledge credibility of short video communication is still uneven, and more professional and popular science short videos need to be created for wide dissemination[5]. On the contrary, it will also lead to the lack of deep learning, and it is difficult for short videos to carry deep content. This shallow knowledge transfer method may affect the audience's in-depth exploration of problems, and reduce the interest and patience of deep learning.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Education and learning perspective: Short video provides innovative learning methods, and short video platforms provide a new channel for knowledge dissemination, making learning easier and more interesting through interesting and fragmented content. Moreover, knowledge popularization is effectively carried",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "4. ",
+          "context_right": " out. Through short "
+        }
+      ]
+    },
+    {
+      "body": "To sum up, the development of short video has had a profound impact on human beings from multiple aspects, and it has brought many opportunities and challenges to society, economy, culture and individuals. The key is how to use the advantages of short video while avoiding its negative effects.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "To sum up,",
+          "comment": "This paper is well-written. I would suggest adding in-text citations to justify each factual claim and using a neutral tone throughout the Wikipedia edit. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": " the development of "
+        }
+      ]
+    },
+    {
+      "body": "1. Adam Connell Adam built his first website at the age of 12 Since; Agency, He’s Run a Marketing; Brands, Managed Content Marketing Campaigns for 8 Figure; channel, grown Blogging Wizard to over 3 million yearly visitors Fun fact: Adam can 'split the atom' on a yo-yo Subscribe to Adam's YouTube. 35 YouTube Shorts Statistics For 2024 (Growth & Trends). Adam Connell. ）. 2. ^ Shen, Xiangdong; Grayson, Junbin. How short video marketing influences purchase intention in social commerce: the role of users’ persona perception, shared values, and individual-level factors. Humanities and Social Sciences Communications., 11 (1). ISSN 2662-9992. doi:10.1057/s41599-024-02808-w. 3. ^ (Monroe) Meng, Lu; Kou, Sining; Duan, Shen; Bie, Yongyue. The impact of content characteristics of Short-Form video ads on consumer purchase Behavior: Evidence from TikTok. Journal of Business Research. 2024-10-01, 183. ISSN 0148-2963. doi:10.1016/j.jbusres.2024.114874. 4. ^ Ye, Jian-Hong; Wu, Yu-Tai; Wu, Yu-Feng; Thomas, Mei-Yen; Ye, Jhen-Ni. Effects of Short Video Addiction on the Motivation and Well-Being of Chinese Vocational College Students. Frontiers in Public Health. 2022-05-10, 10. ISSN 2296-2565. doi:10.3389/fpubh.2022.847672 （English）. 5. ^ Wu, Haolin; Cheng, Ming. Bhardwaj, Arpit , 编. Trust of Information during the Dissemination of Popular Science Web Videos in the New Media Era. Computational Intelligence and Neuroscience. 2022-05-25, 2022. ISSN 1687- 5273. PMC 9159858  . PMID 35665284. doi:10.1155/2022/1746472）.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.5,
+        "Writer's Ethos": 1.5,
+        "Total": 9.0
+      },
+      "comment": "N/A"
+    }
+  ]}

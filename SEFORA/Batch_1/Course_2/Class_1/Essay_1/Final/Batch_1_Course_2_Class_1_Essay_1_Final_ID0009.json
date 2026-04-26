@@ -1,0 +1,41 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Academy under the Church - the academic atmosphere under the Gothic architecture Are we curious about the culture of Pittsburgh when we are new to the city and outside the world? Is this a distinct and interesting cultural difference from my country's culture? Therefore, I want to express the contrast between expectation and the reality of the modern use of churches, and how this transformation challenges our traditional understanding of religious architecture. Recognizing that the interior of a church can be converted into a teaching building or other functional spaces, prompted me to reconsider how sacred spaces can adapt to modern needs while maintaining their historical significance.",
+      "annotations": []
+    },
+    {
+      "body": "I had never set foot in the Cathedral of Learning before my sophomore year. At first, I thought it was a tall cathedral with worshippers and chanting. I expected to learn about some of the local religious culture and architectural features of Pittsburgh, after all, I had never seen such a tall church. The outside looks majestic and mysterious, but what is it like inside? Because of its Gothic-style appearance and amazing height, I became interested in it. So, I embarked on my quest to discover the Cathedral of Learning, eager to uncover its secrets and immerse myself in what I assumed would be a deeply spiritual atmosphere. I was surprised when I explored this place this semester. I discovered that the Cathedral of Learning is a huge teaching building. His interior is filled with many modern facilities but is integrated with all the styles of the original church inside. In each small room: many wooden prayer pews, wooden lecterns for chanting, metal chandeliers, and other church ornaments are rationally used as teaching places. No conflict and perfectly presents the \"Gothic classroom\" style. However, inside the building, it is not missionaries and Christians who come and go, but a variety of college students, who freely move through the floors and classrooms. I was very surprised by these findings, not only because they overturned my stereotype of Gothic architecture as the site of religious activities, but also allowed me to refresh some ideas on modern architecture and the combination of architecture applied to the past era. Because normally, the architecture of the last century has very few applications to modern life, it is hard to imagine how this cathedral can be combined with the concept of skyscrapers, which is amazing to me. This reminds me of my hometown, the Sacred Heart Cathedral in Guangzhou, Guangdong Province, China. As the largest stone structure church in China and even Southeast Asia, it has a similar Gothic style and the same stone cone shape as the Cathedral of Learning. It is also called properly the Cathedral of the Sacred Heart of Jesus and known as the Stone Chamber or Stone House by locals, is a Gothic Revival Roman Catholic cathedral in Guangzhou, China. It is the seat of the Archbishop of Guangzhou. The cathedral is located at 56 Yide Road, on the north bank of the Pearl River at the heart of the old district. Meanwhile, it is one of the few cathedrals in the world to be entirely built of granite, including all the walls, pillars, and twin towers. Therefore, the Sacred Heart Cathedral has a long history and has been destroyed and repaired, and the architectural style and interior decoration are unique Gothic church buildings. What makes it like the Cathedral of Learning for me is the materials used in their architectural appearance and the visual shock they bring to me, as well as their status as representative buildings. However, there are many obvious differences between them. In daily life, the Cathedral of Learning serves as a teaching building to provide a teaching environment for students and teachers, while the Sacred Heart Cathedral is open to the public in the afternoon every day, and tourists can visit it freely during non-mass hours. Casual movement is not permitted during Mass, although non-Catholics are also allowed to attend the service. Then there is the historical background. The Sacred Heart Cathedral dates to 1858 and has been destroyed and restored during this period. However, the Cathedral of Learning has been gradually built since 1921. Through the cross-cultural comparison of the above two buildings, I have learned some innovative ideas on resource utilization and breaking traditional concepts. First came the Cathedral of Learning and It was thought that the church would serve as a place to spread religious culture and organize religious activities in every part of the world. However, through comparison, I found that the Cathedral of Learning can break the conventional concept and combine the original style of the cathedral building with the elements of the learning place, which is used as a teaching building, which has opened my eyes. At the same time, I think their architectural style and architectural status are very iconic, representing the landmark of a place's contemporary architecture. This exploration experience has made me deeply understand the integration and collision of traditional elements with modern advancements, particularly in the context of architecture and cultural heritage. By observing how previous structures and designs are adapted for contemporary use, I have learned to appreciate and respect innovative ideas that challenge conventional norms. This journey has enriched my cultural perspective, allowing me to see how the past and present can coexist harmoniously. It has broadened my vision of culture, showing me the importance of progressing with the times while maintaining a connection to ancient traditions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "Please specify what you mean by \"it.\"",
+          "context_left": "h is amazing to me. ",
+          "context_right": " reminds me of my ho"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This exploration experience",
+          "comment": "This is a well-written paper. Please remove the extra spaces in the first paragraph and avoid vague pronouns such as \"it\" and \"they.\" I would add detailed descriptions, such as dialogues, into the storytelling. Overall, good job!",
+          "context_left": "orary architecture. ",
+          "context_right": " has made me deeply "
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 3,
+        "Organization": 3,
+        "Writer's Ethos": 2
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

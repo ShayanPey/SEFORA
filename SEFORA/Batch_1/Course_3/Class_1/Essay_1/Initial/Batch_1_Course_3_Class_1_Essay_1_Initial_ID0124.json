@@ -1,0 +1,562 @@
+{
+  "paragraphs": [
+    {
+      "body": "Ghost Visitor",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Ghost Visitor",
+          "comment": "Intriguing title! I definitely expect a ghost in this story. ",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“I see you,” Naomi texts me. Bus stop at my back and four pieces of packed luggage by my side, I look to my right and see them crossing the street towards me. As they wrap me in a warm, annoyingly-great-smelling embrace, I think to myself, possibly aware of what’s to come, I shouldn’t have brought this much stuff.",
+      "annotations": []
+    },
+    {
+      "body": "“How are you?” they ask, concern laced in the crook between their pierced eyebrows, as they take a suitcase from my struggling arms and walk me to their apartment, “Do you want to talk about what happened?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "happened",
+          "comment": "I really love this opening — lots to find out, and I enjoy that you started with a warm moment. The switch from one name (Naomi) to “them” confuses, especially when “they” speak at the same time. ",
+          "context_left": " to talk about what ",
+          "context_right": "?”"
+        }
+      ]
+    },
+    {
+      "body": "“There’s nothing to talk about. We had a fight and he hit me…so I left,” I shrug. I know I’m simplifying things, uncharacteristic of my tendency to overshare when I’m around my best friend, but I don’t care. I’m too exhausted to relive the morning. It’s embarrassing enough that I’ve run away from home at the ripe old age of 21.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "uncharacteristic of my tendency to overshare when I’m around my best friend, but I don’t care",
+          "comment": "A little awkwardly shoved in. Nice reveal of the problem. ",
+          "context_left": "simplifying things, ",
+          "context_right": ". I’m too exhausted "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ripe old age of 21.",
+          "comment": "“Ripe old age” felt a little weird here. These are small notes! It’s reading well. ",
+          "context_left": "ay from home at the ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "We walk up a small set of cement stairs to a red-brick apartment building before descending to the basement where Naomi’s been living for the past two years. They warned me before I lugged my life out of my childhood home and onto the 31 bus and, once again, before entering the apartment that their sister is staying over and that they hope that’s okay. I say what I texted them an hour before (has it only been an hour?), “Of course,” but, deep down, I think: Another person to witness the worst day of my life.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "only been an hour",
+          "comment": "That does seem really fast. Has the narrator been here before? Does she know Naomi’s sister? I confess that I read “he” hit me as a boyfriend, but perhaps it’s the dad? ",
+          "context_left": "hour before (has it ",
+          "context_right": "?), “Of course,” but"
+        }
+      ]
+    },
+    {
+      "body": "As soon as Naomi unlocks the door to their apartment, I’m hit with nostalgia. Most of the space has stayed the same: fairy lights sparkling between the folds of a mandala tapestry hanging overhead a low sofa and a coffee table filled with art supplies and crystals. Above the sofa, there’s a window where you can spot the feet of passersby outside that contains a slow-moving window fan and a suncatcher reflecting rainbows onto the opposing beige walls.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "same",
+          "comment": "Ah, okay. So it’s been a while? FYI, I’m not quite getting “worst day of my life” vibes. I think part of the problem is that you’ve chosen present tense, but the narrator might be too upset to process everything quite so clearly? ",
+          "context_left": "pace has stayed the ",
+          "context_right": ": fairy lights spark"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "contains a slow-moving window fan and a suncatcher reflecting rainbows onto the opposing beige walls.",
+          "comment": "Awkward wording. You can catch that a lot by reading the story aloud. ",
+          "context_left": "sersby outside that ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Immediately, I am reminded of the safety I felt upon entering Naomi’s apartment for the first time a year ago, the reason why I divulged the ugly truth behind my father’s polite exterior, confessing the events of that night in 2020 when he first hit me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "reason why I divulged the ugly truth behind my father’s polite exterior, confessing the events of that night in 2020 when he first hit me.",
+          "comment": "Awkward phrasing ",
+          "context_left": "ime a year ago, the ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "God, I can’t believe I have to say first.",
+      "annotations": []
+    },
+    {
+      "body": "Immediately, I wish we were reuniting in this comfy nook hidden away from the world under much different circumstances.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "circumstances",
+          "comment": "That makes sense emotionally. I think you can do some thinking about the bitter irony that she seems to only visit Naomi’s when the dad has hit her. I also will note that the emotional impact of the hit is lessened by finding out it wasn’t the first time it happened. ",
+          "context_left": "nder much different ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "“This is Emerald, Em for short. My sister,” as I dump my life in the corner of the room, Naomi promptly introduces me to the tall, lithe figure laying on the floor mattress next to the door. The girl has pale skin, long dark hair and a gauntness in her face that — combined with the traumatic events of the morning and the tremor in my hands — momentarily stuns me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dump my life in the corner of the room, ",
+          "comment": "Phrase belongs elsewhere, awkward. ",
+          "context_left": "t. My sister,” as I ",
+          "context_right": "Naomi promptly intro"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "momentarily stuns me.",
+          "comment": "This is what stuns her? Hmm. Does the sister just lay there? She doesn’t get up or anything? ",
+          "context_left": "remor in my hands — ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Before today, I didn’t even know Naomi had a sister. When we were kids, I knew Naomi to be the youngest sibling to three older brothers. Today, I’m aware that most of us have grown up to be queer and trans in some way, shape, or form — I’m just not sure which sibling Em is.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "most of us ",
+          "comment": "Okay, so I’m a little surprised that they’ve known each other so long. ",
+          "context_left": "day, I’m aware that ",
+          "context_right": "have grown up to be "
+        }
+      ]
+    },
+    {
+      "body": "Not wanting to be rude or inappropriate, I simply say, “Hello, nice to meet you.”",
+      "annotations": []
+    },
+    {
+      "body": "Em nods and responds, “It’s nice to meet you too,” but something about the odd flicker in their eyes makes me think that whatever Naomi told them about my situation has got this stranger as worried for me as my best friend seems.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "seems",
+          "comment": "I haven’t seen much worry from Naomi yet. Perhaps her actions can show that a bit more? ",
+          "context_left": "e as my best friend ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "I sit down on the sofa, drained from the trip across town. Naomi, ever the fixer, immediately asks me what I need. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me what I need. ",
+          "comment": "I’d suggest that you just have the character ask the questions, without this phrase, which repeats what we’re about to learn. ",
+          "context_left": "r, immediately asks ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Are you hungry? Do you want to talk? Oh! Do you want to draw?” they ask, pushing colored pencils across the coffee table towards my ever-trembling form like I’m a pouting child at one of the summer camps they counsel at.",
+      "annotations": []
+    },
+    {
+      "body": "“Um, could I just take a shower?” I ask. I don’t want to be rude and invade too much of their space, but I’m desperate to scrape this morning off me.",
+      "annotations": []
+    },
+    {
+      "body": "“Of course! Bathroom is right around the corner,” Naomi smiles crookedly and I don’t have the time (or mental space) to interpret their expression before I grab a change of clothes and lock the small bathroom door behind me, Naomi’s voice echoing behind.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "interpret their expression ",
+          "comment": "This blocks the reader from understanding her expression as well. ",
+          "context_left": "or mental space) to ",
+          "context_right": "before I grab a chan"
+        }
+      ]
+    },
+    {
+      "body": "“You can use my shampoo!”",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "I look in the mirror to assess the damage.",
+      "annotations": []
+    },
+    {
+      "body": "Nothing. Except puffy eyes and a small red gash on the bridge of my nose.",
+      "annotations": []
+    },
+    {
+      "body": "I know it won’t leave a scar and I cry, wishing it would.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wishing it would.",
+          "comment": "Dramatic, but unclear. ",
+          "context_left": "e a scar and I cry, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Eventually, I get in the shower, use a drop of floral-scented shampoo in my oily hair, a swipe of honey-oatmeal soap across my sweaty skin, afraid to take up more space than I already have, afraid I’ve made a mistake by coming here and ruined my best friend’s weekend.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my best friend’s weekend.",
+          "comment": "Again your depiction here is not quite showing what you say the characters feel. I buy all of the emotions you’ve assigned to them, but their actions are not revealing their emotional state to each other. If the narrator really feels this way — ashamed, embarrassed, what might she do?",
+          "context_left": "ing here and ruined ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Ruined my life.",
+      "annotations": []
+    },
+    {
+      "body": "I dress quickly and unlock the bathroom door, Naomi greeting me with another wary smile and a plan.",
+      "annotations": []
+    },
+    {
+      "body": "“Do you want to go shopping with me? Em’s not feeling well and I need to run some errands anyway so…” they trail off as the Gravity Falls theme song, my ringtone, goes off in the background. Em flinches and I hurry over to my backpack to decline the call, ignoring the ID, ignoring the fact that I always pick up the phone.",
+      "annotations": []
+    },
+    {
+      "body": "“Sure, I’ll come,” I say nonchalantly, but my insides are scrambled. I tell myself that I just need some semblance of normalcy to untangle this knot in my chest.",
+      "annotations": []
+    },
+    {
+      "body": "“Great! I’ll grab my keys,” Naomi smiles and walks to their bedroom in the back of the apartment.",
+      "annotations": []
+    },
+    {
+      "body": "For the first time, I’m alone with Em and I don’t know what to say. They give me a polite smile before putting in earbuds and laying back down on the floor mattress, sparing me more embarrassment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "what",
+          "comment": "This is a really nice blend of emotion, action and dialogue. I reformatted it to reflect how fiction should look on the page. Please apply throughout. ",
+          "context_left": "Em and I don’t know ",
+          "context_right": " to say. They give m"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "embarrassment.",
+          "comment": "I’m all for realism, but you might consider having something a bit more happen here. How does each beat of the story move the plot along? ",
+          "context_left": "ss, sparing me more ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "“You mind if I play some music?” Naomi asks as we drive deeper into Oakland. Who knew I’d be going to Trader Joe’s for the first time as a 21-year-old runaway.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "for the first time as a 21-year-old runaway.",
+          "comment": "Flair for the dramatic, huh? ",
+          "context_left": "ing to Trader Joe’s ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Nope,” I say, an instant regret as a Beatles song plays, one of my mother’s favorites.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my mother’s favorites.",
+          "comment": "I love this choice, but have them address it in the moment. ",
+          "context_left": " song plays, one of ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "We drive to Oakland in silence, the Beatles, Bob Marley and, later (thank God), Chappell Roan serenading our journey. Everything on the way reminds me of home: a Mediterranean cuisine restaurant at a stop light; an Air France flight overhead; and, most poignantly, as we’re parking at the Trader Joe’s, a woman getting out of her car to lift a baby bird off her rear windshield wipers and onto a nearby bush before driving off.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "off",
+          "comment": "For readers, these do not powerfully register because we don’t understand the connection. ",
+          "context_left": "oignantly, as we’re parking at the Trader Joe’s, a woman getting out of her car to lift a baby bird ",
+          "context_right": " her rear windshield wipers and onto a nearby bush before driving off."
+        }
+      ]
+    },
+    {
+      "body": "That’s something Dad would do.",
+      "annotations": []
+    },
+    {
+      "body": "As we’re getting out of the car and walking into the store, my phone buzzes in my tote bag and I blanch at the text from my mom: Is it really so bad here?",
+      "annotations": []
+    },
+    {
+      "body": "I shove it to the bottom of my bag without responding and catch up to Naomi inside the store.",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "I spend most of the trip ogling the colorful shelves and exorbitant prices while Naomi goes shopping. When I stumble upon the toiletry section, I realize how little I prepared for this runaway business and guiltily pick up a toothbrush, toothpaste, a bar of soap, and makeup wipes.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "runaway business ",
+          "comment": "I’m intrigued by her choice to repeatedly call herself a runaway. ",
+          "context_left": "I prepared for this ",
+          "context_right": "and guiltily pick up"
+        }
+      ]
+    },
+    {
+      "body": "Back at the car, the mid-June wind whips at my back as Naomi confidently packs their car with the weekend’s groceries. They informed me on the drive over that they were leaving with Em for Philly, their hometown, on Sunday morning.",
+      "annotations": []
+    },
+    {
+      "body": "“Do you…have a plan?” they asked me, implying I couldn’t stay in their apartment (which their parents pay for) for the ten days they’d be gone.",
+      "annotations": []
+    },
+    {
+      "body": "I could take the hint, but I didn’t have a plan. I shook my head, said nothing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "head, said nothing.",
+          "comment": "Frustrating for the reader. You’re embracing a lot of silence in this story, which is perhaps not the most effective at this point, 2/3rds of the way in. ",
+          "context_left": " a plan. I shook my ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "On the drive back, I start to think about Em. ",
+      "annotations": []
+    },
+    {
+      "body": "Who is she? Besides Naomi’s passing remark about Em being a college dropout who lives in New Jersey, I know next to nothing about the girl.",
+      "annotations": []
+    },
+    {
+      "body": "What’s wrong with her? When I last saw her on our way out of the apartment, she looked more tired than I felt and, as we walked upstairs out the building, I swear I could hear the unmistakable sound of retching.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "with",
+          "comment": "I felt frustrated with the story here. Why would the narrator focus her attention on Em at this point? She must be obsessed with her own situation, right? Now, what you could do is have Naomi bring up Em and force a conversation about her onto the narrator. I would love to see them discuss. You’ve done a great job of giving Naomi some real stakes, but she’s being so calm and quiet that it’s hard to get engaged. ",
+          "context_left": "What’s wrong ",
+          "context_right": " her? When I last sa"
+        }
+      ]
+    },
+    {
+      "body": "Ultimately, this is none of my business. But I can’t help but worry for this strange girl as Naomi (poorly) parallel parks her car in front of their apartment and we haul our groceries inside.",
+      "annotations": []
+    },
+    {
+      "body": "Once Naomi puts everything away and offers me dinner (a plate of roasted cauliflower and babka), they announce that they’re going out to see some friends at a music show.",
+      "annotations": []
+    },
+    {
+      "body": "“Em’s still not feeling great,” they explain to me as their sister naps in the corner of the room, “and you don’t know anyone there, so it would be awkward…” they trail off and, once again, I take the hint.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "take the hint.",
+          "comment": "I’m enjoying that Naomi is kind of over this. ",
+          "context_left": " and, once again, I ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Have fun,” I say with a strained smile. Part of me is desperate for the quiet, but another part of me — the reckless, hungry part — wishes Naomi would reconsider as they head out the door, a pep in their step that, I notice, wasn’t there before.",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "At one point in the evening, after scrolling through every social media app imaginable on both my phone and laptop, I look up from my screen-induced daze and realize I’m alone.",
+      "annotations": []
+    },
+    {
+      "body": "And I don’t mean alone in the room, Em grabbing a rice cake from the kitchen to nibble on or retching in the bathroom like she has been when she’s not across from me on the floor mattress.",
+      "annotations": []
+    },
+    {
+      "body": "I mean, alone. No one in the apartment but me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "one in the apartment but me.",
+          "comment": "Hmmm. Is this the ghost portion? Again, not quite buying that the narrator is just scrolling. ",
+          "context_left": "I mean, alone. No ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "It isn’t until I rub my eyes, that she focuses into existence, first a black-and-white blur, and then a whole human sitting across from me like she has been these past few hours.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "few",
+          "comment": "Did not know how to interpret this. ",
+          "context_left": "has been these past ",
+          "context_right": " hours."
+        }
+      ]
+    },
+    {
+      "body": "I’m losing it, I think just as Em says her first real words to me since I met her:",
+      "annotations": []
+    },
+    {
+      "body": "“Want a smoke?”",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "The night is a haze from that point forward. I remember Em never pressured me to take a puff of her weed pen; in fact, she discouraged it, considering my “vulnerable emotional state.”",
+      "annotations": []
+    },
+    {
+      "body": "I thought, if my best friend since 2nd grade wasn’t going to offer me a new life experience (besides going to Trader Joe’s) while I was going through hell, then I might as well get high for the first time.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "best friend since 2nd grade ",
+          "comment": "Again, not quite seeing this. ",
+          "context_left": "I thought, if my ",
+          "context_right": "wasn’t going to offe"
+        }
+      ]
+    },
+    {
+      "body": "Eventually, this spiraled into me confessing my whole life story to Em: my homeschooled upbringing, strict parents, annual vacations to a seaside town I’ve always called home. My father’s obsession with discipline, the February 2020 hit, the June 2024 hit, the way things have never changed.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "changed",
+          "comment": "It might be good for us to “hear” some of this. ",
+          "context_left": "y things have never ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "And Em listens. Like, really listens. Sometimes, I talk and it’s as if she’s not even there — that’s how quiet, yet attentive, she is to my story.",
+      "annotations": []
+    },
+    {
+      "body": "In response, she tells happier stories — of her siblings accepting her identity, of teaching a class of kids how to code using Roblox. While her joyful memories wash over me, we watch old episodes of Gravity Falls, then 21 Jump Street (“the best movie to watch when you’re high,” Em claims), then new episodes of Abbott Elementary. We take swigs of maple whiskey, charred weed still burning in my lungs, and I feel happier than I have since the day prior, celebrating my little sister’s high school graduation, 12 hours before everything went to shit.",
+      "annotations": []
+    },
+    {
+      "body": "I go to bed light, despite the ungodly amount of substances in my body, my best friend still out with other friends, Em the sister fast asleep in the corner of the room.",
+      "annotations": []
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "It doesn’t hit me until morning that I’ve always been alone.",
+      "annotations": []
+    },
+    {
+      "body": "Back aching from the impossibly hard sofa cushions, I remember the events of last night, but different. I am talking and laughing and smoking and drinking with a girl who I just met hours prior and feel like I’ve known forever, but she is a shadow on a wall. She is the dust bunny in the corner of the carpeted floor.",
+      "annotations": []
+    },
+    {
+      "body": "She was never there.",
+      "annotations": []
+    },
+    {
+      "body": "Morning light pierces from the window above and I check the time: 11:03 A.M. Still enough time to catch the 31 home.",
+      "annotations": []
+    },
+    {
+      "body": "I pack what little I used of the lot that I brought. I leave a thank-you note for my best friend who, without even checking their bedroom, I know still isn’t back from their night out.",
+      "annotations": []
+    },
+    {
+      "body": "I leave no trace, as if this apartment has always been a residence for ghosts. On the way out, I try not to lock eyes with the girl-shaped shadow on the wall.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Hmm. I don’t really follow this, I’m sorry to say. So Em wasn’t real? Why, then, did Naomi speak about her? How is the narrator different from (not) meeting her? How does the realization that Em isn’t real send the narrator back to her dangerous situation (and why doesn’t she seem to have any other plan or resources than going to Naomi)? This is a great first draft, Violet. Your language is precise and you evoked a strange situation well. I do think you’ve kept your first 6 or so pages too remote and quiet and then packed a sudden burst of action into summary at the end of the story. We see Naomi and the narrator not quite connect several times (with increasingly more emotional devastation, which is affecting to read!) but then we are sort of told that Naomi and Em hit it off, and THEN we find out that Em wasn’t real, and then the story is over. So that pacing, I think that needs your attention. It might be helpful to think for a bit about what the conflict is here. You’ve given your narrator a difficult situation but I’m not quite sure what she wants, what she’s trying to get. I get the sense she wants more from Naomi, but you don’t seem to want to push that much — although it’s effective when you have Naomi buck away from that expectation anyway. So the narrator is very passive in a story that’s supposed to be about her struggle. What does she want? Who opposes her? How does that play out? Happy revising!"
+    }
+  ]
+}

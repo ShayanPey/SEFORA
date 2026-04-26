@@ -1,0 +1,234 @@
+{
+  "paragraphs": [
+    {
+      "body": "The narrow hallways held an ocean of students. Most stared down at their phones, headphones on, hiding from the world around them. Jennifer was no different. Her nose was buried in her phone as her friend Emily texted her message after message about how she’d be late and to save a seat.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a seat.",
+          "comment": "A couple of notes: The prompt asks for a title, and the prompt asks for about 1500 words. There’s no title and this is 25% longer! Please be kind to me and your classmates by staying closer to the word limit. I like how you evoked the high school world here. ",
+          "context_left": "be late and to save ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "It’s the first class—how are you already late? Jennifer thought to herself but decided not to spend too much time thinking about it. She followed the sea of freshmen, knowing there was a pretty decent chance at least some of them would be going into her Astronomy 101. At first, she thought it would be relaxing and maybe even fun to take an Astronomy class during her second semester of senior year. But as she approached the room, she realized how much she didn’t want to spend two and a half hours in class each week in a room full of first-years. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "of first-years. ",
+          "comment": "Nice set up. ",
+          "context_left": "week in a room full ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "She pushed the thought aside when she reached the room, checking her schedule to make sure it was right. Room 32 on the first floor; unfortunately, not only was she in the right room, but was also ridiculously early. It’s fine, Jennifer decided. She took a seat on the far left side of the auditorium and pulled out her laptop to work on one of her assignments. It didn’t matter that syllabus week had barely begun, her engineering professors were already putting her to work. Just one more semester, Jennifer reminded herself.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "herself.",
+          "comment": "Ah, not high school, college. I think the evocation of the narrow hallways made me think HS. All of that said, I’m enjoying what is a sort of typical day — and I assume will soon not be. ",
+          "context_left": ", Jennifer reminded ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "As she waited for the Excel sheet to load, her eyes wandered the room. All Freshmen—great. At least she assumed they were all Freshmen. The room was almost entirely full and there was still another ten minutes until class started. Despite having time before the first class began, people sat so perfectly straight she would have believed that the professor was the Queen if someone had told her. Instead of the Queen, the professor was a small man who hid behind his glasses that matched his bowtie—vibrant red. He stared down at his lesson plans, mouthing the words nervously to himself.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "were all Freshmen. ",
+          "comment": "I’d be interested in how she makes this assumption. Just because it’s an Intro class? ",
+          "context_left": "st she assumed they ",
+          "context_right": "The room was almost "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to himself.",
+          "comment": "Slightly confused as to why this large room was open before the class — no class before this one? ",
+          "context_left": "the words nervously ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The students in the class had pens and paper out, not a single piece of technology in sight as they stared at the front of the classroom. Even so, Jennifer didn’t care enough to do anything other than bury her nose in her phone.",
+      "annotations": []
+    },
+    {
+      "body": "Are you able to work a few extra hours tomorrow afternoon? Of course, Nick asked her to work overtime. It would have been fine if he meant “a few extra hours”, but instead, she knew she wouldn’t be getting home from her 6 am shift until almost 7 pm. Even so, the tips from the high-end brunch restaurant are what got her through college. Just one more semester, she reminded herself before sending a quick ‘yes’ to her boss.",
+      "annotations": []
+    },
+    {
+      "body": "“Good morning everyone,” the professor said so softly she would have wondered how anyone heard him if the room wasn’t silent enough to hear a pin drop. “I am rather excited to share everything I know with you all throughout the semester. But, before we get into anything too interesting, we should begin with our syllabus.” It was rather simple to tune him out while he rambled on about the syllabus as she worked on her engineering assignment. She’d read through the syllabus over the weekend but this assignment needed to be done before Friday. Time didn’t grow on trees after all.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "on trees after all",
+          "comment": "Ah yes, the student’s dilemma. ",
+          "context_left": "y. Time didn’t grow ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "The professor's monotone voice faded into the background as Jennifer worked for the first half hour. It was peaceful actually. The soft voice was accompanied by pencils scratching paper around her. When her main part of the assignment was complete, she shoved her laptop into her backpack. Everything she had left to do had to be completed with the group and could wait until later.",
+      "annotations": []
+    },
+    {
+      "body": "“Due to the nature of the course, it can be rather difficult to make up a lab day. Because of this, any missed lab without prior communication will result in a letter grade deduction in your final grade.”",
+      "annotations": []
+    },
+    {
+      "body": "Harsh. The stars would be in the same spot tomorrow. But that was fair. For some of her engineering labs earlier that year, she went to class with the inhaler she was given by the doctor for her severe bronchitis because the professors were so strict about attendance.",
+      "annotations": []
+    },
+    {
+      "body": "“Are there any questions?” The room remained motionless and the professor smiled gently. “Wonderful, let’s get started then! I’m sure most of your classes are starting with the history of the field, but I think it would be more fun to get right into it and come back to the history later.” Jennifer agreed. She'd rather spend an hour looking at stars and get out half an hour early than spend the next hour and a half talking about old guys and how wrong they were about space until they began to figure it out.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to figure it out.",
+          "comment": "So far, except for the weirdness of the students, everything here seems fine. I’m waiting for the plot to begin. ",
+          "context_left": "ce until they began ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Jennifer had always been inspired by space. As a girl, she wanted to be the first woman on the moon but participated in an invention convention and was set on engineering ever since. It almost felt like she was taking this class for her younger self. She was still fascinated by space. Maybe this class would teach her it wasn’t too late. Maybe this class could inspire her to go into aerospace engineering. Maybe it wasn’t too late to reach her childhood dream.",
+      "annotations": []
+    },
+    {
+      "body": "“What’s your name there in the back?” A girl with black hair looked around as if being picked out in a crowd at a concert by the artist themselves. “Yes, you in the black sweater.”",
+      "annotations": []
+    },
+    {
+      "body": "“Lucy, sir.”",
+      "annotations": []
+    },
+    {
+      "body": "“Nice to meet you, Lucy. Would you mind shutting off the lights for us so we can begin?” She nodded eagerly and stood with such urgency she knocked her notebook and pens to the floor. She didn’t even spare them a look as she hurried to shut off the lights.",
+      "annotations": []
+    },
+    {
+      "body": "Darkness enveloped the room. With the lack of windows to allow even just a ray of natural light, the darkness before her was thick and never-ending void. The sound of someone striking the match filled the otherwise silent room, creating just enough light to see the hand that was holding it.",
+      "annotations": []
+    },
+    {
+      "body": "This has got to be some type of fire code violation. The professor lit a few candles that resided in a circle on the massive desk at the front of the lecture. Jennifer looked around the classroom, expecting to find wide eyes that matched her own, but instead, the students looked on with fascination. At least this is an interesting way to start an Astronomy class, Jennifer thought as she put her phone into her backpack, afraid she’d get a text and ruin the atmosphere.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "atmosphere",
+          "comment": "I am interested in this, but I’d like the story to get here more quickly. You wrote very well about a typical college student’s life, but in flash fiction you have to get to the conflict more quickly. I have some questions about how all of these first-years know about this class already, but okay, I’ll go with it for now. ",
+          "context_left": "a text and ruin the ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“Now I would like to invite you all to join me up here at the front.” People jumped at the opportunity as if they had been waiting their entire lives to hear those words. Jennifer slowly followed after the avalanche of people rushing to the front of the room. It seemed unlikely she’d be able to see anything with rows of people in front of her, but she found a spot anyway and attempted to see what was going on. “You can watch as the chemical reaction is taking place— the fire consumes the oxygen in the air and the wood of the match stick to produce warmth, light, and smoke. While this may seem irrelevant, please know how essential this concept will be for our course.”",
+      "annotations": []
+    },
+    {
+      "body": "Jennifer stood on her tiptoes, tired of seeing nothing more than the back of people’s heads. If something interesting happened, despite how unlikely it seemed, she didn’t want to entirely miss it. This attempt to see what was going on was caught by the professor who smiled pleasantly at her.",
+      "annotations": []
+    },
+    {
+      "body": "“Ah! Our friend in the back is having some difficulty seeing, would everyone in the front mind kneeling so people in the back are able to see?” It was a simple enough request that people followed. That wasn’t the issue. Nor was the issue that she was too far away from the desk to see any of the details.",
+      "annotations": []
+    },
+    {
+      "body": "The issue wasn’t either of those things, but rather, what she found on the desk. The circle of candles turned out not to be just a circle, but one with a star in it. Her eyes darted around the room. Someone had to be feeling just as confused as she was. People stared at her blankly as her eyes continued to roam the room. At last, they landed on the chalkboard behind the professor, only slightly visible through the candlelight. Squinting her eyes, she could only just make out the letters. She reread the words multiple times, convinced her eyes were playing a trick on her. They were not— the board simply read: Satanism 101: From Sacrifice to Song.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "From Sacrifice to Song.",
+          "comment": "Oh, boy, this made me laugh. Whoopsie! ",
+          "context_left": "read: Satanism 101: ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Jennifer was jarred by this, of course. Any person would be after all. But, her friends always told her she was the type of person to join a cult without realizing, now that had become a reality. Her eyes roamed the room again, taking in the faces that were now focused on her. Deep inside of her, a nervous laugh began to grow.",
+      "annotations": []
+    },
+    {
+      "body": "“I know, dear. It can be rather moving the first time you attend an initiation ceremony. It’s refreshing to see someone so in touch with their emotions.” Oh my god. He thought she was crying. The laughter grew even stronger, tearing through her throat despite how much she tried to stuff it down.",
+      "annotations": []
+    },
+    {
+      "body": "“Would it—Would it be alright for me to step out for a moment? Get some water?” Jennifer asked through what she hoped still sounded like tears.",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, of course! Take all the time you need before you rejoin us.” She quickly climbed up the stairs towards the back of the room, shooting a glance over her shoulder. No one was looking at her. All of their glances were glued on the professor and he lit additional candles. Grabbing her bag, she darted from the room, her eyes squinting in the bright fluorescent lights overhead. She leaned against the door, her mind racing to make sense of the past hour.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "additional candles",
+          "comment": "I just wonder why they’re all so into it. Are they enchanted? If so, why isn’t Jennifer? Is she on the roster or not? And whatever happened to poor Emily? ",
+          "context_left": "rofessor and he lit ",
+          "context_right": ". Grabbing her bag, "
+        }
+      ]
+    },
+    {
+      "body": "When she grabbed her phone from her backpack, she saw 17 missed texts from Emily asking where she was. Jennifer looked around, desperate to find anyone to share what just happened with. Her eyes fell on the room number: Room 32 Ground Level. A gasp escaped as she realized her mistake. She was on the ground level, her class was on the first floor.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was on the first floor.",
+          "comment": "Nice. ",
+          "context_left": "nd level, her class ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "She climbed the stairs, thinking about how ridiculous it was to have the first floor be a story up. Before she knew it, she was outside the doors that matched the room she just came from. As quietly as she could, she opened the door, but it wasn’t enough. The professor noticed her right away.",
+      "annotations": []
+    },
+    {
+      "body": "“Please do not make a habit of missing half of my class.”",
+      "annotations": []
+    },
+    {
+      "body": "“I won’t, professor. I’m sorry.” Jennifer apologized quickly, glancing at the room for a place to sit. Emily grabbed her by the arm as she passed by and pulled her to sit beside her.",
+      "annotations": []
+    },
+    {
+      "body": "“I thought you were going to be here early, where were you?” Emily hissed, scanning Jennifer’s face for any sort of explanation.",
+      "annotations": []
+    },
+    {
+      "body": "“You wouldn’t believe me if I told you.”",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "This is such a fun draft, Ava. I love the whole concept, and especially now that I can see why you need her to be blanked out for the first part of class. Still, it’s long and need some trimming. I actually think the less time you spend with Jennifer thinking about things before the cult ritual starts, the better. I wonder if you can introduce the cult joke earlier — maybe some texting between her and Emily? — and otherwise think through the schematics of the set up. A lot of fun can be had at academia’s expense — for example, if the course is really pitifully enrolled or people say they’re there for a GER credit, etc. I’m also wondering if the professor say that it’s just a practice ritual, not real…I also wanted her to have to be a bit more clever to get out of the situation — I assume that the professor is doing this initiation somewhat in secret (which might again be a joke, as professors are notorious for just doing what they want) so would be less willing to let her go. How does she finagle her way out? Again, a fun draft, needs just some small expansion and rethinking."
+    }
+  ]
+}

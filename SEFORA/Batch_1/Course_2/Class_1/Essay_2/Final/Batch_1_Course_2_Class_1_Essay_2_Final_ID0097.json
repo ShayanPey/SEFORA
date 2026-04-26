@@ -1,0 +1,106 @@
+{
+  "paragraphs": [
+    {
+      "body": "Shumai, also known as siomai or shaomai, is a popular Chinese dumpling that is beloved by people all over the world. This iconic dim sum dish has a rich history and cultural significance, particularly in Cantonese cuisine. Shumai has a long and storied history, dating back approximately 700 years to the Yuan dynasty in China. Originally created in northern China, it gradually spread southward, gaining particular fame in Canton and Hong Kong teahouses[1]. The dumpling's name itself reflects its humble beginnings, as \"shaomai\" originally meant \"sold as a sideline\" with tea, indicating its role as a secondary product in teahouses. The popularity of shumai, especially in Hong Kong, is staggering. A 2015 survey revealed that Hong Kong residents visit teahouses once every five days on average, with over 60% favoring shumai.[2] It's estimated that Hong Kong consumers eat more than 400 million shumai annually. This popularity extends beyond traditional teahouses, with shumai becoming a common street food and frozen product for home consumption.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " eat ",
+          "comment": "consumed",
+          "context_left": " Hong Kong consumers",
+          "context_right": "more than 400 millio"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "extends",
+          "comment": "extended - I would use the past tense more consistently.",
+          "context_left": "ly. This popularity ",
+          "context_right": " beyond traditional "
+        }
+      ]
+    },
+    {
+      "body": "The cultural significance of shumai is clearly demonstrated by its recognition as a culinary heritage. For instance, in 2021, \"the craft of making Shaomai at Lao Suiyuan\" was designated as a non-material cultural heritage project in Hohhot. Similarly, Du Yi Chu's Shumai, a renowned brand in Beijing, was honored as a \"Chinese Famous Snack\" in 2000, and its crafting technique was included in the municipal intangible cultural heritage list in 2008.[3]",
+      "annotations": []
+    },
+    {
+      "body": "The demand for convenient, nutritious, and diverse food options drove the promotion and innovation in shumai production. The modern food industry has well-developed to create automated processes that maintain the handmade quality of shumai while increasing productivity. For example, ANKO's HSM-900 Automatic Shumai Machine can produce 9,000 pieces per hour, catering to both fresh and frozen shumai markets.[4]",
+      "annotations": []
+    },
+    {
+      "body": "The frozen food sector has seen significant growth, with shumai becoming a popular choice for at-home consumption. This trend aligns with predictions from the American Frozen Food Institute (AFFI) that consumers will continue to seek nutritious, plant-based, and convenient food options.[5]",
+      "annotations": []
+    },
+    {
+      "body": "For those experiencing shumai in a traditional setting, it's important to understand the culture of \"yum cha\" or tea drinking. This Cantonese tradition involves more than just sipping tea; it's a lively, sometimes chaotic experience where various dim sum dishes, including shumai, are enjoyed alongside tea[6].",
+      "annotations": []
+    },
+    {
+      "body": "As with many food products, there is a growing concern about the environmental impact of shumai production, particularly in terms of packaging for frozen varieties. Some companies are actively exploring eco-friendly packaging options and sustainable sourcing of ingredients to address these environmental concerns. This reflects a broader trend in the food industry towards more sustainable and environmentally friendly practices.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This r",
+          "comment": "This phenonemon",
+          "context_left": "ronmental concerns. ",
+          "context_right": "eflects a broader tr"
+        }
+      ]
+    },
+    {
+      "body": "From a health perspective, shumai can be a relatively balanced option within the dim sum repertoire, especially when made with lean meats and an abundance of vegetables. However, it's important to note that the nutritional value of shumai can vary significantly depending on the ingredients used and the cooking method. With the increasing focus on healthier eating, variations like the vegetable-based Ashikaga Shumai have gained popularity, catering to those seeking nutritious and wholesome options. Overall, the shift towards eco-friendly practices and healthier variations of shumai demonstrates a positive trend in the industry, aligning with the growing consumer demand for sustainable, nutritious, and environmentally responsible food choices[7].",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "vegetables. However, it's important to note that",
+          "comment": "I would suggest using a neutral tone throughout the Wikipedia edit.",
+          "context_left": "and an abundance of ",
+          "context_right": " the nutritional val"
+        }
+      ]
+    },
+    {
+      "body": "In summary, the journey of shumai from a traditional Chinese dumpling to a globally appreciated dish highlights its remarkable versatility and enduring popularity. Whether savored in a bustling Hong Kong teahouse, relished as a distinctive temple snack in Japan, or enjoyed as a convenient frozen meal at home, shumai adeptly adjusts to evolving tastes and cultural settings while preserving its fundamental essence as a cherished dim sum classic.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In summary, ",
+          "comment": "This paper is well-written. I would suggest using the neutral tone throughout the Wikipedia edit, avoiding vague pronouns, and formatting the citations according to Wikipedia's citation style. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": "the journey of shuma"
+        }
+      ]
+    },
+    {
+      "body": "Citations: [1] https://www.anko.com.tw/en/news/News-epaper-202011.html [2] https://soranews24.com/2023/10/31/japanese-temple-shop-sells-special-shumai-dumplings-with-no-meat-in-them/ [3] https://www.anko.com.tw/en/news/News-epaper-202103.html [4] https://english.beijing.gov.cn/beijinginfo/culture/beijingfolklore/traditionalfood/ 202312/t20231210_3494422.html [5] https://www.dailycardinal.com/article/2023/03/august-wilsons-fences-what-it-means-to-dream-fail?ct=content_open&cv=cbox_latest [6] https://study.com/academy/lesson/fences-by-august-wilson-summary-analysis.html[7] https://www.sparknotes.com/drama/fences/characters/",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "[1] https://www.anko.com.tw/en/news/News-epaper-202011.html [2] ",
+          "comment": "Please use Wikipedia's citation style to format the sources.",
+          "context_left": "Citations: ",
+          "context_right": "https://soranews24.c"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.5,
+        "Writer's Ethos": 1.5,
+        "Total": 9.0
+      },
+      "comment": "N/A"
+    }
+  ]}

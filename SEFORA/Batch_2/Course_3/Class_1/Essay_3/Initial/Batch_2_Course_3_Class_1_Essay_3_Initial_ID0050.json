@@ -1,0 +1,309 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Ventana",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The Ventana",
+          "comment": "I didn’t know what this was and so was interested! ",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“What the hell are we still doing on this boat man?” Manuel exclaimed staring out at sea. ",
+      "annotations": []
+    },
+    {
+      "body": "“We’ve got to stay out here until we catch something, otherwise the whole village is going hungry tonight,” Diego said.",
+      "annotations": []
+    },
+    {
+      "body": "“Come on, we’ve been out here for hours, there’s no sign of birds, or fish, or anything alive for that matter but us.” ",
+      "annotations": []
+    },
+    {
+      "body": "“Yeah, but we can’t go back empty handed, what will our wives and kids eat if we don’t bring anything back.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "our wives and kids ",
+          "comment": "Here is where the dialogue felt a little corny to me — it would be more natural to say “what will Sue and Aurora eat...” Etc. ",
+          "context_left": "y handed, what will ",
+          "context_right": "eat if we don’t brin"
+        }
+      ]
+    },
+    {
+      "body": "“And say we do catch something, let’s say we find it within an hour, it doesn’t get off the line, and it only takes 30 minutes to reel it in. We’re still looking at a good hour and a half boat ride back to shore, we’re cutting it real tight with the sun and I don’t want to be out here in the dark,” Manuel reasoned.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "reasoned",
+          "comment": "I like the set up here — they’re desperate but Manuel still seems to be a little anxious/logical, whereas Diego feels more consumed by the task. ",
+          "context_left": "n the dark,” Manuel ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“We’ve got to try something. Why don’t we work out way inshore to the Ventana? There’s clearly no tuna out here, maybe we can find something by the rocks.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "rocks",
+          "comment": "Might be helpful to have some action here — I’m sure they’re doing something on the boat while they talk. ",
+          "context_left": "nd something by the ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "“The Ventana? You’re nuts!” Manuel exclaimed.",
+      "annotations": []
+    },
+    {
+      "body": "Diego pleaded, “Come on we’ve got to try something, we’re the best fisherman, we can handle the Ventana.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "we’re the best fisherman",
+          "comment": "Needs more — why does he say this? ",
+          "context_left": "t to try something, ",
+          "context_right": ", we can handle the "
+        }
+      ]
+    },
+    {
+      "body": "“You’re crazy, Diego. Go there on your own time, but don’t make me come to the Ventana with you. I’d like to see my wife and kids again, and you should too, Aurora is pregnant and due soon.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Aurora is pregnant ",
+          "comment": "I guessed Aurora right! :)Here, again, your dialogue is a little expository. ",
+          "context_left": "and you should too, ",
+          "context_right": "and due soon.”"
+        }
+      ]
+    },
+    {
+      "body": "“And what are my wife and newborn going to eat if we don’t catch anything. Take me to the Ventana and give me just 30 minutes to catch something.” Diego said.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Take me to ",
+          "comment": "Is Manuel the pilot of the ship? I wondered why there was this much debate if Diego could just steer the ship?",
+          "context_left": "n’t catch anything. ",
+          "context_right": "the Ventana and give"
+        }
+      ]
+    },
+    {
+      "body": "“When I was a young boy, my grandfather took me out to the Ventana, he kept the boat just on the edge of it and warned me to never take a fish from there. It’s not a place for humans.” Manuel lectured. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lectured",
+          "comment": "I liked this addition but wanted it to be a little creepier or more convincing (or, alternately, to fee like, oh, get over it, Manuel). I also wondered if Diego has heard this story before? ",
+          "context_left": "for humans.” Manuel ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Oh come on, don’t tell me you believe that old man. Those are just myths.”",
+      "annotations": []
+    },
+    {
+      "body": "“You’re too young and naïve, I would never cast a line into that water.”",
+      "annotations": []
+    },
+    {
+      "body": "Diego was clever and found a way to convince him, “Look Manuel, I’ll take my chances. Why don’t you just pull the panga right up to the edge of the Ventana and I’ll cast into it? You don’t even have to set up a line.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "line",
+          "comment": "I wanted a bit more here — maybe he tries to steer the ship, etc. so that Manuel finally gives in. ",
+          "context_left": "en have to set up a ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "“Fine, you might as well be asking me to drive you to your grave. I’ll take you there, but I’m keeping us well outside of the Ventana and when I say it’s time to leave, we go.”",
+      "annotations": []
+    },
+    {
+      "body": "“I’ve got a good feeling I’ll catch something,” Diego trailed off imaging what was out there.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "imaging",
+          "comment": "I wondered why he’s convinced that the Ventana is going to cough up some amazing fish? ",
+          "context_left": "” Diego trailed off ",
+          "context_right": " what was out there."
+        }
+      ]
+    },
+    {
+      "body": "Manuel reluctantly pulled the cord to get the engine running and then they headed northwest, to the Ventana. But you never keep a fish from the Ventana, and any sane person would avoid it completely. Strange fish are known to swim there: shiny, colorful, and oddly shaped. Some of them put up a fight, but most of them aren’t that big and can be caught in minutes. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "minutes",
+          "comment": "This struck me as an odd moment for the narrator to tell me this. Maybe earlier? ",
+          "context_left": "nd can be caught in ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Manuel and Diego sped along, the only sounds were the hum of the engine and the splashing of the boat as it bounced along the waves. Manuel was terrified of what was in store for them. After the time his grandfather brought him there, Manuel never returned. He hoped that whatever the bad luck was that would come after them, they would be able to hold off until the only road leaving Las Tablas was cleared up again. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was terrified of what was ",
+          "comment": "I think maybe he needs to be anxious but not terrified — that feels a bit too far, perhaps. You do need them to actually go there. ",
+          "context_left": "g the waves. Manuel ",
+          "context_right": "in store for them. A"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "returned",
+          "comment": "You might consider what else Manuel has avoided, given his grandfather’s warnings. ",
+          "context_left": "there, Manuel never ",
+          "context_right": ". He hoped that what"
+        }
+      ]
+    },
+    {
+      "body": "Meanwhile, Diego was imagining the fish that they would catch and the glory he would receive when he brought them back to the village. He had heard the stories, but he was too young to take them seriously, and the last time someone had taken a fish from there was well before his parents or even grandparents were born. Diego had never been to the Ventana before, but he knew they were there even from a mile away. The water was tap water clear. It was a window into the sea.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "born",
+          "comment": "That’s a long time! You have two kind of dueling motivations for Diego— to feed his family but also for fame and glory. I wonder what happens to the story if he tells himself and Manuel that he’s doing it for the first reason but he’s actually also doing it for the second. ",
+          "context_left": "n grandparents were ",
+          "context_right": ". Diego had never be"
+        }
+      ]
+    },
+    {
+      "body": "“Test your luck with the Devil my friend,” Manuel said as he cut the engine about 50 feet out from the clear water. Species of fish neither of them had ever seen before were swimming right in front of them. ",
+      "annotations": []
+    },
+    {
+      "body": "Without hesitation Diego picked up a rod and cast it into the Ventana. Instantly a fish was on, and in under a minute he had reeled it into the boat.",
+      "annotations": []
+    },
+    {
+      "body": "“You ever see these fish before?” Diego asked.",
+      "annotations": []
+    },
+    {
+      "body": "“It looks like the type of fish a kid would draw. Toss it back in. There’s only maybe 6 pounds of meat to it. It’s not worth pissing off whoever watches over this place,” Manuel said.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "over",
+          "comment": "Maybe introduce the idea of someone watching over this place earlier? ",
+          "context_left": "off whoever watches ",
+          "context_right": " this place,” Manuel"
+        }
+      ]
+    },
+    {
+      "body": "“Come on old man. I’m tossing it in the cooler and going for more. At this rate we’ll catch enough fish for everyone.” ",
+      "annotations": []
+    },
+    {
+      "body": "Manuel just sat there looking at the sun, “I’ll give you 10 more minutes here and then we’re out of here, I don’t like the feel of this place.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh come on we’ve got plenty of light left, give me at least 20. I’ll catch enough fish to last us weeks,” Diego put his fish down into the cooler, still flopping around and cast his line out again.",
+      "annotations": []
+    },
+    {
+      "body": "Once more, a fish bit his bait and in seconds was in the boat. Diego put it in the cooler and kept casting. He kept reeling in fish like they were nothing. They weren’t big, but at the rate he was going, he would have plenty of fish for the whole village. ",
+      "annotations": []
+    },
+    {
+      "body": "On his sixth cast Diego even got two fish on the same hook. Incredible. They looked like miniature Tuna, but had strange eyes. ",
+      "annotations": []
+    },
+    {
+      "body": "“Hey Manuel, we’ve got so many fish, everyone will love us,” Diego said, then turned around to look at Manuel, “Manuel you look a bit weird, you okay?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "weird",
+          "comment": "Since he already knows Manuel doesn’t want to be there, maybe he approaches this differently. ",
+          "context_left": "nuel you look a bit ",
+          "context_right": ", you okay?”"
+        }
+      ]
+    },
+    {
+      "body": "“I’m fine, I think it’s time to get out of this place though.”",
+      "annotations": []
+    },
+    {
+      "body": "“One more cast,” Diego said.",
+      "annotations": []
+    },
+    {
+      "body": "Manuel nodded and went to turn on the engine, except he couldn’t wrap his hands around the cord. He tried again, but it slipped right out of his hands, “Diego, something weird is happening.”",
+      "annotations": []
+    },
+    {
+      "body": "The only response Manuel got was the sound of flopping of fish. Then it was Manuel’s turn and he flopped out of his seat onto the floor of the boat. ",
+      "annotations": [
+      ]
+    },
+    {
+      "body": "•\t•\t•",
+      "annotations": []
+    },
+    {
+      "body": "Back in Las Tablas, Pedro walked down to the beach as the sun was rising, hoping to see a panga with his fisherman back on the shore. He stayed up until 3 a.m. hoping they would make it back but there was no movement out there. He didn’t want to give the wives of Manuel and Diego the bad news that they were lost to the sea, but he didn’t have much faith, by now they would be out of fuel and unless they made it back late in the night they were sure to be lost.",
+      "annotations": []
+    },
+    {
+      "body": "He thought maybe his eyes were deceiving him, but there was Manuels boat bobbing up and down in the bay, he couldn’t see Manuel or Diego, but he couldn’t contain his excitement. They were back. He rang the bell and swam out there. A crowd started forming on the beach led by Manuel’s wife, watching and waiting to see if it truly was them. ",
+      "annotations": []
+    },
+    {
+      "body": "As Pedro, pulled himself into the boat he couldn’t believe his eyes. There was no Manuel nor Diego, just two massive 140 pound tunas flopping in the boat. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "So I think the idea is that this place turns them into fish? Creepy! I like it. The ending wraps up really quickly. I like the mystery, but I wonder if you could include more about “no one comes back from there” earlier so the ending is more of a “Oh, I see” than “Wait, what?” We also don’t really see an end to the conflict — the Ventana gets them both, but I didn’t see Manuel or Diego win or lose, exactly, and I wanted that moment when (presumably) Diego gets that he majorly messed up and Manuel was right. I mentioned above that I like the hints in the story that Diego is not quite as altruistic as he expresses, and I wonder if you want to play with that a bit. What happens, for example, if they don’t *really* need to go to the Ventana but just choose to because Diego wants to? Why would Manuel give in? What’s the relationship dynamic between these two? Has Manuel always refused but today he gives in? Fun to think about!Great work, Nathan, thank you!"
+    }
+  ]
+
+}

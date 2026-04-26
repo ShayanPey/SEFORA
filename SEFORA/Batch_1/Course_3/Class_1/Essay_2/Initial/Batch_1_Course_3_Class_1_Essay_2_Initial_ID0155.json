@@ -1,0 +1,251 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Generation",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Generation",
+          "comment": "Promising title! ",
+          "context_left": "My ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tI couldn’t get out of bed. ",
+      "annotations": []
+    },
+    {
+      "body": "\tEvery muscle inside of me and every limb on my body couldn’t force itself to move. My phone kept buzzing and I ignored it. Every alarm was put on snooze. I didn’t want to be anywhere else besides my bed. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Every alarm was put on snooze",
+          "comment": "I was a little confused by how the phone keeps buzzing if the alarms are off? ",
+          "context_left": "g and I ignored it. ",
+          "context_right": ". I didn’t want to b"
+        }
+      ]
+    },
+    {
+      "body": "\t“Grace, you’re gonna be late!” my mother yelled through my door. I heard her footsteps on our hardwood floor get closer and closer to my closed door. It finally opened. “Kiddo, I gotta leave for work in ten. Get up!” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "through my door",
+          "comment": "Cut this. ",
+          "context_left": "!” my mother yelled ",
+          "context_right": ". I heard her footst"
+        }
+      ]
+    },
+    {
+      "body": "\tI unburied my face from underneath my covers. “Mom, I- “ ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I’m not calling you in sick,” she interrupted me with. “Get up.” She tapped me twice on the shoulder. “Now, please.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "please",
+          "comment": "I suspect this opening section can work a little harder for you, but I appreciate that we get some sense of this home life and the character’s depression. Maybe we can learn some details, too? ",
+          "context_left": "the shoulder. “Now, ",
+          "context_right": ".” "
+        }
+      ]
+    },
+    {
+      "body": "\tThe car ride to school was quiet. She kept the radio low. She’d usually ask me about what I had going on that day. Today was filled with nothing but silence amongst both of us. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Today was filled with nothing but silence amongst both of us. ",
+          "comment": "Don’t need this. Notice that your verb tense switched in the next paragraph. ",
+          "context_left": " going on that day. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tOnce she pulled into the drop off zone, we resumed to our normal routine. “Love you girl!” she’d shout through the passenger side door before I closed it. She’d watch me walk in through the double doors, and then her silver 90’s van finally pulled away. Before I could even walk through the second set of doors, I already saw kids going rouge with their red hats and American flags. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "flags",
+          "comment": "This is an effective moment, so let us see what the narrator sees more specifically. ",
+          "context_left": "d hats and American ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\t All I wanted to do was turn back around. I wanted to turn around and not even go inside. I knew this would be the longest eight hours of my life. Opening my phone, I turned up the music I was listening to and I kept my Beats headphones on my ears. It was my goal to not make eye contact with any of these people. I simply just wanted to be a student today, nothing more. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "do was turn back around. I wanted to turn around and not even go inside. ",
+          "comment": "Slight repetition here. I think we slightly missed the movement from the car into the school — again, let’s make that super clear. ",
+          "context_left": "\t All I wanted to ",
+          "context_right": "I knew this would be"
+        }
+      ]
+    },
+    {
+      "body": "\tAs I started opening my locker, I felt a presence to the right of me. I first saw the color of the red hat peeking over the edge of the door. I didn’t want to move it to see who was looking at me, but it felt like I was being watched. I felt like I had no choice but to move it and see who it was. It was Lexi. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "but it felt like I was being watched. I felt like I had no choice but to move it and see who it was. It was Lexi. ",
+          "comment": "The story is very compelling. You do have a sort of moment-by-moment tone once she enters the school that feels slightly off. I also suggest that maybe the mom could say something about the election in the car at the top of the story? ",
+          "context_left": " was looking at me, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“I almost thought you weren’t going to be here today,” she giggled. Her eyes went from the slippers I slid on before I walked out the door, to the pajama pants that I wore the previous night, to the very wrinkled One Direction t-shirt that almost looked like a dress on me. “My god, what happened to you?” She kept looking up and down.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "looking",
+          "comment": "The mom might also say something about her clothes (or, alternately, not even notice, which would be unlike her). ",
+          "context_left": "d to you?” She kept ",
+          "context_right": " up and down."
+        }
+      ]
+    },
+    {
+      "body": "\tI tried to speak, but nothing came out. I didn’t want to have this conversation with her, knowing it would end badly. “I’m just tired,” I ended up telling her. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "with her, ",
+          "comment": "Can we know who Lexi is? Best friend? ",
+          "context_left": "e this conversation ",
+          "context_right": "knowing it would end"
+        }
+      ]
+    },
+    {
+      "body": "\t“Damn, that sucks.” She grinned and looked around. “I didn’t know that many people here thought the same as me. I thought everyone was just some brainwashed suckers.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "same as me",
+          "comment": "Oh, boy. ",
+          "context_left": "le here thought the ",
+          "context_right": ". I thought everyone"
+        }
+      ]
+    },
+    {
+      "body": "\tI tried to bury my face into my locker. I didn’t want to talk about this now. I didn’t want her to see me cry, and see me emotional about this, but I could feel a tear falling from my eye. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Not everyone feels the same about yesterday,” I decided to say. We’ve never argued about this in the entire history of our friendship, and god I was hoping it didn’t start now. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "decided",
+          "comment": "Okay, this is interesting. I didn’t understand that Lexi was unaware of the narrator’s politics. I thought she knew. ",
+          "context_left": "about yesterday,” I ",
+          "context_right": " to say. We’ve never"
+        }
+      ]
+    },
+    {
+      "body": "\t“How could someone not be happy about this?” She started waving her hands. “I’ve never seen so many people as patriotic as they are right now.” I felt my heart sink through my chest as she said that. It felt like something was pressing on my chest, making it hard for me to breathe. ",
+      "annotations": []
+    },
+    {
+      "body": "Breathe in, breathe out, I told myself. I just need to get through today. Maybe this is the only time it’ll get brought up, I tried telling myself. I finally opened my mouth again. ",
+      "annotations": []
+    },
+    {
+      "body": "“Lexi.” ",
+      "annotations": []
+    },
+    {
+      "body": "Her eyes got wide and excited, as she was not able to read the room at this very moment. I opened my mouth again. “I’m not happy about this.” I watched her eyes suddenly drop, and her eyebrows crinkled in annoyance. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "annoyance",
+          "comment": "Great moment. I do think maybe you can make more of the narrators decision to finally (I assume) tell her friend what she thinks? She’s kept it to herself the entire election season, it seems, so why does she say it now? (To be clear, I’m fine with her saying it now, just need more on the decision to do so.) ",
+          "context_left": "yebrows crinkled in ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“You’ve just watched too much CNN,” Lexi tried telling me. “Y’all are freaking out too much, it’s not like this will be the doomsday or anything.” She was now unable to stop talking. “My family and I dealt with Sleepy Joe for four years, you can deal with the next four years and stop whining.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "whining.” ",
+          "comment": "Hooooooo boy. ",
+          "context_left": "four years and stop ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I wanted to take the high road. I wanted to ignore this conversation. I didn’t even ask for this conversation to start. But she just kept talking. Within the following five minutes, she pulled every saying and every tactic from the book. It was nothing I hadn’t already heard from my grandparents or anyone else at this midwestern school. Every sentence of hers was another stab wound. My heart dropped more and more as she kept talking. I felt more alone than I ever had felt. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "felt",
+          "comment": "Again, I wondered why this conversation was finally happening now, and I want a better idea of why either of them sticks with this conversation — why not just walk away? ",
+          "context_left": "very sentence of hers was another stab wound. My heart dropped more and more as she kept talking. I ",
+          "context_right": " more alone than I ever had felt. "
+        }
+      ]
+    },
+    {
+      "body": "I couldn’t do it anymore. I snapped. ",
+      "annotations": []
+    },
+    {
+      "body": "“Lexi!” I shouted, using all of the air in my lungs. All the hustle-bustle from the hallway turned to silence. The chatter amongst peers turned to whispers. The slamming of lockers halted. Suddenly everyone was looking at us. Well not as much at Lexi, only at me. ",
+      "annotations": []
+    },
+    {
+      "body": "At this point tears covered my entire face. I couldn’t wipe them away fast enough as they fell onto my books. The presence of eyes on me only grew and grew, watching me more intensely and carefully. ",
+      "annotations": []
+    },
+    {
+      "body": "“For once,” I paused. I had to be careful with this, if I wanted to keep our friendship. “You need to understand that not everyone is happy about this. But you don’t get it, do you?” ",
+      "annotations": []
+    },
+    {
+      "body": "The first bell of the day rang, indicating that it was time for first period. Without saying a word, she looked me right in the eyes and walked away. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "A strong and obviously heartfelt first draft, Fran. I enjoyed reading it and I think you’re brave to write it. My questions really are mostly about who Lexi and the narrator are to each other, and why the narrator wouldn’t have been clear about her politics from the beginning. I don’t mean that she should have been, only that if she hasn’t, the decision to finally tell Lexi to stop feels really big and I’d like to better understand why she makes it. I also think the ending could use some reformatting — maybe we see the narrator decide to write Lexi off as a friend. Maybe she sees someone else in the hallway who feels the same way she does. Or maybe she gives in and passively goes along with Lexi (I don’t love that, but I think it’s what people do a lot, and certainly seems to be what the narrator has done up to now.) Again, super strong work and I’m glad you wrote it."
+    }
+  ]
+}

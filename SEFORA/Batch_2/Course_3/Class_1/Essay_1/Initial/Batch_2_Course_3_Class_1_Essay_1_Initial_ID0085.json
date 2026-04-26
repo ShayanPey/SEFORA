@@ -1,0 +1,245 @@
+{
+  "paragraphs": [
+    {
+      "body": "Box",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Box",
+          "comment": "I love this title. It feels ominous, somehow! ",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "By Lincoln Capo Lincoln",
+      "annotations": []
+    },
+    {
+      "body": "\"Stop him! No! Stop that man!\" ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that man!\" ",
+          "comment": "I love starting this way, but I couldn’t locate the voice — who yells this about who? ",
+          "context_left": "\"Stop him! No! Stop ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Brandon's voice cut through the low din of cars, footsteps, and voices coloring the intersection at 4th and Belle Street, where his bike skidded to a stop in its designated lane, to the right of the cars slowly trudging through the night traffic. He didn't so much as glance to his left before swiveling his bike and speeding between the crossing cars, practically standing as he pedaled in front of a black SUV and white sports car, their headlights glaring angrily, followed by repeated honks merging into a dissonant chord. From the right, the lights of a red sedan followed the car in front of it that Brandon attempted to pass behind. He was briefly illuminated, as if in a spotlight, before the edge of the red sedan whipped past his back, his loose jacket billowing from the rush of air.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Brandon's",
+          "comment": "I changed the formatting here. I think this works better for a short story. ",
+          "context_left": "",
+          "context_right": " voice cut through t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "From the right, the lights of a red sedan followed the car in front of it that Brandon attempted to pass behind. ",
+          "comment": "I had a little trouble following the end of the sentence here — could this be simplified? ",
+          "context_left": " a dissonant chord. ",
+          "context_right": "He was briefly illum"
+        }
+      ]
+    },
+    {
+      "body": "As he hopped his bike onto the sidewalk, he shouted again, pointing down 4th street where red taillights dotted his vision, growing smaller as they drove further before being replaced with the glow of the cars behind them. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "he shouted again, ",
+          "comment": "Ah! ",
+          "context_left": " onto the sidewalk, ",
+          "context_right": "pointing down 4th st"
+        }
+      ]
+    },
+    {
+      "body": "\"That man in the black! On the motorcycle! He's getting away!\" ",
+      "annotations": []
+    },
+    {
+      "body": "His voice cracked with desperation on the last word. He quickly scanned the crowd on the sidewalk, a mix of passersby and those sitting at the bus stop. His presence and state seemed to have the effect of pushing anybody within a certain radius away and making them glance awkwardly at the ground – at least for those who seemed to acknowledge his presence as anything out of the ordinary. Brandon grunted, turned and hopped back down onto 4th street, causing a car to swerve around him, the driver hurling curses through the open passenger side window. He slipped and dipped from the far-left lane all the way to the right, where a few blocks ahead, he identified the single taillight of a motorcycle, the driver dressed in a black jacket, his helmet reflecting the neon signs of the shops nearby. It was only a glimpse that Brandon caught before the man turned right down the alley next to the 7/11, but it was all he needed.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ordinary",
+          "comment": "I love the pace and the drama of the story so much. I do think you’re slightly overwriting, and that’s making it a little hard to follow. For example, I rewrote this sentence — se how it’s not much different but more clear? “His appearance seemed to cause anybody nearby to glance awkwardly at the ground— at least those who acknowledged him at all.” ",
+          "context_left": "anything out of the ",
+          "context_right": ". Brandon grunted, t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "11",
+          "comment": "Again, I love the action and chase aspect of this story. I’m dying to know what’s going on. ",
+          "context_left": "alley next to the 7/",
+          "context_right": ", but it was all he "
+        }
+      ]
+    },
+    {
+      "body": "When traffic ground to a halt after a red light, Brandon opted to move operations to the sidewalk once more, the lack of cars allowing him to speed towards the convenience store as fast as his bike would allow. The sound of yelps interspersed with insults flew by from pedestrians as they stumbled out of his way. He ignored them, picking up speed as the sidewalk pitched downward slightly, and he used his momentum to make a sharp right turn around the corner, a block before he'd seen the man turn the same way. He felt, rather than saw, the impact of something hard against his elbow as he turned - it bounced off easily but still managed to throw off his balance, and he gathered from the sensation and the gasps around him that it must have been someone's head. He cursed at the pain in his elbow and brief loss of speed and balance, but didn't look back as he continued, accelerating once again to his previous pace.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "head",
+          "comment": "Nice. ",
+          "context_left": "have been someone's ",
+          "context_right": ". He cursed at the p"
+        }
+      ]
+    },
+    {
+      "body": "He reached 3rd street, turning left onto it and continuing until he found himself at the edge of the alley, blocked by a simple chain-link fence. Through the diamond links he could see dumpsters, scattered trash, and a man in black, his motorcycle leaning against the brick wall. The man took off his helmet, revealing scraggly black hair, messy stubble, and an excited smile. He fished his phone out of his pocket, almost dropping it as he quickly brought it up to his ear.",
+      "annotations": []
+    },
+    {
+      "body": "\"Yo, you're not gonna believe what I got. It was just lying there! Yeah... this thing has got to be worth thousands. It's legit. And whoever's it was, they didn't see me either – it's ours, bro. It's ours.\" He beamed through the words, running a hand through his messy hair. \"Yeah, I just had to tell you. I'm about to head back, see y- whoa, what the...\" His words faded as the sound of Brandon jumping down onto the concrete reverberated against the walls.",
+      "annotations": []
+    },
+    {
+      "body": "\"It's mine. Give it the fuck back, now.\" Brandon's hardened voice seemed to make the man back away, his smile replaced with a concerned grimace.",
+      "annotations": []
+    },
+    {
+      "body": "\"Just... just fuck off, dude. Forget about it, it's not yours anymore,\" the man responded, backtracking before turning and sprinting to his motorcycle, flipping the kickstand and starting to swing his leg onto the seat. Before he could rev the engine, Brandon's foot met his back squarely with enough force to launch both him and the motorcycle. The motorcycle clattered on its side onto the asphalt, the man spilling out, landing almost in a fetal position. \"Goddammit...\" he sputtered, his breathing labored as he tried to stand up once more. As soon as he turned to face Brandon, he was struck in the cheek with a gnarled fist.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "anymore",
+          "comment": "This sounds authentically like a robber (?) would talk. I would love to know if Brandon is really just an amazing hard-ass, or if he’s running on adrenaline here or what. ",
+          "context_left": " it, it's not yours ",
+          "context_right": ",\" the man responded"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "launch both him and the motorcycle. ",
+          "comment": "Is this physically possible? ",
+          "context_left": "ith enough force to ",
+          "context_right": "The motorcycle clatt"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a gnarled fist.",
+          "comment": "Since I don’t have an image of Brandon, but he was so fast on his bike, I pictured a thin, sinewy guy. This person feels bigger and heavier to me? ",
+          "context_left": "k in the cheek with ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Spit and blood sprayed out from the man's mouth as his head was forced to his right by the blow. His knees collapsed, his body sprawling back onto the concrete. \"Just... take it! Fuck!\" He didn't look at Brandon, but could see the shadow looming over his downed form as he reached into his jacket, producing a small black box. He held it out, still looking away. His hand trembled in the air, clutching the box, before Brandon snatched it out of his grasp.",
+      "annotations": []
+    },
+    {
+      "body": "\"This is for her,\" he spat, holding the box up to the light. \"I dropped three grand on this, and you think you can just waltz off with it?\" He chuckled, shaking his head.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "chuckled, shaking his head",
+          "comment": "I do want to note that Brandon doesn’t really have a conflict once he gets the box back — and he does that with relative ease. (So far, anyway!) ",
+          "context_left": "tz off with it?\" He ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\"Just go then,\" muttered the man. His voice was dejected, muted. He let out a rough cough. \"You can take it, man, I don't care anymore. Just... leave me alone.\" In the distance, the wail of a siren faded into the air, slowly drawing closer. The man swallowed and began sliding on the ground towards his motorcycle. \"Did you call the fucking cops, man?\" His voice betrayed his fear.",
+      "annotations": []
+    },
+    {
+      "body": "Brandon smirked. \"That's an ambulance, dumbass. I can flag 'em down for you though, if you want.\" He laughed at his own joke, pocketing the box. \"Get out of here before I fix your face even more.\"",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "even more.\"",
+          "comment": "Brandon seems totally cool and in charge here. ",
+          "context_left": "ore I fix your face ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The man scrambled up, fumbling with his motorcycle. A dent was visible in the side that had hit the ground earlier, but he paid it no mind as he swung himself on, revved the engine, and sped out of the alley. His helmet remained on the ground, forgotten.",
+      "annotations": []
+    },
+    {
+      "body": "Brandon turned the box around in his pocket, feeling the smooth felt against his fingers. He backed against the wall while smiling, his heart not yet slowing from the adrenaline. \"I fucking did it,\" he muttered breathlessly to himself. \"Wait 'til I tell her about this. No way she'll doubt me again. No fucking way.\"",
+      "annotations": []
+    },
+    {
+      "body": "His journey home was less exciting, though it wasn't free of even more curses hurled by other travelers, both on foot and on wheels. Sleep came quick and easy – there was no nightly routine nor change of clothes before he passed out on the couch. When morning came, rays of sunlight slowly penetrated his eyelids until he awoke. After lazily bumbling about his makeshift bed, he rose and grabbed his phone. Several missed text messages and calls aligned on the screen. His brow furrowed, and he quickly swiped to make the call.",
+      "annotations": []
+    },
+    {
+      "body": "\"Sarah? Hello?\" he spoke into his phone when he heard the affirmative click of response.",
+      "annotations": []
+    },
+    {
+      "body": "\"Brandon? Brandon... where were you last night? I was trying to get a hold of you-\"",
+      "annotations": []
+    },
+    {
+      "body": "\"Babe, what happened?\" Concern crept into his voice.",
+      "annotations": []
+    },
+    {
+      "body": "\"I'm okay, I'm okay... it's just a concussion. They told me no broken bones. In the hospital.\"",
+      "annotations": []
+    },
+    {
+      "body": "\"Babe... what? Hospital?\"",
+      "annotations": []
+    },
+    {
+      "body": "\"I don't even remember what happened. I was with Lexie, and... all of a sudden I was on the ground, there were all these people around me... they said I couldn't even remember what day it was, I... it was just...\" she trailed off before continuing. \"I called you and texted you, after they took me to the hospital. Nothing. You always tell me you'll be there for me but then you never are.\" Her voice had dropped, grown colder. \"Were you out drinking again?\"",
+      "annotations": []
+    },
+    {
+      "body": "Brandon was silent. After a few moments, he spoke again. \"I got you something. I promise you'll love it this time. I made sure it-\"",
+      "annotations": []
+    },
+    {
+      "body": "\"I don't care how much money you spend on shit for me. All I wanted last night was for you to be by my side, and you weren't. And not for the first fucking time, either.\"",
+      "annotations": []
+    },
+    {
+      "body": "\"Sarah, I-\"",
+      "annotations": []
+    },
+    {
+      "body": "\"Don't. Keep it.\"",
+      "annotations": []
+    },
+    {
+      "body": "The phone beeped three times as she hung up.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Ah ha! A nice reveal. I really enjoyed this dialogue and the surprise at the end of the story. It’s a really good first draft, Lincoln. My sense is that you settled into the story and moved away from the slight overwriting as it went on. I definitely think you can cut back on the bike ride and the fight (not even really a fight, more of a beatdown!) so that we can learn more about how all of this is for Sarah earlier. I wondered if you could perhaps show Brandon ignoring Sarah’s calls or texts? You might also consider making it more of a fight for him so that he goes home to clean up and rest — which helps solve the problem of why he wouldn’t be looking for Sarah immediately afterwards. (You need the time gap to make it work that she was in the hospital, but it seems odd that he’s out of touch for that long, so you need to justify it.) I also had trouble buying that he hit his girlfriend in the head and didn’t notice? I ended up liking it as a plot point but need that to be written in a way that lets me buy it. So! Overall, a lot that works really well here — now it’s figuring out how to make the plot more believable that’s your big work. Should be fun to revise! Happy writing!"
+    }
+  ]
+}

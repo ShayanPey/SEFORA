@@ -1,0 +1,323 @@
+{
+  "paragraphs": [
+    {
+      "body": "Temperature Change by  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "by",
+          "comment": "Like this title a lot! ",
+          "context_left": "Temperature Change ",
+          "context_right": "  "
+        }
+      ]
+    },
+    {
+      "body": "Anne Lovejoy pressed her pale face up against the cool window of the family’s Buick Skylark. She welcomed the frost, hoping it would help regulate her body temperature. She watched the wilderness, getting quick glimpses of her surroundings when they passed a house with a porch light. If she was paying less attention, if she didn’t know the road so well, she’d think she was being driven to her death. Anne twirled her wedding ring around her finger at the thought; would he really go through with it? No, she thought. God knows Dale had a temper, her busted lip and the developing bruises on her body proved it. But the only way he’d kill her was if he killed the kids and himself as well. Yet there they were, in the car, alone. There was an awkward tension in the air, but the silence was enjoyable to Anne; she knew that it was better than listening to Dale’s thoughts. His knuckles were tightly wrapped around the steering wheel, looking on at the road. He didn’t bother looking at his wife for the entire drive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "death",
+          "comment": "Yikes! I like this opening. ",
+          "context_left": "being driven to her ",
+          "context_right": ". Anne twirled her w"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "as well",
+          "comment": "Yikes. You put me in a very f’ed-up headspace well. ",
+          "context_left": "he kids and himself ",
+          "context_right": ". Yet there they wer"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "enjoyable to Anne; ",
+          "comment": "I would suggest an edit to “…but the silence was better than listening to Dale.” ",
+          "context_left": "but the silence was ",
+          "context_right": "she knew that it was"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "didn’t bother ",
+          "comment": "Maybe “hadn’t bothered..”? ",
+          "context_left": " on at the road. He ",
+          "context_right": "looking at his wife "
+        }
+      ]
+    },
+    {
+      "body": "The car made a right onto the dirt road it had driven up hundreds of times. They slowed down as the old farm house made its way into view. When they came to a complete stop Anne saw that the living room light was on. She didn’t see Papa Hank sitting on the porch waiting for their arrival. Dale took the keys out of the ignition and quickly exited the vehicle, making a point to loudly slam the door. The sound made Anne shiver but she didn’t move. She watched her husband speak to his father, yelling loudly and occasionally gesturing to her in the car. As the men went back and forth, Shirley made her way to the doorway in her robe. Anne liked Shirley; she knew that she could have gotten a worse mother-in-law so she was grateful for what she had. She tried to read Shirley’s face when Dale came over to the passenger side and ripped the door open. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "didn’t",
+          "comment": "This information feels like it would come before noticing that the light was on?Also, would he sit outside int eh winter? ",
+          "context_left": "ts way into view. When they came to a complete stop Anne saw that the living room light was on. She ",
+          "context_right": " see Papa Hank sitting on the porch waiting for their arrival. Dale took the keys out of the ignitio"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to his father",
+          "comment": "I was confused here because I had been told he wasn’t on the porch. ",
+          "context_left": "d her husband speak ",
+          "context_right": ", yelling loudly and"
+        }
+      ]
+    },
+    {
+      "body": "\t“Let’s go, Anne.” He said. Anne stayed silent, looking at the house. She refused to meet his gaze. “Anne, get out of the car.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Come in the house, Anne. I’ll make us some tea,” Shirley said from the porch. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "said",
+          "comment": "I really like the tension here. ",
+          "context_left": " some tea,” Shirley ",
+          "context_right": " from the porch. "
+        }
+      ]
+    },
+    {
+      "body": "\t“Don’t baby her, Mom,” Dale said. He reached into the car and scooped her body up in a swift movement. When she was finally standing on her own, Dale grabbed her arm and dragged her to the door, throwing her down on the living room couch. Shirley followed closely behind them, sitting in the chair opposite of Anne. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Mom",
+          "comment": "Fixed the dialogue for you — please fix punctuation throughout. ",
+          "context_left": "\t“Don’t baby her, ",
+          "context_right": ",” Dale said. He rea"
+        }
+      ]
+    },
+    {
+      "body": "\t“Where are the kids?” Hank asked as he walked into the room. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“They’re with Molly, I asked her to take them for the night.” Dale said. Hank and Shirley looking back and forth between each other, their son, and his battered wife. Neither knew how bad the situation was, so neither knew what to do. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "night",
+          "comment": "I was surprised that they said nothing about his treatment of Anne if they’re not aware of how bad it is. Notice that you occasionally leave Anne’s POV which is a little confusing. The last sentence here would make more sense as “Anne could tell that neither knew how...”” ",
+          "context_left": "o take them for the ",
+          "context_right": ".” Dale said. Hank a"
+        }
+      ]
+    },
+    {
+      "body": "\t“I’m sure you both must be tired. Shirley, how about you Anne upstairs to get cleaned up so they can get ready for bed.” Hank said while nodding at his son. Dale looked at Anne and nodded. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Go upstairs, Anne.” But she didn’t move. No one did; not even to look at the others' reactions. Dale kept his focus on Anne and Anne kept hers on the seams of the old couch the Lovejoys had owned since she was in high school. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "school",
+          "comment": "I would like to have a better sense of whether she’s in shock (didn’t seem that way) or being rebellious or why she’s not responsive. ",
+          "context_left": "nce she was in high ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Damn it, Anne.” Dale yelled, startling everyone in the room. ",
+      "annotations": []
+    },
+    {
+      "body": "“Come on, sweetheart. Let’s get you cleaned up.” said Shirley as she walked over to Anne and softly took her arm. The two women walked up the stairs and into the bathroom in silence. Shirley sat Anne on the toilet before starting the bath water. ",
+      "annotations": []
+    },
+    {
+      "body": "“I’m sure Molly has some old clothes laying around here somewhere. She’s been coming back every week because she forgot so much. Let me go find some.” Shirley left the bathroom while the sound of the running water filled Anne’s ears. ",
+      "annotations": []
+    },
+    {
+      "body": "She watched the tub fill as she stripped herself of the dirty smock dress that was littered in sweat, grime, and a little bit of blood. Her matching underwear set followed quickly after. Anne put her foot in first, wincing at the burning sensation that had come over her body. But she didn’t stop; the pain was bearable. She continued to sink her body into the water, quickly feeling the filth wash away. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "of",
+          "comment": "Can we see her decision to take a bath? It’s the first thing she does out of her own will, it seems. ",
+          "context_left": "She watched the tub fill as she stripped herself ",
+          "context_right": " the dirty smock dress that was littered in sweat, grime, and a little bit of blood. Her matching un"
+        }
+      ]
+    },
+    {
+      "body": "After five minutes of sitting, Shirley walked back in with a towel, washcloth, and some clothes. She set everything down on the toilet and sat next to the tub. The women sat in silence, surrounded by the sounds of the leaky faucet dripping into the water, capillary waves rippling like the tide. For what felt like hours the two comforted each other with their presence, with Anne occasionally wincing when she heard Dale hit something or raised his voice too loud in his argument with his father. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "father",
+          "comment": "I would expand this point a bit — you’re rushing through two different ideas. They can hear the men yelling (or at least Dale) but they also take comfort from each other. ",
+          "context_left": "s argument with his ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“You know, marriage is all about making mistakes.” Shirley said as Anne hugged her knees to her chest. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "mistakes",
+          "comment": "OH NO SHIRLEY NO",
+          "context_left": "is all about making ",
+          "context_right": ".” Shirley said as A"
+        }
+      ]
+    },
+    {
+      "body": "“Shirley.” Anne whispered. It was barely audible but it was heard. ",
+      "annotations": []
+    },
+    {
+      "body": "“It’s okay to be mad at him for making a mistake. But he’s your husband. You have to be willing to…”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "making a mistake",
+          "comment": "I don’t have a good grasp of what the mistake he made is yet. Or at least what his mom considers a mistake… ",
+          "context_left": "o be mad at him for ",
+          "context_right": ". But he’s your husb"
+        }
+      ]
+    },
+    {
+      "body": "“This wasn’t a mistake.” Anne cut her off. Shirley looked at her. ",
+      "annotations": []
+    },
+    {
+      "body": "“Dale has always had a temper, I’m not going to pretend that he doesn’t. But he loves you.” ",
+      "annotations": []
+    },
+    {
+      "body": "“Did you know that I wasn’t ready to settle down yet? I wanted to travel first. Or go to college. Or be a dancer. I never even wanted to be a mom, or have kids, or…”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "down yet? ",
+          "comment": "I wondered at this. Shirley has presumably known Anne since before the wedding, so perhaps she does know this already? Does she buy what Anne is saying? Or is she like, hey, no, we grow up. ",
+          "context_left": "n’t ready to settle ",
+          "context_right": "I wanted to travel f"
+        }
+      ]
+    },
+    {
+      "body": "Shirley cut her off. “We all have dreams when we’re little, Anne. But one day you realize that you need to grow up. Do you think you’re the only woman whose “dreams” didn’t come true? I wanted to be a police officer just like my dad. Imagine what people would say now if I was walking around in a uniform while my family was hungry.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "while my family was hungry.” ",
+          "comment": "I like this detail but I got confused by this phrase. ",
+          "context_left": "around in a uniform ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“I don’t care about what people would say, Shirley.” Anne groaned. She hadn’t realized that started crying. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that started crying",
+          "comment": "?",
+          "context_left": "She hadn’t realized ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Then that’s your problem because in this town that’s all that matters.” The two women stared at each other for a while before Shirley spoke again. “You made an oath. For better or worse. Don’t let one moment define your entire marriage.” She sighed and stood up. “I really don’t know where he gets his temper from. Hank never put his hands on me, not once. Neither did Big Hank. I just don’t get it.” With that, she walked out the bathroom without a second look back. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "again",
+          "comment": "I’m having trouble tracking whether this was a one-off incident or not. Shirley seems to think it was but is she wrong? We’re told that the situation was worse than Dale and Shirley realize. But I don’t have enough details yet. ",
+          "context_left": "efore Shirley spoke ",
+          "context_right": ". “You made an oath."
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "back",
+          "comment": "Shirley really manages to disavow her son’s violence as not her fault here. Very effective. ",
+          "context_left": "thout a second look ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "It was the first time Anne had been alone with her thoughts since she went to bed the night before. But she didn’t want to reflect on the events of the night; she didn’t want to think about how angry she was at the fact that he came home late, meaning that the kids had to eat a cold, late dinner. How they whined and groaned, but it was better hearing that than hearing how angry he would’ve been if they ate without him. She didn’t want to think about the faint smell of expensive perfume that lingered when he hugged her, or the fact that she knew that it wasn’t hers because he claimed they couldn’t afford it. She couldn’t tell what was the final straw; his complaints about the cold food, his phone buzzing at the table, the “work conference” he was being called away on for the weekend. All she knows is that she was tired. She didn’t even realize the word was coming out of her mouth. It was so faint, she was hoping he hadn’t heard it. But no word sounded like “divorce”. Or at least not one that she could come up with to lie about for the time being.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "being",
+          "comment": "I might like to see this scene or hear the dialogue from it a bit more. ",
+          "context_left": "w; his complaints about the cold food, his phone buzzing at the table, the “work conference” he was ",
+          "context_right": " called away on for the weekend. All she knows is that she was tired. She didn’t even realize the wo"
+        }
+      ]
+    },
+    {
+      "body": "So instead of thinking, Anne scrubbed. Scrubbed until the dirt was gone, until her skin burned, until she could feel the shame come off. Then, she sat with herself. She wondered when she became so weak. She asked God why this was what her life had come to. There was a soft knock on the door that interrupted her, but Anne didn’t have to wonder who it was. She knew. They were trapped in an unending routine that had no way out other than death. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "off",
+          "comment": "Is she cataloguing bruises? ",
+          "context_left": "feel the shame come ",
+          "context_right": ". Then, she sat with"
+        }
+      ]
+    },
+    {
+      "body": "“Annie?” Dale said. His voice was sweeter, with a hint of fear. Fear she would leave, fear he wouldn’t be able to stop her. “Can I come in?” ",
+      "annotations": []
+    },
+    {
+      "body": "It wasn’t until she heard his voice that she realized the water was freezing cold. If things were different, she may have just put her head under the water until her body forced her to come up for air. But things weren’t different. This was her life. ",
+      "annotations": [
+      ]
+    },
+    {
+      "body": "“Yeah, Dale, come in.” She said, and listened to the doorknob turn with her eyes closed. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I love the description of his voice and the water being cold. I did want to have a better sense of whether she ever really considered leaving from here or not. The ending feels a bit foregone — after all, she was taken by him to his parents’ home so it doesn’t feel like she’s actually going to try to leave. But maybe we could see her think about possibly leaving or trying to talk to him or…? What is the final nail in that coffin for her? When does she give up her desire to get out? I felt this was a strong story, Christopher. Much here works. I like the way you keep much of what has happened out of the story, which is effective, but I did have trouble buying that he takes her to his parents’ house! Why, of all places? So think about that. And as I said earlier, I want to see these two women a bit more — the dialogue is broad, but they have a long history together. If this really is a moment that the mom realizes what her son does, and then chooses not to help her DIL, let us see that. Great work! Happy revising!"
+    }
+  ]
+
+}

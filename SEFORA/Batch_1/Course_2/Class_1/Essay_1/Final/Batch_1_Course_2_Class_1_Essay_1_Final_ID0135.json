@@ -1,0 +1,57 @@
+{
+  "paragraphs": [
+    {
+      "body": "Tunnel Vision: Expecting a Mall, Finding an Office Tower When I first arrived in Pittsburgh, I remembered the moment vividly. As I passed through the tunnel and emerged on the other side, the view of downtown Pittsburgh stretched out before me in the distance. It was exactly how I had imagined it would be, matching the pictures and promotional images I had seen before coming here. The iconic yellow steel bridges stood proudly, a nod to the city's industrial past, yet they seemed perfectly in tune with the modern cityscape around them.",
+      "annotations": []
+    },
+    {
+      "body": "I had pictured downtown Pittsburgh to be somewhat like the central areas of most major cities in China—filled with large shopping complexes where people could catch a movie, grab a bite to eat, or spend the day shopping. I even expected entertainment facilities like KTVs to be part of the experience, much like in Chinese cities.",
+      "annotations": []
+    },
+    {
+      "body": "Since every city center, I had visited in China had similar features, I naturally assumed Pittsburgh’s downtown would be the same. The sight of so many tall buildings from a distance reinforced that idea for me. I imagined the area would be filled with large commercial complexes, offering a mix of entertainment facilities, dining options, and places to shop. It was easy to picture bustling malls and modern conveniences, like what I was used to seeing back home. This assumption felt natural, given the overall vibe and layout of the city from afar, making me expect the same lively energy downtown.",
+      "annotations": []
+    },
+    {
+      "body": "When my friends and I finally made our way to downtown, I was surprised to discover that most of the buildings were office towers, primarily occupied by banks and other businesses. Scattered among them were a few standalone theaters, but there weren't many restaurants or leisure facilities like I had expected. What shocked me even more was that downtown didn’t have the kind of shopping malls where you could casually browse, eat, and drink while wandering around. Instead, there were only a few independent clothing stores or supermarkets, which felt completely different from the bustling commercial hubs I had imagined.",
+      "annotations": []
+    },
+    {
+      "body": "If I were to compare downtown Pittsburgh with Beijing, both cities had many tall skyscrapers in their central areas. However, there was a notable difference in the heart of Beijing. The area around the Forbidden City (故宫), because it is a classical imperial palace, had strict government regulations that limited the height and architectural style of nearby buildings. Surrounding the Forbidden City, I could find traditional courtyard homes, or siheyuan (四合院), instead of modern glass skyscrapers.",
+      "annotations": []
+    },
+    {
+      "body": "A little further away from the Forbidden City, though, the scene became more similar to Pittsburgh’s downtown, with tall buildings and a modern skyline. The difference lay in the presence of shopping malls, drink shops, and street food vendors in both the traditional and modern areas of Beijing. As the center of the city, the Forbidden City (故宫) drew thousands of tourists every day, making it a hub for sightseeing. In contrast, downtown Pittsburgh was primarily a business district, where most people came to work rather than to visit for leisure.",
+      "annotations": []
+    },
+    {
+      "body": "Pittsburgh, known as the \"Steel City,\" had maintained its industrial and modern architectural style, whereas Beijing preserved its historical heritage with courtyard homes and siheyuan (四合院) around the Forbidden City, while modern skyscrapers had been developed nearby. This cross-cultural comparison really changed how I saw city centers. In Beijing, the architecture reflected a deep respect for history and cultural heritage, with most buildings maintaining a classical style. Pittsburgh, on the other hand, had this industrial feel, especially with all the steel bridges connecting the city—symbols of the city’s industrial roots. It made me realize how cities reflect the stories of their pasts. One emphasized tradition and history, while the other highlighted industry and growth.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This cross-cultural comparison ",
+          "comment": "This is a nice paper. Please meet the minimum length requirement and use double spacing to format the paper. I would also integrate detailed descriptions, such as dialogues, into the storytelling. Overall, good job!",
+          "context_left": "n developed nearby. ",
+          "context_right": "really changed how I"
+        }
+      ]
+    },
+    {
+      "body": "This cross-cultural comparison really changed how I saw city centers. In Beijing, the architecture reflected a deep respect for history and cultural heritage, with most buildings maintaining a classical style. Pittsburgh, on the other hand, had this industrial feel, especially with all the steel bridges connecting the city—symbols of the city’s industrial roots. It made me realize how cities reflect the stories of their pasts. One emphasized tradition and history, while the other highlighted industry and growth.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 2,
+        "Organization": 3,
+        "Writer's Ethos": 1
+      },
+      "comment": "This paper has some good arguments, but there are areas for improvement. Please also meet the length requirement. For more information, please see my marginal comments."
+    }
+  ]}

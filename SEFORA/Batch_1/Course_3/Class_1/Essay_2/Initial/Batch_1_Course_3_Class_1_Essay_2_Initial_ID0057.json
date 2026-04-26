@@ -1,0 +1,500 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Remodel",
+      "annotations": []
+    },
+    {
+      "body": "It all started with that damned model house. I’d spent gobs of time on it, dedicating any spare hair of time to it. Every living, breathing movement was dedicated to it. So when I finished it, I was readying the house for a remodel. I didn’t have to model the entire house, but I did what made me feel useful after being relegated to the family counselor. My plans were being realized with the new construction in the yard. I could at least relieve stress by building this and hiding in my office away from their bullshit.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hair of time ",
+          "comment": "I’ve never heard this phrase before. I like the first person opening, and the title! ",
+          "context_left": "edicating any spare ",
+          "context_right": "to it. Every living,"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "movement ",
+          "comment": "?",
+          "context_left": "y living, breathing ",
+          "context_right": "was dedicated to it."
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "house for a remodel. ",
+          "comment": "I’m so sorry, but I’m confused. It’s a model house, and the narrator spent time on it. When it was done, the house (that house?) was ready for a remodel. But she didn’t have to model the entire house… I’m just lost. What’s going on? ",
+          "context_left": " I was readying the ",
+          "context_right": "I didn’t have to mod"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "their bullshit",
+          "comment": "Keep in mind that I do not know who’s speaking, so I really have no idea who “they” are. ",
+          "context_left": "my office away from ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "I’m of course not a legitimate counselor, but I’ve unfortunately taken the place of the counselor my family needs and refuses to hire. Just suggesting such a thing had her on a tirade on whether or not their degree was even real or if their school was even accredited. It was the same tired complaints and belittling she’s used around the subject of my finance, now wife.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "Who? ",
+          "context_left": "en the place of the counselor my family needs and refuses to hire. Just suggesting such a thing had ",
+          "context_right": " on a tirade on whether or not their degree was even real or if their school was even accredited. It"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " finance",
+          "comment": "?",
+          "context_left": "nd the subject of my",
+          "context_right": ", now wife."
+        }
+      ]
+    },
+    {
+      "body": "I’m not that much of an ass. I’m probably the only somewhat normal sibling in the family. The other is my brother, Roman. Everyone else is salty and frankly terrible people. But they’re family so I keep up with their less-than-favorable behavior. Naomi was supposed to be here with the kids twenty minutes ago. I’d waited out in the back garden, where I’d been slaving away on my latest project. I’d always considered myself a handyman, but I think I overdid it this time. I didn’t have an architectural degree for nothing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "nothing",
+          "comment": "Lots of different things happening — this person is an architect and also the family counselor, has a fiancee and is also building something? ",
+          "context_left": "tectural degree for ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "I’d constructed a shed over the past four months. I’d built it in the backyard where the acreage was bountiful and I was able to find peace of mind. It was a 12 x 16 spread complete with an underground cellar for storage if needed. Just in case of emergencies I put some food and extras from the loft. My sister had known I’d been pretty busy with my projects and with a deadline for work over at the firm. I ended up in human resources (surprise… surprise) instead after I left my old architecture firm. I seemed more attuned to structural communication and organizing people even though I wasn’t the most people person, thanks to my upbringing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "architecture firm",
+          "comment": "It might be helpful to simplify who this guy is — he asserts things but then seems to change his mind. That’s not that surprising for a first draft, as you’re figuring out who he is, but can be tidied now that you know. ",
+          "context_left": "after I left my old ",
+          "context_right": ". I seemed more attu"
+        }
+      ]
+    },
+    {
+      "body": "“Hey! I’ve got the kids out here. Are you just gonna leave me out here waiting all day?”",
+      "annotations": []
+    },
+    {
+      "body": "Naomi was finally here. I have nothing against the kids but it was the worst timing to have them over. Elizabeth hopped up and ran to the new visitor.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Elizabeth",
+          "comment": "Who’s this? ",
+          "context_left": " to have them over. ",
+          "context_right": " hopped up and ran t"
+        }
+      ]
+    },
+    {
+      "body": "“Could you just wait a second? I’m finishing up here. Back door’s open you can let them in but don’t just leave them there to wander like last time. I wanna clean this up so they don’t step on a nail or something.” I yelled back. I set my hammer down, I’d been using it alongside other tools. Elizabeth, my dog was chilling not too far from me in the grass. She had fallen asleep after an hour of play and was busy watching me work.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Elizabeth, my dog ",
+          "comment": "Wait, the same Elizabeth that just hopped up and ran over? ",
+          "context_left": "ngside other tools. ",
+          "context_right": "was chilling not too"
+        }
+      ]
+    },
+    {
+      "body": "I scrapped my plans for the night and boxed up leftover screws from the floor. I’d been out here all afternoon drilling away at the new and improved hatch for the cellar. I had a 4 x 4 with a sanded slant to prop it up now. It’d make my job a whole lot easier now, especially for moving those old bins of Alaina’s things. I swiftly locked the hatch and moved to slip a new lock on the shed. It was one of those super industrial locks a locksmith Youtuber recommended. It would hopefully keep the coyotes away, last week I had a break-in from the little bastards and they ruined my garden too. Just tore through the chicken wire I’d put in.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "for the cellar",
+          "comment": "He seems a little weird, tbh. ",
+          "context_left": " and improved hatch ",
+          "context_right": ". I had a 4 x 4 with"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Alaina’s ",
+          "comment": "or Ashanti?",
+          "context_left": "g those old bins of ",
+          "context_right": "things. I swiftly lo"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " It would hopefully keep the coyotes away, last week I had a break-in from the little bastards and they ruined my garden too. Just tore through the chicken wire I’d put in.",
+          "comment": "So does he live near a lake and has a lake house for his wife or is he in the countryside? I'm pretty sure coyotes are more common in the country...",
+          "context_left": "outuber recommended.",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Hurry up. I need to be over at Avery's in twenty minutes. It's a twanny-six minute drive.” Naomi yelled again. I shuffled through the yard to the porch where she stood with the kids. They looked up at me with grins on their faces. Elizabeth was sniffing them and wagging her tail wildly.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " Avery's ",
+          "comment": "Please know that I don’t know who ANY of these people are. I think Elizabeth is the dog, but that’s all I’ve got. ",
+          "context_left": "I need to be over at",
+          "context_right": "in twenty minutes. I"
+        }
+      ]
+    },
+    {
+      "body": "“Hi, Elizabeth. Hi Uncle Leon.” The siblings said in unison. They were excited for the most part, and usually were happy to get away from their too-busy mother for time with their “favorite uncle” or so they claimed. That changed from month to month depending on what gifts they got for Christmas or their birthdays.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Leon",
+          "comment": "maybe his name or not? idk",
+          "context_left": "Elizabeth. Hi Uncle ",
+          "context_right": ".” The siblings said"
+        }
+      ]
+    },
+    {
+      "body": "‘Where’s your wife? I know that car wreck threw her for a loop, but she couldn’t be here to help you at all?” I glared at my sister. I hated when she did this, especially in front of her own kids. I shook my head at her to drop the subject. It would end up being a shouting match on how she never thought Alaina was good enough for me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I glared at my sister. ",
+          "comment": "I thought he had a fiancee? Or is this the sister’s wife? I can’t tell who’s speaking. ",
+          "context_left": "o help you at all?” ",
+          "context_right": "I hated when she did"
+        }
+      ]
+    },
+    {
+      "body": "“Ugh, Never mind-just take the kids.” She flipped her hair and leaned over to talk with the kids. ",
+      "annotations": []
+    },
+    {
+      "body": "“Mommy needs to go do some errands and has an important meeting with some friends of hers alright? Be on your best behavior you two.” She turned to Oliva in particular. With that Naomi briskly walked to her car.",
+      "annotations": []
+    },
+    {
+      "body": "“OOOOOOH! Can I play out in the big dollhouse?” Oliva screeched. The “dollhouse” is what she called the playhouse I’d built out in the backyard for her and her brother. Their mom wasn’t but a 30-minute drive from me so she came to drop them off often when she had plans with her “besties” and long work days. Oliva was the elder of the troublemaking duo and therefore got to dictate what they played first. She was only six and already had her mom’s temperament. She beamed up at me with her uneven pearly whites and jumped up and down eagerly.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "drop them off often ",
+          "comment": "If this is a fairly common event, maybe she wouldn’t spend so much time on the goodbyes?I am wondering what the plot of the story is. I don’t see a clear conflict yet. ",
+          "context_left": "m me so she came to ",
+          "context_right": "when she had plans w"
+        }
+      ]
+    },
+    {
+      "body": "“All right. You can but it’s almost six, so I'll get dark in an hour or so. Then we can head in.”",
+      "annotations": []
+    },
+    {
+      "body": "Her brother Jayce obliged and decided to go to the jungle gym next to the playhouse. Being out here gave me another excuse to keep working away at the shed, so I was down with anything. Just needed to keep the kids out of it, which was the issue. I’d have to resume work once they were asleep or just do it in the morning. Alaina would usually help me out with things around the house but she’d been less mobile since the incident last month. I watched the kids for an hour as I put in some new slats on the small shed porch. I sighed relieved to finally be done. The shed matched the house with its sloped roof and cypress siding.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "incident last month",
+          "comment": "?",
+          "context_left": "ss mobile since the ",
+          "context_right": ". I watched the kids"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "siding.",
+          "comment": "The story does feel like it’s searching for a plot. Who’s the main character? What do they want? ",
+          "context_left": "ed roof and cypress ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Uncle Leon, I’m bored now…do you have a TV or something? I forgot where it was since I haven’t been here since last time.” I pointed over to the TV stand in the middle of the living room. Alaina sat on the far end of the couch. Olivia plopped down by her aunt and a crash ensued. I rushed over to assist, where she’d knocked over Alaina’s crutches. I set them back against the couch and kissed her on the cheek.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "haven’t been here since last time",
+          "comment": "Seems to contradict the idea that they’re there a lot. The kid forgot where the TV is? ",
+          "context_left": "here it was since I ",
+          "context_right": ".” I pointed over to"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "Does Alaina greet the kids at all? It seems odd that she’d just sit there in silence. ",
+          "context_left": "“Uncle Leon, I’m bored now…do you have a TV or something? I forgot w",
+          "context_right": "e it was since I haven’t been here since last time.” I pointed over to the TV stand in the middle of"
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "I slinked back inside and grabbed some marinated chicken from the fridge for the kids. Fresh sea bass sat in the lower section of the fridge. I’d been meaning to eat it, but the kids were picky. More so, Naomi was lazy in what she gave them. All that family inheritance money and they were relegated to eating frozen dino nuggets and fish sticks. After grilling and finishing dinner I set aside a plate of fish. She didn’t mind chicken here and there but for the most part, she was a hardcore pescatarian. She kept up the appearance of eating typical family household items, but her family was rather strict when it came to their diet.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I’d been meaning to eat it, ",
+          "comment": "Yikes, eat the fish before it spoils! ",
+          "context_left": "tion of the fridge. ",
+          "context_right": "but the kids were pi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "All that family inheritance money ",
+          "comment": "? ",
+          "context_left": "what she gave them. ",
+          "context_right": "and they were relega"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "After grilling and finishing dinner I set aside a plate of fish",
+          "comment": "Maybe instead of just going to this have the mc talk with the kids about school and what not",
+          "context_left": "ts and fish sticks. ",
+          "context_right": ". She didn’t mind ch"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "She",
+          "comment": "Who? ",
+          "context_left": "ozen dino nuggets and fish sticks. After grilling and finishing dinner I set aside a plate of fish. ",
+          "context_right": " didn’t mind chicken here and there but for the most part, she was a hardcore pescatarian. She kept "
+        }
+      ]
+    },
+    {
+      "body": "I let the kids pour some dog food for Elizabeth. I probably shouldn’t have since a small mound of extra kibble sat outside of the bowl instead of in it. I chuckled to myself and decided to join in on watching Bluey with the kids. As I tried to focus on the dog-oriented show I couldn’t help but feel a deep set of dread in my stomach. That clicking sound is back again. Why can’t I find peace in this house? I thought it stopped. At first, I thought it was from the remodeling, opening up some walls, and redoing the carpet in the master. Some of the old pipes or the But the sound follows me everywhere in the house. Soon Jayce fell asleep, though Olivia was still steady watching the show. It had started to rain outside.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "That clicking ",
+          "comment": "So, here, more than 50% of the way through the story, we start to have a hint of a problem for the main character. ",
+          "context_left": "read in my stomach. ",
+          "context_right": "sound is back again."
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "everywhere in the house",
+          "comment": "If that’s true, why didn’t it start the minute he entered the house? (I like this idea, as it helps to justify why he works on the shed all day long but it needs to be introduced earlier) ",
+          "context_left": "he sound follows me ",
+          "context_right": ". Soon Jayce fell as"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "outside",
+          "comment": "What is Alaina doing? ",
+          "context_left": "ids pour some dog food for Elizabeth. I probably shouldn’t have since a small mound of extra kibble sat ",
+          "context_right": " of the bowl instead of in it. I chuckled to myself and decided to join in on watching Bluey with th"
+        }
+      ]
+    },
+    {
+      "body": "“I’ll be right back,” I called for Elizabeth, her collar tag jingled as she went to the porch door. I opened it and went with her to the backyard. Bella trotted back into the house, I closed the patio door after her. I stared out at the shed and sighed. Still, more work to do on the inside. I looked at my hands which were calloused more than usual, I had a small cut on my thumb.",
+      "annotations": []
+    },
+    {
+      "body": "Oliva used to like playing in the rain, but now that she was a little older (around 6 ½) she wanted to stay inside and play on her DS. So I figured she’d gone to her room when I heard her footsteps rushing up the stairs. I picked up her brother who was still asleep and followed Olivia upstairs. All of his four-year-old energy had run out for the day. I sat him down in the bed next to Oliva who was still on her DS. From a glance, I could see she was playing Animal Crossing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "around 6 ½) ",
+          "comment": "We know! ",
+          "context_left": "was a little older (",
+          "context_right": "she wanted to stay i"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "Did he go back inside? ",
+          "context_left": "in the rain, but now that she was a little older (around 6 ½) she wanted to stay inside and play on ",
+          "context_right": " DS. So I figured she’d gone to her room when I heard her footsteps rushing up the stairs. I picked "
+        }
+      ]
+    },
+    {
+      "body": "“Ugh, I hate fishing! Why does this have to take so loooong?” She exclaimed. I told her it would be lights out in half an hour. My watch read 7:54 pm, just enough time to go and check on Alaina without being bothered. I placed the plate of fish out on the porch of the little shed. I want to re-introduce her to the family, but I don’t think they’ll be too thrilled to see her again. The last time I sat down and had dinner with her in the same room as my sister it didn’t go so well. That was before the accident.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "little",
+          "comment": "I’m confused! ",
+          "context_left": "on the porch of the ",
+          "context_right": " shed. I want to re-"
+        }
+      ]
+    },
+    {
+      "body": "I took the plate of fish and cooked it a bit. Moving towards the walked out to the shed. As I headed to the shed I could see what looked to be footprints. Upon closer inspection, they looked like animal ones, what kind of breed I couldn’t tell. My eyes adjusted as I pulled the light bulb chain hanging above my head. I could hear rustling outside the shed. I whipped my head around and there stood Alaina. She somehow managed to stumble out here.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "plate of fish ",
+          "comment": "I’m confused — the plate of fish was out on the porch in the prior paragraph. Now he’s back inside and cooking it? ",
+          "context_left": "I took the ",
+          "context_right": "and cooked it a bit."
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "managed",
+          "comment": "How did he not notice that she had left the couch? ",
+          "context_left": "Alaina. She somehow ",
+          "context_right": " to stumble out here"
+        }
+      ]
+    },
+    {
+      "body": "“How’s it going out here? I know you’ve been busy working on the shed. You don’t have to be out ere’ all night Lee.” She leaned up on the door of the shed.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "“How’s it going out here? I know you’ve been busy working on the shed. You don’t have to be out ere’ all night Lee.”",
+          "comment": "Have there be a scream or Olivia/her little brother be spooked by something which prompts Leon to rush back in. He'd find nothing and then go to bed. Wake up to find the kids standing over him in bed and yapping about a monster roaming about.",
+          "context_left": "",
+          "context_right": " She leaned up on th"
+        }
+      ]
+    },
+    {
+      "body": "“I think you should stay inside. I keep hearing some rustling around here. Coyotes are back. I think I’ll head back in too. I swear I’ve been going crazy these past few weeks over whatever the hell keeps getting in the garden.” I said as I added some wood flooring over the shed’s base. I’d come out here whenever I felt a bit stressed or just needed air. I’d been out here thirty minutes installing the boards and trying not to fall asleep.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "here",
+          "comment": "I thought he was inside cooking the fish? ",
+          "context_left": "“I think you should stay inside. I keep hearing some rustling around ",
+          "context_right": ". Coyotes are back. I think I’ll head back in too. I swear I’ve been going crazy these past few week"
+        }
+      ]
+    },
+    {
+      "body": "“Alright then, just wanted to check up on what you’re doing out here so late.” Alaina",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Alaina",
+          "comment": "?",
+          "context_left": " out here so late.” ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“I should head in with you anyway.” I followed her back in, taking one last glance at the shed. I had been unnerved since the accident, where Alaina had her ankle broken. She was in a boot now. I locked the door and urged Elizabeth upstairs to the bedroom. I settled down and fell asleep.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "had her ankle broken",
+          "comment": "How did she make it outside then? ",
+          "context_left": "ident, where Alaina ",
+          "context_right": ". She was in a boot "
+        }
+      ]
+    },
+    {
+      "body": "***",
+      "annotations": []
+    },
+    {
+      "body": "A screech jolted me awake. One of the kids was standing by our bedroom door. I sat up in bed to see that the covers on Alaina’s side were flat. I confronted who I believed to be Jayce.",
+      "annotations": []
+    },
+    {
+      "body": "“I think I saw something in my room. No wait, I think I saw something outside moving around.” Jayce’s sister yawned as she shuffled up to her brother. I sighed, it was probably just a stretch of the imagination.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "something",
+          "comment": "I can’t imagine a kid saying this. Is it inside or outside? ",
+          "context_left": "“I think I saw ",
+          "context_right": " in my room. No wait, I think I saw something outside moving around.” Jayce’s sister yawned as she s"
+        }
+      ]
+    },
+    {
+      "body": "“I saw something out by the shed! I swear!” Olivia squeaked. I turned to face them both, a yawn about to escape my lips.",
+      "annotations": []
+    },
+    {
+      "body": "“Are you sure? It's three in the morning, you two.” I murmured, as I lumbered down the hall to the spare bedroom. It came as a surprise that Alaina was up and tending to the siblings. She had always been a light sleeper and I usually could sleep through a snowstorm without batting an eye. Recently between the break-ins to the garden and the constant chirping sounds around the house, I had some competition. I’d been sleeping with one eye open at times and couldn’t settle down to rest.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Alaina was up and tending ",
+          "comment": "How was she doing this? ",
+          "context_left": " as a surprise that ",
+          "context_right": "to the siblings. She"
+        }
+      ]
+    },
+    {
+      "body": "“Come on Uncle Leon!” Oliva was now tugging on my hand. She pulled me into the spare bedroom where their beds were set up. The spare faced the back of the house and was a loft. You could see directly out the window at the lake at the edge of the yard. It would be a bit more difficult for the pair to see, but a hop onto their twin mats would solve that issue. I looked out the window to find nothing. The siblings insisted I take a look outside, so I relented. The pair followed me downstairs both unnerved and with some distance away from the back door. I could hear that clicking sound again.",
+      "annotations": []
+    },
+    {
+      "body": "I opened the patio door and crept out to the shed. The prints in the dirt and grass were muddled but looked fresh. They weren’t coyote prints, I was certain. The shed door was slightly ajar. I looked back at the house. The kids were standing at their window in the spare looking down at me. I motioned at them to stay put. I grabbed the hammer I’d been using earlier to nail things down.",
+      "annotations": []
+    },
+    {
+      "body": "“What is going on here Alaina?” I demanded. Alaina was in a corner, her face turned away from me, the chirping sound was coming from her direction. I walked towards her and placed my hand on her shoulder. She jumped and turned around to face me.",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, it’s just you. I thought I saw something out here, but I guess I was wrong.” I comforted her, and out of curiosity, I leaned over opening the hatch. I didn’t see anything. It was just a prank or false alarm by the kids. Silly me. We walked back to the house, basking in the semi-warm climate inside. Though out of the corner, of my eye, I could swear I saw something move. It was going to be a rough night for sleep. I closed my eyes and thought of the long list of things I had left to do for the remodel. Tomorrow would be a long day.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "B"
+      },
+      "comment": "Aurora, this draft is quite hard to follow. It does read like you wrote it in a burst without really looking back over what you had created. I see your notes to yourself, but the draft feels rushed and confused, so much so that I’m sorry to say I have trouble following what happens. There are a number of very confusing inconsistencies. The story opens with the main character telling us he’s the family counselor, but then we never see him actually talk to his family for more than a few minutes. The sister drops off the kids for a few hours, but then the kids spend the night? Thy are there all the time, but also have to ask if there’s a TV? Alaina was in an accident and sits silently on the couch with a broken ankle, but then later gets up and moves around, looking after the kids and going outside. I just don’t follow. I’m sorry. I would like you to regroup a bit and rethink this story. I’d be happy to talk with you about it. But I’d start by asking you, who is the main character here? Is it the narrator? Okay, if so, what does he want? To take care of his fiancee/wife? To look after the kids? To solve the mystery of what’s eating the garden? Whatever you decide, then ask, what is keeping him from doing it? Let’s say he wants to work on the shed. Having to watch the kids and his wife/fiancee would keep him from being able to do so. Okay, so how does he try to get what he wants anyway? Maybe he tries to get them to entertain each other, or sends them ot the movies, or…? That kind of thinking through what your story is actually about, that’s what you need. Good luck!"
+    }
+  ]
+}

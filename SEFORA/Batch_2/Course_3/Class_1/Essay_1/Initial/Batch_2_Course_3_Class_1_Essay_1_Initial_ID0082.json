@@ -1,0 +1,324 @@
+{
+  "paragraphs": [
+    {
+      "body": "Haunted House ",
+      "annotations": []
+    },
+    {
+      "body": "Before",
+      "annotations": []
+    },
+    {
+      "body": "She just needed a place to calm herself down. When she tried calling her mom she was met with the same response she always got: “Sophia, I can’t talk to you when you’re like this. Call me in the morning when you’ve sobered up,” and a swift hang up. She didn’t bother calling her siblings; she knew they wouldn’t answer. She was alone. Maybe that’s why she found herself in her car, driving down the desolate dirt road she hadn’t seen in nearly ten years. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ten",
+          "comment": "Definitely interested in this opening — I did wonder whether this main character was actually drunk or not. It’s also interesting that she looks to her family and no one else. ",
+          "context_left": "dn’t seen in nearly ",
+          "context_right": " years. "
+        }
+      ]
+    },
+    {
+      "body": "When she came to a stop, Sophia looked at herself in the rearview mirror; her hair, her eyes, her nose. None of it looked right. The longer she stared, the angrier she got at the reflection staring back at her. In a quick huff, she got out of the car and looked around. The abandoned farmhouse was a sad sight to the naked eye; the wood was rotting, the roof was leaning in, and the weeds cradled around the sides of the exterior. But to Sophia, it was home. She didn’t hear the rusted hinges creak as she opened the old door or the echoes sent throughout the house. She didn’t see the peeling wallpaper, the one with the flowers that her mother picked out before she was born, or the deserted furniture that succumbed to the elements long ago. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "I related to this moment of who even am I? ",
+          "context_left": "When she came to a stop, Sophia looked at ",
+          "context_right": "self in the rearview mirror; her hair, her eyes, her nose. None of it looked right. The longer she s"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "But to Sophia, it was home",
+          "comment": "I had trouble believing she wasn’t more freaked out by how the home has fallen into disrepair — it’s been 10 years! She must be shocked. ",
+          "context_left": "es of the exterior. ",
+          "context_right": ". She didn’t hear th"
+        }
+      ]
+    },
+    {
+      "body": "In her own world, Sophia only saw the flow of lights in the foyer, felt the warmth of the old oil stove’s fireplace, and heard the soft lull of jazz coming from what was once the living room. She took a few steps inside, filled with both relief and horror. She was confused; the house had been alone and isolated for years, yet looked the way it did when she was a child. None of it could be real and yet to her it was. It wasn’t until she smelt the remnants of bootleg palma christi oil did she realize what was happening. He was here. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "In her own world",
+          "comment": "Couldn’t quite tell if this was because of the drink or magic of some kind or what. (I’ll also say, just as an aside, a character driving drunk is a hard sell.) ",
+          "context_left": "",
+          "context_right": ", Sophia only saw th"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was",
+          "comment": "Ah, okay, something supernatural. ",
+          "context_left": " felt the warmth of the old oil stove’s fireplace, and heard the soft lull of jazz coming from what ",
+          "context_right": " once the living room. She took a few steps inside, filled with both relief and horror. She was conf"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "He was here. ",
+          "comment": "I’m intrigued! ",
+          "context_left": "what was happening. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Hello?” She called out. When no one replied, she walked towards the old grandfather clock swinging in the corner. A booming voice from above stopped her. ",
+      "annotations": []
+    },
+    {
+      "body": "“Millie.” ",
+      "annotations": []
+    },
+    {
+      "body": "Sophia slowly turned her attention towards the top of the staircase and saw the figure before her. There he was, her father, in his dress blues that he only wore for special occasions. He looked the same as he did when she was younger; a tall frame with chestnut skin that mirrored hers. His brown eyes didn’t sink as much as hers, but she didn’t know if he would catch that. She wouldn’t care if he did; all that mattered was that he was there and she wasn’t alone anymore. ",
+      "annotations": []
+    },
+    {
+      "body": "“Daddy?” She whispered, not recognizing her own voice. He started his journey down the steps, each movement paralyzing her with fear. She quickly retreated back towards the door, refusing to take her eyes off him. Her lip quivered as he reached the bottom stair and made his way to her. It wasn’t until they stood face to face and the man lifted his finger towards her that she realized she was crying. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "paralyzing her with fear. ",
+          "comment": "I’m having a little trouble parsing how she feels — you have her thrilled to see him and then terrified of him in two sentences. That said, I’m enjoying the description and character in this story. I love how it began and got us into the plot right away. ",
+          "context_left": "teps, each movement ",
+          "context_right": "She quickly retreate"
+        }
+      ]
+    },
+    {
+      "body": "“There’s no need to cry. This is supposed to be a happy day, remember?” His voice was smooth and comforted her in a way that healed her soul. He looked at her with his signature smile that she had longed to see for the past decade. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "supposed to be a happy day",
+          "comment": "Oh, so interesting. He’s stuck in a particular day. I was wondering if this was a memory or real. ",
+          "context_left": "eed to cry. This is ",
+          "context_right": ", remember?” His voi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the past decade. ",
+          "comment": "It’s surprising she hasn’t been back then. ",
+          "context_left": "d longed to see for ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Daddy.” She said, this time as loud as she could, but it still came out quiet. He chuckled and ran his fingers through her hair. ",
+      "annotations": []
+    },
+    {
+      "body": "“I thought you’d be ready by now. Everybody’s waiting on you.” ",
+      "annotations": []
+    },
+    {
+      "body": "She sniffled. “I’m sorry, I didn’t know that…”",
+      "annotations": []
+    },
+    {
+      "body": "“Don’t be. It’s your day, make them wait.” He cut her off with a wink. After a long pause of silence he chuckled pridefully. “You do look beautiful. Almost exactly like your mother did, but prettier. Don’t tell her I said that though.” The confusion in her face made him turn her body towards the mirror on the wall. Gone were the stained hoodie and sweatpants that she drove up in. Instead, she was dressed in a white gown. Her previously frizzy hair was perfectly pressed and tied back into a neat ponytail. Her face was fuller, brighter, covered in light makeup. Her pupils were no longer dilated. She looked less like the person that she was and more like the Sophia she wanted to be.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "chuckled pridefully",
+          "comment": "Strange phrasing. ",
+          "context_left": "pause of silence he ",
+          "context_right": ". “You do look beaut"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "gown",
+          "comment": "So far, I see her getting exactly what she wanted, which is very nice for her but a little lacking in conflict and plot. ",
+          "context_left": " dressed in a white ",
+          "context_right": ". Her previously fri"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "She looked less like the person that she was and more like the Sophia she wanted to be.  ",
+          "comment": "Ooof. Great sentence. ",
+          "context_left": " no longer dilated. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Are you ready?” He asked. ",
+      "annotations": []
+    },
+    {
+      "body": "“Can we just stay here for a minute? I want it to be just the two of us a little while longer.” ",
+      "annotations": []
+    },
+    {
+      "body": "He smiled. “Of course, Millie. It gives us time to practice.” He held out his hand to her and she gratefully accepted. Pulling her close, Sophia laid her head on his chest and swayed with him to the hums of faint jazz music. They couldn’t find their groove for the first few minutes, which he laughed about. “You always did have two left feet. Just listen to the music, feel it. It’ll come to you.” He said.",
+      "annotations": []
+    },
+    {
+      "body": "‘I could stay like this for hours,' Sophia thought as she took in the moment. The smell of his aftershave, the roughness of his hands, comfort of his body. She could have spent eternity in that moment. But soon, something came over her; a strong sadness that became too much to ignore. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hands",
+          "comment": "I’d be careful that this stays clearly parental/child.",
+          "context_left": "he roughness of his ",
+          "context_right": ", comfort of his bod"
+        }
+      ]
+    },
+    {
+      "body": "“Daddy.” She said, looking up at him. When their eyes locked, her loud sobs began to ricochet off the walls. “I’m so sorry. I’m so sorry, daddy.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "daddy.” ",
+          "comment": "Capitalize. It’s interesting that she is so upset by herself. I found myself sort of half-agreeing and also have sad for her. ",
+          "context_left": "orry. I’m so sorry, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "He hugged her as she cried, shushing her and whispering “It’s okay.” ",
+      "annotations": []
+    },
+    {
+      "body": "“I’m sorry. I don’t want to be like this, I hate that I’m like this, I just don’t know what to do anymore, I’m sorry.” She repeated the phrase over and over, burying herself deeper into him. “I just miss you so much and I…”",
+      "annotations": []
+    },
+    {
+      "body": "He cut her off again. “Millie. It’s okay. It’s all going to be okay. Just listen to the music. Feel the music.” She closed her eyes as the room became swallowed by a Duke Ellington song that she couldn’t remember the name of. And for the rest of the moment, they danced. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "moment, they danced. ",
+          "comment": "How long did this go on? It’s a lovely scene, but again, it shows her getting exactly what she wants and thus feels almost like a conclusion to a longer story. ",
+          "context_left": "for the rest of the ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "After",
+      "annotations": []
+    },
+    {
+      "body": "\tThe room was big with a false sense of comfort. The chairs were perfectly lined together, the flowers were perfectly placed around the table, the photos were perfectly positioned next to each other. Trinity sat on the couch next to the urn, struggling to open her valium bottle. Andrea rolled her eyes from the row of chairs in front of her as Aaron took the bottle from Trinity’s hand, poppin the cap off with a swift turn.",
+      "annotations": []
+    },
+    {
+      "body": "“Is taking a pill really the best idea right now? Here?” Andrea asked. ",
+      "annotations": []
+    },
+    {
+      "body": "“Last time I checked I was the mother. Given the circumstances I think everyone can cut me a little slack.” She said as she took the pill dry. ",
+      "annotations": []
+    },
+    {
+      "body": "“At least have some water to help it go down easier.” Andrea mumbled. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "down",
+          "comment": "Love this dialogue. ",
+          "context_left": "water to help it go ",
+          "context_right": " easier.” Andrea mum"
+        }
+      ]
+    },
+    {
+      "body": "“Andrea Ashbuff. Mind your damn business.” Trinity’s voice was hoarse and tired. ",
+      "annotations": []
+    },
+    {
+      "body": "“Both of you, stop. Just stop it.” Aaron said. Both women looked at him, then at each other, then at their hands. They didn’t want to admit it, but he was right; this was not the time or place for one of their family fights. The trio sat in awkward silence, trying to focus their attention on anything but each other or where they were. After a long lull of silence, Trinity spoke. ",
+      "annotations": []
+    },
+    {
+      "body": "“The programs look nice. So do the flowers. And you guys chose really beautiful pictures of her, she looks just gorgeous in all of them. Wish we could’ve did an open casket so people could see how pretty she was.” ",
+      "annotations": []
+    },
+    {
+      "body": "“It’s hard to do an open casket for someone who looked the way she did.” Andrea mumbled.",
+      "annotations": []
+    },
+    {
+      "body": "“Come on, Andrea.” Aaron groaned out as he wrapped his arm around his mother. Trinity looked down at her hands and wiped a tear away. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "around his mother",
+          "comment": "I wasn’t sure if this was Trinity or another person. You’re going to have to get us some names and relationships earlier. Maybe at the top of the story when Millie decides not to call them. ",
+          "context_left": " he wrapped his arm ",
+          "context_right": ". Trinity looked dow"
+        }
+      ]
+    },
+    {
+      "body": "“I’m gonna go see if the deacon needs any help with the refreshment.” She said and quickly left the room. ",
+      "annotations": []
+    },
+    {
+      "body": "“You’re not making today any easier.” Aaron said. ",
+      "annotations": []
+    },
+    {
+      "body": "“I don’t want to make today easier. I think it’s dumb that we’re even doing this.” ",
+      "annotations": []
+    },
+    {
+      "body": "“Having a funeral for our dead sister is dumb? Do you even hear yourself right now?”",
+      "annotations": []
+    },
+    {
+      "body": "“Having a funeral for our junkie sister who overdosed in the same house our dad killed himself in.” Andrea snapped. “It’s bad enough that she was up there, dead, for a week, being eaten by bugs. But now we are doing what we’ve always done, treating her like some little kid who didn’t know any better. Poor Sophia, she didn’t mean to steal from us to buy drugs. She didn’t know not to drop out of school for some boy. Forgive her, she didn’t want to become a total screw up. She’s just going through a hard time because her dad died. Our dad died too, Aaron, and neither one of us turned out like that, it’s the same story that…”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "story",
+          "comment": "I really appreciate the honesty of this speech. It’s harsh but yes, having an addict in the family is incredibly difficult. ",
+          "context_left": "that, it’s the same ",
+          "context_right": " that…”"
+        }
+      ]
+    },
+    {
+      "body": "“Stop it.” Trinity yelled, her voice sending shock waves throughout their bodies. “Just stop it. Don’t you dare talk about her like that. She made mistakes but she had a hard life. We don’t know what it was like for her. We don’t know how hard those last moments were for her. How scared she must have been. How alone she must have felt. Just stop it.” She began to sob. Neither Aaron or Andrea knew what to do; it was rare that they saw their mother get emotional. Her cries were the only sound that filled the room. Aaron walked over to hug her and for the first time since it happened, she let him. ",
+      "annotations": []
+    },
+    {
+      "body": "“I’m sorry.” She cried. “I’m so sorry.” She repeated, burying herself deeper into his body. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I enjoyed this piece a lot, Christopher — it’s very nicely written and has some moments of great honesty in it. And I thought it was a unique way of writing an “addiction” story. I wonder if changing the order of the scenes might be helpful to you — at least as something to play with. The scene at the old house goes on a little too long given the it’s just showing (beautifully) that they’re happy to be together again. And then the scene at the funeral feels a little short without time for the mother to express what I assume she is really wracked with guilt about, that Millie reached out to her, and she told her to sleep it off. I like the repetition of “I’m sorry” and it makes sense, but the story didn’t quite feel concluded to me. I’d ask who you feel is the main character here, and what’s their want? In some ways, you have dueling main characters right now and in flash fiction, that’s hard to pull off. If you’re really interested in Millie, then perhaps we see more of a struggle for her to go to the house — we’re told she hasn’t been in 10 years but then she just sort of pops on over! It’s clear what she wants, but she gets him so easily, the plot is thin. Or if it’s the mom as the main character, what does she want? Presumably her daughter back, or at least to get to relive that last phone call and make a better choice? How does she deal with never being able to get what she wants? Strong, strong work. Excited to see your revision."
+    }
+  ]
+}

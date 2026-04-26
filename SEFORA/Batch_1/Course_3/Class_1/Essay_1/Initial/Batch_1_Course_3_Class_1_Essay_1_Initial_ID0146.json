@@ -1,0 +1,233 @@
+{
+  "paragraphs": [
+    {
+      "body": "Well, here I am, driving to the airport to pick up my sister. I really wish one of our parents would have done it instead, but unfortunately, good ol’ Uncle Sam has determined that they’re too old to drive. Something about age-related macular degeneration, I think. I honestly don’t remember. Now, I know that looks bad. What type of person forgets their parents’ ailments? I do, sue me. My car turns onto a stretch of road that connects to the airport’s parking lot. I hate airports. Their parking lots are always filled. They’re loud because, well, planes are loud. Who would have thought? Seems like I got lucky today, however. I quickly spotted the yellow rectangular outline all alone. It’s practically calling my name. It was even close to the front entrance of the airport! ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Well, here ",
+          "comment": "Title?I enjoyed the voice of this narrator from the jump. The assertion that the government won’t let his (?) parents drive was a little perplexing, so I’m eager to see if he’s just a bs-er or if this is a different world or what. I’d prefer to see you indent your paragraphs more in line with the stories in BASS. ",
+          "context_left": "",
+          "context_right": "I am, driving to the"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "airport to pick up my sister",
+          "comment": "Great to put us in the moment right away. ",
+          "context_left": " am, driving to the ",
+          "context_right": ". I really wish one "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "? I do, sue me. ",
+          "comment": "I laughed at this. ",
+          "context_left": "ir parents’ ailments",
+          "context_right": "My car turns onto a "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "My car turns ",
+          "comment": "New paragraph? ",
+          "context_left": "ents? I do, sue me. ",
+          "context_right": "onto a stretch of ro"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "airport",
+          "comment": "As someone who always has to park like a mile from the door, this seems magical. ",
+          "context_left": "Well, here I am, driving to the ",
+          "context_right": " to pick up my sister. I really wish one of our parents would have done it instead, but unfortunatel"
+        }
+      ]
+    },
+    {
+      "body": "I let out a content sigh as I lean back in the driver’s seat like a lazy grandpa on a Sunday afternoon. One doesn’t know how annoying it is fighting for a parking spot until they’ve had to do it. It’s the little things in life. Now, I wait. Five minutes go by. I’m already bored out of my mind. I check my phone but to my dismay, I’m greeted with no new messages. Out of desperation, I started to think about the algorithm I’ve been trying to implement at work all week. I like what I do, don’t get me wrong. Using AI to do a variety of mundane tasks has always been a hobby of mine. But work is called work for a reason. Still, thinking about it is better than sitting here and going insane from absolute boredom. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a content sigh ",
+          "comment": "“Contented” ",
+          "context_left": "I let out ",
+          "context_right": "as I lean back in th"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "One doesn’t know how annoying it is fighting for a parking spot until they’ve had to do it.",
+          "comment": "? Why the switch to “one” here? ",
+          "context_left": "a Sunday afternoon. ",
+          "context_right": " It’s the little thi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "desperation",
+          "comment": "Does the narrator have no apps or games on his phone? ",
+          "context_left": "ew messages. Out of ",
+          "context_right": ", I started to think"
+        }
+      ]
+    },
+    {
+      "body": "Like most people, I don’t believe in fate. It’s ridiculous to think that some all-encompassing presence guides people’s lives behind the scenes, seemingly giving them no choice in the matter. However, it was as if my sister just knew what I had just started doing. A loud thud on one of the passenger windows brought me back to reality. I turn my head and see my sister standing outside my car with a scowl on her face. I checked my phone once more. Maybe I missed her message or something. Naturally, there wasn’t anything on my lock screen to signal that my sister had even attempted to let me know she just got off her plane. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Like most people, I don’t believe in fate",
+          "comment": "Again, an opportunity for slight confusion. A lot of people absolutely do believe in fate, so is he just wrong here or is he misinformed about what other people think? Do you want to Crete a narrator who asserts incorrect things? If so, it’s working really well. ",
+          "context_left": "",
+          "context_right": ". It’s ridiculous to"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ity",
+          "comment": "Maybe he should text the sister once he parks? ",
+          "context_left": "ught me back to real",
+          "context_right": ". I turn my head and"
+        }
+      ]
+    },
+    {
+      "body": "Looks like this was the type of day we were going to have. I unlocked the doors, ignoring the urge to just drive off and leave her there. I should be rewarded for that somehow. My sister doesn’t even ask for help with her luggage, and I’m fine not offering any. She tosses the weathered suitcases into the backseat of my car, then slams the door closed. Nice.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her there. I ",
+          "comment": "Ah, really getting the sense these two do NOT like each other. ",
+          "context_left": "drive off and leave ",
+          "context_right": "should be rewarded f"
+        }
+      ]
+    },
+    {
+      "body": "She walks around the car and gets into the opposite seat. Silence overtakes the interior as we both just sit there. Yup, this was really the type of day we were going to have. Normally, I’d wait before engaging with her, but I was bored. So, as I started the car and left the way I came in, I decided to try my luck.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "before engaging with her, ",
+          "comment": "While I get the set up you’re going for here, I think you can start this conversation more quickly. It’s starting to drag for readers too. ",
+          "context_left": " Normally, I’d wait ",
+          "context_right": "but I was bored. So,"
+        }
+      ]
+    },
+    {
+      "body": "“So….” I say, taking an exaggerated pause before continuing, “how are you doing?” No response. I sigh. “Claire, you’re 29. There’s no way you’re still mad-”",
+      "annotations": []
+    },
+    {
+      "body": "“Fuck you, thief.” My sister said with nothing but disdain in her voice. That could have been worse.  “Claire, we’ve been over this. You can’t just decide what is and isn’t theft.” I could feel the venom in my sister’s next response. It was like a cobra had just sunk its fangs into me, and my body was already feeling the effects of its venom. “You’re literally the reason I’m even here. You took my job!” Okay, I did not take her job, and I’m not the reason she’s in her current predicament, not even tangentially. Of course, we both knew this or at least I hoped. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "“Fuck you, thief.” ",
+          "comment": "I very much enjoyed that she’s still angry. You might hint at this earlier by setting up that she thinks the parents are coming to get her, or something similar? ",
+          "context_left": "",
+          "context_right": "My sister said with "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "job!” Okay",
+          "comment": "Please look into how to format this paragraph — it’s almost impossible to tell which character is speaking, making it hard to follow. ",
+          "context_left": "n here. You took my ",
+          "context_right": ", I did not take her"
+        }
+      ]
+    },
+    {
+      "body": "“That’s not how that works. My company doesn’t even have anything to do with you or your art.” I say, trying to reason with her. She responds by screaming. “Doesn’t matter! It’s the principle. People like you are stealing from artists like me and taking our jobs!”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "jobs",
+          "comment": "This is an interesting argument. You might consider having this be the first time she brings up this conflict so that we can get to see what she thinks and feels instead of having to read them alluding to the problem that has already been discussed. Alternately, you could have the narrator explain it better to us. ",
+          "context_left": "e me and taking our ",
+          "context_right": "!”"
+        }
+      ]
+    },
+    {
+      "body": "I did feel bad that my sister’s entire industry was basically going under. She dedicated her entire life to the pursuit of art, and she was good. Before this past week, she worked for Disney as an artist. Unfortunately for her, Disney had decided that AI is now good enough to replace most of the artists they originally had working for them. More companies every month were making a similar decision. That’s just the market, however. There’s nothing special about the art industry compared to every industry before it that was replaced by automation. Artists don’t deserve protections that all these other people didn’t get. Of course, I tried explaining this to my sister many times, but unfortunately, my wisdom always fell on deaf ears.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "entire industry was ",
+          "comment": "Can you be more specific than working as “an artist”? What kind? In what division? In animation or theme park design or…? ",
+          "context_left": "ad that my sister’s ",
+          "context_right": "basically going unde"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Artists don’t deserve protections that all these other people didn’t get. ",
+          "comment": "I decided I didn’t like this guy about here. ",
+          "context_left": "aced by automation. ",
+          "context_right": "Of course, I tried e"
+        }
+      ]
+    },
+    {
+      "body": "As for why she’s blaming me, I chose to specialize in image processing, a sub-field of AI. Long story short, you take an image and come up with a way for a computer to recognize what that image is. The funny part is Claire doesn’t even know exactly what I do. She just knows it’s AI, thus, has convinced herself that I’m a part of the problem. My sister is basically one of those terminally online losers found on places like Reddit or Twitter. We all know the ones, the type of people that think you’re the embodiment of evil for buying an Amazon product. I always thought they were dumb teenagers, yet here we are. Claire at least hasn’t called me a fascist yet, but I’m kind of hoping she does one of these days. Would be hilarious.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "image is. ",
+          "comment": "Maybe he gives an example to help this be more clear? ",
+          "context_left": "recognize what that ",
+          "context_right": "The funny part is Cl"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Twitter",
+          "comment": "Maybe you’re fine with this, but again, he is very unlikeable. ",
+          "context_left": "aces like Reddit or ",
+          "context_right": ". We all know the on"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Would be hilarious.",
+          "comment": "Here, I was surprised by the venom — he didn’t seem that angry with her until this moment. ",
+          "context_left": " one of these days. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I decide to take a different approach to her outburst. “Alright, how is it even theft? Didn’t you look at the work of other artists while learning how to make your own images?” I wanted her to think about that one for at least a little bit, but she had other plans. Immediately responding with “That’s not the same thing!”",
+      "annotations": []
+    },
+    {
+      "body": "“It’s quite literally the same thing. You look at an image and learn from it. An algorithm does the same thing. What’s the difference?” My question hangs there in the air. I’m surprised, it looks like she’s actually thinking about what I said. Is this the moment I’ve been waiting for? Before a smile could spread across my face like I was proud father watching his child take their first steps, Claire screeches her answer to my question. “Fuck you fascist!”",
+      "annotations": []
+    },
+    {
+      "body": "Oh, boy, this drive home was going to be fun.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Hi Alexander, thanks for this first draft. It’s a good one. I enjoyed the way you brought a current issue into this family dynamic and, along with a highly unlikeable narrator, got me thinking about this topic. The story is almost more flash fiction than a real draft so I would suggest beginning to think about how you can show a more full conflict. As I suggested, perhaps this argument begins in the car rather than being picked up from a past time. I like the idea that he’s almost goading her into calling him a fascist (although that seemed sort of off topic and specific) so you might show us more of a conclusion when she finally does. And I definitely wanted to see more of the relationship between these two — does she care that their parents didn’t visit? Why is she there at all? Why aren’t they both at work? (Side note: you have him not really care about work, but at the same time, he seems pretty defensive about it, so perhaps that could use some thought). In short, I’d ask, who is the main character, and what do they want? Who opposes them? You have a lot of that conflict here, but it’s not quite firing on all cylinders yet. I think you can get there. Think about who these people are. Thanks, Justin!"
+    }
+  ]
+}

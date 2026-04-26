@@ -1,0 +1,116 @@
+{
+  "paragraphs": [
+    {
+      "body": "Do your parents know what time you slept last night? Well mine did well a long time ago, i remember when i was younger everyday my parents would take turns to come to my room to check on me, whatever or not i was asleep because once upon a christmas a 9 year old was given her very first ipad and she would stay up on that ipad playing games on it all night long missing her bedtime. Most of the time I heard their footsteps approaching so I would quickly hide my ipad under my pillow and close my eyes. I made sure to control my breathing so i won't burst out in laughter which i normally did. There were times I was never caught but most times I got my ipad taken away. With no iPad to use, I was forced to close my eyes and fall asleep. Now when I'm away in college I'm the one reminding my parents to go to sleep. By midnight I text my parents “hora de dormir” and they never reply back.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Now when I'm away in college I'm the one reminding my parents to go to sleep. By midnight I text my parents “hora de dormir” and they never reply back.",
+          "comment": "This is a lovely intro--this line creates a lot of friction.",
+          "context_left": "es and fall asleep. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "My ‘home’ language is the language that I speak with my mother and father at home. My family. My community. “¿Ya terminaste con tus clases?” (You're done with your classes?) “¿Ya comiste?” (did you eat yet?) are phrases that flood my ear when I put my phone against my ear every time I call my mom. Pestering about my well-being, “¿qué estás haciendo? (what are you doing), is what I flood her ears with. I'm always so nosy to know what she's been up to, even being 305 miles away. “¿Qué vas a cocinar hoy?” (What are you going to cook today?) I always have to ask; I'm curious what the menu of the day will be—the food that will be filling up my family's bellies and not mine. Mole, pozole, enchiladas, albóndigas, tostadas, caldo de pollo, etc. Mexican dishes I eat and enjoy. What reminds me of home. These dishes not only tie me with my family but also tie me with my Mexican community. I speak Spanish to the customers that come into my dad's restaurant. “¡Hola, en qué te puedo ayudar hoy!” I welcome them and start reciting this week's special “birra tacos” and all the meats we have in Spanish. ” carne de res, carnitas, al pastor, birra, chorizo.\" With Spanish being the language I speak back at home, it brings me comfort and the feeling of being home. It also brings me a sense of community and a connection to others who also speak Spanish as well.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "speak Spanish to the customers that come into my dad's restaurant.",
+          "comment": "Is this now? Or at home?",
+          "context_left": "exican community. I ",
+          "context_right": " “¡Hola, en qué te p"
+        },
+        {
+          "type": "note",
+          "comment": "Fab concrete and specific details and language!",
+          "context_left": "every time I call my mom. Pestering about my well-being, “¿qué estás haciendo? (what are you",
+          "context_right": " doing), is what I f"
+        }
+      ]
+    },
+    {
+      "body": "College culture is the language I speak with my college friends and peers. It is a language of the young getting less sleep but plenty of caffeine. My parents and outsiders cannot understand it. Being cautious about the “freshman 15”.We complain to each other about the work that needs to be done and how we have “to lock in!”. We have yapping sessions instead of study sessions. We want to be “studious” but realize how “cooked” we are for upcoming exams and going to sleep telling ourselves that the exam is just “common sense”. When meeting new people the question that is always asked is “what is your major?” “What dorm are you in?” “ What year are you?”. Asking about internships and research. Deciding to pull-nighter and cramming materials because our brain rotting on tiktok took more time than we thought. Warning each other about the food poisoning at the hall,Heard they’re serving stomach pain and diarrhea on a plate today. Research. Consuming way too much coffee and celsius on a regular basis in order to get through a simple 1 hour lecture and acting surprise when we start tweaking. This is college life where we try to “catch flights not feeling”.we all have the shared experience of having big Fomo and 14 missing assignments. My identity is a college student, surviving off of top ramen and 4 hours of sleep. Being reminded of research opportunities and coffee not being a meal on its own. Compared to when I go back home I'm not a broke college student but instead I'm just Eloise. “Echale ganas”(give it your all) is a saying I heard often growing up. The Two words that I always received whenever I informed my parents of any upcoming exams I had to take, whether it was the PSSAs or the SAT. These were the two words that my dad said to me before leaving after dropping me at the entrance of my dorm building. It probably weighs a few grams but this phrase weighs pounds in my heart. To me it means resilience and effort, to keep on going and giving. This universal phrase has been said by many hispanic parents but it's very meaningful, at least to me. Growing up my parents were not involved in my academic life. They didn't pester me about my grades.they didn't know about important exams i had to take. They didn't know about my dreams and aspirations. There was distance between us. Distance that needed fixing. With college being away from home the distance was still large. I find myself never telling them about whatever's going on in college. What's weighing me down, my worries and hopes, what needs to get done. “They just don't understand” is what i tell myself, but i know they support me because of the saying they always say to me. I know there's distance between us physically and emotionally but when they say ”Echale ganas” it pulls me closer to them and I know they care.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " instead I'm just Eloise.",
+          "comment": "What do you mean?",
+          "context_left": " college student but",
+          "context_right": " “Echale ganas”(give"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "College culture is the language I speak with my college friends and peers. It is a language of the young getting less sleep but plenty of caffeine. My parents and outsiders cannot understand it. Being cautious about the “freshman ",
+          "comment": "This is a different topic, and not obviously and logically connected to your conversation about your Spanish language and culture. Is there a connection I'm not seeing yet? Let's talk :)",
+          "context_left": "",
+          "context_right": "15”.We complain to e"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This is college life where we try to “catch flights not feeling”.we all have the shared experience of having big Fomo and 14 missing assignments.",
+          "comment": "This is also so authentic--great language and an interesting moment of friction--let's talk!",
+          "context_left": " we start tweaking. ",
+          "context_right": " My identity is a co"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "It probably weighs a few grams but this phrase weighs pounds in my heart.",
+          "comment": "What a line~!",
+          "context_left": "f my dorm building. ",
+          "context_right": " To me it means resi"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "many hispanic parents",
+          "comment": "interesting--why is this phrase connected to your cultural identity, specifically?",
+          "context_left": "se has been said by ",
+          "context_right": " but it's very meani"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "They didn't know about my dreams and aspirations. There was distance between us. Distance that needed fixing. With college being away from home the distance was still large. I find myself never telling them about whatever's going on in college. What's weighing me down, my worries and hopes, what needs to get done.",
+          "comment": "This feels important--I think there might be some friction, here, that we could talk about...let's do that :)",
+          "context_left": "xams i had to take. ",
+          "context_right": " “They just don't un"
+        }
+      ]
+    },
+    {
+      "body": "To live in between languages means knowing To rearrange our words and servinging it to whoever orders it To live a life your parents don't know Loving two dishes, but they're from different cultures So you eat one dish at a time; So the two dishes wont touch But you did wish they tasted good when mushed together. I have no set bedtime anymore enforced by my parents, so they'll never know what time I even sleep. Instead try to enforce theirs to feel more close to them. Since we live in two different languages I try to squeeze myself into theirs for a minute when I'm full of the language in the college world.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "I try to squeeze myself into theirs for a minute ",
+          "comment": "another fascinating metaphor. So much authenticity and honesty in your voice! Let's find this essay's center of gravity and map it so that your essay's central focusing idea (and audience/purpose) become clear and powerful.",
+          "context_left": "different languages ",
+          "context_right": "when I'm full of the"
+        }
+      ]
+    }
+  ],
+    "annotations": [
+    {
+      "grades": {
+        "Have a clear “central focusing idea” with value, meaning, and purpose. This claim should relate to the relationship between language/culture and identity/sense of self.": 7,
+        "Develop cohesive “big ideas” that support the essay’s “central focusing idea” effectively for the essay’s audience and purpose.": 14,
+        "Use ideas, observations, and examples from the author’s own life and experience to develop its “big ideas.”": 8,
+        "Use concrete and specific details, examples, and language in the development of its “big ideas.”": 18,
+        "Use a variety of intentional writing forms, including a poem and both an introduction and conclusion paragraph form chosen from the options we discussed in class (see the resources on our Canvas site).": 17,
+        "Develop logically and cohesively at the sentence and paragraph level.": 8,
+        "Make effective rhetorical choices (including, grammar, punctuation, and syntax) for the essay’s audience, purpose, and writing situation.": 8
+      },
+      "comment": "Fabulous lines! Great voice and tone. Lovely details. You're definitely beginning to repeat/explore some interesting ideas that could lead to a focused essay, and I'm quite taken with the concrete and specific examples of your languages! That said, you seem to have included all three of the exploratory paragraphs from our generating ideas project. Those three paragraphs were just for discovery and \"thinking on the page.\" They were meant to help you figure out an idea, a focus—something related to your own language/culture and sense of self. These three paragraphs were never meant to be used together as one focused essay. Ultimately—we're just looking for a central focusing idea for an essay related, in some way to language/culture and sense of self/values/etc. So, let's talk about your essay's \"center of gravity\" and the \"so what\" question so that you can more intentionally develop what's really at the heart of your essay (and then \"map\" a full set of big ideas). Also, let's talk about how using more concrete and specific details focused on your essay's big ideas in your poem will help you more intentionally develop and support your essay's purpose"
+    }
+  ]
+}

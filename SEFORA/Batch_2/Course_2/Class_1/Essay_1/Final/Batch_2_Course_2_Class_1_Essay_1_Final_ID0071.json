@@ -1,0 +1,38 @@
+{
+  "paragraphs": [
+    {
+      "body": "Title:",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Title:",
+          "comment": "Please replace \"title\" with the title of this article.",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I never heard the name “Pittsburgh” until I started studying at the University of Pittsburgh. The first time I heard it, I imagined a small industrial town full of closed factories and shabby buildings. Once I learned that I would need to transfer from JFK to PIT, my imagination became even more uncertain. “匹兹堡” (Pǐzībǎo, the Chinese name for Pittsburgh) made me imagined an airport that was modest, perhaps with rural-style facilities and unassuming in scale. Based on my stereotypical impression of early American airports, I automatically assumed that Pittsburgh International Airport would be a small regional airport with a compact terminal—somewhere it would take no more than 30 minutes to go from arrival to claim my baggage. So, I scheduled my Uber pickup just half an hour after landing. I also believed that it might not be a global city since Pittsburgh was located in an inland region of the eastern United States—far from major hubs like New York or Los Angeles. Therefore, I never expected to see Chinese signage: I assumed the airport would primarily cater to domestic travelers. When I arrived at Pittsburgh International Airport, I was shocked by its unexpectedly large scale: I saw four runways, two terminals, direct international flights, and even a variety of Chinese-language signage, all of which completely overturned my assumption that it was a small regional facility. The most interesting detail was that I even noticed a British Airways airplane stationed at one of the gates, and I discovered that the airport offers regular direct flights to the United Kingdom. After landing, I had to take an underground train to reach another terminal, highlighting the airport’s unexpectedly large scale. Moreover, although I anticipated signs in English and maybe Spanish, I was intrigued to spot Chinese signage, including “行李提取” (xíng lǐ tí qǔ, baggage claim). This discovery completely overturned my assumption that the airport was merely a regional facility serving only domestic travelers. Pittsburgh International Airport turned out to be more extensive and culturally diverse than I had ever thought possible. Sitting on the shuttle, I felt both surprised and excited. I had expected a small, modest airport, but instead I saw large terminals, multiple runways, international flights, and signs in different languages. All of this completely overturned my earlier assumptions about Pittsburgh International Airport. I realized that PIT not only represents the city’s local culture but also has a strong global reach. While I was still processing these impressions, Shanghai Pudong International Airport came to mind. As one of China’s major gateways, Pudong shares some similarities with PIT but also has notable differences. Both airports are significant international hubs that include multilingual signs in English, Chinese, and Spanish, and both offer direct flights to the UK. However, the two airports differed in keyways. PVG is much larger and more modern overall, featuring a broad range of international routes, while PIT primarily serves domestic flights and maintains fewer global connections. Additionally, Pudong’s coastal location allows it to serve not only as an airport but also as a large-scale hub for sea, land, and air travel. In contrast, Pittsburgh International Airport is located inland and primarily focuses on air travel. Because of these different roles and passenger groups, Pudong welcomes visitors from many countries around the world, while Pittsburgh’s travelers are mostly Americans, plus a smaller number of international students. Pudong also features luxury brands such as Louis Vuitton and Gucci, whereas Pittsburgh highlights convenience stores and recognizable restaurant chains like Dunkin’. Additionally, Pudong’s terminals incorporate traditional Chinese design elements, such as curved roofs or cultural motifs, while Pittsburgh’s airport emphasizes local identity by displaying Pittsburgh Steelers memorabilia and other regional emblems. Seeing these differences underlined how airports can project local culture as prominently as they facilitate international travel. My preconceived notions about Pittsburgh had stemmed from its lesser global fame compared to cities like Shanghai or New York. Yet, my direct experience at PIT proved how misguided such assumptions can be. While it may not match PVG in sheer scale, Pittsburgh International Airport showcased its own cultural flavor and possesses an unexpectedly international reach. Realizing that PIT accommodates flights to Europe and even includes Chinese signage reminded me to avoid judging a place solely by its reputation or size. Comparing these two airports highlighted how each city embeds its cultural values into design and function. PVG’s vast, cutting-edge infrastructure reflects Shanghai’s role as a global financial center, while PIT offers a more localized, community-oriented experience, showing off Pittsburgh’s sports culture and regional Ultimately, this comparison made me realize that having preconceived ideas can block true understanding. Observing both Pittsburgh International Airport and Shanghai Pudong International Airport showed me how cultural differences—and similarities—manifest in terminal layouts, retail offerings, and language accommodations. Each place expresses its values in its own unique way. By challenging my initial assumptions, I learned that airports are more than just functional gateways for travelers; they serve as cultural showcases that reflect how a region perceives itself and wants to be perceived by others. This experience reminded me of the importance of staying open-minded and curious, allowing each destination to reveal its own story rather than relying on stereotypes. Through these observations, I came to appreciate that every airports, whether in Pittsburgh or Shanghai, deserves respect for how it represents the culture and history behind it.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I ",
+          "comment": "This paragraph is a bit long. I would suggest dividing it into shorter paragraphs.",
+          "context_left": "",
+          "context_right": "never heard the name"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "shares ",
+          "comment": "shared - I would suggest consistently using the past tense in this paragraph.",
+          "context_left": "or gateways, Pudong ",
+          "context_right": "some similarities wi"
+        }
+      ]
+    }
+  ]
+}

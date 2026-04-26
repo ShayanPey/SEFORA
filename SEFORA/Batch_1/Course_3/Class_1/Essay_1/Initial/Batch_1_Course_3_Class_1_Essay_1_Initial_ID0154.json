@@ -1,0 +1,586 @@
+{
+  "paragraphs": [
+    {
+      "body": "Sound Out",
+      "annotations": []
+    },
+    {
+      "body": "I remember the first time the sound went out. As cliche as it was, it really was a dark and stormy night. The Missouri sky was a dusty greenish-yellow and the clouds looked as if someone had coated them in charcoal. There was supposed to be a meteor shower, but that wasn’t the reason everyone was going to be looking at the sky that night. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "night",
+          "comment": "Like this small fix. ",
+          "context_left": "I remember the first time the sound went out. As cliche as it was, it really was a dark and stormy ",
+          "context_right": ". The Missouri sky was a dusty greenish-yellow and the clouds looked as if someone had coated them i"
+        }
+      ]
+    },
+    {
+      "body": "It was windy, but so was every other March day. The waffle house being closed was the real warning. I passed a news crew outside of it as the school bus skirted around the drive thru line that was spilling into the street and around the corner. I guess they were able to get the shot they’d waited hours for, the one of the waffle house managers flipping the sign from OPEN 24 HOURS to sorry we’re closed! a sticky note with the word tornado pasted underneath.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "March day. ",
+          "comment": "Slight confusion here — is it night or day?Waffle House should be capitalized. ",
+          "context_left": " so was every other ",
+          "context_right": "The waffle house bei"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "passed a news ",
+          "comment": "It’d be helpful to make it clear that she’s on the school bus. I didn’t get she was a kid until a couple of paragraph down. ",
+          "context_left": "the real warning. I ",
+          "context_right": "crew outside of it a"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the drive thru ",
+          "comment": "I don’t believe Waffle House usually has a drive though? ",
+          "context_left": " bus skirted around ",
+          "context_right": "line that was spilli"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "with the word tornado pasted underneath",
+          "comment": "Great detail. By the way, I like the title too! ",
+          "context_left": "osed! a sticky note ",
+          "context_right": ".  "
+        }
+      ]
+    },
+    {
+      "body": "One of my neighbors whose name I had yet to learn had plopped his old box TV onto his upturned trash can in his garage as he worked on his car. It was originally a black pick up truck,  but over a decade of driving on dirt roads had turned it a dusty brown, like when my mom would mix Oreo crumbs into my chocolate pudding. The sound of the TV’s newscaster blaring out into the cul-de-sac. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The sound of the TV’s newscaster blaring out into the cul-de-sac. ",
+          "comment": "Not a complete sentence. That’s not a big deal in fiction, but it’s out of synch with the narrator here thus far. ",
+          "context_left": " chocolate pudding. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I wasn’t allowed to go outside or turn the TV on when I was home alone, so I settled for peering out the living room window at the tiny red and orange blobs the black smudge of a weatherman was pointing to as they traversed over our town whenever my neighbor would leave his truck to find a tool or part in his garage. Face smushed between the glass and the heavy cherry colored curtains my mother had been stressing over when we first moved. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "his garage. ",
+          "comment": "What an obedient child! ",
+          "context_left": "d a tool or part in ",
+          "context_right": "Face smushed between"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Face smushed between the glass and the heavy cherry colored curtains my mother had been stressing over when we first moved. ",
+          "comment": "Another incomplete sentence. ",
+          "context_left": "part in his garage. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Our old curtains were black, most of our stuff was. It used to be mom’s favorite color. She said it was the practical choice since it went with everything. My grandma would always grumble about the lasting effects of mom’s emo phase as a teenager the three days a week she came to babysit me. Then, grandma died. 10 days after my tenth birthday. After the funeral nothing could be black anymore otherwise mom would start crying. I came home from school one day to find everything in moving boxes except for the pile of black furniture in the corner that would eventually be driven to Goodwill. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Goodwill",
+          "comment": "Nice use of details here. ",
+          "context_left": "tually be driven to ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Now everything in my house was covered in things with names with food in them. The curtains were cherry cola, the walls were cinnamon oatmeal, the couch was oyster. Even grandma’s urn’s color was called pleasant plum. Aunty Sara had really wanted one called charcoal cats because the kitten on it looked exactly like Annabelle, grandma’s cat. I had liked it too, but it was black. The pages of the book of options had started to wrinkle from mom’s tears before aunty Sara gave up. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "in my house ",
+          "comment": "Maybe this is “new house” to make that clear. And I love that everything’s named after food! ",
+          "context_left": "Now everything ",
+          "context_right": "was covered in thing"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "grandma’",
+          "comment": "CapitalizeThe mom’s new aversion to black is almost funny. ",
+          "context_left": "in them. The curtains were cherry cola, the walls were cinnamon oatmeal, the couch was oyster. Even ",
+          "context_right": "s urn’s color was called pleasant plum. Aunty Sara had really wanted one called charcoal cats becaus"
+        }
+      ]
+    },
+    {
+      "body": "There had been a purple box added to my neighbor’s TV that was the same color as grandma’s urn. I glanced back at the oak cabinet the TV was sitting in. It’s black screen hidden away behind cabinets that reminded me of the brown rice we always had with dinner no matter how much I told my mom I hated it. She always said she didn’t have the energy for anything but microwavable rice after 12 hour shifts in the ER like the one she was on now. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "There had been a purple box added ",
+          "comment": "I’d make this more active — “I realized that a purple box had been added…” ",
+          "context_left": "",
+          "context_right": "to my neighbor’s TV "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " It’s ",
+          "comment": "Its Reviewing grammar would be helpful for you. It’s causing some real comprehension issues for the reader. ",
+          "context_left": "e TV was sitting in.",
+          "context_right": "black screen hidden "
+        }
+      ]
+    },
+    {
+      "body": "Grandma isn’t around anymore, so will mom even know if I turn the TV on? I think to myself. I really wanna know what the colors on the weather map mean. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "mom",
+          "comment": "Capitalize ",
+          "context_left": "nd anymore, so will ",
+          "context_right": " even know if I turn"
+        }
+      ]
+    },
+    {
+      "body": "After a few moments of indecision, I decided to break the first rule since grandma’s death meant I spent my afternoons home alone and swung open the doors to the TV. I fumbled around the couch cushions to find the egg-white spray painted remote. The power button was easy enough to find, but it took me a couple of tries to figure out which buttons were the ones I needed to press for the channel to change from a man selling a vacuum in front of a crowd of weirdly happy people to a picture of a sad puppy looking down at a phone number back to the vacuum and then eventually to the weatherman. A big Channel 11 News sign flashed across the screen as it switched from two news anchors to the fancy colors blinking across the outline of Missori with what looked like a giant push pin indicating where my town was. We moved three weeks ago, right before school started, but it still felt weird to see a map of Missori instead of Maine. Illinois and Kentucky to the right instead of the blue of the Atlantic ocean. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "grandma’",
+          "comment": "Capitalize ",
+          "context_left": "he first rule since ",
+          "context_right": "s death meant I spen"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "egg-white spray painted remote. ",
+          "comment": "This is another great detail — the mom hates black so much, she spray painted the remote! All of that said, I do think we can get here a little quicker. We’re about 30% of the way through the story, and the main character is just now turning on the TV. What’s the conflict here? What’s the plot? ",
+          "context_left": "ushions to find the ",
+          "context_right": "The power button was"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "weatherman",
+          "comment": "She’s seen TV before, right? ",
+          "context_left": "n eventually to the ",
+          "context_right": ". A big Channel 11 N"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " Missori ",
+          "comment": "?",
+          "context_left": "s the screen as it switched from two news anchors to the fancy colors blinking across the outline of",
+          "context_right": "with what looked like a giant push pin indicating where my town was. We moved three weeks ago, right"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the",
+          "comment": "I wonder if there’s a reason why the mom (I assume) chose Missouri. ",
+          "context_left": "After a few moments of indecision, I decided to break ",
+          "context_right": " first rule since grandma’s death meant I spent my afternoons home alone and swung open the doors to"
+        }
+      ]
+    },
+    {
+      "body": "I tried to find the button to turn the TV sound on, but instead all I did was switch the channel back to the man with the vacuums. The people in the crowd were somehow even more excited. I smacked another button and the faint sound of cheers rumbled out of the TV’s speakers. My own giddy cheers were louder and I smacked the button again, but this time the sound stopped again. The giddy cheers switched to a growl of disappointment. I pressed the button again and resigned myself to the dimmed sound, pressing the button to switch back to the weatherman. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "weatherman",
+          "comment": "Is the narrator really young? I’m having trouble buying that operating a remote is that perplexing to anyone over 6. ",
+          "context_left": " switch back to the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "The broadcast had switched to something labeled as Main Street Dollar General Live David.",
+      "annotations": []
+    },
+    {
+      "body": "“This is main street folks, so if you look out your window you should be seeing something very similar to this  .   .   .” The weatherman circled the clouds that resembled gray zebra stripes as I ran to pull the curtains all the way open to take my own look at the clouds. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "clouds",
+          "comment": "A nice moment. I started to feel some actual dread here. ",
+          "context_left": "r window you should be seeing something very similar to this  .   .   .” The weatherman circled the ",
+          "context_right": " that resembled gray zebra stripes as I ran to pull the curtains all the way open to take my own loo"
+        }
+      ]
+    },
+    {
+      "body": "What I saw almost matched what was on the TV perfectly save for a few of the lighter zebra stripes. They were higher up, like when the wave hits the rock in A Little Mermaid and it all splashes up. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hits the rock in A Little ",
+          "comment": "If she lived in Maine, maybe she would connect to the actual ocean, not a movie? ",
+          "context_left": " like when the wave ",
+          "context_right": "Mermaid and it all s"
+        }
+      ]
+    },
+    {
+      "body": "“.   .   . All of this is one massive wall cloud which is not a good sign for anyone hoping this would be one of those storms where the forecast is worse than the reality. This is a sign that you need to be figuring out where your gonna go and what you need to take with you when, not if, that tornado si—” ",
+      "annotations": []
+    },
+    {
+      "body": "Whatever the weatherman was going to say next was cut off by this awful screech blaring out from every angle. It was a cross between a car horn and the sound ambulance sirens make as they fade out after passing you, only it wasn’t fading out, it was getting louder. I slammed my hands over my ears and dove under the couch in an attempt to dim the noise. ",
+      "annotations": []
+    },
+    {
+      "body": "“Grandma, can you make the noise stop?” I instinctively called out before realizing that she wasn’t going to answer. Fear before reasoning I guess. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Fear before reasoning I guess. ",
+          "comment": "This feels like a fairly older kid thing to think. ",
+          "context_left": "’t going to answer. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I lifted up the little flaps that hid the bottom part of the couch to sneak a glance at the TV. The colors on the map were back, and so was the purple box coupled with a red one. The words particularly dangerous tornado warning flashed across the bottom part of the screen, right where the phone number was when I was on the sad puppy channel. The whole map was covered in red and orange now. Those seemed to be the bad colors, the ones that meant the loud noises were going to keep playing. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "particularly dangerous tornado warning ",
+          "comment": "I would look up what a television station would actually broadcast. This doesn’t feel legit. ",
+          "context_left": " red one. The words ",
+          "context_right": "flashed across the b"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "keep playing. ",
+          "comment": "I think instead of having her be a little dumb, you might have her just be new to the area, which she is. So it’s not, gosh, what do those mean? And more, wait, this seems bad, but I don’t have enough experience to know what to think for sure. ",
+          "context_left": "oises were going to ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "A new icon appeared. An upside down red triangle with the words tornado, spotter confirmed next to it was slowly moving towards my town and as the map zoomed in I realized the triangle was going to go right over my house. I didn’t really understand why, but the concern on the weatherman’s face was enough to tell me that was a bad thing. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "spotter ",
+          "comment": "?",
+          "context_left": " the words tornado, ",
+          "context_right": "confirmed next to it"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "go right over my house. ",
+          "comment": "This seems extremely specific — more so than I would imagine her being able to see on a screen. How else can she figure this out? ",
+          "context_left": "iangle was going to ",
+          "context_right": "I didn’t really unde"
+        }
+      ]
+    },
+    {
+      "body": "“ .  .  . possibility of an EF5 .   .   .  everyone needs to get into their  .  .  .” I tried to make out what the weatherman was saying over the screeching outside. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "over the screeching outside. ",
+          "comment": "Is the screeching the warning air horn or the storm? ",
+          "context_left": "atherman was saying ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "BAM. The sound of glass smashing and fabric being torn drowned out any hope of hearing the rest of what the weatherman was saying. Shards of glass filled the room, coating the floor like a lethal form of playground wood chips. The trash can lid my neighbor’s TV had been sitting on a little while earlier was now in front of me, the plastic hinges shredded from where the wind had ripped it from the rest of the can, the culprit for the broken window. The half of one of the cherry-cola curtains was draped over the TV. The wind was slamming into the piece of curtain, pressing it up against the screen so hard I could still see the weatherman’s face through it. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "it",
+          "comment": "Very vivid! I did wonder why she isn’t more scared or trying to run or hide before now. I buy that she doesn’t know what to do, but even without context, this all sounds terrifying! ",
+          "context_left": "the floor like a lethal form of playground wood chips. The trash can lid my neighbor’s TV had been s",
+          "context_right": "ting on a little while earlier was now in front of me, the plastic hinges shredded from where the wi"
+        }
+      ]
+    },
+    {
+      "body": "The wind blew so hard that the TV was starting to rattle and everything was slowly pushed away from the window. ",
+      "annotations": []
+    },
+    {
+      "body": "The olive green vase next to grandma’s urn, filled to the brim with fresh daisies, grandma’s favorite flower, was slammed into by a gust of wind. The high pitched boom the ceramic made as it smashed into million pieces made me jump a couple inches. My hands started to shake as I peaked at the crushed flowers and green shards intermixed with the clear ones from the window. ",
+      "annotations": []
+    },
+    {
+      "body": "With the window open the screeches outside were even louder, somehow. I didn’t know it was possible for noises to get that loud. I slammed my hands over my ears and screamed. As dumb as it sounds now, I really did think I could counteract the noises, but instead all I got was ringing ears. The sound of the bell from my kindergarten teacher, Mrs Isabel, used to get our attention and took over my ears for a minute or two before a new sound took over everything, like a mold spore corrupting everything it touches. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ringing ears",
+          "comment": "Does she have any instinct to hide somewhere? It feels pretty instinctual to do that. I’m very worried about her! ",
+          "context_left": "stead all I got was ",
+          "context_right": ". The sound of the b"
+        }
+      ]
+    },
+    {
+      "body": "It sounded like a train was running directly on top of me. The rhythmic boom mixed with the constantly metallic whirring just like the sound of train wheels rumbling across railroad ties. The fear that was slowly rising was replaced by confusion. There weren't any train tracks for several hundred miles. It wasn’t possible to hear a train from my house, so why did it sound like one was so close? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "several hundred miles. ",
+          "comment": "Unlikely in Missouri. ",
+          "context_left": "ny train tracks for ",
+          "context_right": "It wasn’t possible t"
+        }
+      ]
+    },
+    {
+      "body": "The train sound had drowned out all of the other noises except for the ever present ringing in my ears. I couldn’t tell if that was because the other ones had stopped or this train was just so loud nothing else could be heard. ",
+      "annotations": []
+    },
+    {
+      "body": "And then everything stopped. The sound of the train, the car horn crossed with an ambulance siren noise, the crackle of the wind too. All that was left was the ringing in my ear and the faint sound of the weatherman. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sound of the weatherman. ",
+          "comment": "It’s surprising that the television broadcast didn’t go out. ",
+          "context_left": "y ear and the faint ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I crept out from underneath the couch to try and hear the TV over the growing buzz in my ears. ",
+      "annotations": []
+    },
+    {
+      "body": "“And remember everyone, don’t be scared be prepared—” ",
+      "annotations": []
+    },
+    {
+      "body": "I didn’t get to hear the weatherman finish. The train had returned. I turned to the window, hoping I could figure out what was making the noise. ",
+      "annotations": []
+    },
+    {
+      "body": "All I saw was the wall cloud the weatherman had mentioned earlier. It now reached all the way from the sky to the ground. The two funnels that looked a lot like legs made a black cloud where it hit the ground. The legs were spinning around each other like they were dancing. The cloud was growing. It didn’t look like it was moving in any direction, just growing and spinning. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "spinning",
+          "comment": "Scary! I’m confused about how she knew it was heading straight for her if it didn’t look like it was moving. ",
+          "context_left": "e two funnels that looked a lot like legs made a black cloud where it hit the ground. The legs were ",
+          "context_right": " around each other like they were dancing. The cloud was growing. It didn’t look like it was moving "
+        }
+      ]
+    },
+    {
+      "body": "It was heading straight for me. That’s why it didn’t look like it was moving. ",
+      "annotations": []
+    },
+    {
+      "body": "The full force of the wind slammed me into the back wall. The ceiling collapsed and reigned down on me in a flash of sparks from the severed cables. I ran towards the TV, desperately wishing that the weatherman would tell me what to do, but all I saw was a black screen. I could see tears coating my cheeks in the reflection. The shaking that had taken over me made me look like I was glitching on the screen. The wall behind the TV was torn from the rest of the house. All at once. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "desperately wishing ",
+          "comment": "Really? ",
+          "context_left": "ran towards the TV, ",
+          "context_right": "that the weatherman "
+        }
+      ]
+    },
+    {
+      "body": "Pieces of drywall and insulation floated after the wall. My fourth grade school picture was still hanging on it. At that moment, I was sure that was going to be my last school picture. The one they put in a neat little black frame next to my coffin. Like they did with grandma. ",
+      "annotations": []
+    },
+    {
+      "body": "With the wall keeping all of the wind at bay gone, the TV was pushed over onto me. Pinning me underneath its weight. The glass screen shattered from the impact. Black shards being added to the clear and green mess. ",
+      "annotations": []
+    },
+    {
+      "body": "I laid there as blood from where the glass cut me above my eyebrow leaked into my eye. The color red filled my vision and stung worse than any hornet sting I’d ever gotten. I couldn’t decide whether to keep covering my ears or to wipe the blood out of my eyes. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "eyes",
+          "comment": "How awful. ",
+          "context_left": "the blood out of my ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Then the sound went out and I didn’t have to decide. Even when the sound stopped before it was more gradual and the ringing was still there. This time there was nothing. No sounds of blood rushing through my ears, no swish of my hands running across my face, and most of all no sound came out of my mouth when I tried to scream. ",
+      "annotations": []
+    },
+    {
+      "body": "Right after that the light went out too. The red that had filled my vision turned to black as I passed out. ",
+      "annotations": []
+    },
+    {
+      "body": "— — — — — — ",
+      "annotations": []
+    },
+    {
+      "body": "I didn’t know how long I was unconscious for, but when I woke up the sound was still out. There wasn’t anymore wind or blood or things falling on top of me. Everything was back to normal except for the sound. My ears were broken. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "woke up the sound was still out. ",
+          "comment": "You need to clarify what this means — she can’t hear anything or what? ",
+          "context_left": "ous for, but when I ",
+          "context_right": "There wasn’t anymore"
+        }
+      ]
+    },
+    {
+      "body": "I struggled to lift the somehow still intact TV off of me to see blue sky where a ceiling fan had once been. My house didn’t have walls anymore, just clumps of what was once our belongings piled, broken, around my feet. All of the different colors that made up my house now mixed together into an ugly brow. Tpain store would probably call it something nice like coffee bean brown.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Tpain store ",
+          "comment": "? Have you looked at footage of a house after a tornado rips through? ",
+          "context_left": " into an ugly brow. ",
+          "context_right": "would probably call "
+        }
+      ]
+    },
+    {
+      "body": "I tried to scream for mom, but my voice was still broken. I kept yelling to see if I could make the sound come back, but nothing happened. ",
+      "annotations": []
+    },
+    {
+      "body": "Or maybe it did. Mom came running around the corner. Her right arm covered in a white cotton bandage and her green apple scrubs were now crusted with blood. Her mouth was moving, but there still wasn’t any sound. ",
+      "annotations": []
+    },
+    {
+      "body": "It looked like she was screaming my name as she scooped me up into a hug. I was confused, but it was secondary to the way the fear evaporated when mom held me in her arms. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "scooped me up into a hug. ",
+          "comment": "How can she do this if the narrator has the TV on top of her? ",
+          "context_left": "ming my name as she ",
+          "context_right": "I was confused, but "
+        }
+      ]
+    },
+    {
+      "body": "Mom’s mouth moved again and she looked confused when I didn’t answer. ",
+      "annotations": []
+    },
+    {
+      "body": "“Mom, the sound went out.” I said, hoping that maybe the sound was just out for me and she could still hear. But it just made the confused expression on her face darken. So I pointed to my ear and then shook my head. ",
+      "annotations": []
+    },
+    {
+      "body": "After that Mom’s mouth didn’t move again until she had run, still holding me, all the way to the lone hospital in the town and right to her doctor friend in the ER. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ". ",
+          "comment": "I was confused about why she didn’t drive her daughter. ",
+          "context_left": "tor friend in the ER",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "They’re mouths moved a bunch, but neither ever looked directly at me. The doctor did a bunch of tests and looked into my ears for a while. I stayed there for a few days while they tried to get the little tubes they put in my ears to make the sound come back on. Well partially back on. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "stayed there for a few days ",
+          "comment": "At this point, the story starts to feel slack — the great intensity you conjured up gets too loose when you start adding days to the story. ",
+          "context_left": "ears for a while. I ",
+          "context_right": "while they tried to "
+        }
+      ]
+    },
+    {
+      "body": "In the coming weeks I would learn a lot about what had happened to me. Mom’s friend sat me down and explained how tornadoes work. That the screeches were tornado sirens telling everyone to get into their basements. The train sound was just what happens when wind goes extremely fast and that tornadoes can look like they’re not moving when they’re headed straight for you. He used words like dead man walking and Fujita Scale that I wouldn’t fully understand until later in life. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Mom’s friend ",
+          "comment": "Why didn’t the mom do this? ",
+          "context_left": "had happened to me. ",
+          "context_right": "sat me down and expl"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "when they’re ",
+          "comment": "I would save the reveal to here, then. Don’t have her know this earlier. ",
+          "context_left": " they’re not moving ",
+          "context_right": "headed straight for "
+        }
+      ]
+    },
+    {
+      "body": "A lot of people wanted to talk to me and mom, from neighbors to new crews. I even got to meet the weatherman! They kept saying the words lucky to be alive at the beginning of every broadcast quickly followed by the TV saved her life. The black TV, the one that mom wanted hidden away. After the tornado it wasn’t allowed to be hidden away anymore. Afterall, it’d saved my life. Mom no longer cried over the color black. I guess because it wasn’t just the color of grandma being gone anymore. It was the color of the thing that saved her daughter's life. It was also the color of the hearing aids I picked out. The sound still goes out sometimes, a result of the damage to my ear canal, but I can manage it fine as long as I’ve got my hearing aids and the cheery weatherman who still stands in front of his map of Missouri pointing to the different colors as they drift across it all these years later. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "After the tornado it wasn’t allowed to be hidden away anymore",
+          "comment": "Not sure what this means. And how did the TV save her? ",
+          "context_left": "wanted hidden away. ",
+          "context_right": ". Afterall, it’d sav"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "The ending reveals, interestingly, that this story is being told by the narrator years later, so I wondered why she chooses to tell it in a childish voice? Why not tell it with the ability to understand what had happened?Emily, this was a great first draft. I think conveying actions and especially a weather disaster is quite hard, and you did a great job with it here. I do think that the biggest questions I have are about the age of this character when the tornado hits, and her age now, telling the story. She seems to be quite young in the story, which made me wonder why the mom left her alone (especially with a tornado warning!) without calling her or giving her instructions or anything. But she also occasionally seemed older, so that was perplexing. It was a good idea to have her not from Missouri, by the way. My other question is about the conflict in this story. The narrator faces something scary and it’s well-rendered, but what does she want in this story? I never quite got that. I think she probably wants to survive, but the narrator doesn’t convey her desire to live except briefly when asking the grandma for help (which even the narrator admits isn’t really helpful). So I’d suggest considering how you might write the action so that we know this character is terrified and desperately wants to live. What choices does she make that show that (even if, ultimately, the TV happens to save her)? Happy revising, Julia!"
+    }
+  ]
+}

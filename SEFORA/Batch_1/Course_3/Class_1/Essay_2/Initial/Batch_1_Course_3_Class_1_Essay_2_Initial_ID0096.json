@@ -1,0 +1,178 @@
+{
+  "paragraphs": [
+    {
+      "body": "Mr. Higgins",
+      "annotations": []
+    },
+    {
+      "body": "\t“Why do I have to take care of the stupid bot?” Joe whined. ",
+      "annotations": []
+    },
+    {
+      "body": "Kate swore his voice briefly pitched into that inaudible frequency, like a dog whistle. “Because,” she started with a huff, “Mom’s working all next week, Grandma can’t walk, and you’re not doing anything, like, ever.” ",
+      "annotations": []
+    },
+    {
+      "body": "Joe looked at his sister crossly. “I do stuff.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "do stuff.” ",
+          "comment": "I like the title and I like this opening a lot. Notice how I reconfigured the formatting to make the dialogue clearer. ",
+          "context_left": " sister crossly. “I ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Yeah? With what friends?” Kate retorted. She regretted it for a brief moment, recognizing the harshness of her words, until Joe jabbed her a little too hard in her shoulder blade. “Ow, you little shit! Too hard!” She swiped at him but he had jumped away before she even reacted. ",
+      "annotations": []
+    },
+    {
+      "body": "“Yeah, like you know anything about friends… and Kris doesn’t count, he’s your husband!” he shot back at her. ",
+      "annotations": []
+    },
+    {
+      "body": "“Well it’s more than what you got, asshole,” Kate shot back.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "back",
+          "comment": "They seem young, but this made more sense to me when I realized that she’s considerably older than him. ",
+          "context_left": "asshole,” Kate shot ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Joe smirked. “I’m gonna tell Mom you swore at me. You can’t treat a 14 year-old that way,” he said mockingly.",
+      "annotations": []
+    },
+    {
+      "body": " “Yeah? Go ahead, it’s my house, I can treat you however I want under my roof.”",
+      "annotations": []
+    },
+    {
+      "body": "Joe sneered at her before trotting over to the lifeless robot in his charging station and examining his, its, face. It was unnaturally smooth, like a porcelain doll. Its eyes were closed. That look on its face, a cross between a child deep in sleep and a corpse lying dead in a casket, unnerved him. Most of the bots that had existed before the DanDroids weren’t humanlike in any way. He must’ve seen over a thousand cleaner bots in his life, at restaurants, hotels, grocery stores, chain convenience stores, and anywhere where the reduced labor would be worth the cost. Most of them were box-like, a few with LED animated faces. He remembered once when his family was taking a trip to New York, and the McDonald’s they had stopped at handed out orders with this big yellow and red robotic arm that freaked him out. Looking at his sister’s DanDroid now, he realized they were truly living in the future.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "deep",
+          "comment": "Yikes, yes, unnerving. ",
+          "context_left": "oss between a child ",
+          "context_right": " in sleep and a corp"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "in",
+          "comment": "I enjoyed this world building — I truly got to see some of this world through his eyes, which was powerful. I did wonder why the bot needed to be babysat. ",
+          "context_left": "Joe sneered at her before trott",
+          "context_right": "g over to the lifeless robot in his charging station and examining his, its, face. It was unnaturall"
+        }
+      ]
+    },
+    {
+      "body": "\t“Higgins,” Kate said from behind him, shaking him out of his thoughts. He turned to look at her, a bit dumbfounded. “Higgins? You got a robot butler and named it Higgins? Why not, y’know, Dan?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“That’s super lame, Joe. Besides, Higgins kinda fits. It sounds butler-y,” she said, staring past him at Higgins before turning towards the kitchen. She was making potato soup. “Anyways, you don’t even have to do much with him. Just come over like twice, ask him to do something simple, make sure he gets back on his charger, then you can leave. Easy.” She paused, looking back at Joe. She shifted on her feet for a moment. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "making potato soup",
+          "comment": "This is a great detail. And I love the clarity of what looking after Higgins requires. ",
+          "context_left": "he kitchen. She was ",
+          "context_right": ". “Anyways, you don’"
+        }
+      ]
+    },
+    {
+      "body": "“It would mean a lot to Kris. He’s been so stressed recently about this, acting like he’d lose his job if we didn’t properly test it. It’s so stupid. Happy Robotics chose us to test it, an ‘ideal member within the target audience’. Seems a little biased to have someone working on the product also be a test subject for the project, y’know?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "project",
+          "comment": "Again, more details that work. You could consider having Joe ask something about this — why do you have to, etc. etc. ",
+          "context_left": "est subject for the ",
+          "context_right": ", y’know?”"
+        }
+      ]
+    },
+    {
+      "body": "Joe wasn’t actually listening. He kept shifting from awe to uneasy fear of Higgins. He didn’t know if he wanted to be in the same room as it, much less being alone with it as it talked and walked around. He imagined it strangling him with unfiltered strength, his trachea snapping as the bot proclaimed its utter disdain for him and all humanity. A hard slap to the back of his head brought him back to reality, and he reflexively reached out to return the favor, hitting nothing but air. Turning around, he only saw his sister’s hand flipping him the bird as she disappeared into the kitchen. “That’s for earlier, dick,” her voice wafted from the kitchen.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wafted",
+          "comment": "It’s pretty much a perfect opening, Owen. A few small details need work, but it’s great. ",
+          "context_left": "r, dick,” her voice ",
+          "context_right": " from the kitchen."
+        }
+      ]
+    },
+    {
+      "body": "The sun had just peaked when Joe arrived at his sister’s place, a ring of sweat seeping into his collar. It wasn’t a long bike ride, only about 20 minutes from the house they grew up in, but the steep hills in between were enough to wind most people. It wasn’t long after returning from college that Kate and Kris, then her fiancé, managed to find a place at a reasonable price near home where they could sink into their young adult years. He examined the home as he walked his bike up her driveway, trying to picture the garish school bus yellow the place was when he first visited before they repainted. Of course, his sister had forced-asked him to help in that process. The house was a decently sized split-level at the end of a cul-de-sac, with miles and miles of forest as a backyard. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "backyard",
+          "comment": "This is nicely written, but, as you know, sort of just dangling in the story right now. ",
+          "context_left": "iles of forest as a ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“How are you, um, feeling?” Joe asked cautiously.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "cautiously",
+          "comment": "I love the idea that Joe feels deeply uncomfortable here, enough to ask exactly the wrong thing. ",
+          "context_left": "feeling?” Joe asked ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“Feeling…” Higgins replied, slowly, going over the word over and over again within the code: writing, analyzing, rewriting over and over again a million times in mere seconds, tasting the flavor of the word each time. He sat up quickly and suddenly, startling Joe. “I… feel… feeling… strange.”",
+      "annotations": []
+    },
+    {
+      "body": "Summary: Joe has to take care of his sister’s DanDroid, a robotic home assistant, during a week away. Something happens to the robot (gets wet? Falls? damaged?) and it gains basic sentience. Eventually, it goes to live in the woods (How? Why?)",
+      "annotations": []
+    },
+    {
+      "body": "2035: Happy Robotics, headed by Phil Dryer, releases the first DanDroid robotic home assistant to the consumer market, but receives little sales due to the hefty price tag and limited list of tasks it can accomplish.",
+      "annotations": []
+    },
+    {
+      "body": "2036: Happy Robotics nearly goes bankrupt, despite Dryer using his own personal wealth to keep the company going. A day before the company’s assets are expected to be sold off in auction, an unknown company makes a multi-billion dollar investment, effectively becoming Happy Robotics sole shareholder. They make immediate demands for revamping the DanDroid model.",
+      "annotations": []
+    },
+    {
+      "body": "March 15th, 2039: The DanDroid V2.0 is released to the market despite almost no news from Happy Robotics in a few years and no advertising prior to release. In the coming days and weeks, a massive marketing campaign gets the new and improved robotic assistant an immense amount of media attention and growing sales, reaching 2.5 million units sold in a few weeks. The secret to the DanDroid’s success is the hyperintelligent AI running each model individually, with each model having the ability to write their own code for any assigned task (provided the task aligns with Asimov’s Three Laws of Robotics). The code was written by the shadow company wanting to test their code in the robots for unknown reasons. June 2039: Story takes place",
+      "annotations": [
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": "B"
+      },
+      "comment": "I continue to think it’s a great story beginning, Owen. I do think you probably need to tighten up your focus here. The opening of the story is very nicely tight around this family and its robot. Your notes expand the world, which may be helpful to you, but which will not fit in the story. You’ve got to focus in on what happens in this interaction between Joe and Higgins. Keep going! It’s good!"
+    }
+  ]
+}

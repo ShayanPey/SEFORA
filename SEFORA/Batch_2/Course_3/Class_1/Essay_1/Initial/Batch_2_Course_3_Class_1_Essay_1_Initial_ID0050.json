@@ -1,0 +1,251 @@
+{
+  "paragraphs": [
+    {
+      "body": "Untitled",
+      "annotations": []
+    },
+    {
+      "body": "Last night, I dreamt that I was hit by a bus while biking to work. It was so vivid and clear, normally my dreams escape me instantly, but this one stayed with me. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me",
+          "comment": "This is how you start a story about a dream! To the point, no meandering, interesting. ",
+          "context_left": " that I was hit by a bus while biking to work. It was so vivid and clear, normally my dreams escape ",
+          "context_right": " instantly, but this one stayed with me. "
+        }
+      ]
+    },
+    {
+      "body": "“Hey baby, I think I’m gonna get rid of the bike,” I tell Jane. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ike,” I tell ",
+          "comment": "I fixed the punctuation throughout the opening. Take note! ",
+          "context_left": "nna get rid of the b",
+          "context_right": "Jane. "
+        }
+      ]
+    },
+    {
+      "body": "She looks at me like I am I insane. “But you love the bike, dear, why get rid of it?”",
+      "annotations": []
+    },
+    {
+      "body": "I quickly come up with a lie since I don’t want to worry her: “I found someone who would pay $1,000 for it and I don’t really need it.”",
+      "annotations": []
+    },
+    {
+      "body": "“Okay baby, do as you wish,” she rolls her eyes at me like I’m crazy, but she knows that I’m too stubborn to change my mind. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "baby, do ",
+          "comment": "A really small note but I would consider having them always use the same terms of affection — e.g. have her call him “baby” both times, too. ",
+          "context_left": "“Okay ",
+          "context_right": "as you wish,” she ro"
+        }
+      ]
+    },
+    {
+      "body": "We have breakfast and talk about the news. I don’t want to mention my dream, she’ll either think I’m ridiculous for listening to a stupid dream or be concerned for me and send me for psychiatric help. I don’t want either of those things. I will miss the bike but I’ve gotten back into running so I’ll still get my cardio in. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I don’t want to mention my dream",
+          "comment": "This has been said twice. I sort of wanted to know more about Jane, and why she wouldn’t be open to hearing about his dream? It seems like a fairly innocent thing to discuss. ",
+          "context_left": "alk about the news. ",
+          "context_right": ", she’ll either thin"
+        }
+      ]
+    },
+    {
+      "body": "I drive to work, traffic sucks, I see people on the shoulder biking faster than I’m driving. I think about how much faster it is to just bike, how much better it is for the planet. Then I start worrying about the bikers as cars whiz past them. I realize how dangerous it really is. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dangerous",
+          "comment": "Love this. We get to see how the bike thing is still a big deal to him. (Of course, he hasn’t sold the bike yet…) ",
+          "context_left": "them. I realize how ",
+          "context_right": " it really is. "
+        }
+      ]
+    },
+    {
+      "body": "There’s no parking lot at my office so I search for parking up the street. ",
+      "annotations": []
+    },
+    {
+      "body": "“You’re late!” my boss says to me as I walk in. He’s not mad he’s just making an observation. ",
+      "annotations": []
+    },
+    {
+      "body": "I lie, “got a flat on my bike over the weekend, had to drive in and these streets are a disaster.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I lie, “got ",
+          "comment": "It’s funny that he keeps lying about the bike. ",
+          "context_left": "",
+          "context_right": "a flat on my bike ov"
+        }
+      ]
+    },
+    {
+      "body": "“You’re always early, it’s no big deal,” he replies to me, “there are files on your desk.”",
+      "annotations": []
+    },
+    {
+      "body": "I start flipping through files and begin to forget my dream. Soon enough, my day is done and I head home. I walk to where I normally lock my bike up only to remember that I drove in today. Again on my drive home, I look at the bikers worrying for their safety. At least on my street it is quiet and peaceful, right by the river. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "it is quiet and peaceful, right by the river. ",
+          "comment": "I lost track here — how does this relate to the bike. You could consider showing a specific incident on the bike path - he sees someone almost get hit or something? ",
+          "context_left": " least on my street ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I’ve got a few hours until Jane gets home, plenty of time to get my bike to the shop and come back. It’s not that her work finishes later than mine, she just always manages to get lost on her commute which. I figure I’ll give my bike one final go, like a funeral ride. I am extra vigilant with my hands on the breaks and head on a pivot sticking exclusively to quiet streets. Somehow the cars seem more dangerous today, the drivers more reckless. One car runs through the light right after it changes. I stop in time, but am startled. The rest of my ride goes smoothly. I ask the man working the bike shop how much they’d pay for it. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "get my bike to the shop ",
+          "comment": "Why is he taking it to a shop? ",
+          "context_left": ", plenty of time to ",
+          "context_right": "and come back. It’s "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "commute which",
+          "comment": "I didn’t buy this. ",
+          "context_left": " to get lost on her ",
+          "context_right": ". I figure I’ll give"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like a funeral ride",
+          "comment": "This made me laugh. ",
+          "context_left": " bike one final go, ",
+          "context_right": ". I am extra vigilan"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "drivers more reckless",
+          "comment": "This would make more sense if he had seen a specific incident that unsettled him. Maybe similar to what he dreamt? ",
+          "context_left": "angerous today, the ",
+          "context_right": ". One car runs throu"
+        }
+      ]
+    },
+    {
+      "body": "“For this, I’ll give you $400,” he tells me. ",
+      "annotations": []
+    },
+    {
+      "body": "What I cheapskate I think, I know the bike is worth at least $750, but I’m not in the mood for negotiating. I just want to get rid of this cursed bike, “I’ll take it.”",
+      "annotations": []
+    },
+    {
+      "body": "He gives me the cash and I give him the bike. Feeling like a weight has lifted from me, I decide to run back. When I get to my street I decide to run a bit further. I turn onto the river trail and follow a mile until a thought occurs to me. Jane is going to wonder about the money and I’ve got to find a way to keep her from asking. Some pretty flowers and earrings should make her forget all about it. I make a turn toward downtown and buy some fresh roses and gold earrings that I think she would like. Only $300 left, but at least now she wouldn’t ask any questions. I walk back with the flowers, with plenty of time to whip up an easy dinner before Jane comes home.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like",
+          "comment": "I like how you had him sort of sad about the bike and then realizing it was for the best. ",
+          "context_left": "He gives me the cash and I give him the bike. Feeling ",
+          "context_right": " a weight has lifted from me, I decide to run back. When I get to my street I decide to run a bit fu"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Jane is going to wonder about the money and I’ve got to find a way to keep her from asking",
+          "comment": "Clarify what this means. I don’t know how I feel about Jane being bought off by the flowers. There’s a little bit of a dumb girl feel to Jane and I don’t think you really want that. ",
+          "context_left": "ought occurs to me. ",
+          "context_right": ". Some pretty flower"
+        }
+      ]
+    },
+    {
+      "body": "Jane loves the flowers and earrings, she doesn’t even ask about the bike money. We finish our normal nightly routine, make love and fall asleep. ",
+      "annotations": []
+    },
+    {
+      "body": "The next morning I wake up to another bad dream. This time I drowned in a swimming pool. Again it was unusually vivid. Maybe I do need medication. I vow never to swim in a pool again. Then I think more critically. If I’m staying away from pools, I should stay away from lakes and oceans too. ",
+      "annotations": []
+    },
+    {
+      "body": "I go through my day just like the last, staying away from any large bodies of water that might kill me. I leave for work a few minutes early and make it on time. I get home early and put on my running shorts. I naturally run towards the river trail. When I get there I think twice about it. After all, I could drown in a river, but the water is so shallow, even if I fall in I would be fine, and it really is the best place to run. I run on the grass on the side of the trail far away from the water. There is no way the water can get me there. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "away",
+          "comment": "I’m not sure the story needs the second dream, to be honest. It’s nicely written, but it sort of diffuses the impact of the first dream, somehow. ",
+          "context_left": "I go through my day just like the last, staying ",
+          "context_right": " from any large bodies of water that might kill me. I leave for work a few minutes early and make it"
+        }
+      ]
+    },
+    {
+      "body": "My evening goes just as expected, just like the last. I wake up with a start in the middle of the night to an even darker and more twisted dream. I dreamt that while I was lying in this very bed, Jane stabbed me. I can even feel a soreness where she stabbed me. I can’t fall back asleep. She wakes up to pee and I turn my head toward the door way to make sure she doesn’t come back with a knife. She doesn’t, she manages to bump into just about everything between the door and the bed, then immediately falls back asleep. I lie there with this immense fear. The vision of her with those empty eyes and our steak knife looking over me petrify me. I lie awake for hours replaying my stabbing until the sun rises. We get up together, I’m a bit groggy but I pretend nothing is wrong. Where would I even begin to tell her I dreamt that she stabbed me?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " knife",
+          "comment": "This too made me laugh. ",
+          "context_left": "She wakes up to pee and I turn my head toward the door way to make sure she doesn’t come back with a",
+          "context_right": ". She doesn’t, she manages to bump into just about everything between the door and the bed, then imm"
+        }
+      ]
+    },
+    {
+      "body": "My day goes just like the last except I can’t think at work, I can’t even concentrate enough to read a sentence. I leave early, tell my boss that I am sick. He tells me that I look like I’ve seen a ghost and that I should see a doctor. I probably should, but all they would do is try to give me some meds. ",
+      "annotations": []
+    },
+    {
+      "body": "I don’t know how to describe this sensation but it feels like everything I love is trying to kill me. Usually when I feel stressed I go on a long run, I hope a long run will be enough to cure whatever this is. ",
+      "annotations": []
+    },
+    {
+      "body": "When I get home I lace up my shoes and go. I run to the end of the river trail: 8 miles. I stop and look into the water where my reflection stares back at me. Then it starts to move and my dream start playing out in the water. It terrifies me, I can feel my heart rate speeding up even though I am no longer running. I start to run and glance back at Jane chasing me through the water with a knife ready, so I run even faster.",
+      "annotations": []
+    },
+    {
+      "body": "I look back and see that it’s working, a gap between us opens up and then she disappears. I keep at that world record pace for another minute before slowing down to catch my breath. All I see in the water now is a reflection of myself and the trees and grass, but something looks wrong, it looks like I can’t breathe. This water is tormenting me. I pick up the pace again, and glance back at my sinking reflection. ",
+      "annotations": []
+    },
+    {
+      "body": "This time I make sure to run a full mile at that pace, maybe it’ll be enough to make my death vanish. When I cross the 10 mile mark my watch buzzes and says that I just ran a 4:45 minute mile, something I haven’t done since high school. ",
+      "annotations": []
+    },
+    {
+      "body": "I stop, gasping for air and look right back into the river. The water captivates me, it is empty. I stand there gasping for air, and see my world around me in the water. There is a family sitting on a bench, some pigeons chirp at one another. There is a man on a bike. I can feel the wind as he goes by. I see one of those tour guide busses inches away from him and hear the chatter about some mill that was once her. Then I hear a crash and turn around to see Janes white Subaru heading straight at me. I go flying into the river and hear a crack as my head hits a rock in the water. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I really enjoy this story Nathan — it’s a lot of fun (for a story that ends in death) and I think your details are great. For me, the big issue for you is to think about what I call causation - how do the events of the story cause each other? We have a narrator who has a weird dream and he changes his behavior because of that first dream. That’s all vividly clear. But then he has two more dreams, and he doesn’t really change his behavior much, right? Then we find out that the dreams were actually warnings — something he realizes too late. I think you can rethink the second two dreams a bit more — it makes the most sense to me if he again changes his behavior (refusing to sleep with Jane, for example) and that those changes then affect the situation and cause his death — he and Jane have a fight, making her so out of it she gets into the accident, perhaps? I hope that makes sense, but of course we can discuss. You can cut back on some of this — we don’t need to see him both go to and head home from work. And I’d love for you to rethink Jane a bit, who seems a little bit of an idiot and I don’t think you mean that. It’s a good draft and gives you a lot to work with! Happy revising!"
+    }
+  ]
+}

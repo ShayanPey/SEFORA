@@ -1,0 +1,214 @@
+{
+  "paragraphs": [
+    {
+      "body": "Living Stories",
+      "annotations": []
+    },
+    {
+      "body": "Elinor Lawson, author of bestselling novel Echoes of the Forgotten, is renowned for her uncanny ability to breathe life into every character she writes. Even the most minor characters in her stories seem so real, readers often believe they could encounter them in the world outside the pages. Ellie’s pen flowed across the page, the loops forming her name in flawless cursive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Elinor Lawson, author of bestselling novel Echoes of the Forgotten, is renowned for her uncanny ability to breathe life into every character she writes. Even the most minor characters in her stories seem so real, readers often believe they could encounter them in the world outside the pages",
+          "comment": "I wasn’t quite sure what this was? A bio of Elinor but what is it in? ",
+          "context_left": "",
+          "context_right": ". Ellie’s pen flowed"
+        }
+      ]
+    },
+    {
+      "body": "“Thank you for coming out,” Ellie started as she took the next book in the line and looked into the amber eyes that sparkled at her. “What’s your name?”",
+      "annotations": []
+    },
+    {
+      "body": "“Charlotte—” The young woman started, cheeks almost as red as her hair. “Um…but everyone just calls me Charlie,”",
+      "annotations": []
+    },
+    {
+      "body": "“It’s lovely to meet you, Charlie—”",
+      "annotations": []
+    },
+    {
+      "body": "“I can’t believe I’m finally meeting you!” Charlie interrupted. “I just— Echoes of the Forgotten is my favorite book ever written. How do you write your characters to be so realistic? Madeline is so well written I feel like I know her. What’s your secret?” A smile spread across Ellie’s lips as she scribbled a quick note in the book.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you",
+          "comment": "From being at one of these events myself last weekend, I can confirm that is how these conversations often go! ",
+          "context_left": "“I can’t believe I’m finally meeting ",
+          "context_right": "!” Charlie interrupted. “I just— Echoes of the Forgotten is my favorite book ever written. How do yo"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Echoes of the Forgotten ",
+          "comment": "I would italicize book titles. ",
+          "context_left": "terrupted. “I just— ",
+          "context_right": "is my favorite book "
+        }
+      ]
+    },
+    {
+      "body": "“No secret, just more time than I’m willing to admit to create them.” Hundreds of books later, Ellie wrapped herself in her wool coat and started to her car, snowflakes dancing through the air to kiss her skin.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Hu",
+          "comment": "This should be a new paragraph. ",
+          "context_left": "it to create them.” ",
+          "context_right": "ndreds of books late"
+        }
+      ]
+    },
+    {
+      "body": "“No secret? If I’m not a secret then why not tell everyone about me.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "everyone",
+          "comment": "Can you locate this person in space and with a name? I couldn’t place where she was — also was she there to overhear Elinor’s conversation with Charlie? ",
+          "context_left": "t then why not tell ",
+          "context_right": " about me.”"
+        }
+      ]
+    },
+    {
+      "body": "“Madeline, my entire livelihood is based on telling everyone about you,” Ellie answered, looking through the rearview mirror to the brunette in the back.",
+      "annotations": []
+    },
+    {
+      "body": "“Telling everyone about my life as if I’m just some character in a story-”",
+      "annotations": []
+    },
+    {
+      "body": "”You are just a character in a story, Maddie. You aren’t real-”",
+      "annotations": []
+    },
+    {
+      "body": "“If I’m not real then how can you talk to me? How can you talk to everyone? Maybe if you told-”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "How can you talk to everyone",
+          "comment": "I love that she’s talking to a character, but again, let’s see how they emerge into the story. Is it only when Elinor is alone, for example?Also, this line is unclear. Who is “everyone”? ",
+          "context_left": "can you talk to me? ",
+          "context_right": "? Maybe if you told-"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you told-”",
+          "comment": "I’m wondering why it’s important for Elinor to tell anyone about Maddie? ",
+          "context_left": " everyone? Maybe if ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“You remember what that got us last time. My parents were concerned about the “voices” in my head and put me in the hospital for weeks. I can’t do that again. Why can’t you all just leave me alone-”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you all ",
+          "comment": "Again, slightly unclear — are these characters a burden for Elinor in some way? ",
+          "context_left": "at again. Why can’t ",
+          "context_right": "just leave me alone-"
+        }
+      ]
+    },
+    {
+      "body": "“Leave you alone? You act as if we’re ruining your life. How are you going to finish the second book without us telling you exactly how it happens?”",
+      "annotations": []
+    },
+    {
+      "body": "“I just want to be normal! Not a thirty year old with imaginary friends.” Ellie’s knuckles were white almost as white as the snowflakes that stuck to the windshield before they were wiped away each time by the wipers. “I don’t need any of you, I’m not all alone anymore. I have people that care about me now. You were all there for me when I needed it but-”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "now",
+          "comment": "You might set this up earlier — she could possible announce she’s done writing this series or something? In general, I’d like to see more causation in the story where the events are causing each other to happen. ",
+          "context_left": " Not a thirty year old with imaginary friends.” Ellie’s knuckles were white almost as white as the s",
+          "context_right": "flakes that stuck to the windshield before they were wiped away each time by the wipers. “I don’t ne"
+        }
+      ]
+    },
+    {
+      "body": "”But now that you're successful and have gotten all of the stories out of us that you can, you’re going to throw us away as if we’re nothing.”",
+      "annotations": []
+    },
+    {
+      "body": "“Please just let me go! I don’t know what kind of curse this is but please let me be free from all of you. My mind is full of your voices, begging for your lives to be told. I can’t even think over the sound of it!”",
+      "annotations": []
+    },
+    {
+      "body": "“Without us, you are an author without a story. Without you, we are characters in a story that will never be told,” Madeline explained while Ellie raced down the slick streets. Familiar face after familiar face lined the street as she drove, desperate to escape them all. Desperate to escape the voices in her head that consumed her every thought. So desperate to escape from them all, Ellie didn’t realize until it was too late her car hit a patch of black ice.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "she drove, ",
+          "comment": "Having trouble picturing this. ",
+          "context_left": "lined the street as ",
+          "context_right": "desperate to escape "
+        }
+      ]
+    },
+    {
+      "body": "“Ellie, can you hear me?” She could hear her older sister talking to her but that wasn’t the concern. Her mind was quiet, silent even. Her eyes shot open, scanning the room.",
+      "annotations": []
+    },
+    {
+      "body": "“What happened?”",
+      "annotations": []
+    },
+    {
+      "body": "“You were in an accident. The doctors said it’s a miracle you only have a fractured arm. They’ve never seen someone with so little injuries after a crash like that.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that",
+          "comment": "I like the jump to the future here but perhaps you need an indication to the reader that time has passed? ",
+          "context_left": " after a crash like ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "Weeks passed, the fracture healed, but Ellie’s mind remained silent. Once she returned home after the accident, she tried to settle into her routine from before. Spending the day writing away as her favorite candle burned until the lavender danced in the air with the soothing jazz from her record player. She used to write thousands of words in just an afternoon now only scribbles and pen scratches filled the page. “Please come back,” hide pen marks, right next to, “I’m glad you’re gone.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "player",
+          "comment": "I’m a little confused because there isn’t a sense in the story earlier that she doesn’t actually want everyone to go away. It feels pretty genuine on her part. If you want this to be a “careful what you wish for” story you need to set that up a bit more. ",
+          "context_left": "azz from her record ",
+          "context_right": ". She used to write "
+        }
+      ]
+    },
+    {
+      "body": "In the candle light of the otherwise dark apartment, a figure sat in the chair across the way.",
+      "annotations": []
+    },
+    {
+      "body": "“Missed me?”",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I liked the idea here but didn’t quite understand why she reappeared here. Ava, a really fun first draft. I love stories that have a meta aspect, and this one is especially fun. I feel like you have a ton of potential here and just will decide how to shape it. My big question for you here is about what your main character wants — it seems to change over the story, which isn’t necessarily bad, but I didn’t quite see why she didn’t want to hear the voices. They seemed extremely helpful to her! Then she almost immediately wanted them back but I didn’t get a sense of her awareness that having gotten what she wanted, she didn’t want it after all. And then at the end, the character seemed almost threatening? But why? Connecting all of this will help you take this great premise and character and shape it into a story. I can see the bones there! It’s going to be great. Thanks, Ava and happy revising!"
+    }
+  ]
+}

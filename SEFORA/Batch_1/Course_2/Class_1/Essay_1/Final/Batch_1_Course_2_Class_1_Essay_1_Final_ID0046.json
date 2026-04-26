@@ -1,0 +1,88 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Nervous System of the City",
+      "annotations": []
+    },
+    {
+      "body": "I heard of Pittsburgh a long time ago back in high school. We were having a lecture about industrialization, and my teacher set Pittsburgh as an example of an industrial city. It’s known for having many factories and vast industrial resources such as coal and steel. This is how Pittsburgh got its name “the Steel City.” That’s my first impression of Pittsburgh: a big, industrialized city. I often relate my hometown, Harbin, to this city. It’s a famous city in the northeast of China, which is known for its industrialization. I remember seeing huge chimneys in the suburban areas when I visited my grandparents back in the day. Many years later, I was accepted by Upitt. I came here and realized the city was generally different from Harbin. I do see some factories near the bridge, but I do not know a lot of them. Although most industrial structures in Harbin were in the suburban areas, we still had many factories in the urban areas. Nevertheless, there are things I see a lot here: bridges.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "accepted by ",
+          "comment": "admitted to Pitt",
+          "context_left": " years later, I was ",
+          "context_right": "Upitt. I came here a"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "areas",
+          "comment": "were",
+          "context_left": "eys in the suburban ",
+          "context_right": " when I visited my g"
+        }
+      ]
+    },
+    {
+      "body": "Pittsburgh has the second most bridges as a city in the United States. This is something new to me. I slept through the way to campus from the airport, so I didn’t even get a chance to see the landscape here. The only bridge I have heard of is the Smithfield Street Bridge because I had to visit there as an assignment for my social study class. I assumed the bridge would be huge and high like the Yangmingtan Bridge I saw in Harbin. However, the Smithfield Street Bridge, or generally all the bridges here in Pittsburgh, is the opposite of what I have expected. The Smithfield Street bridge was only 1184 feet long and it crosses the Ohio River. By hearing its name, I assume this bridge would have a long history cause it sounds like it was named after someone famous. It was just named after the street it connects. It took me around 5 minutes to get across the bridge. Honestly, I did not find anything special about the bridge.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "have ",
+          "comment": "had heard of",
+          "context_left": ". The only bridge I ",
+          "context_right": "heard of is the Smit"
+        }
+      ]
+    },
+    {
+      "body": "As previously mentioned, I am from Harbin. The bridges there were huge and long. The Yangmingtan Bridge is the most famous and significant in Harbin. It is 23402 feet in total and crosses the Songhua River, which separates the city in half. Due to the width of the Songhua River, the Yangmingtan Bridge became the major bridge built for people to commute to the city. Pittsburgh, while using another strategy, built many shorter bridges to connect the different parts of Pittsburgh because the Ohio River is way narrower than the Songhua River. Geographically speaking, both strategies help the residents to reach the other side, and that’s what bridges are for. In my opinion, there are many more noticeable similarities than differences. The Smithfield Street Bridge is a national historic civil engineering landmark of the United States. Bridges are like the nervous systems of our body. The people are the signals being triggered, beavering around, and getting busy. It is the nervous system that allows all the different organs of cities to function and connect in a way people can reach. Culturally speaking, both the Smithfield Street Bridge and the Yangmingtan Bridge are important for the residents, not only as a connection of lands but also as a great landmark signifying the city’s significant cultural background.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "that’s",
+          "comment": "Specify what you mean by \"that.\"",
+          "context_left": "the other side, and ",
+          "context_right": " what bridges are fo"
+        }
+      ]
+    },
+    {
+      "body": "This cross-cultural comparison significantly changed my opinions about bridges. My uncle used to be a construction worker who built the Yangmingtan Bridge, so I was always biased to believe that the longer and bigger a bridge is, the better the bridge is. It was my superficial understanding of bridges until I wrote this essay. The impression of the bridge in the people’s mind is what triggers the pride. A body without a nervous system is paralyzed, which makes the same sense when it comes to cities.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "a construction worker ",
+          "comment": "one of the construction workers",
+          "context_left": "My uncle used to be ",
+          "context_right": "who built the Yangmi"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This cross-cultural comparison ",
+          "comment": "This is a nice paper. Please meet the minimum length requirement (900 words), avoid vague pronouns such as \"that\" and use the simple past tense consistently throughout the paper. Overall, good job!",
+          "context_left": "",
+          "context_right": "significantly change"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 2,
+        "Organization": 2,
+        "Writer's Ethos": 1
+      },
+      "comment": "This paper has some good arguments, but there are areas for improvement. Please also meet the length requirement. For more information, please see my marginal comments."
+    }
+  ]}

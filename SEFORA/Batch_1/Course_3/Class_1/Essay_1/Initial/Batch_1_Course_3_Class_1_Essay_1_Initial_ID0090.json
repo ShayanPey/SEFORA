@@ -1,0 +1,669 @@
+{
+  "paragraphs": [
+    {
+      "body": "All great adventures start somewhere distinct—memorable, right? The good ones, at least. Gandalf talking Bilbo into leaving the Shire. Hagrid knocking down that door and telling Harry he's a wizard. For them, it’s Nate’s text lighting up their phones: 'get ur asses to the park ASAP.' ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "All",
+          "comment": "Your story should have a title, and needs to be formatted in line with standard short stories. I reworked the first few paragraphs for you to see what I mean. ",
+          "context_left": "",
+          "context_right": " great adventures st"
+        }
+      ]
+    },
+    {
+      "body": "So instead of starting with something epic like a dragon attack or a secret prophecy, it starts like this: Malachai and Percy pedaling down the empty road, swerving lazily between the two lanes. Teddy’s a good ten feet behind, struggling to keep up—of course he is. The sun’s overhead, cooking the asphalt and making the road shimmer like a mirage beneath their tires. The air is thick with that summer smell of tar and freshly cut grass. They’ve been riding for a while, heading toward the park where Nate said he’d meet them. He’d been vague in his usual way, saying only, ‘bring ur bikes. I got something to show u ;)’. Knowing Nate, it could be anything from a weird bug he found to a dead body.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "is",
+          "comment": "I’m enjoying the narrator’s confidence and personality. ",
+          "context_left": "instead of starting with something epic like a dragon attack or a secret prophecy, it starts like th",
+          "context_right": ": Malachai and Percy pedaling down the empty road, swerving lazily between the two lanes. Teddy’s a "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "show u ;)",
+          "comment": "Little confused that there were two different texts. ",
+          "context_left": " I got something to ",
+          "context_right": "’. Knowing Nate, it "
+        }
+      ]
+    },
+    {
+      "body": "“Yo!” Teddy’s voice is wheezy, his pace lagging behind. “Seriously, slow…the fuck down!”",
+      "annotations": []
+    },
+    {
+      "body": "Malachai glances back to see him half-heartedly pushing at the pedals, his eyes glazed, probably regretting the blunt he hit earlier. He’s still got the usual grin on his face despite looking half-dead. He rolls his eyes but can't help the small smile that sneaks its way in. Typical Teddy. Always a step behind, but still grinning like he’s winning. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "He rolls ",
+          "comment": "Unclear who this is. ",
+          "context_left": " looking half-dead. ",
+          "context_right": "his eyes but can't h"
+        }
+      ]
+    },
+    {
+      "body": "“You trynna kill me back here?”",
+      "annotations": []
+    },
+    {
+      "body": "“If I wanted to kill you, I’d let you light up another blunt,” Kai calls over his shoulder, but he slows down anyway, glancing back at Teddy’s flushed face, the wind tugging at his curls. He always ends up giving in, doesn’t he?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Teddy’s flushed face, ",
+          "comment": "Slight confusion that Teddy looks half-dead but is also flushed. ",
+          "context_left": "y, glancing back at ",
+          "context_right": "the wind tugging at "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "He always ends up giving in, doesn’t he?",
+          "comment": "Can’t tell who ends up giving in. ",
+          "context_left": "gging at his curls. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Percy laughs. “We’re not even going that fast!” ",
+      "annotations": []
+    },
+    {
+      "body": "But he eases up when Kai does, letting Teddy catch up. Kai stays quiet as the other two shoot the shit. They’re almost at the park. He can see the familiar outline of the trees up ahead, a green canopy that hides the trails Nate always insisted were secret, though everyone in town knew them.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "always insisted ",
+          "comment": "Would this be in past tense?I do love the way you’ve introduced these characters, but I think this can work a little harder for you, letting us know not just that they don’t know what Nate has found but (maybe just one of them, maybe all of them) suspect what is about to happen. ",
+          "context_left": "des the trails Nate ",
+          "context_right": "were secret, though "
+        }
+      ]
+    },
+    {
+      "body": "“You think Nate’s got another stunt?” Percy asks, a grin spreading across his face. “Remember when he bombed that hill in a shopping cart and had us film it?”",
+      "annotations": []
+    },
+    {
+      "body": "Malachai snorts. “Yeah. ‘I’m Nate Stamatakis and this is Jackass.’ I didn’t even know you could break your tailbone.” None of them had a car at the time so they had to wheel him to the hospital in the shopping cart. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him",
+          "comment": "With four different male characters, your “he”s get confusing. Who broke their tailbone? ",
+          "context_left": "o they had to wheel ",
+          "context_right": " to the hospital in "
+        }
+      ]
+    },
+    {
+      "body": "“He’s got something planned, I bet,” Percy says, wiping sweat off his forehead.",
+      "annotations": []
+    },
+    {
+      "body": "“Better not be screwing with us. Like the ‘haunted stick’.” Nate claimed it was haunted because of how it moved, but the only thing haunting that stick was gravity—maybe even the wind.",
+      "annotations": []
+    },
+    {
+      "body": "“Nah, man. He sounded legit. Said to bring the bikes, like we’d regret missing it if we didn’t.” And he said the same thing about the soda can rocket he ‘invented’. Teddy, a little breathless, finally catches up, his breath coming out in uneven puffs. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Said to bring the bikes, ",
+          "comment": "Can you clarify if they all got the same texts or if one of them got specific information the others did not? ",
+          "context_left": ". He sounded legit. ",
+          "context_right": "like we’d regret mis"
+        }
+      ]
+    },
+    {
+      "body": "“Nate’s full of it. Probably…got some shit he found in the woods again. Could’ve just called. Or something.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Probably…got some shit he found in the woods again. Could’ve just called. Or something.”",
+          "comment": "Just noting that I can’t tell if Teddy says this, or who. ",
+          "context_left": "“Nate’s full of it. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Kai watches Percy out of the corner of his eye, thinking. “You know, he’s been really getting into biking lately.”",
+      "annotations": []
+    },
+    {
+      "body": "Percy looks over, raising an eyebrow. “Yeah, what’s up with that anyway? We haven’t biked since, like, sixth grade? Did he drop skateboarding or something?”",
+      "annotations": []
+    },
+    {
+      "body": "Kai shakes his head, “Nah, I doubt it. He’s been kinda weird since his parents split up.”",
+      "annotations": []
+    },
+    {
+      "body": "“Weird how? Like, existential crisis, or ‘Nate weird’?”",
+      "annotations": []
+    },
+    {
+      "body": "“More like… I don’t know, just different.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "different.”",
+          "comment": "Wondering how old these guys are. ",
+          "context_left": " I don’t know, just ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Percy raises his eyebrows, swerving around a pothole. “You think it’s got something to do with that new mountain bike his dad bought him” Kai shrugs, the thought lingering in his mind. Nate was quieter, more distant. Like his mind was somewhere else half the time. Maybe it was the bike. “That bike’s gotta be worth way more than his old one. Probably his dad’s way of making up for, you know…” Percy’s voice trails off. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was the bike. ",
+          "comment": "It seems like Kai’s is the headspace we’re allowed into, which works. ",
+          "context_left": " the time. Maybe it ",
+          "context_right": "“That bike’s gotta b"
+        }
+      ]
+    },
+    {
+      "body": "Kai nods. Divorce guilt. Now Nate’s dragging them out here to show off, but it seems to Kai that he’s trying to distract himself. “Yeah. But he’s been off for a while now.”",
+      "annotations": []
+    },
+    {
+      "body": "“No kidding,” Percy says. “It’s like one day he was normal, and then it’s all, ‘hey, let’s bike to the middle of nowhere. Dur, dur, dur.’ ”",
+      "annotations": []
+    },
+    {
+      "body": "“What’re you guys talking about?” Teddy asks, half listening as he almost veers off the road, his freshly dyed blond hair catching the sunlight. He went from brunet and blond and,  somehow, it actually worked for him.",
+      "annotations": []
+    },
+    {
+      "body": "“Nate,” Kai says. “Just wondering why he’s suddenly all about that bike life.”",
+      "annotations": []
+    },
+    {
+      "body": "Teddy scoffs. “You know Nate. Always has to make it a big deal. And that’s cool. If he wants to bike away the tears, that’s cool, man. But why the fuck do we have to? The last bike I had still had training wheels, man. I had to swipe my mom’s.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "swipe my mom’s.” ",
+          "comment": "I enjoy Teddy. Your dialogue is great. ",
+          "context_left": "eels, man. I had to ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Anyone could have guessed that with how he wobbles on it. Teddy was more of a razor-scooter guy when they were younger, anyway. The hot pink bike with a little white basket didn't really scream Theodore Lutz. Teddy coasts on the other side of Kai, their hands brushing for just a second as he adjusts his grip on the handlebars. Teddy leans his long arms on the bike’s basket—his cut-off sleeves showing off his tanned arms and ribs, covered in freckles and the stick and pokes he begged Kai to give him—clearly winded. Just like the rest of them, basketball had been Teddy’s thing back in sophomore year, but he had dropped it to ‘focus on his music’. Kai knows it had more to do with how much weed he smoked mixed with his asthma, handicapping himself.",
+      "annotations": []
+    },
+    {
+      "body": "Teddy plays bass and sings in his band, Lost and Found, and Percy sometimes joins in on keys—when he’s not busy with whatever new play the school’s putting on. Between his theater gigs, basketball practices, and helping Teddy out with the band, Percy makes Troy Bolton look like a bitch.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "on keys—",
+          "comment": "I’ve never heard this abbreviation before. ",
+          "context_left": " sometimes joins in ",
+          "context_right": "when he’s not busy w"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Troy Bolton ",
+          "comment": "A reference lost on me. Sorry! ",
+          "context_left": "e band, Percy makes ",
+          "context_right": "look like a bitch."
+        }
+      ]
+    },
+    {
+      "body": "“Speaking of music,” Teddy says, brushing his hair back. ",
+      "annotations": []
+    },
+    {
+      "body": "Kai blinks. “No one said shit about music—”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Kai blinks. “No one said shit about music—”",
+          "comment": "I interpreted this as Kai’s surprise that Teddy happened to mention what he was thinking about? ",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“I’ve got some new stuff in the works. We’re doing a show in two weeks, you guys should come.”",
+      "annotations": []
+    },
+    {
+      "body": "“Depends,” Percy teases. “You gonna play anything I can actually dance to?”",
+      "annotations": []
+    },
+    {
+      "body": "“Dance? No way, man, I need you up on stage with us on the keys.” Percy laughs with a muttered ‘Of course you do’. “Kai?” Teddy goads. “C’mon. I need you there…For like, emotional support and shit.”",
+      "annotations": []
+    },
+    {
+      "body": "“I’m not crouching in someone’s rank basement for two hours again, Theo.” Kai grins.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Kai",
+          "comment": "Just want to mention that you don’t need to drive yourself batty trying to come up with variations — it’s fine to just go with “said” or “says.” ",
+          "context_left": "hours again, Theo.” ",
+          "context_right": " grins."
+        }
+      ]
+    },
+    {
+      "body": "They take the last turn toward the park entrance, gravel crunching under their tires. As they ride up. Malachai spots Nate, sitting on a picnic table, grinning like an idiot. The two girls standing off to the side are a surprise. He only recognizes Natasha when they get closer, her bob a big difference from the curls she used to sport.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "picnic",
+          "comment": "It might be helpful to slightly reorder the conversation so that they talk about music first and then what Nate might be up to, so that discussion leads us into this moment. ",
+          "context_left": " Nate, sitting on a ",
+          "context_right": " table, grinning lik"
+        }
+      ]
+    },
+    {
+      "body": "“The fuck…?” He mutters under his breath. ",
+      "annotations": []
+    },
+    {
+      "body": "Percy rolls his eyes. \"Great, Tasha’s here.\" His tone is flat. It’s not like they hate her or anything. It’s just...complicated. When they were kids, the whole group used to hang out just fine. But junior high hit, and Nate figured out that it wasn’t cool to be seen with your sister. The rest of them? They realized Natasha Stamatakis was, in fact, a girl. High school only made it worse. Nate bulked up after they made varsity, and Tasha…well, Tasha grew boobs. Now, the only thing that really screamed \"twin\" about them is their freaky blue eyes, matching brown curls, and the kind of pale skin Tim Burton probably had wet dreams about.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "whole group used ",
+          "comment": "Clarify that this group included Natasha. ",
+          "context_left": "they were kids, the ",
+          "context_right": "to hang out just fin"
+        }
+      ]
+    },
+    {
+      "body": "“Yo!” Nate waves them over. “Glad you fuckers made it. Got something sick lined up.”",
+      "annotations": []
+    },
+    {
+      "body": "Teddy finally rolls up, puffing like he’s run a marathon. He gives the girls a dazed smile, “What’s up, Nate? We biking or having a tea party?”",
+      "annotations": []
+    },
+    {
+      "body": "Nate just grins wider. “Oh, we’re biking. Got something to show you guys. And trust me, you’ll need your wheels.”",
+      "annotations": []
+    },
+    {
+      "body": "Teddy, likely just now realizing who was with Nate, breaks the silence. “You didn’t tell us you were bringing a plus one. Or that your…plus one had a plus one.” ",
+      "annotations": []
+    },
+    {
+      "body": "“Yeah, yeah, I figured why not? They’ve got bikes. We can all check it out together. You all know Nat. This is her friend, Mila.” The girl, Meg, waves with a bright smile and they all wave back with various levels of enthusiasm.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "enthusiasm",
+          "comment": "Very funny that Mila gets, like, one line. ",
+          "context_left": "h various levels of ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“Check out what?” Teddy asks, frowning.",
+      "annotations": []
+    },
+    {
+      "body": "Nate smirks, “The view.”",
+      "annotations": []
+    },
+    {
+      "body": "This wasn’t the plan, but with Nate, it never really was. Kai looks to Teddy to see he’s already watching him with a raised brow, then to Percy who’s muttering something under his breath about ‘sibling baggage’, and then he looks back at Tasha. She meets his eyes, one brow arched like she’s daring him to say something. It’s weird seeing her here, but it’s not like they can say no, not with Nate so clearly happy to have her here like this. They were separated in the divorce. They ride the trail, Nate yelling jokes ahead while Percy and Teddy talk beside Kai. For a moment, he forgets how weird the situation is. Just for a moment. That stops a little further up the trail.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "This wasn’t the plan, ",
+          "comment": "Was there a plan? I thought the point was that there was no plan. I just want to mention that the girls can be in the story even if they don’t say anything at first. What does Natasha do/look like she’s feeling when the boys arrive? ",
+          "context_left": "",
+          "context_right": "but with Nate, it ne"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "They were separated in the divorce. ",
+          "comment": "Explain this. ",
+          "context_left": "her here like this. ",
+          "context_right": "They ride the trail,"
+        }
+      ]
+    },
+    {
+      "body": "\"What do you think’s back there?\" Percy asks, nodding toward a narrow dirt trail that branches off into the trees. It’s barely visible, half-hidden under fallen leaves and overgrowth, but it’s definitely there.",
+      "annotations": []
+    },
+    {
+      "body": "\"Probably nothing,\" Malachai mutters, but Nate’s already steering his bike toward it.",
+      "annotations": []
+    },
+    {
+      "body": "\"Let’s check it out,\" Nate grins, that mischievous glint in his eye.",
+      "annotations": []
+    },
+    {
+      "body": "Teddy groans, but Malachai’s already following him. No way he’s letting him go alone. That’d be like child neglect. And once he moves, the others follow suit with an understandable amount of complaining. Tasha attempts to call Nate back, but he’s already off the trail, barely even waiting for them. It doesn’t take a genius to figure out that Nate’s been in these woods before. Despite that, getting to wherever Nate’s taking them probably takes three times as long as it should’ve. Only Nate’s bike is made for the terrain, not to mention he’s the only one of them that regularly bikes. Combine that with Teddy having to pee every five minutes and a poison ivy scare, it becomes a whole day affair. They hit the clearing, the trees suddenly giving way to a wide-open view of the mountains. The peaks seem endless, their jagged edges glowing gold in the late afternoon sun. Nate hops off his bike, barely winded, and throws his hands up like he’s just discovered fire. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "affair",
+          "comment": "How big is this park? I was picturing like a square city block but it’s more like Frick? ",
+          "context_left": "becomes a whole day ",
+          "context_right": ". They hit the clear"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "fire. ",
+          "comment": "This view sounds incredible, and I’d love to have a little more context for the surprise of it. How have they never realized this before? (Also — where are they?) ",
+          "context_left": "e’s just discovered ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Told you! Check it out. Sick, right?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "right",
+          "comment": "I’d suggest that they not go down that path unless it pays off in some specific way, since you haven’t really used it — it makes more sense that Nate just leads them to the view. ",
+          "context_left": "Check it out. Sick, ",
+          "context_right": "?”"
+        }
+      ]
+    },
+    {
+      "body": "Kai stops, catching his breath, squinting at the horizon. He has to admit it’s not bad—way better than he expected. His hand itches for a pencil and paper. “Okay, Nate. I’ll give you this one.”",
+      "annotations": []
+    },
+    {
+      "body": "Percy drags his bike up next to him, wiping the sweat off his forehead. “I was expecting like, another possessed bird or something, so...yeah, not bad.” He stretches his arms out, still panting. “But you could’ve warned us about the freaking hills, man.”",
+      "annotations": []
+    },
+    {
+      "body": "Teddy finally rolls in behind them, gasping like he’s just biked the Tour de France. He half-collapses onto the grass, pointing a weak finger at Nate. “Never again. Never. Again.”",
+      "annotations": []
+    },
+    {
+      "body": "Mila grins as she and Natasha drop their bikes beside the group. “He’s such a drama queen,” she says, tone light with the kind of affection Teddy inspires in everyone.",
+      "annotations": []
+    },
+    {
+      "body": "Teddy raises an eyebrow, still breathless. “Excuse me, but not everyone has lungs made of steel. Some of us—” he takes a deep breath for effect—“have delicate constitutions.”",
+      "annotations": []
+    },
+    {
+      "body": "Kai watches the interaction, a small smile tugging at the corner of his mouth. He takes in the scene—Nate with his hands on his hips, Percy stretching, Natasha quietly standing next to Mila. It feels...good. Like maybe they needed this.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "good. Like maybe they needed this.",
+          "comment": "This moment didn’t quite work for me as earned yet. ",
+          "context_left": "to Mila. It feels...",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Percy, still catching his breath, suddenly blurts out, “I have a confession! I know I give people crap about my name all the time...but, uh, I’ve actually been reading the Percy Jackson books. They’re pretty good.” He rubs the back of his neck, avoiding their eyes for good reason. Kai raises an eyebrow. Percy’s always hated the \"like the book?\" jokes. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "books",
+          "comment": "Names are a great topic for them to discuss. It might feel more natural if someone teases Percy, vs. his just bursting out with this. ",
+          "context_left": "g the Percy Jackson ",
+          "context_right": ". They’re pretty goo"
+        }
+      ]
+    },
+    {
+      "body": "“For real?”",
+      "annotations": []
+    },
+    {
+      "body": "Percy nods. “Yeah, man. It’s kinda cool, actually.”",
+      "annotations": []
+    },
+    {
+      "body": "Mila chuckles, sitting down on a rock. “Well, I’m named after Megara from Hercules.”",
+      "annotations": []
+    },
+    {
+      "body": "“Wait,” Teddy lifts his head, eyebrows shooting up. “The one who won’t say she’s in love?”",
+      "annotations": []
+    },
+    {
+      "body": "Mila rolls her eyes but smiles. “My mom was obsessed with the movie. Hence, Megara.”",
+      "annotations": []
+    },
+    {
+      "body": "Teddy, trying and failing to hide a grin, says, “Wow, that’s like...sidekick-level naming. I mean, it’s cool, but still, if my parents named me Gaston, I’d be pissed.”",
+      "annotations": []
+    },
+    {
+      "body": "Kai, who’s been watching this unfold, jumps in. “I think it’s kind of cool.” The words come out more genuine than he expected.",
+      "annotations": []
+    },
+    {
+      "body": "Teddy, caught off-guard, blinks. “Yeah—uh, yeah, that’s what I was thinking too. Like, exactly that. Super cool. You know, strong female character and all that.” He nods way too enthusiastically, like he’s trying to convince himself, and then adds, “Totally badass name.”",
+      "annotations": []
+    },
+    {
+      "body": "Kai smirks, shaking his head. Teddy’s hand brushes the grass near his own, fingers just barely touching, and Kai feels the brief warmth of the contact. He doesn’t move his hand, but he doesn’t comment either.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "contact",
+          "comment": "Since we’re in Kai’s head at least sometimes, this feels slightly more reserved than necessary. ",
+          "context_left": "brief warmth of the ",
+          "context_right": ". He doesn’t move hi"
+        }
+      ]
+    },
+    {
+      "body": "Natasha steps forward, her lips quirking into a smile. “Okay, since we’re all sharing our life stories up here on this mountain...” She glances at Mila, then back at the group. “Meg’s not just a cool name. She’s, uh...kinda my girlfriend. And you shitheads are kinda my friends, so… ” She shrugs. “There.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "And you shitheads ",
+          "comment": "I think we could use a bit more from Natasha here. Or at least a bit more context for where this is coming from? I expected her to say, like, I miss you shitheads. ",
+          "context_left": "inda my girlfriend. ",
+          "context_right": "are kinda my friends"
+        }
+      ]
+    },
+    {
+      "body": "There’s a beat of silence.",
+      "annotations": []
+    },
+    {
+      "body": "Percy, eyebrows furrowed, blurts out, “Wait, like girl friend or…girlfriend?”",
+      "annotations": []
+    },
+    {
+      "body": "Mila smiles, sliding her arm around Natasha’s waist. “Girlfriend girlfriend.”",
+      "annotations": []
+    },
+    {
+      "body": "Kai watches the group process it—Teddy, still on the grass, is staring at the sky like the clouds will open up and explain this to him.",
+      "annotations": []
+    },
+    {
+      "body": "“Oh,” Teddy mutters, then louder, “Oh! That’s cool. Yeah, totally cool. Cool, cool, cool.”",
+      "annotations": []
+    },
+    {
+      "body": "Percy nods slowly. “Huh. Didn’t see that coming. Wow.”",
+      "annotations": []
+    },
+    {
+      "body": "Kai chuckles under his breath. “Makes sense, though,” he says, mostly to himself. And it does. The small things he noticed earlier all click into place, and it’s clear now.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "things he noticed earlier all click into place",
+          "comment": "Maybe we could see some of these things? ",
+          "context_left": " it does. The small ",
+          "context_right": ", and it’s clear now"
+        }
+      ]
+    },
+    {
+      "body": "The moment settles as Nate watches the exchange, and for the first time in a while, he looks genuinely relaxed. Kai glances at Nate and his softened posture as he stares out at the mountains. This whole day was for Nate, whether he said it or not. Showing them something bigger—something meaningful, more than just them and their small-town lives.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "This whole day was for Nate, whether he said it or not. Showing them something bigger—something meaningful, more than just them and their small-town lives.",
+          "comment": "This felt a little like the author trying to get the narrator to explain things to us. ",
+          "context_left": "t at the mountains. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Kai steps a little closer, keeping his voice low. “You good, man?”",
+      "annotations": []
+    },
+    {
+      "body": "Nate doesn’t answer right away. His eyes stay on the mountains for a long moment before he finally speaks. “Yeah. Just...wanted you guys to see this.” He gestures toward the view. “Figured you’d get it.”",
+      "annotations": []
+    },
+    {
+      "body": "And Kai does. He gets it. Nate’s been carrying a lot, and he’s not one to talk about it. This—showing the group something beautiful, something bigger than themselves—is his way of feeling in control again, of dealing with it. Teddy finally pushes himself off the ground, groaning. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "groaning",
+          "comment": "Again, at this point, I feel the author really trying to get this story to land meaningfully. It’s a little heavy handed. ",
+          "context_left": "elf off the ground, ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Okay, enough deep shit. Are you coming to the show next weekend or what, Kai? I need you there.”",
+      "annotations": []
+    },
+    {
+      "body": "Kai feels a warm pull in his chest—Teddy’s always doing this, acting like everything’s a joke when it’s not. “...Sure. But only if Percy promises not to play any of that depressing shit.”",
+      "annotations": []
+    },
+    {
+      "body": "Percy raises his hands in mock surrender.",
+      "annotations": []
+    },
+    {
+      "body": "Teddy grins.“Good. It’s gonna be sick.”",
+      "annotations": []
+    },
+    {
+      "body": "Natasha crosses her arms, smiling. “You guys are such losers.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "smiling",
+          "comment": "One issue for you is that there’s no conflict in the story — everything’ working out great for everyone. ",
+          "context_left": "a crosses her arms, ",
+          "context_right": ". “You guys are such"
+        }
+      ]
+    },
+    {
+      "body": "Nate flexes his arms, his grin widening. “Could losers do this?” He strikes one of those bodybuilder poses that only looks slightly less ridiculous since he actually has the muscle definition.",
+      "annotations": []
+    },
+    {
+      "body": "“Please,” Teddy groans. “Spare us.”",
+      "annotations": []
+    },
+    {
+      "body": "They laugh, the tension breaking as the sun dips lower behind the mountains. The day feels lighter now, even with everything that’s happened. Kai takes one last look at the view, the mountains glowing under the fading light. As they all start to mount their bikes, Teddy lingers for a moment next to Kai. Teddy glances at him, something unreadable in his eyes. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", even with everything that’s happened. ",
+          "comment": "…but not that much has happened? ",
+          "context_left": "ay feels lighter now",
+          "context_right": "Kai takes one last l"
+        }
+      ]
+    },
+    {
+      "body": "“I had fun.”",
+      "annotations": []
+    },
+    {
+      "body": "Kai looks at him, surprised by the sincerity in his tone. “Yeah, man. Same.”",
+      "annotations": []
+    },
+    {
+      "body": "They don’t need to say more. Whatever’s shifting between them—it’ll figure itself out.",
+      "annotations": []
+    },
+    {
+      "body": "They kick off together, the sound of the others ahead of them, but for a moment, it’s just Kai, Teddy, and the mountains stretching out behind them.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I liked this last bit a lot. Nova, you are a gifted writer. There’s a lot here that’s compelling and works well. It’s really hard to write more than two or three people and have them all be distinct, but you did it (although I would suggest that Percy and Malachi aren’t all that distinct from each other). You also wrote a good small stakes story, in which nothing big or dramatic happens but it still feels satisfying at the end. And the dialogue is very nice. I would suggest that your pacing is a bit off. We spend several pages just getting to the park, and then rush through the middle section (never really finding out what the deal is with Natasha’s absence or reappearance, for example) and then they spend two pages telling each other how great everything has worked out. I would suggest cutting back on the bike ride (and including more discussion of not just Nate but also of the missing Natasha) and then perhaps there’s some actual anger or conflict by the time they get to the overlook. Right now, the view seems to pretty much instantly soothe them, and even Natasha’s announcement (which feels out of nowhere to me) barely registers. Could they just have more tension and conflict betwixt them so that the lovely ending feels earned instead of obvious? Strong work. I enjoyed it, even if it was a little too long for the prompt (and will get longer once you fix the grammar!)."
+    }
+  ]
+}

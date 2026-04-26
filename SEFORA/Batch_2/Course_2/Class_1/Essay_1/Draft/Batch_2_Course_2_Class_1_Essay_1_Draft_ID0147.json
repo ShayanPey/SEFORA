@@ -1,0 +1,88 @@
+{
+  "paragraphs": [
+    {
+      "body": "This paper explores how people's preconceived notions of places are overturned by actual experience by comparing Point State Park in Pittsburgh and Baitashan Park in Lanzhou, China. This comparison reveals the similarities and differences between the two parks in terms of design concepts, cultural values, etc.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "people's",
+          "comment": "our",
+          "context_left": " paper explores how ",
+          "context_right": " preconceived notion"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "Please add a 0.5'' indentation at the beginning of each paragraph.",
+          "context_left": "",
+          "context_right": " paper explores how "
+        }
+      ]
+    },
+    {
+      "body": "Exposition When I first heard about Point State Park in Pittsburgh, I had a beautiful fantasy that it was a vibrant urban garden full of modern high-end facilities. It is located in the center of Pittsburgh, near the intersection of three rivers, which reminds me of a bustling commercial area full of cafes, restaurants, lively street activities and leisurely people. I imagined people here enjoying the convenience and fast pace of urban life while experiencing a wealth of leisure and entertainment activities. My expectations of it were based on my inherent impression of urban parks, which was deeply influenced by my experience of living in Chinese cities. However, when I actually arrived at Point State Park, the scene that greeted me was completely different from what I imagined. Rather than a place filled with the hustle and bustle of a city, it is a relaxing oasis — a vast and peaceful green space that is carefully designed and maintained, surrounded by elegant trees and patches of soft lawns. The centerpiece of the park is an iconic fountain, which is located in a prominent position at the confluence of the Allegheny River, the Monongahela River, and the Ohio River. The design of the entire park conveys a concept of harmonious coexistence with nature, rather than an overemphasis on commercialization or urban functions. This experience made me re-examine my understanding of the concept of urban park. After this experience, I couldn't help but compare Point State Park with Baitashan Park in my hometown of Lanzhou. Although the two parks have different design styles and functions, their geographical locations are extremely important. Point State Park is located at the confluence of three rivers in Pittsburgh and is the core landmark of the city, while Baitashan Park stands beside the Yellow River in Lanzhou and is an important landmark overlooking the city. Both parks have unique iconic landscapes: the fountain of Point State Park and the white tower of Baitashan Park, each highlighting the unique charm of the city. The design concepts of the two are also very different. Baitashan Park is built on the mountain, and its winding mountain roads and steps allow people to overlook the panoramic view of Lanzhou and the magnificent view of Zhongshan Bridge. The park incorporates a large number of traditional Chinese elements, including historical buildings such as temples and white pagodas, giving it a deep cultural significance. Point State Park, on the other hand, is flat and more modern in design, emphasizing spacious lawns and simple layouts, providing residents and tourists with an open space suitable for relaxation and communication. In addition, the difference in geographical climate also affects the greening layout of the two places. Baitashan Park has limited greening due to climatic conditions, but it makes up for the visual deficiencies with exquisite traditional buildings; while Point State Park has dense lawns and shade trees due to its mild climate, creating a comfortable and pleasant environment for people.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I had",
+          "comment": "You may add dialogues, quotes, or questions to enrich the content of the first paragraph",
+          "context_left": "Park in Pittsburgh, ",
+          "context_right": " a beautiful fantasy"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " is",
+          "comment": "was - I would use the past tense consistently throughout the paper.",
+          "context_left": "terpiece of the park",
+          "context_right": " an iconic fountain,"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " while",
+          "comment": "I would start a new sentence here.",
+          "context_left": "aditional buildings;",
+          "context_right": " Point State Park ha"
+        },
+        {
+          "type": "strikeout",
+          "text": "Exposition",
+          "comment": "",
+          "context_left": "",
+          "context_right": " When I first heard "
+        }
+      ]
+    },
+    {
+      "body": "Climax Before visiting Point State Park, I always thought that \"city center parks\" should have modern facilities and commercial functions. This concept comes from my impression of many urban parks in China. Point State Park, with its natural and simple design, subverted my expectations.",
+      "annotations": []
+    },
+    {
+      "body": "It made me realize that the park here not only reflects the functional needs of the city, but also carries local cultural values. In Pittsburgh, parks emphasize integration with nature and tranquility, while in Lanzhou, Baitashan Park embodies more of the inheritance of history, culture and spirit. This comparison allows me to better understand how public spaces are shaped by both the environment and culture.",
+      "annotations": []
+    },
+    {
+      "body": "Resolution By comparing Point State Park and Baitashan Park, I learned the importance of approaching new environments with an open mind and fewer prejudices. This cross-cultural experience has made me more aware of the role of geographical location, climate characteristics and cultural traditions in shaping park design and function. I know that every place has its own unique story, which comes from the local history, people and natural environment. This understanding not only deepens my understanding of cultural diversity, but also makes me cherish every unique experience more.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "In the final draft, please remove the template.",
+          "context_left": "",
+          "context_right": "Resolution"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": 100
+      },
+      "comment": "N/A"
+    }
+  ]
+}

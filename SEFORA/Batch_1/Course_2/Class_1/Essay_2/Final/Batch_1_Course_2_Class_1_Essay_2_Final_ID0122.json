@@ -1,0 +1,100 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Evolution of Chinese Food in America The rise of Chinese food in America can be traced back to its growing acceptance among non-Chinese consumers in the late 1880s. Initially confined to Chinese settlements, the increasing popularity of Chinese cuisine reflected broader demographic and occupational shifts within Chinese America. One notable shift was the urbanization of the Chinese population, which skyrocketed from 21.6% in cities with over 100,000 people in 1880 to 71% by 1940, driven largely by anti-Chinese violence that destroyed smaller communities . As Chinese Americans moved out of the West and settled in cities like Chicago and New York, their presence became more visible. For instance, the Chinese population in New York surged from 747 in 1880 to nearly 13,000 by 1940 .",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "As Chinese Americans moved out of the West and settled in cities like Chicago and New York, their presence became more visible. For instance, the Chinese population in New York surged from 747 in 1880 to nearly 13,000 by 1940",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "aller communities . ",
+          "context_right": " ."
+        }
+      ]
+    },
+    {
+      "body": "Alongside urbanization, many Chinese immigrants were forced into occupational marginalization, where laundries became one of the few viable business options, especially in cities outside the West. The pattern of opening Chinese laundries simultaneously in various cities illustrates this trend—Chicago had its first Chinese laundry by 1872, and other cities followed suit within a few years . Eventually, Chinese restaurants emerged as an extension of this occupational trend, marking a shift in Chinese America’s economic strategies.",
+      "annotations": []
+    },
+    {
+      "body": "The transformation of Chinatowns into tourist destinations further propelled the spread of Chinese food. By the 1890s, Chinatowns were seen less as dangerous enclaves and more as exotic attractions for curious tourists. In cities like San Francisco, organized tours of Chinatown became popular, and restaurants quickly became the central attractions. A New York report from 1888 remarked that “the most interesting [places] are the restaurants[1]” in Chinatown . Over time, Chinese food solidified its role as the most enduring tourist attraction, outlasting other Chinatown landmarks like opium dens and theaters.",
+      "annotations": []
+    },
+    {
+      "body": "The third stage in Chinese food’s evolution came in the early 20th century, when Chinese restaurants expanded beyond Chinatowns, adapting their menus to suit American tastes. These restaurants served simplified dishes like chop suey and egg foo young, catering to marginalized groups like bohemians, African Americans, and Jewish immigrants. These groups frequented Chinese restaurants not just out of curiosity but because they provided cheap, flavorful meals. As noted by the New York Tribune, “those who, while possessed of a small share of this world’s goods, still affect ‘sportiness’ frequent the restaurant for its cheapness[2]” .",
+      "annotations": []
+    },
+    {
+      "body": "This period also gave rise to “Chinese-American cuisine,” a hybrid of authentic Chinese cooking and adaptations for the American palate. While Chinese restaurateurs attempted to stay true to their culinary roots, they also had to contend with the unavailability of traditional ingredients and the preferences of non-Chinese customers. For instance, chop suey—a stir-fry method known as chao in Chinese—was modified to include more liquid and sweetness, thus becoming a distinctly American version of Chinese food .",
+      "annotations": []
+    },
+    {
+      "body": "Adaptation and Cultural Preservation Chinese food in the United States has a long and complex history that reflects the cultural and culinary adaptations of Chinese immigrants. Initially, Chinese immigrants came to America in the 1800s, mainly working in labor-intensive jobs like mining and railroad construction. Despite their contributions, they faced significant discrimination, leading to the creation of ethnic enclaves such as Chinatowns. In these communities, Chinese immigrants opened restaurants as a means of economic survival and cultural preservation. As the article notes, Chinese restaurants adapted to American tastes by modifying recipes, using available ingredients like broccoli, carrots, and onions instead of traditional Chinese vegetables such as bamboo shoots. This led to the creation of a distinct American Chinese cuisine, which includes popular dishes such as chop suey, chow mein, and General Tso’s chicken, dishes often mistakenly believed to have Chinese origins but are actually American inventions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Chinese immigrants.",
+          "comment": "Please add hyperlinks to other relevant Wikipedia articles.",
+          "context_left": "nary adaptations of ",
+          "context_right": " Initially, Chinese "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "This practice",
+          "context_left": "h as bamboo shoots. ",
+          "context_right": " led to the creation"
+        }
+      ]
+    },
+    {
+      "body": "One significant change in Chinese cuisine was the shift in flavor profiles to suit the American palate. Traditional savory Chinese dishes were often made sweeter to appeal to American tastes, reflecting the broader \"Americanization\" of Chinese food[3]. This process resulted in the emergence of new, uniquely American dishes like General Tso’s chicken, which was created in the U.S. with influences from Hunan cuisine but was adapted to include sugar and deep-frying techniques, catering to American preferences.",
+      "annotations": []
+    },
+    {
+      "body": "While American Chinese cuisine dominates the restaurant scene, traditional Chinese dishes still hold cultural significance within Chinese immigrant families. Dishes like ping an mien (peaceful noodles) are passed down through generations, serving not just as food but as a means of connecting family members. This contrast highlights the growing distinction between \"Americanized\" Chinese food and the authentic dishes preserved within immigrant homes. Despite assimilation into Western diets, traditional foods continue to play a vital role in maintaining cultural identity for Chinese-American families[4].",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "While American",
+          "comment": "This paper is well-written. I would suggest adding in-text citations to justify each factual claim, using a neutral tone throughout the Wikipedia edit, and adding hyperlinks to other relevant Wikipedia articles. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": " Chinese cuisine dom"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "play a vital role",
+          "comment": "I would suggest using a neutral tone throughout the Wikipedia edit.",
+          "context_left": "l foods continue to ",
+          "context_right": " in maintaining cult"
+        }
+      ]
+    },
+    {
+      "body": "References 1. ^ Thomas, Yong (2017-06-28), \"The Rise of Chinese Food in the United States\", Oxford Research Encyclopedia of American History, doi:10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-273? gclid=cj0kcqia88x_brduarisacvmyd_8t9rmqpbv0sf8rvshfg-qeypigufuyqt1aoaw1d7en9hv mrmetf8aakrqealw_wcb, ISBN 978-0-19-932917-5, retrieved 2024-10-22 2. ^ Chen, Yong (2017-06-28), \"The Rise of Chinese Food in the United States\", Oxford Research Encyclopedia of American History, doi:10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-273?",
+      "annotations": []
+    },
+    {
+      "body": "gclid=cj0kcqia88x_brduarisacvmyd_8t9rmqpbv0sf8rvshfg-qeypigufuyqt1aoaw1d7en9hv mrmetf8aakrqealw_wcb, ISBN 978-0-19-932917-5, retrieved 2024-10-22 3. ^ \"Benjamin Nguyen: The Development of Chinese Cuisine in the United States – CHN/ITAL370W Noodle Narratives- Summer 2019\". 2019-08-10. Retrieved 2024-10-22. 4. ^ Satia, Jessie A; Patterson, Ruth E; Kristal, Alan R; Hislop, T Gregory; Pineda, Michele (2001-04). \"A household food inventory for North American Chinese\". Public Health Nutrition. 4 (2): 241–247. doi:10.1079/PHN200097. ISSN 1368-9800. {{cite journal}}: Check date values in: |date= (help)",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.5,
+        "Writer's Ethos": 1.5,
+        "Total": 9.0
+      },
+      "comment": "N/A"
+    }
+  ]}

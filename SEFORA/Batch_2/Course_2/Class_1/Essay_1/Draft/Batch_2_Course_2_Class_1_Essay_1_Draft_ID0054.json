@@ -1,0 +1,70 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Pittsburgh in My Mind",
+      "annotations": []
+    },
+    {
+      "body": "In my mind, I always wondered what American cities would look like in real life, the only thing that gave me an idea was the internet and American media like movies and TV shows. The impression that I got from these pieces of media was that the city of Pittsburgh was a very busy city and a crowded place, kind of like New York. I finally got the chance to see the city of Pittsburgh in real life when I got accepted into the University of Pittsburgh in December of 2023. I was also accepted by other universities but was set on going to the University of Pittsburgh due to its city-styled university. Before I arrived in Pittsburgh, I had the notion in my mind that Pittsburgh was a city that was similar to New York as I stated above, so I mentally prepared myself to deal with a very New York like place, I prepared myself to be fast and also be rushed as I expected everything to be rushed. I was also ready to face a completely new type of weather as from what I saw the weather in Pittsburgh was way different than in Kuwait. Kuwait is a desert which means a very hot summer and mild winter, while in Pittsburgh the weather was a cooler summer and a way colder winter. After arriving in Pittsburgh and experiencing the place for myself, I realized that I was right about one of my predictions or expectations, I was right about the weather being completely different than my home country. Everything else was completely wrong, I was wrong about Pittsburgh being similar to New York in terms of being loud, busy, and chaotic. Pittsburgh was the opposite, it was quiet, relaxed, and chill, Pittsburgh is still a very large city with huge buildings, but the vibe and atmosphere are completely different. Pittsburgh is similar to Kuwait City, which is the main city in Kuwait, in many ways, one of which is that both are big cities that contribute hugely to the economy of their respective regions, Pittsburgh for Pennsylvania and Kuwait City for Kuwait. Both of the cities have huge buildings and modern architecture like skyscrapers. I would say that Kuwait City is busier and more chaotic than Pittsburgh. In Kuwait City, you can speak both Arabic and English. The culture is also different in both cities, as both cities have long differing histories, Pittsburgh in steel making, and Kuwait in pearl hunting. The last difference that I noticed is the design of the cities, Kuwait was designed for cars as the weather would be above 50 degrees Celsius in the summer and walking wouldn’t be an option, while Pittsburgh was designed for both walkability and cars, I could walk to all my classes and to places that I need for my basic needs. I would say that this is due to the weather, as in Pittsburgh the weather is nice and cool, opposing to Kuwait’s very hot weather. The comparison made me see Kuwait City as a very busy and chaotic place. When you compare Kuwait City to a city like New York then Kuwait City will look quieter and chiller in terms of the vibes, as Kuwait is a busy city but not New York busy, but when you compare it to a city like Pittsburgh then it’s the opposite. I now see Pittsburgh as the chill and quiet place and Kuwait as the busy and chaotic city. The cross-cultural comparison made me realize that the world is a very huge place where every city (not country but city) has its own history that’s being preserved by its people, this made me learn about a completely new culture, which is Pittsburgh’s steel city culture because in Kuwait all our history was related to the sea as it was where we made all our living through trading and fishing. In terms of linguistics, being in Pittsburgh made speaking in English feel natural to me as I’m speaking English everywhere as opposed to when I was in Kuwait where I would only use it when necessary. The comparison made me realize that I let the media influence my view heavily when it was showing exaggerated scenes in things like movies.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is a desert which means a very",
+          "comment": "was a desert with a hot summer and mild winter",
+          "context_left": "n in Kuwait. Kuwait ",
+          "context_right": " hot summer and mild"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " was",
+          "comment": "in Pittsburgh it felt cooler in the summer and cooler in the winter.",
+          "context_left": "ttsburgh the weather",
+          "context_right": " a cooler summer and"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " it",
+          "comment": "Same as above.",
+          "context_left": "gh was the opposite,",
+          "context_right": " was quiet, relaxed,"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The",
+          "comment": "I would suggest starting a new paragraph here.",
+          "context_left": "ovies and TV shows. ",
+          "context_right": " impression that I g"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " cross-cultural comparison",
+          "comment": "Throughout the paper, please add non-English phrases/sentences from your mother tongue to enrich the content of the paper.",
+          "context_left": "nd chaotic city. The",
+          "context_right": " made me realize tha"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "you",
+          "comment": "Since this is a personal narrative, please use the first person perspective more consistently throughout the paper.",
+          "context_left": "gh. In Kuwait City, ",
+          "context_right": " can speak both Arab"
+        }
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": 100
+      },
+      "comment": "N/A"
+    }
+  ]
+}

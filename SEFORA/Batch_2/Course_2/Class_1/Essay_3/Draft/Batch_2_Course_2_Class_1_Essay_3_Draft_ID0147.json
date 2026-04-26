@@ -1,0 +1,87 @@
+{
+  "paragraphs": [
+    {
+      "body": "In the past few years, the rapid development of artificial intelligence technology, especially the widespread application of generative artificial intelligence, has completely changed the way people obtain information and create content. AI writing tools such as ChatGPT, DeepSeek, and Claude can quickly generate texts with complete structure and accurate grammar, which greatly improves writing efficiency and provides auxiliary tools for users with language expression barriers. However, in the field of education, this convenience is also accompanied by a profound impact on the teaching ecology. From academic integrity to classroom interaction, AI is changing the roles of teachers and students, and even affecting the meaning of learning itself. AI in education is becoming an issue of urgent concern because it may lead to reduced interaction between people, over-reliance on technology, and bring profound challenges to academic norms and teaching models.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "However, in the field of education, this convenience is also accompanied by a profound impact on the teaching ecology. From academic integrity to classroom interaction, AI is changing the roles of teachers and students, and even affecting the meaning of learning itself. AI in education is becoming an issue of urgent concern because it may lead to reduced interaction between people,",
+          "comment": "Please add in-text citations to justify each factual claim. The citations should match the ones in the reference list.",
+          "context_left": "xpression barriers. ",
+          "context_right": " over-reliance on te"
+        }
+      ]
+    },
+    {
+      "body": "Firstly, the widespread use of AI in education may weaken real human interactions and encourage students to rely too much on technological tools instead of developing their own critical thinking and expression skills. This trend is particularly evident in language learning and writing. \"As AI tools become more advanced and produce increasingly human-like text, detecting such content becomes more challenging.\" (Pudasaini, Miralles-Pechuán, Lillis, & Llorens Salvador, 2024) While AI brings convenience, it also raises serious concerns about academic integrity. Academic integrity is the core of the education system. It not only reflects students' respect for knowledge and their real investment in the learning process, but also relates to the fairness of the education evaluation mechanism. However, the use of AI-generated content blurs the boundaries between \"author\" and \"tool\". Are students still really \"writing\"? Can homework still represent students' own abilities? Many students gradually regard AI as a substitute for writing. Many students gradually regard AI as a replacement tool for writing. Students may be able to complete seemingly high-quality papers in a few minutes of operation, but it weakens the logic, structure and language expression skills they have accumulated in the writing process. At the same time, AI itself may also carry cultural and linguistic biases, making the content that learners are exposed to lack diversity and localized perspectives. This not only affects the depth of students' learning, but may also have a repulsive effect on multilingual and multicultural education environments.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(Pudasaini,",
+          "comment": "Pudasaini et al., 2024",
+          "context_left": " more challenging.\" ",
+          "context_right": " Miralles-Pechuán, L"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Many students gradually regard AI as a substitute for writing.",
+          "comment": "Again, evidence and support are needed. You may also use your survey or interview results to justify the claims.",
+          "context_left": "nts' own abilities? ",
+          "context_right": " Many students gradu"
+        }
+      ]
+    },
+    {
+      "body": "Moreover, AI-generated content blurs the line between originality and copying, challenging the basic understanding of academic integrity. It is increasingly common for students to submit AI-generated content directly as homework, and teachers face great difficulties in identifying such behavior. It is also difficult for teachers to identify whether the content is AI-generated at a glance when reviewing, making it difficult to define and hold accountable for academic misconduct. \"In addition, although the current mainstream AI detection tools, such as Turnitin and GPTZero, have begun to try to identify AI-generated texts, their accuracy is still limited and prone to misjudgment or omission.\" (Uzun, 2023) This further exacerbates teachers' anxiety and helplessness in teaching and grading. When teachers cannot effectively judge the source of content and students cannot obtain clear usage specifications, the fairness of the entire teaching evaluation system is shaken, and the education trust mechanism faces an unprecedented crisis.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "Please move the period to the end of the sentence.",
+          "context_left": "dgment or omission.\"",
+          "context_right": " (Uzun, 2023) This f"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "2023)",
+          "comment": "The page number is needed.",
+          "context_left": "r omission.\" (Uzun, ",
+          "context_right": " This further exacer"
+        }
+      ]
+    },
+    {
+      "body": "Not only that, the impact of AI on the educational environment has also changed the way of interaction in traditional classrooms. The communication between teachers and students has decreased, and the teaching and discussion based on AI-generated content lacks real feedback. The original focus on communication and understanding between people in classroom teaching is being weakened. At the same time, some teaching designs that rely on technology may exacerbate the uneven distribution of educational resources. Students with strong technology skills will benefit more, while those with weak technology skills may be further marginalized. This not only makes the classroom atmosphere cold, but also affects students' learning habits and long-term academic investment, which may eventually widen the gap in educational achievement and weaken educational equity. \"And it is believed that a large number of students are using AI incorrectly, which has cast a shadow on the school. Teachers and students are in confrontation, and sometimes diligent students are hurt. AI technology has begun to slowly collapse the trust between teachers and students.\" (\"I Received a First,\" 2024) For example, when facing AI homework, teachers either choose to \"turn a blind eye\" or hastily suspect students of cheating. At the same time, students are also in a state of confusion. Some use AI for reference reasonably, while others regard AI as a \"learning machine.\" All these current situations have led to a confrontation between teachers and students, classroom interaction is no longer valued by students, and after-school homework is no longer taken seriously. To deal with the profound impact of AI on education, we need a more comprehensive strategy rather than simply resisting or relying on technology. \"First, AI usage standards should be established as soon as possible to clearly stipulate in which cases AI tools are allowed to be used in academic writing, in which cases the source must be indicated, and the consequences of excessive use of AI should be clarified.\" (Bryson, 2023) Educational institutions should encourage students to use AI as a learning aid rather than a substitute tool. For example, students can be allowed to use AI for grammar modification or inspiration, but their content creativity and structural arrangement must be completed independently, and the use of AI should be explained when submitting homework. This transparent mechanism not only guides responsible use, but also reduces the risk of misuse.",
+      "annotations": []
+    },
+    {
+      "body": "In addition, teachers need to adjust their teaching design and integrate AI into the teaching process rather than exclude it. The evaluation method that relies solely on written homework grades can no longer fully measure students' learning status. The role of teachers will change from \"knowledge transmitter\" to \"learning guide\", and more attention should be paid to stimulating students' autonomous learning and critical thinking. For example, AI tools can be combined for off-class auxiliary learning, and students can be deeply involved in the classroom through discussion, reflection and critical writing. Classroom debates and group projects around AI content can also be designed to allow students to learn to question AI output, compare multiple sources of information, and enhance information literacy while using AI. At the same time, more process evaluations can be introduced, such as writing logs, ideation instructions, and impromptu presentations, to encourage students to show their real thinking process and avoid AI becoming the only means of expression.",
+      "annotations": []
+    },
+    {
+      "body": "Last but not least, \"Work towards developing cost effective and trusted tools for identifying possible dishonest use of AI tools in academia globally.\" (Eke, 2023) is important, but the problem cannot be solved entirely by the detection mechanism. The root of education lies in trust, communication and growth between people. Only through continuous communication between teachers and students and the establishment of a relationship of understanding and cooperation can AI technology be truly guided to play a positive role in education.",
+      "annotations": []
+    },
+    {
+      "body": "Artificial intelligence will not stop developing, but education can decide how to welcome it. In an era of continuous technological evolution, we should return to the essence of education and reaffirm the core values of \"honest learning, independent thinking, and true expression\". Only when AI becomes a booster rather than a dominant force can education go more steadily and further in the future.",
+      "annotations": []
+    },
+    {
+      "body": "Reference: 1. Pudasaini, S., Miralles-Pechu án, L., Lillis, D., & Llorens Salvador, M. (2024). Survey on Plagiarism Detection in Large Language Models: The Impact of ChatGPT and Gemini on Academic Integrity. arXiv preprint arXiv:2407.13105. https://doi.org/10.48550/arXiv.2407.13105 2. Uzun, L. (2023). ChatGPT and academic integrity concerns: Detecting artificial intelligence generated content. Language Education and Technology, 3(1). 3. “I received a first but it felt tainted and undeserved”: inside the university AI cheating crisis. (2024, December 15). The Guardian.https://www.theguardian.com/technology/2024/dec/15/i-received-a-first-but-it-felt-taint ed-and-undeserved-inside-the-university-ai-cheating-crisis? 4. Bryson, E. (2023, November 13). How to prevent students from cheating with AI. Ellii. https://ellii.com/blog/how-to-prevent-students-cheating-with-ai 5. Eke, D. O. (2023). ChatGPT and the rise of generative AI: Threat to academic integrity?. Journal of Responsible Technology, 13, 100060.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Total": "N/A"
+      },
+      "Peer Comment": "Purpose/Thesis: After reading the draft, what would you say is the purpose or thesis the paper is trying to get across? How does the draft fulfill (or not fulfill) that purpose? The purpose of this paper is to demonstrate that AI-generated text can bring academic challenges in the field of higher education. The draft did fulfill the purpose with different sides of concerns about the use of AI tools in academics and also brought out solutions. Persuasiveness: What did you learn about the topic after reading the paper that you didn’t fully appreciate before you read it? Is this something you find significant or interesting? If so, why? How well did the author address counterarguments? I found out it is important to notice that the current academic system is lacking in response toward this situation. Students tend to use AI tools in the wrong way, which leads to confusion. On the other side, some teachers just ignore the situation that the students are using AI for their writing and help the students to cheat. By the way, I didn’t find counterarguments, but I found this part of the article pretty interesting. Support: Did you find the claims, reasons, and evidence in the document convincing? Why or why not? Did you see a balanced coverage/an even distribution of claims and evidence? What information can be omitted or added to help your peer focus on the thesis? (Include paragraph numbers). Yes. The author supported her claim with plenty of evidence and examples from the references. Adding onto that, I would say it would be great to convert some of the quotations into the form of “(the author) mentioned/noted that.” Quoting and Paraphrasing: How effective has the author quoted and paraphrased information? Has the author used a signal phrase to introduce a quote/paraphrase and explain the quote/paraphrase in their own words? Like the one I pointed out in the previous question, I think the only thing to fix or improve is the variety of ways to quote and paraphrase. Organization: How is the draft organized in a logical manner (e.g., using headings/subheadings)? Given the organization, could the main points be presented in a more effective way? (Include paragraph numbers) There’s no heading nor subheadings included, but the overall paragraph structure is in logical order. Transition: What suggestions can you make for transitions both between and within paragraphs that would make connections clearer and easier to follow? (Include paragraph numbers). Specifically, for paragraph 6, I would say to start it in other sentences or to put it together with the previous paragraph since it started at “Thirdly”. I assumed that there should also be “First” and “Secondly” at the start of other paragraphs or something telling the reader where the three points are located in the passage. The sentences: Choose 1-2 sentences you consider the most interesting or best written—stylistically effective, entertaining, or otherwise memorable. Then choose 1-2 sentences you see as weak—confusing, awkward, or uninspiring. Advise your peer on how to revise the weak sentences. (Include paragraph numbers). best: The development of artificial intelligence is irreversible, but education should not passively accept its impact, but should actively respond and guide it to find the essence of education in technology. (para 7) weak: But we cannot rely too much on detection methods. (para 6) The format/design: To the best of your ability, check for and point out mechanical/grammatical errors, word choice issues, spelling mistakes, and APA formatting issues. Did the authors use formal academic language and a first/third person serious tone? (Include paragraph numbers). Some problems to fix: add on the page numbers the title needs to be full bold and centered Introduction/conclusion: What strategy/strategies have been used to introduce and conclude the draft? Does the introduction catch the reader’s interest? Does the draft conclude in a memorable way? How else might this draft begin and end? The strategy used to introduce the draft is to narrow the topic from a broad area of artificial intelligence technology to concerns in using AI tools in the academic field. I like this kind of introduction because the readers know briefly about what the paper is going to be about before they start reading. For the conclusion, the author provided a claim and an action for the reader to think about and start to solve the problem. Any other comments? N/A"
+    }
+  ]}

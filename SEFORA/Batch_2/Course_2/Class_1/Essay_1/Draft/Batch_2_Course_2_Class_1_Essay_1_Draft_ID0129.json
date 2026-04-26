@@ -1,0 +1,138 @@
+{
+  "paragraphs": [
+    {
+      "body": "Literature World Across The Atlantic Ocean",
+      "annotations": []
+    },
+    {
+      "body": "After a thirteen-hour flight, I finally landed in Pittsburgh, Pennsylvania. The atmosphere here has so much difference compared with Taiwan, which is my hometown. Before the semester started, I walked around the campus, looking out for places and tourists that are new to me. While searching through the Internet, I found out that there is a library near our campus, the Carnegie Library in Pittsburgh. As a person who loves to explore novelty, I planned to visit it immediately. Before heading to the library, I imagined it to be like an historical building which is covered with an artful and humanistic atmosphere. Through the pictures posted online, the library’s appearance gives a solemn vibe to me. I picture it to have crystal chandeliers and gorgeous decorations like it was in ancient centuries. (picture 1-1)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "gives a solemn vibe to me.",
+          "comment": "produced a solemn wibe.",
+          "context_left": "ibrary’s appearance ",
+          "context_right": " I picture it to hav"
+        }
+      ]
+    },
+    {
+      "body": "It feels like moving into a different world when I step into the Carnegie Library in Pittsburgh. While walking up the elegant stairs, I glanced through the ornaments. My move was much more cautious as the quiet vibe filled the building. Obviously, some parts of the library look alike with the one in my imagination. Although it actually does have a historical and artful atmosphere, it doesn’t look that luxurious. The library has a cosy space where people are allowed to study or read. Frankly speaking, I found the area inside the library really spacious and comfortable. I could slide through the bookshelf, flip through the ancient novels and aged sheet music. Surprisingly, there is a piano with earphones for people who want to play inside the library. Moreover, a machine for composition is provided for the public, which I never saw in any library back in my hometown. For those who love music and are interested in making music like me, the corner of the library is the best place for our entertainment. (picture 1-2)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "feels",
+          "comment": "felt - please use the past tense more consistently",
+          "context_left": "It ",
+          "context_right": " like moving into a "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is a",
+          "comment": "was",
+          "context_left": "Surprisingly, there ",
+          "context_right": " piano with earphone"
+        }
+      ]
+    },
+    {
+      "body": "During the visit, I figured out that the impression given out by the Carnegie Library in Pittsburgh and the library near my house. The library won the name “Knowledge Canyon” with the special design of the building. Despite the fact that it is still in construction, it could be clearly seen by the blueprint that the library will be surrounded by plants, providing an eco-friendly environment. The energy saving functions, including the categories of wind and sunlight, make the library an unique place to study or read. Interestingly, my hometown Hsinchu was known as “風城”, which means that we got a lot of winds throughout the year. This is why the designers planned to give the Knowledge Canyon to possess ventilation and the transmission of light, making best use of the natural resources. It then provides the readers a natural space to relax and read. (picture 1-3)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "figured out that the impression given out by the Carnegie Library in Pittsburgh and the library near my house.",
+          "comment": "I realized the impression given by the Carnegie Library in Pittsburgh was different from the library near my house.",
+          "context_left": "During the visit, I ",
+          "context_right": " The library won the"
+        }
+      ]
+    },
+    {
+      "body": "The Carnegie Library in Pittsburgh and the Knowledge Canyon in Hsinchu, Taiwan, are really different in either the appearance or the atmosphere. They both got remarkable design, with a focus on different aspects. The former one focuses more on the inheritage of history and art; the latter dive more into how to utilize natural resources. I doubt that I have a certain stereotype when it comes to the libraries in other countries. I always imagine it to be as splendid as it can be, forgetting that it is actually the mark of history. The sense of sacredness inside the library makes me have a feeling of being on time traveling. On the other hand, I also love the thoughts of the designers on using the natural resources. In order to save our only planet, we should be in action and so is the building. (picture 1-4)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " are",
+          "comment": "appeared",
+          "context_left": " in Hsinchu, Taiwan,",
+          "context_right": " really different in"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "They both got remarkable design, with a focus on different aspects.",
+          "comment": "With a focus on different aspects, these two locations both feature remarkable designs.",
+          "context_left": " or the atmosphere. ",
+          "context_right": " The former one focu"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "on time traveling.",
+          "comment": "a time traveler",
+          "context_left": " a feeling of being ",
+          "context_right": " On the other hand, "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "have",
+          "comment": "develop",
+          "context_left": "ces. I doubt that I ",
+          "context_right": " a certain stereotyp"
+        }
+      ]
+    },
+    {
+      "body": "After the visit to Carnegie Library in Pittsburgh, I found it really interesting to be in a place that might be familiar to me but feels totally different. This is such a special experience to see the differences between libraries between America and Taiwan. In addition, it helped me appreciate how Western libraries often preserve history and cultural identity in their design, creating a sense of continuity. On the other hand, the library in my hometown reflects a modern and progressive approach to architecture. It opened my eyes to how libraries in different cultures are not only spaces for learning but also symbols of different values for the society—whether it’s focusing on tradition or sustainability.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "After",
+          "comment": "",
+          "context_left": "",
+          "context_right": " the visit to Carneg"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "To avoid vague pronouns, I would clarify what you mean by \"this\" -- This comparison",
+          "context_left": " totally different. ",
+          "context_right": " is such a special e"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "It ",
+          "comment": "The cross-cultural comparison",
+          "context_left": "ch to architecture. ",
+          "context_right": "opened my eyes to ho"
+        }
+      ]
+    },
+    {
+      "body": "picture 1-1 picture 1-2",
+      "annotations": []
+    },
+    {
+      "body": "picture 1-3 picture 1-4",
+      "annotations": []
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": 100
+      },
+      "comment": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "paragraphs": [
+    {
+      "body": "Huaiyang Cuisine: A Taste of Tradition and Elegance Huaiyang cuisine, one of China’s Four Great Cuisines, is famous for its light flavors, beautiful presentation, and super precise cooking techniques. It comes from the regions around the Huai and Yangtze Rivers in Jiangsu province, and while it might not be as famous internationally as Sichuan or Cantonese food, it’s a big deal in China. Huaiyang food has been around for centuries, and its attention to detail and focus on fresh ingredients make it one of the most refined styles of Chinese cooking.[1]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "It ",
+          "comment": "I would clarify what you mean by \"it.\"",
+          "context_left": "cooking techniques. ",
+          "context_right": "comes from the regio"
+        }
+      ]
+    },
+    {
+      "body": "Cooking Techniques and Ingredients What sets Huaiyang cuisine apart is its focus on fresh, seasonal ingredients and careful preparation. The chefs are known for their crazy knife skills—everything has to be cut just right. The cooking itself isn’t too intense; instead of throwing in a ton of spices, Huaiyang chefs like to braise, steam, or stew things to bring out the natural flavors. It’s all about balance and making sure the food doesn’t overpower your taste buds. Fun fact: even though some sources mention pears as an ingredient, that’s actually not true for Huaiyang cuisine. You’re more likely to see ingredients like lotus root and bamboo shoots than fruit.[2]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "What sets Huaiyang cuisine apart is its focus on fresh, seasonal ingredients and careful preparation. The chefs are known for their crazy knife skills—everything has to be cut just right. The cooking itself isn’t too intense; instead of throwing in a ton of spices, Huaiyang chefs like to braise, steam, or stew things to bring out the natural flavors.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "ues and Ingredients ",
+          "context_right": " It’s all about bala"
+        }
+      ]
+    },
+    {
+      "body": "Signature Dishes One of the most famous dishes in Huaiyang cuisine is the Braised Giant Meatball (红烧狮子头). While it’s often just called a \"giant meatball\" in English, the Chinese name literally means \"Red-Braised Lion’s Head,\" which refers to the size and shape of the meatball, resembling the head of a lion. But don’t worry, there’s no lion involved—it’s actually a big pork meatball! The dish is made by mixing fatty and lean pork to create a tender, juicy meatball that’s then slowly braised in a savory broth. This dish is a favorite at family meals and big celebrations because it’s hearty, comforting, and full of flavor.[3]",
+      "annotations": []
+    },
+    {
+      "body": "Another dish that’s often mixed up is the Crab Roe Soup Bun (蟹黄汤包). Sometimes it gets mistranslated as \"Crab Soup Dumpling,\" but it’s not really a dumpling. It’s a delicate bun filled with crab roe, pork, and soup inside the dough, and it takes some serious skill to make sure the thin bun doesn’t break. You have to be really careful when you eat it, too, or else you might end up with hot soup everywhere![4]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "doesn’t break. You have to be really careful when you eat it, too, or else you might end up with hot soup everywhere",
+          "comment": "Please use a neutral tone throughout the Wikipedia edit.",
+          "context_left": "e sure the thin bun ",
+          "context_right": "![4]"
+        }
+      ]
+    },
+    {
+      "body": "Clearing Up Some Misunderstandings While Huaiyang cuisine is super well-respected, there are a lot of myths and misunderstandings about it. One big one is Pickled Fish, which some people think is part of Huaiyang cuisine. In reality, that’s a Sichuan dish—known for its bold, spicy flavors. Huaiyang food is the opposite: mild, fresh, and all about balance.[5] Another mistake people make is mistranslating the names of dishes. For example, Crab Roe Soup Bun gets called a dumpling, but it’s not the same thing at all. These mistakes can lead to confusion about what Huaiyang food really is. Huaiyang cuisine is a lot more than just food—it’s a big part of Chinese culture, especially when it comes to formal banquets and special events. This style of cooking has been around for a long time and was super popular in ancient Chinese courts. Chefs go all out with their presentations, making dishes that are almost like works of art. This makes Huaiyang cuisine perfect for state banquets or important family celebrations. It’s not just about feeding people; it’s about impressing them with both the flavor and the look of the dishes.[6]",
+      "annotations": []
+    },
+    {
+      "body": "Legacy and Influence Even today, Huaiyang cuisine continues to influence Chinese food culture, both in China and abroad. Chefs from other regions often borrow Huaiyang techniques, especially when it comes to seafood and vegetable dishes. Huaiyang’s focus on texture, balance, and presentation has shaped how high-end Chinese restaurants around the world approach their food.[7] Even though it might not be as famous internationally as Sichuan or Cantonese cuisine, Huaiyang food is still a big deal in China and will continue to be a key part of the country’s culinary heritage for years to come.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Legacy and Influence",
+          "comment": "This paper is well-written. I would suggest using a neutral tone throughout the Wikipedia edit, avoiding vague pronouns, and adding in-text citations to justify each factual claim. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": " Even today, Huaiyan"
+        }
+      ]
+    },
+    {
+      "body": "References [1] China International Travel Service. \"Huaiyang Cuisine: One of China’s Four Major Styles of Cooking.\" https://www.cits.net/china-travel-guide/huaiyang-cuisine-one-of-chinas-four-major-styles-of-cooking.html. [2] China Daily. \"The Elegance of Huaiyang Cuisine.\" https://www.chinadaily.com.cn/a/201801/01/WS5a499b89a31008cf16da47ab.html. [3] Wikipedia. \"Huaiyang Cuisine.\" https://en.wikipedia.org/wiki/Huaiyang_cuisine. [4] China International Travel Service. \"Huaiyang Cuisine: One of China’s Four Major Styles of Cooking.\" https://www.cits.net/china-travel-guide/huaiyang-cuisine-one-of-chinas-four-major-styles-of-cooking.html. [5] Wikipedia. \"Huaiyang Cuisine.\" https://en.wikipedia.org/wiki/Huaiyang_cuisine. [6] China Daily. \"The Elegance of Huaiyang Cuisine.\" https://www.chinadaily.com.cn/a/201801/01/WS5a499b89a31008cf16da47ab.html. [7] Wikipedia. \"Huaiyang Cuisine.\" https://en.wikipedia.org/wiki/Huaiyang_cuisine.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.5,
+        "Writer's Ethos": 1.0,
+        "Total": 8.5
+      },
+      "comment": "N/A"
+    }
+  ]}

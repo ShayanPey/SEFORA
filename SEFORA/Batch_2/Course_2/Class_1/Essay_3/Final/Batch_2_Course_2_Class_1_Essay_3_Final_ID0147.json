@@ -1,0 +1,152 @@
+{
+  "paragraphs": [
+    {
+      "body": "In the past few years, the rapid development of artificial intelligence technology, especially the widespread application of generative artificial intelligence, has completely changed the way people obtain information and create content. AI writing tools such as ChatGPT, DeepSeek, and Claude can quickly generate texts with complete structure and accurate grammar, which greatly improves writing efficiency and provides auxiliary tools for users with language expression barriers. “However, in the field of education, this convenience is also accompanied by a profound impact on the teaching ecology. From academic integrity to classroom interaction, AI is changing the roles of teachers and students, and even affecting the meaning of learning itself. (Cotton et al., 2023)”AI in education is becoming an issue of urgent concern because it may lead to reduced interaction between people, over-reliance on technology, and bring profound challenges to academic norms and teaching models.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "“However, in the field of education, this convenience is also accompanied by a profound impact on the teaching ecology. From academic integrity to classroom interaction, AI is changing the roles of teachers and students, and even affecting the meaning of learning itself. (Cotton et al., 2023)”AI",
+          "comment": "Please use a signal phrase to introduce the direct quote. The quote is also a bit long. I would paraphrase the quote in your own words.",
+          "context_left": "xpression barriers. ",
+          "context_right": " in education is bec"
+        }
+      ]
+    },
+    {
+      "body": "Firstly, the widespread use of AI in education may weaken real human interactions and encourage students to rely too much on technological tools instead of developing their own critical thinking and expression skills. This trend is particularly evident in language learning and writing. “As AI tools become more advanced and produce increasingly human-like text, detecting such content becomes more challenging.(Pudasaini et al., Miralles-Pechuán, Lillis, & Llorens Salvador, 2024)” While AI brings convenience, it also raises serious concerns about academic integrity. Academic integrity is the core of the education system. It not only reflects students' respect for knowledge and their real investment in the learning process, but also relates to the fairness of the education evaluation mechanism. However, the use of AI-generated content blurs the boundaries between \"author\" and \"tool\". Are students still really \"writing\"? Can homework still represent students' own abilities? Many students gradually regard AI as a substitute for writing. Many students gradually regard AI as a replacement tool for writing. Students may be able to complete seemingly high-quality papers in a few minutes of operation, but it weakens the logic, structure and language expression skills they have accumulated in the writing process. At the same time, AI itself may also carry cultural and linguistic biases, making the content that learners are exposed to lack diversity and localized perspectives. This not only affects the depth of students' learning, but may also have a repulsive effect on multilingual and multicultural education environments.",
+      "annotations": [
+        {
+          "type": "strikeout",
+          "text": "Miralles-Pechuán, Lillis, & Llorens Salvado",
+          "comment": "",
+          "context_left": ".(Pudasaini et al., ",
+          "context_right": "r, 2024)” While AI b"
+        }
+      ]
+    },
+    {
+      "body": "Moreover, AI-generated content blurs the line between originality and copying, challenging the basic understanding of academic integrity. It is increasingly common for students to submit AI-generated content directly as homework, and teachers face great difficulties in identifying such behavior. It is also difficult for teachers to identify whether the content is AI-generated at a glance when reviewing, making it difficult to define and hold accountable for academic misconduct. “In addition, although the current mainstream AI detection tools, such as Turnitin and GPTZero, have begun to try to identify AI-generated texts, their accuracy is still limited and prone to misjudgment or omission. (Uzun, 2023)” This further exacerbates teachers' anxiety and helplessness in teaching and grading. When teachers cannot effectively judge the source of content and students cannot obtain clear usage specifications, the fairness of the entire teaching evaluation system is shaken, and the education trust mechanism faces an unprecedented crisis.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "define and hold accountable",
+          "comment": "define who should be accountable for academic misconduct",
+          "context_left": "ing it difficult to ",
+          "context_right": " for academic miscon"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "This finding",
+          "context_left": "sion. (Uzun, 2023)” ",
+          "context_right": " further exacerbates"
+        }
+      ]
+    },
+    {
+      "body": "Not only that, the impact of AI on the educational environment has also changed the way of interaction in traditional classrooms. The communication between teachers and students has decreased, and the teaching and discussion based on AI-generated content lacks real feedback. The original focus on communication and understanding between people in classroom teaching is being weakened. At the same time, some teaching designs that rely on technology may exacerbate the uneven distribution of educational resources. Students with strong technology skills will benefit more, while those with weak technology skills may be further marginalized. This not only makes the classroom atmosphere cold, but also affects students' learning habits and long-term academic investment, which may eventually widen the gap in educational achievement and weaken educational equity. “And it is believed that a large number of students are using AI incorrectly, which has cast a shadow on the school. Teachers and students are in confrontation, and sometimes diligent students are hurt. AI technology has begun to slowly collapse the trust between teachers and students. (\"I Received a First,\" 2024)”For example, when facing AI homework, teachers either choose to \"turn a blind eye\" or hastily suspect students of cheating. At the same time, students are also in a state of confusion. Some use AI for reference reasonably, while others regard AI as a “learning machine.” All these current situations have led to a confrontation between teachers and students, classroom interaction is no longer valued by students, and after-school homework is no longer taken seriously. In addition, answers generated by AI in the classroom often lack depth of thinking, and students gradually get used to \"copy-and-paste learning\", which may seriously weaken the cultivation of critical thinking and creative expression in the long run, affecting students' ability to face complex social problems in the future. In the face of such changes, educators must realize that simply introducing AI tools cannot replace in-depth communication and inquiry-based learning, and the revival of classroom interaction requires new teaching strategies.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "“And it is believed that a large number of students are using AI incorrectly, which has cast a shadow on the school. Teachers and students are in confrontation, and sometimes diligent students are hurt. AI technology has begun to slowly collapse the trust between teachers and students.",
+          "comment": "Please paraphrase the information in your own words.",
+          "context_left": "educational equity. ",
+          "context_right": " (\"I Received a Firs"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Not only that,",
+          "comment": "In addition to the issue of originality",
+          "context_left": "",
+          "context_right": " the impact of AI on"
+        }
+      ]
+    },
+    {
+      "body": "To deal with the profound impact of AI on education, we need a more comprehensive strategy rather than simply resisting or relying on technology. “First, AI usage standards should be established as soon as possible to clearly stipulate in which cases AI tools are allowed to be used in academic writing, in which cases the source must be indicated, and the consequences of excessive use of AI should be clarified. (Bryson, 2023)” Educational institutions should encourage students to use AI as a learning aid rather than a substitute tool. For example, students can be allowed to use AI for grammar modification or inspiration, but their content creativity and structural arrangement must be completed independently, and the use of AI should be explained when submitting homework. This transparent mechanism not only guides responsible use, but also reduces the risk of misuse. In addition, teachers need to adjust their teaching design and integrate AI into the teaching process rather than exclude it. The evaluation method that relies solely on written homework grades can no longer fully measure students' learning status. The role of teachers will change from \"knowledge transmitter\" to \"learning guide\", and more attention should be paid to stimulating students' autonomous learning and critical thinking. For example, AI tools can be combined for off-class auxiliary learning, and students can be deeply involved in the classroom through discussion, reflection and critical writing. Classroom debates and group projects around AI content can also be designed to allow students to learn to question AI output, compare multiple sources of information, and enhance information literacy while using AI. At the same time, more process evaluations can be introduced, such as writing logs, ideation instructions, and impromptu presentations, to encourage students to show their real thinking process and avoid AI becoming the only means of expression. By establishing a dynamic learning community, teachers can regularly review the AI experience with students to summarize the pros and cons. This not only improves the maturity of students' understanding of AI, but also promotes mutual trust and understanding, thereby finding a better balance between technology and humanistic spirit.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "2023)”",
+          "comment": "Page numbers are needed for direct quotes.",
+          "context_left": "clarified. (Bryson, ",
+          "context_right": " Educational institu"
+        }
+      ]
+    },
+    {
+      "body": "Last but not least, “Work towards developing cost effective and trusted tools for identifying possible dishonest use of AI tools in academia globally. (Eke, 2023)” is important, but the problem cannot be solved entirely by the detection mechanism. The root of education lies in trust, communication and growth between people. Only through continuous communication between teachers and students and the establishment of a relationship of understanding and cooperation can AI technology be truly guided to play a positive role in education. In addition, educators and policymakers need to continue to monitor trends in technological change and adjust curriculum and evaluation standards in a timely manner to ensure that the education system can flexibly respond to the challenges brought by emerging AI tools in the future. Actively promoting experience sharing and standard setting on a global scale is also an important part of the future.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "Please move the period to the end of the sentence.",
+          "context_left": "n academia globally.",
+          "context_right": " (Eke, 2023)” is imp"
+        }
+      ]
+    },
+    {
+      "body": "Artificial intelligence will not stop developing, but education can decide how to welcome it. In an era of continuous technological evolution, we should return to the essence of education and reaffirm the core values of \"honest learning, independent thinking, and true expression\". Future education must embrace technological innovation while adhering to the original intention of cultivating authentic, independent, and critical thinkers. Only in this way can AI truly become a force for educational progress, rather than a crisis that replaces human thinking. When AI becomes a booster rather than a dominant force can education go more steadily and further in the future.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "icial",
+          "comment": "Please share the results of your survey or interview and address counterarguments.",
+          "context_left": "Artif",
+          "context_right": " intelligence will n"
+        }
+      ]
+    },
+    {
+      "body": "Reference: Bryson, E. (2023, November 13). How to prevent students from cheating with AI. Ellii. https://ellii.com/blog/how-to-prevent-students-cheating-with-ai Cotton, D. R. E., Cotton, P. A., & Shipway, J. R. (2023). Chatting and cheating: Ensuring academic integrity in the era of ChatGPT. Innovations in Education and Teaching International. https://www.tandfonline.com/doi/full/10.1080/14703297.2023.2190148 Eke, D. O. (2023). ChatGPT and the rise of generative AI: Threat to academic integrity?. Journal of Responsible Technology, 13, 100060. “I received a first but it felt tainted and undeserved”: inside the university AI cheating crisis. (2024, December 15). TheGuardian.https://www.theguardian.com/technology/2024/dec/15/i-received-a-firs t-but-it-felt-tainted-and-undeserved-inside-the-university-ai-cheating-crisis? Pudasaini, S., Miralles-Pechuán, L., Lillis, D., & Llorens Salvador, M. (2024). Survey on Plagiarism Detection in Large Language Models: The Impact of ChatGPT and Gemini on Academic Integrity. arXiv preprint arXiv:2407.13105. https://doi.org/10.48550/arXiv.2407.13105 Uzun, L. (2023). ChatGPT and academic integrity concerns: Detecting artificial intelligence generated content. Language Education and Technology, 3(1).",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Reference:",
+          "comment": "References",
+          "context_left": "ther in the future. ",
+          "context_right": " Bryson, E. (2023, N"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Journal of Responsible Technology, 13,",
+          "comment": "These should be italicized.",
+          "context_left": "cademic integrity?. ",
+          "context_right": " 100060. “I received"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "received",
+          "comment": "Please also cite the author of this article: Will Coldwell",
+          "context_left": "ogy, 13, 100060. “I ",
+          "context_right": " a first but it felt"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 2.0,
+        "Sources": 3.0,
+        "Organization": 2.0,
+        "Writer’s Ethos": 2.0,
+        "Total": 12.0
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]
+}

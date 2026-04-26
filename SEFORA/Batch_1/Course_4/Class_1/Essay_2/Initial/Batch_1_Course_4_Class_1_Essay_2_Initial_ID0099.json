@@ -1,0 +1,523 @@
+{
+  "paragraphs": [
+    {
+      "body": "November 5, 2024",
+      "annotations": []
+    },
+    {
+      "body": "Second Excerpt",
+      "annotations": []
+    },
+    {
+      "body": "Main character #2. Billy - Here is his introduction :)",
+      "annotations": []
+    },
+    {
+      "body": "Excited to know everyone’s thoughts <3",
+      "annotations": []
+    },
+    {
+      "body": "\tBilly is used to waking up to unfamiliar surroundings. He’s been lucky to open his eyes and not notice the hard, cold surface under him. He’s even become used to the feeling of being a bit sore, the crick in his neck keeping him from falling back asleep.",
+      "annotations": []
+    },
+    {
+      "body": "\tBut when Billy wakes up with just a little sunlight in his eyes, he barely notices the slight ringing in his ears. He doesn’t notice the sunlight is just peeking through a tiny, stable window rather than the rustling tree leaves or branches, because his eyes aren’t seeing straight. It isn’t  until he feels the shot of pain up the back of his head that the panic springs through his veins. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "veins",
+          "comment": "I think you can probably get here quicker, but it’s an effective opening. ",
+          "context_left": "springs through his ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tDon’t move, Billy tries to tell his heart and lungs to slow. Remember what Pete always says, “You ain’t the prey, if you look like a predator.” Trying to force the shakes in his body to stop, Billy fixes his gaze to be like a threatening scavenger. But every time he blinks, the edges on everything become furry. What he makes out, though, doesn’t make his heart rest any easier.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "makes out, though, doesn’t make his heart rest any easier.",
+          "comment": "A little repetitive ",
+          "context_left": "come furry. What he ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tThe first thing his eyes make out is a wooden desk in the middle of the space. This alerts Billy that the space is a room. Billy’s heart drops to his stomach when he realizes he is indoors. He keeps searching, desperately, looking for something familiar.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "realizes he is indoors. ",
+          "comment": "Interesting! ",
+          "context_left": "his stomach when he ",
+          "context_right": "He keeps searching, "
+        }
+      ]
+    },
+    {
+      "body": "Guns. Billy’s eyes manage to focus enough and he can see a rack lined with shotguns. And just a foot or two away from the preserved line of ammunition is a chair. And in that chair is a body, a sleeping man without a care in the world. Leaning back, feet crossed lazily at ankles on top of desk, head tipped to the ceiling, face covered with a wide brimmed hat.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "brimmed",
+          "comment": "I like this way of leading us through what Billy observes. ",
+          "context_left": "covered with a wide ",
+          "context_right": " hat."
+        }
+      ]
+    },
+    {
+      "body": "Billy holds his breath and waits. Is he… alive? ",
+      "annotations": []
+    },
+    {
+      "body": "The man lets out a snore. Then he chokes on an inhale before repositioning his hat, and continues snoring. ",
+      "annotations": []
+    },
+    {
+      "body": "Billy lets himself quietly sigh, but then the air in his chest is trapped again",
+      "annotations": []
+    },
+    {
+      "body": "Bars. How did he not see them when he first opened his eyes? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ". How did he not ",
+          "comment": "Tell us what the bars are. (I thought this was like, gold bars, at first!) ",
+          "context_left": "Bars",
+          "context_right": "see them when he fir"
+        }
+      ]
+    },
+    {
+      "body": "\tThe ground feels very cold and hard under Billy’s cheek, specks of dirt rough against his skin. You done did it now, Billy, you got yourself locked up! Pete’s goin’ kill you… ",
+      "annotations": []
+    },
+    {
+      "body": "\tBreathing deeply through his nose, Billy plans in his head; take in your surroundin’s, look f’r an escape route. ",
+      "annotations": []
+    },
+    {
+      "body": "\tBut under the adrenaline, Billy’s thoughts and body are not fully intertwined. The man in the chair repositions in his chair, sounding to Billy like a boulder adjusting its position at the top of a mountain, threatening to roll down and crush him. Billy sits up with a gasp.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the chair repositions in his chair",
+          "comment": "Repetition. You generally want to try to avoid using the same words in a sentence more than once. ",
+          "context_left": "rtwined. The man in ",
+          "context_right": ", sounding to Billy "
+        }
+      ]
+    },
+    {
+      "body": "\tBilly’s left side starts to burn and he lets out a pained groan. He tries moving his arm, his shoulder, it only tugs at the pain. He hisses as he touches the tender flesh hidden under his thin flannel and leather vest. He dares to peak… his chest is wrapped in bandages. Bloody bandages. ",
+      "annotations": []
+    },
+    {
+      "body": "“Goddamn…” he whispers.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Look who’s finally awake?” Billy doesn’t look at the man, he just fixes his face to a mean look, lowers his shirt and crosses his arms, before lying back down. “What, ain’t got no back talk? Got plenty of it last night!”",
+      "annotations": []
+    },
+    {
+      "body": "\tBilly just clenches his jaw. He will not say anything to this man, Pete wouldn’t want him to. So he tries to make himself as comfortable and makes his mouth as tight and tough-looking as possible.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Oh, don’t worry,” the man pulls one of his shotguns off the wall and points it at Billy, “I got ways of makin’ men talk, even dumb o’ thieves. But if I can’ get you to talk, the judge’ll get you-”",
+      "annotations": []
+    },
+    {
+      "body": "\tA door opens and a new man’s voice loudly greets, “Sheriff!” Billy can’t avoid wincing at the voice making the ringing between his ears spike, the wincing makes him notice the tenderness on the right side of his face. Billy growls as the pitchy voice continues to speak, “Ah, Sheriff… we missed you at this morning church service.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Well, Doc, I had the perfect excuse,” Billy feels their eyes on him, “We caught ourselves some nice piece of game last night, and it’s my responsibility to make sure it don’t scurry away. Don’t want to disappoint the fellows who helped me catch him. We all had too much fun…”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "fun",
+          "comment": "Can you clarify that Billy doesn’t remember the night before at all? Does he know why?Overall, this is working well. ",
+          "context_left": "We all had too much ",
+          "context_right": "…”"
+        }
+      ]
+    },
+    {
+      "body": "\tBilly grits his teeth and rolls over. He racks his sore head for what happened the night before, his eyes rolling balls of pain under the lids. As the men talk he looks around his cell; he comes up disappointed. It’s three walls of concrete brick, at least from what his eyes can see, the only opening in the window, and it’s too small for him to even think of crawling out. And besides, it’s also lined with little bars. And bars guarding the cell also look too thick and too close together for Billy to slide through. He kids with the idea of breaking down some of the bars, but by the looks of this “Sheriff” guy, he isn’t going to let Billy out of his sight until this trial. And Billy doesn’t feel like he can break any bars right now. Maybe if he could snatch one of those shotguns… ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "through",
+          "comment": "Trouble buying he didn’t immediately sense these bars upon waking. ",
+          "context_left": " for Billy to slide ",
+          "context_right": ". He kids with the i"
+        }
+      ]
+    },
+    {
+      "body": "\t“... I don’t see what you want, Doc. You wrapped him up good last night, he ain’t goin’ die before he stands trial. You have my word on that.”",
+      "annotations": []
+    },
+    {
+      "body": "\tBilly cranes his stiff neck to stare at the two men over his shoulder. The only thing he can really make of the “Doc” is his back. The back of his head is thick with hair, Billy’s eyes pick up on the color which highlights red in the morning sunlight. Billy can just see round glasses around his eyes and over his ears ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I understand, Donald, er-Sheriff. All I mean to say is-”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Is what, Doc? You don’t think I know how to do my job?”",
+      "annotations": []
+    },
+    {
+      "body": "\tThe Doc lets out a big sigh. “Of course you know how to do your job. But I just need to make sure I do my job efficiently.”",
+      "annotations": []
+    },
+    {
+      "body": "\tBilly watches the two men. The “Doc” is a weak man, and the man knows it, so does the Sheriff. Yet the Sheriff isn’t throwing him out, he likes to play with the little guy. Billy can’t help but let out a huff of laughter at these men trying to size each other up, like a dumb-with-anger buffalo trying to fight a tiny-but-smart rattlesnake.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "rattlesnake",
+          "comment": "I’m still really struggling with the idea that Billy doesn’t recognize or remember any of this. ",
+          "context_left": "ht a tiny-but-smart ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\t“Keep laughing there, you bastard,” the Sheriff lets a cloud of cigar smoke roll out from under his thick mustache, “That pain in your side, it’s what he’s here for,” ",
+      "annotations": []
+    },
+    {
+      "body": "\tA smirk Billy didn’t know he had drops to a sneer. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Really, Donald, there’s no need to be so hostile,” The Doc has a funny voice. Billy shakes his head, thinking it must be the ringing. “I simply intend to check his bandages, I left my tools…”",
+      "annotations": []
+    },
+    {
+      "body": "\tNo, his voice is definitely funny. Billy’s heard a couple different voices on the road, but it’s soft, stuck-up voices like that that rub him the wrong way; men who think they’re so high and mighty when their clean, crisp clothes show they don’t know what it means to get your hands dirty.",
+      "annotations": []
+    },
+    {
+      "body": "\tA taste of metal creeps onto Billy’s lip from biting his lip, he must have torn off a scab. This man is igniting something in him, hotter than that bottom-feeder Sheriff can manage. This is a deep, under-the-rib type of burn. Redheads are rare, and Billy likes to think that even more when he wears his hat low enough. It’s one of the reasons Pete and Randy’s guys call him “pretty boy” when they want to see Billy turn feral. Now this clown comes prancing around with a sweet voice and plans to win a fight against real men with just some gentle begging; Billy could just chuck up whatever little food he ate in the day or so.",
+      "annotations": []
+    },
+    {
+      "body": "\tSuddenly, the Doc crouches by the cell, getting very close to the bars. Billy holds firmly still and glowers at the man. His glasses and red hair are even more ridiculous up close, his hair trails down in sideburns around his face and his glasses make his eyes look like they are popping off his head.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Now, don’t worry son, I can be gentle and I just want to check your injuries…”",
+      "annotations": []
+    },
+    {
+      "body": "\tSon. Billy hates being called a kid. He’s shot men point blank before, at least a dozen of them, some of them older than this sap. This man would be easy to bring to his knees. So easy.",
+      "annotations": []
+    },
+    {
+      "body": "\t“... get closer, please? Son? Son, can you hear me?” The Doc’s voice gets loud, it makes Billy growl and roll over on his side. The pain in his shoulder spikes and burns, but he hides his wince into the floor. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hey now!” shouts the Sheriff from his comfy, watchful perch. “Don’t make me come over there!”",
+      "annotations": []
+    },
+    {
+      "body": "\tBilly tucks his hands inside of his worn vest, hiding his clenched fists and protecting his thinned body. He tries to ignore the painful throbs throughout his body.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Listen, Billy, is it?” but Billy just clenches his jaw, “I know you don’t have any reason to trust me,” ",
+      "annotations": []
+    },
+    {
+      "body": "Damn straight. ",
+      "annotations": []
+    },
+    {
+      "body": "“But if you don't at least let me look at your bullet wound, it could easily become infected.” ",
+      "annotations": []
+    },
+    {
+      "body": "Bullet? When the hell did I get shot? Billy tries to stare a hole into the cell wall. His eyes still make the bricks melt together.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shot",
+          "comment": "I also wonder! The dialogue here is effective. ",
+          "context_left": " the hell did I get ",
+          "context_right": "? Billy tries to sta"
+        }
+      ]
+    },
+    {
+      "body": "“And I can’t let that happen. I took an oath, you see, to help anyone in need, in any way I can…” Billy isn’t listening, but he hears the Doc trail off this time. But then he senses it, the Doc’s shadow creeping up the floor of the cell, along Billy’s body. Billy tells himself not to move, but it only stops his breathing. The Doc tries to coax him again, his voice even lower and slower, “I’m just going to take a look at your side here…”",
+      "annotations": []
+    },
+    {
+      "body": "But Billy doesn’t care about his words, he senses the Doc’s sneaky finger reaching for the edges of his shirt before they even start to move it. Billy snaps his head back to the Doc and dares him with his eyes. He sees a small quiver run through the Doc’s body, it steadies Billy, just a bit. But the Doc doesn’t back away, his bug-eyes stay planted on Billy.",
+      "annotations": []
+    },
+    {
+      "body": "“You’re alright, son. I’ll be gentle,” The instant the Doc’s fingers attempted to get under his thin linen shirt, Billy sat up against the wall of the cell, gritted a tense-jaw look at the Doc, and crossed his arms offensively against his chest. The Doc held his arms as if he was surrendering, yet he crawled closer on his knees outside the bars, following Billy. “Now, let’s not make this harder than it has to be. The sooner we do this, the sooner I can leave.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the",
+          "comment": "I did start to feel that this scene was going on for a long time — wanted to get to the next bit of information. ",
+          "context_left": "“You’re alright, son. I’ll be gentle,” The instant ",
+          "context_right": " Doc’s fingers attempted to get under his thin linen shirt, Billy sat up against the wall of the cel"
+        }
+      ]
+    },
+    {
+      "body": "Despite trying to remain stiff and calm, Billy feels his chest tighten as the simple man gets closer to him. This time, as he reaches out, faster than before, Billy panics and smacks the Doc’s clean hand away, followed by kicking the jail bars to make a loud KLANG! “Push off!”",
+      "annotations": []
+    },
+    {
+      "body": "For a moment the Doc looks scared, and it makes Billy feel good. But at the same time, in this place, Billy just feels… alone. ",
+      "annotations": []
+    },
+    {
+      "body": "“Alright, Doc, I got you,” says the Sheriff, slowly rising out of this chair.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "this",
+          "comment": "Yeah, I like this, and I think he would get here quicker. ",
+          "context_left": "lowly rising out of ",
+          "context_right": " chair."
+        }
+      ]
+    },
+    {
+      "body": "“Really, Donald, that won’t be necessary, I can just come back later, or tomorrow-”",
+      "annotations": []
+    },
+    {
+      "body": "“Now, Tom, if you keep calling me that I ain’t goin’ let you see none of my prisoners ever again, ‘right? You respect my position, and I respect yours, hm?” The man in uniform points his eyes down at the man on the floor. ",
+      "annotations": []
+    },
+    {
+      "body": "“Of course… Sheriff,” the Doc fixes his glasses, stands up and wipes his hands on his trousers. ",
+      "annotations": []
+    },
+    {
+      "body": "“Now, let’s see how we can make this easier,” the Sheriff opens a drawer from his desk, “I tried to warn you Doc, this here boy,” he pulls something out, something that sounds heavy and like metal, “is from Pete and Randy’s famous gang. Ain’t you been here long enough to know ‘bout them, Doc?”",
+      "annotations": []
+    },
+    {
+      "body": "“Yes, of course,” the Doc stands and starts cleaning his glasses with a cloth from his pocket, “unfortunately it’s all my children and their friends like to talk about these days; Famous Cowboys and their Escapades!” The Doc makes fancy hand motions like he’s creating a banner.",
+      "annotations": []
+    },
+    {
+      "body": "“Well they ain’t no made-up people in stories, those there cowboys have been committing real crimes all over the south. And by the time local newspapers get information about them, it is just too damn late.”",
+      "annotations": []
+    },
+    {
+      "body": "Billy smirks at hearing that even new coming foreigners hear about his little gang, but that smile soon drops with his eyes seeing what the Sheriff has pulled out for him; thick, heavy, handcuffs.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "new coming foreigners ",
+          "comment": "Strange phrasing. Does Billy remember being in the gang? ",
+          "context_left": "t hearing that even ",
+          "context_right": "hear about his littl"
+        }
+      ]
+    },
+    {
+      "body": "“I understand, Sheriff, I’ve read the paper,” the Doc’s voice is getting pitchy with his nerves, “but surely they don’t hire children…”",
+      "annotations": []
+    },
+    {
+      "body": "“Hiring ain’t got not’hin’ to do with it. Ain’t that right, Billy Boy?” the Sheriff comes to the edge of the cell. “Pete and Randy like collecting men with some… what do they call ‘em Billy… talents?” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ents",
+          "comment": "What are the talents? ",
+          "context_left": " call ‘em Billy… tal",
+          "context_right": "?” "
+        }
+      ]
+    },
+    {
+      "body": "Billy doesn’t answer, he starts looking around the cell. His eyes are getting better but he still sees nothing around him. His back to the bars, he feels in his pockets. Where the hell is my bowie knife? I should at least have one of my pocket knives!",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "still sees nothing around him",
+          "comment": "I’m not following how he sees things sometimes but not at other times. ",
+          "context_left": "tting better but he ",
+          "context_right": ". His back to the ba"
+        }
+      ]
+    },
+    {
+      "body": "“Looking for something?” the Sheriff has smugness in his voice, “You don’ think I nabbed everythin’ from your pockets when I locked you up? You think I’m stupid, you li’le bastard?”",
+      "annotations": []
+    },
+    {
+      "body": "Billy clenches his jaw and tha taste of blood arises again. He tries standing, this man is not going to put him in cuffs, but the sharp pain in his head spikes again followed by acid up the back of his throat. He has to escape, but his entire body feels like dead weight. So he tries pushing against the cell wall but he struggles to get on top of his legs.",
+      "annotations": []
+    },
+    {
+      "body": "“This is pathetic,” sneers the Sheriff as he grapples one of Billy’s forearms and thrust his back against the bars, Billy’s head whacks against the metal bars and the back of eyes spark, “and you call yourself part of Pete and Randy’s gang,” the Sheriff lets out a chuckle. Billy feels his shoulder blades get pulled back, but his dizziness and nausea distract him for a moment. Until he feels rust tightly scraping against his wrists. Tightly scraping. Then the Sheriff shoves him down, left leg falling from under him, the right knee smacking to the harsh ground. Billy hears himself breathing hard, and decides he can run now, but before he can, the Sheriff's thick arm is trapping his throat. The pain is trapped in his head. The Sheriff tugs at the cuffs, capturing his hands and pressing his shoulders painfully against the cell bars.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "“and you call yourself part of Pete and Randy’s gang",
+          "comment": "Does he? ",
+          "context_left": "back of eyes spark, ",
+          "context_right": ",” the Sheriff lets "
+        }
+      ]
+    },
+    {
+      "body": "“Oh no you don’t, the Doc still needs to look at you,” the Sheriff grips tighter and tighter, and Billy squirms like a worm on a hook. “See Doc? This one can be nasty! If you’d pay attention to their newspaper articles, you’d know that Pete and Randy have a little booby trap maker who leaves surprises at places they rob. Their little note that it was them.”",
+      "annotations": []
+    },
+    {
+      "body": "Billy tries to elbow his cuffed arms into the Sheriff, but the man places his bent knee on top of the cuffs and holds them hostage. Billy grits his teeth as the metal digs into his skin. ",
+      "annotations": []
+    },
+    {
+      "body": "“Yes, I’ve heard about that, but-”",
+      "annotations": []
+    },
+    {
+      "body": "“Well, then you know that they say it’s a kid setting them booby traps. Someone with,” the Sheriff drags his knee back, pulling on the cuffs and Billy shoulders, “small fingers.”",
+      "annotations": []
+    },
+    {
+      "body": "Billy closes his eyes. ",
+      "annotations": []
+    },
+    {
+      "body": "“And you know, Tom, that town hall was bombed last night.”",
+      "annotations": []
+    },
+    {
+      "body": "Billy’s eyes shoot open. Shit… oh shit, oh shit, oh shit, oh shit. Billy raises his shoulders, trying to fight the pull of the cuffs, trying to fight help himself breath, ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "oh",
+          "comment": "Does this ring any bells for him? I confess that I’m just confused about why he would have forgotten the night before. Maybe at first, sure, but he isn’t drunk or on drugs, he didn’t hurt his head and he seems hurt but otherwise fine, so what is the reason he isn’t able to remember what happened? Or even seem to recognize himself in what the Sheriff is saying? ",
+          "context_left": "Billy’s eyes shoot open. Shit… ",
+          "context_right": " shit, oh shit, oh shit, oh shit. Billy raises his shoulders, trying to fight the pull of the cuffs,"
+        }
+      ]
+    },
+    {
+      "body": "But the Sheriff just chuckles and pulls harder, “I think we both know… who this is, Tom-”",
+      "annotations": []
+    },
+    {
+      "body": "“Good God, Donald, that’s enough!”",
+      "annotations": []
+    },
+    {
+      "body": "Billy feels light rush to his eyes before air to his lungs, he leans forward and growls and coughs. Goddamnit Johnny, he thinks, I’m gonna kill you… if I ever get out of here. If you haven’t already told Pete and the boys. Billy’s head is light and throbbing, but searches for what happened the night before. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Goddamnit Johnny, he thinks, I’m gonna kill you… if I ever get out of here. If you haven’t already told Pete and the boys",
+          "comment": "Who’s Johnny? ",
+          "context_left": " growls and coughs. ",
+          "context_right": ". Billy’s head is li"
+        }
+      ]
+    },
+    {
+      "body": "Billy is not a bomber, Johnny is. Head-in-the-clouds, bootlicking, four-foot, cowlick-head, can’t-take-care-of-himself Johnnycakes. He’s good for one thing, and it’s making bombs. If he is the reason Billy is locked up… but of course he is. Who else would have bombed town hall?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Johnnycakes",
+          "comment": "Ah! Okay! So this remembering must be sort of overwhelming, right? ",
+          "context_left": "ake-care-of-himself ",
+          "context_right": ". He’s good for one "
+        }
+      ]
+    },
+    {
+      "body": "Billy squeezes his eyes shut; when did I last see Johnnycakes?",
+      "annotations": []
+    },
+    {
+      "body": "He remembers Johnny being angry because Pete and Randy wouldn’t let him go on the last few runs; only let him help set up the land mines they left behind, tend the horses, and sometimes count their earnings. But Johnny was getting tired of getting the “easy jobs,” he wanted to do the real work, as Pete always called it. Johnny wanted to make Pete and Randy proud.",
+      "annotations": []
+    },
+    {
+      "body": "Johnny can be stupid. Johnny just wanted to be in charge of something he didn’t know anything about.",
+      "annotations": []
+    },
+    {
+      "body": "Billy remembers Pete and Randy saying that the little town they are camping by, Galveston, is too small and doesn’t have a real bank, so they should just go to the next town. But Johnny can be stupid.",
+      "annotations": []
+    },
+    {
+      "body": "Billy remembers himself checking Johnny’s tent and seeing it empty. He remembers being at a local pub with Johnny, did he go looking for him there? Yes, he must have. Johnny loves to spend his shared earning on drinks, he likes to show off how he can hold his liquor. Billy can picture a very wobbly Johnny trying to show him something. Billy can see a building in his head, Billy remembers a window. Billy remembers the familiar scent of black powder, hearing Johnny’s laughter, then banging, then Johnny shouting and laughing, then fire amongst the black powder. Billy remembers feeling scared while falling in a dream, then the feeling of something smacking in the back of the head. More voices, lots of light, heat. ",
+      "annotations": []
+    },
+    {
+      "body": "Billy does remember a “Hey, you bastard!” and the familiar sound of a gunshot.",
+      "annotations": []
+    },
+    {
+      "body": "Then the burning throbbing, and warm turning to cold dripping down his side. ",
+      "annotations": []
+    },
+    {
+      "body": "Then the redheaded Doc, running to him. “He’s a child… Stop! He’s just a child!”",
+      "annotations": []
+    },
+    {
+      "body": "Billy looks at this Doc now, who has been manhandling his injuries. Billy cannot manage a glare now. The Doc is now smiling at him, “You’ll need stitches, my boy, but I’ll give you a break for now. Try and get some more rest. You need it.” He simply rises and leaves.",
+      "annotations": []
+    },
+    {
+      "body": "With his hands still cuffed through the bar, Billy rubs his inner arm against the newly wrapped wound. Johnny, you better get me out of this, or Pete is going to hang us both.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Ah! Okay. I liked this excerpt, Olivia. It felt like you were more confident in the writing here, and perhaps had a stronger vision for what had happened and was happening. I enjoyed the journey of the passage. As I said above, I was confused by how/why Billy seems completely lost about what has happened — it just seemed that his total amnesia was had to buy. I thought it was smart to have the Sheriff explain the gang to the Doctor and I might expand on that a bit — maybe the Dr. really doesn’t know anything and we could thus learn about Pete etc. a bit more (because I have to be honest in saying that Pete, Johnny, Randy all blur together for me since I don’t really know who they are). I didn’t realize until pretty far in that the doctor genuinely wants to help Billy — perhaps he could sense that earlier, too? I liked that he’s dismissive of the doctor, but maybe there’s a moment when his gentleness appeals?More than anything else, though: keep writing!"
+    }
+  ]
+}

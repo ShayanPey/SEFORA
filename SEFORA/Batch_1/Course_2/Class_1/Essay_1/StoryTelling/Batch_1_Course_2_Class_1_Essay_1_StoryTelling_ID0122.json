@@ -1,0 +1,54 @@
+{
+  "paragraphs": [
+    {
+      "body": "Storytelling Statement",
+      "annotations": []
+    },
+    {
+      "body": "1. Comparing non-AI-assisted and AI-assisted video creation When creating a non-AI-assisted video, the process is much more hands-on, allowing complete creative freedom in terms of scene design, character selection, background choices, and pacing. Each element is tailored according to my vision, which means the decision-making process is highly detailed and time-consuming. Every visual, sound, and transition is purposefully chosen, giving me total control over the final product. For example, when comparing Hillman Library with libraries in China, I could choose specific architectural details or user interactions to highlight the differences in library design and culture.",
+      "annotations": []
+    },
+    {
+      "body": "In contrast, when using AI tool like Vyond Go, the creative process shifts towards managing an outline provided by the AI. My input becomes more about giving directions and refining the pre-generated content. The decision-making here focuses on reviewing the AI’s suggestions and making necessary adjustments. While this saves time by automating scene transitions or character placement, it also results in less control over the fine details of storytelling. For instance, when generating the video comparing the future of Carnegie Museum and Nanjing Museum, the AI struggled to capture specific futuristic or cultural nuances that I envisioned, requiring manual adjustments to meet my desired outcome.",
+      "annotations": []
+    },
+    {
+      "body": "2. Prompt for Video 2 Scene 1 Dialogue: Elizabeth (curious): \"We’ve seen incredible advancements over the past few decades. But imagine where we’ll be 50 years from now!\" Zhimei (grinning mischievously): \"Funny you should mention that. I recently came across something... unusual in our archives.\" Zhimei (holding up a small, glowing device): \"Let’s just say it can take us there.\"",
+      "annotations": []
+    },
+    {
+      "body": "Scene 2 Dialogue: Elizabeth (awestruck): \"This… this is incredible! The museum has evolved into a living, breathing experience.\" Zhimei (admiring): \"The visitors don’t just observe anymore—they’re part of the story.\" Elizabeth (explaining): \"Every exhibit adapts to the visitor’s needs. Whether it’s an expert paleontologist or a school child, the AI customizes the learning experience in real-time.\" Zhimei (thoughtful): \"Impressive. But what about the artifacts themselves? Are they still here?\" Elizabeth (nodding): \"Of course. The originals are stored and protected, but visitors engage with perfect digital recreations that are just as tactile.\"",
+      "annotations": []
+    },
+    {
+      "body": "Scene 3 Dialogue: Zhimei (proudly): \"Welcome to the Nanjing Museum of 2074. They’ve fully embraced the idea of museums as living cultural archives. Visitors can now contribute their own stories, and the exhibits evolve in real-time.\" Elizabeth (fascinated): \"So it’s a collective history—a digital, interactive reflection of modern society.\" Zhimei (explaining): \"They’ve moved beyond simply preserving artifacts. Now, the people’s voices shape the narrative. The exhibits aren’t just static—they grow as society does.\" Elizabeth (impressed): \"So, the museum becomes a living record of both past and present.\" Dialogue: Elizabeth (thoughtfully): \"It’s amazing how both of our museums have taken such different approaches to the future. Carnegie leans into immersive, personalized learning, while Nanjing turns the museum into a cultural hub for communal storytelling.\" Zhimei (nodding): \"Both paths have merit. The question is, what will the role of museums be in an even more digital and connected world?\" Elizabeth (smiling): \"Perhaps the real answer lies in the balance—keeping the richness of the past while embracing the dynamism of the future.\"",
+      "annotations": []
+    },
+    {
+      "body": "3. Benefits and limitations of AI in video making AI in video creation offers several strengths. One of the primary benefits is time efficiency, as AI can quickly generate a foundational video based on a prompt, allowing us to focus on refining details. This was especially useful for generating scenes with consistent backgrounds or simple character animations.",
+      "annotations": []
+    },
+    {
+      "body": "However, AI also comes with limitations. It often lacks nuance and creativity in its initial output, resulting in stiff animations, repetitive backgrounds, and generic character models. This limits creative freedom because it requires significant post-generation editing to match the original vision. While AI helps with idea generation and saves time, it struggles with capturing complex or culturally specific elements. This was evident when I had to change the background for each scene manually and modify the appearance and voices of the characters to align with the story.",
+      "annotations": []
+    },
+    {
+      "body": "4. Satisfaction with the AI-generated video The initial AI-generated video by Vyond Go was helpful as a base, but it fell short in terms of quality and depth. The elements were too generalized, and the characters lacked personality. While the basic structure worked, the animation style felt rigid and didn’t fully convey the dynamic storytelling I wanted for the comparison of the museums. What worked well was the time saved in setting up the foundational elements, like scene transitions and general layouts. However, the AI’s inability to capture specific futuristic or cultural elements was a disappointment.",
+      "annotations": []
+    },
+    {
+      "body": "5. Changes made to the AI-generated video After generating the video using Vyond Go, I made several key changes. First, I updated the backgrounds to reflect different museums environments, such as futuristic settings for both Carnegie and Nanjing Museum. I also altered the character designs to better fit the student from the US and the student from China, adding diversity in their appearance. The voices were changed to match the tone and personalities of the characters in the narrative. These modifications were necessary to enhance the storytelling, making the video more engaging and culturally relevant. By tweaking these aspects, I ensured the video conveyed a more vivid comparison of the two museums 50 years into the future.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Storytelling": 3,
+        "Length requirement": 2,
+        "Storytelling Statement": 3
+      },
+      "comment": "N/A"
+    }
+  ]}

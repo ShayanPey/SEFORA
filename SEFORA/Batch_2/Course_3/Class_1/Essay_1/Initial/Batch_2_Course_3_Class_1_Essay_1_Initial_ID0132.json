@@ -1,0 +1,201 @@
+{
+  "paragraphs": [
+    {
+      "body": "Emperor-Zilla: Hirohito’s Heir",
+      "annotations": []
+    },
+    {
+      "body": "\tThere is a strange anecdote from the life of Hirohito. It comes from a time when the passions of he and his wife could produce no heir, and he strolled the halls of his stone palace looking for warmth and life in low places. He watched insects pass through crevices, he inspected all the flowers in their gardens- but oh, how the Empress had grown cold to him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to him.",
+          "comment": "I loved this opening — it felt like a fairy tale and your narrator immediately told me all I needed to know. ",
+          "context_left": "ress had grown cold ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tOn one of these days that he pondered in the gardens, the honorable General Genda appeared before him. The shadow of this great man could fold the boyish emperor into an Origami Crane, if it so chose. Years of combat tattered his weary face and sunk his dreary eyes, and the Emperor could not resist but to forget his position before him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The shadow of this great man could fold the boyish emperor into an Origami Crane, if it so chose. ",
+          "comment": "Such a vivid line and you set up the difference between these two men well. ",
+          "context_left": "ppeared before him. ",
+          "context_right": "Years of combat tatt"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "could not resist but to forget ",
+          "comment": "Strange phrasing ",
+          "context_left": "es, and the Emperor ",
+          "context_right": "his position before "
+        }
+      ]
+    },
+    {
+      "body": "Falling to one knee, “Great General Genda, what news do you bring for me?” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Off the shore of Hokone… with our new binoculars… we saw a great beast of the sea.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“A beast you say,” considered Hirohito, “What kind of monster is this?”",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd Genda handed Hirohito the photographs taken by their new cameras. The pictures were muddled and difficult to read. Hirohito saw one great forehead rising out from the sea.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "photographs taken by their new cameras",
+          "comment": "I was surprised that this story is set in modern times — it felt more like an older fable to me. But that’s fine! ",
+          "context_left": "handed Hirohito the ",
+          "context_right": ". The pictures were "
+        }
+      ]
+    },
+    {
+      "body": "\t“Should we shoot it… your Majesty the Emperor?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“No, it doesn’t look American. Americans have fatter bones and are never camera shy. This beast appears quite skinny….” Hirohito thought of his own frail figure which followed him from childhood, which rendered him awkward in every photograph. Even though he knew they’d fein defeat before the heir to the throne, he was too cowardly to play with the other boys his age. “Send an unarmed vessel to it and make careful observation,” said Hirohito, “I have reason to believe it is Japanese.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "American. ",
+          "comment": "Wow. I did find it hard to picture this “beast” might look like. They appear to be talking about humans? ",
+          "context_left": "No, it doesn’t look ",
+          "context_right": "Americans have fatte"
+        }
+      ]
+    },
+    {
+      "body": "\t“How wise,” said General Genda, “Your Majesty the Emperor always offers the most creative solutions to our problems.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "our problems.”",
+          "comment": "I enjoy this, which is obviously insincere. I did wonder how much the Emperor might also be pretending, or at least hoping to impress the General? ",
+          "context_left": "eative solutions to ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tYet, weathered by combat as he was, General Genda ever maintained suspicions of foreign threats. He knew Americans were clever, and the Emperor had lived a sheltered life. Upon arriving in Hokone, he ordered a great warship to be sent to the beast. “Blast that creature to smithereens,” commanded the honorable general. “We don’t know what dangers it may hold within its secrets.”",
+      "annotations": []
+    },
+    {
+      "body": "\tMeanwhile, within the palace, Emperor Hirohito summoned the courage to see his wife for the first time in three months. She had boarded herself into her room, drowning in the shame of her husband, who the countrymen hailed a God- but who couldn’t give her a child.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " God",
+          "comment": "Lower- case.I’m a little confused about why she would barricade herself away from him if they want to have kids? ",
+          "context_left": " countrymen hailed a",
+          "context_right": "- but who couldn’t g"
+        }
+      ]
+    },
+    {
+      "body": "\t“Nagako, do you remember how the crowds cheered my name?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Yes, your Majesty,” she said without looking to see the face she resented most.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Do you remember how they said, no promise of mine should go undone?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Yes, your Majesty,” she said, withholding her tears.",
+      "annotations": []
+    },
+    {
+      "body": " \t“Do you remember how they lauded the purity of my blood, that my offspring should be greater in every way?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Yes, your Majesty,” The honorable General Genda had told her in privacy that if she caused any further psychology unrest in the Emperor, she would be promptly executed for treason. The honorable general suspected her as an American.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The honorable General Genda had told her in privacy that if she caused any further psychology unrest in the Emperor, she would be promptly executed for treason. The honorable general suspected her as an American.",
+          "comment": "This probably belongs when she first agrees with him. Again, slightly confusing — she’s not supposed to upset him, but she’s barricaded herself away? ",
+          "context_left": "Yes, your Majesty,” ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“I believe he is born. Born of his true mother, not you, my cousin, but the mother of Japan itself- born of the sea. Genda spotted him off the coast of Hokone, and is delivering a test to determine if he is truly my son.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "he is born",
+          "comment": "I didn’t know who was speaking or who the “he” in this sentence is. ",
+          "context_left": "\t“I believe ",
+          "context_right": ". Born of his true m"
+        }
+      ]
+    },
+    {
+      "body": "“Yes, your Majesty. Your reason and wisdom is truly unparalleled.”",
+      "annotations": []
+    },
+    {
+      "body": "On the shores of Hokone, General Genda watched as the Mikaho blazed artillery into the beast’s now exposed torso. It let out an animalistic cry, and brought a fin-like extremity onto the ship’s hull. Genda could hear the cries of his men as the ship filled with water. Then the scene became obscured by smoke, and the Mikaho was no more.",
+      "annotations": []
+    },
+    {
+      "body": "When the honorable General Genda returned to Hirohito’s palace, the emperor met him with the enthusiasm of a religious fanatic.",
+      "annotations": []
+    },
+    {
+      "body": "“Why, great general, did the creature from the sea sink our vessel?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sea sink our vessel?”",
+          "comment": "Slightly confusion about how he wouldn’t know this already? ",
+          "context_left": "e creature from the ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“No,” replied a surprised Genda, who had taken meticulous care in suppressing any media report of the failure. “Our great military can never fail under your rule, the vessel remains completely untouched.”",
+      "annotations": []
+    },
+    {
+      "body": "“Wonderful, it is as I thought. The heir to the throne must be powerful, but above all, he must value the lives of his countrymen. I think to my own childhood, when I dared not lay a finger on the other boys in our play fighting. Bring my son home to me immediately- he is truly like me both body and mind.”",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Everly, I really enjoyed your draft. It’s clever and unexpected, and I was interested throughout. I especially your like engagement with the emperor, a unique and intriguing character. Stephen King said that we write our first drafts with the door shut and our second with the door open, to let people in. That’s really your task in your revision, showing readers the information we don’t have yet and which we need to know. For example, I never quite got why the emperor thinks that this sea creature is his son (nor what the creature was, exactly, since sometimes it’s human and sometimes not). I also felt like I missed something with his wife — she is both very upsetting to him and not supposed to upset him, and then she isn’t really connected to the main plot. I love the choice of the ending where the general isn’t honest (and then, we presume, sort of stuck in his lie) but I didn’t entirely follow how they got to that place. So — think about your audience. What do we already know and what can we figure out on our own and what needs to be told to us? A final note is that I thought you did a great job in truly thinking about your main character and what he wants! Just continue to think about how he is opposed, as well. Great work!"
+    }
+  ]
+}

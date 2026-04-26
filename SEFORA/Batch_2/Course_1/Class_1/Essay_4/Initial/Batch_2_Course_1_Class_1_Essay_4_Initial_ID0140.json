@@ -1,0 +1,157 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Salmon River was in no rush, it meandered down the valley with steady resolve and a massive berth. The cool morning air felt fresh and sobering on my body as it was emerging from its sleeping bag chrysalis. Cold sand on this small sandbank off the river was an oasis among the rocky shore and steep mountainside cradling us between frigid water and barren rock. With only the night sky as our shelter the night before, we fell asleep gazing at the beautiful cosmos feeling like we could fall off the face of the earth, followed by discussions triggered by Starlink satellites streaking across our sky with dizzying speed. That morning, the aroma of frying eggs in butter was a quite pleasant alarm clock thanks to my uncles cooking over the fire. He pointed out some bear tracks that had come within a few feet of our heads. A visitor came to see us in the night, but we rudely ignored the poor fellow, whose paw tracks were larger than my outstretched hand, and he left without a single warm welcome or “Good evening, sir”. The visitor’s long claws penetrated deeply into the sand. The tracks, my uncle explained, were six inches wide and nine inches long and signified that this bear was of larger than average size due to its depth of indentation in the soft sand. His pad was wide and oval shaped, big enough to cover a dinner plate and had claws extending around three inches. Then the sun’s rays finally reached into the valley to warm us up, so we packed up the rest of our gear and loaded the boat, setting out into the calm and steady river. The landscape was serene and tranquil, filled only with the steady hum of the Chevy three-fifty small-block V8 engine driving us back up the river as I watched the beach slowly get smaller and the chance to meet the bear quietly fade away forever.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "The tracks, my uncle explained, were six inches wide and nine inches long and signified that this bear was of larger than average size due to its depth of indentation in the soft sand. His pad was wide and oval shaped, big enough to cover a dinner plate and had claws extending around three inches.",
+          "comment": "I wonder if this print might be your essay's actual object? Note how this is the beginning of a potential descriptive paragraph.",
+          "context_left": "eply into the sand. ",
+          "context_right": " Then the sun’s rays"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The Salmon River was in no rush,",
+          "comment": "Love this opening line",
+          "context_left": "",
+          "context_right": " it meandered down t"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "berth.",
+          "comment": "word choice?",
+          "context_left": "solve and a massive ",
+          "context_right": " The cool morning ai"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Cold sand on this small sandbank off the river was an oasis among the rocky shore and steep mountainside cradling us between frigid water and barren rock.",
+          "comment": "beautiful",
+          "context_left": "ping bag chrysalis. ",
+          "context_right": " With only the night"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The landscape was serene and tranquil, filled only with the steady hum of the Chevy three-fifty small-block V8 engine driving us back up the river as I watched the beach slowly get smaller and the chance to meet the bear quietly fade away forever.",
+          "comment": "Also lovely. I feel like the yearning, the mystery of this bear will be important to the essay. Let's see!",
+          "context_left": "m and steady river. ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "Awesome descriptions throughout!",
+          "context_left": "see us in the night, but we rudely ignored the poor fellow, whose paw tracks were larger than my",
+          "context_right": " outstretched hand, "
+        },
+        {
+          "type": "strikeout",
+          "text": "ollowed by discussions triggered by Starlink satellites streaking across our sky with dizzying spee",
+          "comment": "",
+          "context_left": "face of the earth, f",
+          "context_right": "d. That morning, the"
+        },
+        {
+          "type": "strikeout",
+          "text": "s it was emerging from its sleeping bag chrysali",
+          "comment": "",
+          "context_left": "obering on my body a",
+          "context_right": "s. Cold sand on this"
+        }
+      ]
+    },
+    {
+      "body": "We sleep through moments sometimes. Moments coming and going without any notice from anyone. Unspoken things like the little red notebook lying at the bottom of my backpack. I have chosen my small red notebook to be my odd object for this project. This notebook is five inches wide and seven and a half inches long. Its red color can be described as a true crimson red. It is a rich, deep red color. This contrasts to the back side of the notebook where it has a very light brown and fibrous covering. The back is just like cardboard, and I can see the individual fibers dried up and twisted. A black metal coil keeps the notebook together. It keeps it in order, so the pages don’t fall out and the covers don’t come off. It smells of paper and packaging. The smell isn’t unpleasant and strong, but it is not an enjoyable smell. I think it is a familiar smell, one that reminds me of my early years in school. It also reminds me of outdoor retail stores, the outfitters with vast amounts of outdoor hiking and camping gear. The notebook tastes bitter. I only tried the pages, but it tastes like other paper I’ve tried. When I flip through the pages quickly it has a smaller sound than that of a large or regular sized notebook. The object is small and portable spending most of its time at the bottom of my backpack, crushed by other things deemed more important. Graphite marks fill some of the pages with ideas that may never see light again. Only about ten percent of the pages have been used, leaving many blank, waiting to be told what to do.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "We sleep through moments sometimes. Moments coming and going without any notice from anyone.",
+          "comment": "develop the fear of the bear, the dangerous thing that never happened. The moments that we fixate on for what could have been but weren't.",
+          "context_left": "",
+          "context_right": " Unspoken things lik"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Graphite marks fill some of the pages with ideas that may never see light again. Only about ten percent of the pages have been used, leaving many blank, waiting to be told what to do.",
+          "comment": "This! See above",
+          "context_left": "med more important. ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "I wonder if you're describing the \"right\" things for this notebook? If your essay is about \"sleeping\" through moments, missing things, missing opportunities, then I wonder if you should describe what's _inside_ the notebook. The ideas, words, moments you've missed...",
+          "context_left": "so the pages don’t fall out and the covers don’t come off. It smells of paper and packaging. The",
+          "context_right": " smell isn’t unpleas"
+        },
+        {
+          "type": "strikeout",
+          "text": "have chosen my small red notebook to be my odd object for this project.",
+          "comment": "",
+          "context_left": "m of my backpack. I ",
+          "context_right": " This notebook is fi"
+        }
+      ]
+    },
+    {
+      "body": "The little notebook has a home in the great City of Pittsburgh. Its empty pages remind me of everything I have yet to do and accomplish. I have everything ahead and nothing behind but regret. What is a city? A city can be defined as a large town or incorporated municipal center. It is a place bursting with opportunity, people, and culture. A city can have many definitions and meanings. Cities themselves have been around for thousands of years, holding different names throughout that time no doubt. Meaning changes, people change them according to what feels most comfortable but sometimes we can stick things out for a long time, adhering to the definition set by others until we finally break free from their definition. I don’t believe that the definition of a city as a large group town is effective in capturing all that it means. How can anyone define such a massive and complex organism with so few words. If someone asked me, “What three words best describe me.” I choose a couple words that are positive and get the job done whatever that may be. If I cannot be defined by three words how can something so gigantic and massive be defined by one sentence. To me, a city has many meanings. It can be defined as a place to attain a bachelor’s degree so one can go to medical school. It is a place where one goes to grow and become who you want to be. A city can be defined as a place to go if one desires to feel out of place. But even though I may miss home, or I feel out of place, a city is a place to find things, people, and memories that are worthy of having a place in my past. It is large and scary like the bear. I was asleep when it came. Now, I am awake, peering back in time. Wondering why I didn’t greet the bear. I am uncertain of the future but when the bear comes again, I will meet it head-on, awake, and stretch out my hand to introduce myself.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "have everything ahead and nothing behind but regret.",
+          "comment": "Why? What's the regret? Let's talk :)",
+          "context_left": "o and accomplish. I ",
+          "context_right": " What is a city? A c"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "city can be defined as a place to go if one desires to feel out of place. But even though I may miss home, or I feel out of place, a city is a place to find things, people, and memories that are worthy of having a place in my past. It is large and scary like the bear. I was asleep when it came. Now, I am awake, peering back in time.",
+          "comment": "I see you stretching, here, to make the connections, and I'm definitely beginning to feel that heat and energy emerging. Let's just talk through the juxtapositions between city and Salmon River. The bear (wild) and the city (tamed? Wild in a different way? An opportunity that you don't want to miss?)",
+          "context_left": "o you want to be. A ",
+          "context_right": " Wondering why I did"
+        }
+      ]
+    },
+    {
+      "body": "I will pack my gear up into my 45-liter backpack. Camping stove, knife, bug spray, and hammock. I will pack what I need and maybe a little extra because I will not go too far, and I will sleep in the old forest out past Colton Point. No sound but the breeze, gentle and steady. No cars nor people, sirens nor horns. Just quiet peace, just the familiar chickadee, robin, and mourning dove singing. The spring peeper and cricket will lull to sleep. Only after sleeping there, I will wake up and realize who I miss. I am asleep now",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Who do you miss?! I'm interested :)",
+          "context_left": "there, I will wake up and realize who I miss.",
+          "context_right": " I am asleep now"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I will pack my gear up into my 45-liter backpack. Camping stove, knife, bug spray, and hammock. I will pack what I need and maybe a little extra because I will not go too far, and I will sleep in the old forest out past Colton Point. No sound but the breeze, gentle and steady. No cars nor people, sirens nor horns. Just quiet peace, just the familiar chickadee, robin, and mourning dove singing. The spring peeper and cricket will lull to sleep. Only after sleeping there, I will wake up and realize who I miss. I am asleep now",
+          "comment": "This is absolutely gorgeous. The reverie, the hush, is impactful.",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves. (20)": 18.0,
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea. (20)": 17.0,
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.). (15)": 15.0,
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole. (15)": 12.0,
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole. (15)": 13.0,
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation. (15)": 14.0,
+        "TOTAL": 89.0
+      },
+      "comment": "Wow. Your writing, your descriptions: amazing. Beautiful. A reverie. A hush. A reverence. I'm so interested to find out more about the metaphor you're developing and I'm drawn to so many places of heat and energy. I wonder, maybe, if the object is actually the bear? Though I love the idea, too, of the notebook (especially if you take it hiking with you...) And the contrast between city and wilderness is striking--there's definitely something emerging here, though it's not quite fully formed, I think. This essay is an exciting example of a draft that allows for discovery :) Let's discuss the center of gravity for this essay so that we can decide which parts of this essay are necessary for your essay's purpose and which aren't and which need more development Let's talk about the \"map.\" And, who is your audience? What is your essay's purpose? I can't wait to talk about this!! Great work :)"
+    }
+  ]
+}

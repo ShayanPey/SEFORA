@@ -1,0 +1,77 @@
+{
+  "paragraphs": [
+    {
+      "body": "Original Wikipedia Context: Positive Psychology https://en.wikipedia.org/wiki/Positive_psychology The Positive effect of Kindness and Gratitude on Happiness Kindness is a positive trait in psychology that people often extend to their friends, family, or even community because doing so brings advantages to themselves and shows improvement to their well-being. Studies have shown that practicing kindness, whether consciously or unconsciously, can boost the well-being of the recipient and the actor. Japanese researcher Keiko coordinates with other researchers to conduct experimental research to test how far the effect of counting kindness intervention can boost subjective well-being and happiness[1]. During the procedures, 71 female undergraduates in the experimental group were asked to keep track of their acts of kindness each day and have to report the number of performances. One week after the intervention, researchers asked the 71 participants in the experimental group to rate how well they felt they had achieved the goal of counting acts of kindness and their level of gratitude for it. The rating scales range from 1 (“I did not achieve at all”) to 5 (“I achieved a great deal”), which indicate the extent of gratitude and contentment the participants felt during the kindness intervention. After that, the researchers compared the results to those in the control group who didn’t participate in the kindness intervention. Results showed that people who were involved in the kindness intervention had higher subjective happiness than those in the control group, and also counting kindness intervention did increase subjective happiness. Simply recognizing and counting one’s kindness for only one week can affect one's own psychological state. Compared to those who didn’t participate in kindness intervention, the outcome of psychological benefits of participants in the experimental group is obvious due to the fact that practicing kindness leaves a pleasing memory for those who act out kindness, enabling them to reminisce about the meaningful experience and make them joyful.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": " Results showed that people who were involved in the kindness intervention had higher subjective happiness than those in the control group, and also counting kindness intervention did increase subjective happiness. Simply recognizing and counting one’s kindness for only one week can affect one's own psychological state. Compared to those who didn’t participate in kindness intervention, the outcome of psychological benefits of participants in the experimental group is obvious due to the fact that practicing kindness leaves a pleasing memory for those who act out kindness, enabling them to reminisce about the meaningful experience and make them joyful.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "ndness intervention.",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Another study by researcher Fredrick explicitly explores how the effects of kindness's positive emotion enhance people's daily experiences to enable consequential personal resources. The researchers selected 139 adults and assigned them the loving-kindness meditation, which is a meditation that emphasizes benevolence and loving toward others. The study results showed that kindness-based mediation increases an individual's positive emotions, thereby leading to a wide range of personal resources such as increased mindfulness, high purpose in life, social support, and decreased illness symptoms[2]. During the loving-kindness practice, people experience positive emotions through new insights and outlooks of increasing empathy and compassion. Kindness such as empathy, sympathy, and compassion in the medication can elicit a series of positive emotions. Analysis showed that positive emotion expands the range of attention and cognition, initiating upward spirals to emotional well-being. This, in turn, promotes people's action repertories of kindness and enables them to endure personal resources, development of intellect, and physical, social, and psychological benefits. Since kindness's positive emotions entail a range of benefits and influence, people who experience it will inevitably lead to decent characteristic upbringing. With it, people will find more satisfaction and contentment in terms of interpersonal relationships to a large extent.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": " people",
+          "comment": "Please clarify what you mean by \"people.\"",
+          "context_left": "characteristic upbringing. With it,",
+          "context_right": " will find more satisfaction and "
+        }
+      ]
+    },
+    {
+      "body": "Gratitude on Positive Psychology As stated by Emmons’s research article “Gratitude as a Human Strength,” the strength of gratitude can promote people’s relations and personal well-being[3]. The acknowledgment of gratitude includes decreasing negative emotions and increasing optimistic evaluation, positive influence, well-being and sleep quality. Gratitude as a positive strength enables them to live a happier, more satisfied life, and less materialistic. This led to the question of how one can enable and cultivate gratitude through external motivation. The answer to the question is ‘Kindness’. Kindness enables one to feel gratitude which strengthens people’s relationships and thus boost the subjective happiness of the actor. In this case, not only the actor benefits from showing kindness but also the recipient benefits from adopting gratitude towards the kind act of the actor. Gratitude with the fundamentals of kindness is something needed to be recognized.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "This",
+          "comment": "I would clarify what \"this\" refers to --this behavior",
+          "context_left": "less materialistic. ",
+          "context_right": " led to the question"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Gratitude on Positive Psychology",
+          "comment": "This paper is well-written. I would suggest adding citations to justify each factual claim, avoiding vague pronouns, and citing more recently published sources. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": " As stated by Emmons"
+        }
+      ]
+    },
+    {
+      "body": "1. ^ Otake, Keiko. \"Happy People Become Happier Through KIndness: A Counting Kindness Intervention\". Journal of happiness studies. 7, no. 3 (2006): 361. 2. ^ Fredrickson, Barbara. \"Open Hearts Build Lives: Positive Emotions, Induced Through Loving-Kindness Meditation, Build Consequential Personal Resources\". Journal of personality and social psychology. 95, no. 5 (2008): 1045. 3. ^ Robert, Emmons. \"Gratitude and the science of positive psychology\". Current Directions in Psychological Science. 15, no. 4 (2006): 198-202.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(2006):",
+          "comment": "Please cite recently published sources.",
+          "context_left": "s studies. 7, no. 3 ",
+          "context_right": " 361. 2. ^ Fredricks"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.0,
+        "Writer's Ethos": 1.5,
+        "Total": 8.5
+      },
+      "comment": "N/A"
+    }
+  ]}

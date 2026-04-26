@@ -1,0 +1,422 @@
+{
+  "paragraphs": [
+    {
+      "body": "\tI forgot how cold it got when the snow fell. Ice stuck to my fingers when I closed the cab door shut. I tried to avoid the grey slush below my feet, but it was nearly impossible. Clutching onto my backpack with my stethoscope and badge, I began searching for the nearest coffee shop. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "onto ",
+          "comment": "Title? I don’t think you need the “onto” here but otherwise, this is a strong opening. ",
+          "context_left": "possible. Clutching ",
+          "context_right": "my backpack with my "
+        }
+      ]
+    },
+    {
+      "body": "\tAs I wandered, the gaps in my memory from seven years ago began to come back. I looked inside every tiny shop and admired every skyscraper. My mom had never been a fan of the city, but she made an exception to take me to my first baseball game. The only other time we had ventured into the city was to tour Boston University, not that I would be able to go there if I wanted to. We did what we could to keep ourselves occupied while dad was away. As I reached the Museum of Science, I remembered the promise from my dad that we’d visit together, before I was hit with another gust of wind. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the gaps in my memory from seven years ago began to come back. ",
+          "comment": "Phrasing is off — gaps wouldn’t come back. ",
+          "context_left": "\tAs I wandered, ",
+          "context_right": "I looked inside ever"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "skyscraper. ",
+          "comment": "Just noting that it’s not clear if the narrator is remembering looking inside every shop, etc. or if they’re doing so now. ",
+          "context_left": "p and admired every ",
+          "context_right": "My mom had never bee"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "baseball game",
+          "comment": "Is this 7 years ago?",
+          "context_left": "take me to my first ",
+          "context_right": ". The only other tim"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "would be able to ",
+          "comment": "Would have been? (I know, these notes are really picky, but I’m trying to help you see how the reader is a little lost about when these events are happening. Making that clear will help!) ",
+          "context_left": "versity, not that I ",
+          "context_right": "go there if I wanted"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dad",
+          "comment": "Capitalize when replacing name ",
+          "context_left": "t I would be able to go there if I wanted to. We did what we could to keep ourselves occupied while ",
+          "context_right": " was away. As I reached the Museum of Science, I remembered the promise from my dad that we’d visit "
+        }
+      ]
+    },
+    {
+      "body": "\tI tried to explore every city I traveled to. I never knew how long I would be there, so why not try to see everything while it’s there? I loved talking to the people, visiting restaurants, and making superficial friends with those around me. The most recent stop was New Orleans, which was beautiful but humid. I had lived in Pensacola for a year when I was ten, and I made sure to tell my dad that I never wanted to move back there. To my preadolescent disappointment, he was stationed there again and one year turned into two. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "traveled to",
+          "comment": "Is this now, as an adult? ",
+          "context_left": "xplore every city I ",
+          "context_right": ". I never knew how l"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I had lived in Pensacola for a year when I was ten, and I made sure to tell my dad that I never wanted to move back there. To my preadolescent disappointment, he was stationed there again and one year turned into two. ",
+          "comment": "The connection of this to New Orleans isn’t clear. ",
+          "context_left": "eautiful but humid. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tWhen I finally stumbled upon a coffee shop, I stepped inside and violently shook the snow off my hair, my shoulders, and my face. My cheeks felt bright red and numb from the wind hitting me for the last hour. I raced to the register to put in my order before I continued shivering. The cashier looked at me with a pitiful, ‘you’re obviously not from around here,’ kind of smirk. I could feel his eyes on me as I grabbed my card, while he judged my light blue scrubs and badge. The look in his eyes told me he knew everything he needed to know. I was just another bitch who peaked in high school and had decided to become a nurse.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shop, ",
+          "comment": "This is in present day Boston? ",
+          "context_left": "mbled upon a coffee ",
+          "context_right": "I stepped inside and"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hitting me for the last hour. ",
+          "comment": "Don’t need this phrase",
+          "context_left": " numb from the wind ",
+          "context_right": "I raced to the regis"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "of",
+          "comment": "I could immediately picture this! ",
+          "context_left": "\tWhen I finally stumbled upon a c",
+          "context_right": "fee shop, I stepped inside and violently shook the snow off my hair, my shoulders, and my face. My c"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a nurse.  ",
+          "comment": "Wait, she was outside for an hour in scrubs int he snow? Yikes! I enjoyed the way the narrator thinks she knows the judgement here. ",
+          "context_left": "d decided to become ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tI stared at the small loading wheel waiting for my card to be accepted, and practically ran over to the pick-up counter before the receipt touched the palm of my hand. I sat in the first seat I found, knowing I’d be on my feet for the next twelve hours. Before I could even turn around, a form fills the corner of my eye and takes a seat at my table. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "for the next twelve hours. ",
+          "comment": "I’m confused about why she’s visiting Boston but also works there? And I’m interested to see when the plot of the story will begun. The first page was well written but a bit wandering. ",
+          "context_left": "g I’d be on my feet ",
+          "context_right": "Before I could even "
+        }
+      ]
+    },
+    {
+      "body": "\t“What’s up fucker,” he said. I immediately knew who it was. Why did I think I wouldn’t run into him, I’m in Boston? I tried to avoid looking at him, but I could feel his eyes on me. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Boston",
+          "comment": "He seems very Boston. 😂I enjoyed that she doesn’t even bother being like, wow, what are the chances? ",
+          "context_left": "un into him, I’m in ",
+          "context_right": "? I tried to avoid l"
+        }
+      ]
+    },
+    {
+      "body": "\t“You’d usually call me fat, what happened to that line?” I responded. His eyes were still as dark brown that I remembered, but didn’t shine the same way. He looked sad. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I was gonna build up to that,” he answered. “You couldn’t last a second without ruining something for me.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tI giggled: he had always been good at making me laugh. “What else would I be here for?” I couldn’t help but to stare at his tattoo. It was the same one he got in college, with the birth year of his parents in roman numerals on his forearm. I always preferred holding his arm instead of his hand. Thinking of how things used to be made it difficult to meet his eyes.  I looked down at the table. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "table",
+          "comment": "That said, maybe she has a bit more settling in before she immediately clicks back to being with him? ",
+          "context_left": " looked down at the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\t“Isn’t there a Patriots’ game you should be at right now? I’ve seen more Tom Brady jerseys than I have people.” I’m surprised he didn’t drag his sister to the game. ",
+      "annotations": []
+    },
+    {
+      "body": "\tHe hesitated to speak. I knew that look, like he wanted to say something but didn’t want to upset me. He did that often. “I was going to go with my girlfriend,” he began. My eyes shot up and met his. “But we broke up a couple weeks ago.” I didn’t know he had a girlfriend",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "his",
+          "comment": "Very nice revelation. Remember, too, that your narrator can continue to give us information (“His name was Dave, I dated him for three years” or whatever) as she did earlier. ",
+          "context_left": "yes shot up and met ",
+          "context_right": ". “But we broke up a"
+        }
+      ]
+    },
+    {
+      "body": "\tEveryone in high school warned me that he was a “pretty boy,” who only liked to fuck around. I never saw it though, but to be fair I didn’t think of him that way. He never talked to me about girls or relationships, he always wanted to talk about me. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I never saw it though, but to be fair I didn’t think of him that way. ",
+          "comment": "Sentence didn’t track for me. I thought they had been together romantically? I was confused by this. ",
+          "context_left": "ked to fuck around. ",
+          "context_right": "He never talked to m"
+        }
+      ]
+    },
+    {
+      "body": "\tWhen he discovered we were in the same math class, he grilled me about where I was from. He was intrigued by the fact that I was a military brat, and that I had lived in 10 states before Massachusetts. Throughout every proceeding class, he somehow never ran out of questions for me. I practically told him my entire life story that day. I had never talked that much about myself before. About my old friends, which I didn’t have many of, and all my past schools. He wanted to get to know me. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "y",
+          "comment": "It’s interesting she says this, given that she told us stuff about herself at first. ",
+          "context_left": " discovered we were in the same math class, he grilled me about where I was from. He was intrigued b",
+          "context_right": " the fact that I was a military brat, and that I had lived in 10 states before Massachusetts. Throug"
+        }
+      ]
+    },
+    {
+      "body": "\t“And since when did you get a girlfriend,” I questioned. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "questioned",
+          "comment": "Is it all that remarkable that an adult man would have a girlfriend? Or is there a reason why she assumed he didn’t? ",
+          "context_left": "et a girlfriend,” I ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\t“A few months ago.” We both knew this was his first girlfriend since me. I almost felt bad. “So what have you done since you broke up with me?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me",
+          "comment": "Are neither of them on social media? ",
+          "context_left": "\t“A few months ago.” We both knew this was his first girlfriend since ",
+          "context_right": ". I almost felt bad. “So what have you done since you broke up with me?”"
+        }
+      ]
+    },
+    {
+      "body": "\tWhat could I tell him? That I still move around and almost have zero friends? That I wipe asses for a living? That I compare every guy in my life to him? I couldn’t say all of that. I would make a fool out of myself. He was about to grill me; some things never change, I guess.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "still move around and ",
+          "comment": "Be a great moment for her to explain this to us. ",
+          "context_left": " I tell him? That I ",
+          "context_right": "almost have zero fri"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "That I compare every guy in my life to him? ",
+          "comment": "If he is that important to her, maybe she would be half-hoping to run into him in Boston? Or hoping not to? He didn’t come into the story at all until he arrived. ",
+          "context_left": "asses for a living? ",
+          "context_right": "I couldn’t say all o"
+        }
+      ]
+    },
+    {
+      "body": "\t“I still travel.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Where to.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hospitals.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“And how’s that?” He stared at me blankly. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Fine.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Just fine?” He stared at me for longer, trying to make me feel awkward until I said more. I resisted, because I knew what I’d say if I kept going. I’d say that I missed him, and I haven’t been able to even watch a Patriots’ game without thinking of how he screamed at the TV when we were together. I couldn’t get trapped like this again, just to break his heart. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I couldn’t get trapped like this again, just to break his heart. ",
+          "comment": "Unclear why this would break his heart? ",
+          "context_left": "n we were together. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“Yeah.” I could tell he wasn’t pleased with my answer. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“What do you like about nursing?” he continued. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "continued",
+          "comment": "It’s great that their pattern — he asks the question, she responds, grudgingly, continues. ",
+          "context_left": " about nursing?” he ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\t“Helping people.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Like your dad did?” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Kinda.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“How is he?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Fine.” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“And how long are you going to keep telling me everything’s ‘fine’?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“But it’s tru-“ ",
+      "annotations": []
+    },
+    {
+      "body": "\t“It’s not. You just don’t want to talk,” he interrupted. He was the first one I ever opened up to about myself. He was the first person I ever felt comfortable opening up to. I was going to lead him on if I did that. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "interrupted",
+          "comment": "It might be interesting if he doesn’t usually get so snippy but this time he does. ",
+          "context_left": "t want to talk,” he ",
+          "context_right": ". He was the first o"
+        }
+      ]
+    },
+    {
+      "body": "\tI couldn’t think of what to say next. I think he saw me grab my bracelet and start fiddling with it, trying to avoid sitting awkwardly. I almost said it. I almost told him everything. I almost spilled my heart out. “I’m not doing this again.” He interrupted my train of thought. ",
+      "annotations": []
+    },
+    {
+      "body": "“I can’t deal with this back and forth for a second time.” ",
+      "annotations": []
+    },
+    {
+      "body": "He said so much that my brain could barely process it in time. He just kept talking. ",
+      "annotations": []
+    },
+    {
+      "body": "“I can’t keep talking to you if you’re a closed book. You never even told me why you broke up with you. We were perfect one day, and then it went to shit the next.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "up with you",
+          "comment": "?",
+          "context_left": "ld me why you broke ",
+          "context_right": ". We were perfect on"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "next",
+          "comment": "Notice how I reorganized for clarity. I like that he goes here. ",
+          "context_left": "it went to shit the ",
+          "context_right": ".” "
+        }
+      ]
+    },
+    {
+      "body": "I tried to find a break where he had to breathe. I wanted to apologize. I couldn’t. ",
+      "annotations": []
+    },
+    {
+      "body": "“I spent months wondering why. If it was something I did. What I did wrong. I couldn’t just stay friends like you suggested.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tHe looked out the window, trying to calm down, but he obviously couldn’t. “You never told me you loved me. It felt like you were scared of me. Were you?” ",
+      "annotations": []
+    },
+    {
+      "body": "\tI felt my eyes water. “Ye-, yeah,” I finally answered. I felt my lips quiver as I said that. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "answered",
+          "comment": "This is a really big moment, I think. ",
+          "context_left": "-, yeah,” I finally ",
+          "context_right": ". I felt my lips qui"
+        }
+      ]
+    },
+    {
+      "body": "\t“I’m not letting you drag me along again. I’m done with chasing you.” ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd just like that, he walked out. I watched his silhouette disappear in the snow. I tried to remember the sound of his feet hitting the hardwood floor. I tried to remember the sound of his voice. Just like that, he was gone. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "The dialogue and conversation here is very powerful and effective, Fran. I believed that he said these things and I felt you created a character in your narrator who, while trying not to be, was pretty cruel to him. The premise of the story needs some work. The first page is just treading water and creates confusion more than anything else (why doesn’t she have a coat? Why is she in Boston at all and why wouldn’t she be worrying about meeting him?). And then when he enters they seem to not really take much time to adjust to each other or even be surprised, which I would think they would be, given that they seem to have entirely lost touch. So you might think about what she’s in Boston for, and perhaps she’s prepping for that — grabbing a coffee at the hospital Starbucks or whatever. And then what’s he doing? Does he work at the hospital too? What would they be doing if they hadn’t run into each other? Finally, I’d love a sense of why she thinks she can’t be honest to him. I get that it has something to do with the dad and the moving, but it seems pretty cruel to not tell this poor man the truth, 7 or so years later. Very nice draft! Happy revising!"
+    }
+  ]
+}

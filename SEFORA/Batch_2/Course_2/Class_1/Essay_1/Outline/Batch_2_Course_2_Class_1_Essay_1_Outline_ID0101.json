@@ -1,0 +1,36 @@
+{
+  "paragraphs": [
+    {
+      "body": "Should I expect to see squirrels at Walnut Street? (A very rough outline)",
+      "annotations": []
+    },
+    {
+      "body": "Among the places I had heard of in Pittsburgh before I ever came to this city, Walnut Street might be the most modest one. It is neither expansive – as you can see on the map – nor famous, but it does have an intriguing name. Why is it called Walnut Street? Does it have anything to do with the well-known Squirrel Hill? Should I expect to see squirrels eating walnuts there?",
+      "annotations": []
+    },
+    {
+      "body": "The first time I went to Walnut Street was when a friend told me about a well-rated thrift store there. She said, “We should shop for some styles,” and I totally agreed, even though I had never tried thrifting before. Thrifting simply isn’t a part of the culture where I grew up, but why not try something new – just like Walnut Street? Image 1 Prompt: A city street with stores, restaurants, walnuts and squirrels Would it be a street full of walnuts and squirrels? Would it have a European style, given Pittsburgh’s European-style architecture? Or would it be petite, unique, and decorated? With these fore-feelings, my first visit to Walnut Street was both perfect and not so perfect. The thrift store wasn’t particularly stylish, which was understandable since Pittsburgh is certainly not a city of fashion. However, we found a Peruvian store selling handmade traditional goods, and that made the trip worthwhile.",
+      "annotations": []
+    },
+    {
+      "body": "We met the store owner; her reading glasses perched on the middle of her nose bridge and her Peruvian Spanish accent instantly reminded me of scenes from Cien años de Soledad. We spotted a Vietnamese restaurant where we later had pho in. We noticed various Chinese, Mexican and Italian dinners. These diverse offerings perfectly summed up Walnut Street – I had expected squirrels eating walnuts, but instead, I found a cultural intersection. Image 2 Prompt: A city street with stores and restaurants of different cultures, walnuts, and squirrels It certainly reminded me of a street in my home country called Beijing Road. I am from Guangzhou, and we have a street named after the city of Beijing. Isn’t that a testament to how entwined cultures are? Just like Walnut Street, Beijing Road is deeply rooted in tradition and culture. It is built upon early 20th century architectures, and it is a place to savor various traditional Chinese cuisines from across the country. Beijing road and Walnut Street share the very same core characteristic behind but are with different expressions: for instance, Walnut Street is a hub of stores and restaurants from across the world, while Beijing Road offers cuisines from different regions of China, and focuses more on those detailed differences between different types of Chinese food.",
+      "annotations": []
+    },
+    {
+      "body": "Image 3 Prompt: a southern Chinese pedestrian road with early 20th century architecture In hindsight, expecting to see squirrels eating walnuts on Walnut Street wasn’t entirely wrong. Walnut Street does owe its name to the many walnut trees throughout the street, but sadly I did not come across any squirrels on my first visit. However, DALL.E made some stereotypical assumptions about Walnut Street and Beijing Road. Based on the description of Walnut Street on Wikipedia, DALL.E did not expect Walnut Street to be a place with stores and restaurant of different cultures, and thought Beijing Road was a road in Beijing. But is it entirely DALL.E’s fault? I do not think so. Sometimes the description on the internet is not thorough enough to let you get to know a place.",
+      "annotations": []
+    },
+    {
+      "body": "Image 4 Prompt: A street named Walnut Street that is best known for its upscale shopping, fine dining, and private boutiques",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Total": 4.0
+      },
+      "comment": "4 The outline looks nice! You may consider using your first language in the narrative to enrich its content. Overall, good job!"
+    }
+  ]}

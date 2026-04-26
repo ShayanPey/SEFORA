@@ -1,0 +1,506 @@
+{
+  "paragraphs": [
+    {
+      "body": "Cal can’t see the train, but he can hear it.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hear",
+          "comment": "It’s a great opening! I’m immediately interested. ",
+          "context_left": "e train, but he can ",
+          "context_right": " it."
+        }
+      ]
+    },
+    {
+      "body": "Leaning around the corner of the hotel balcony, glasses sliding down the sweat slick ridge of his nose, all he can see is a suggestion of the train in the sparse lights that smear into golden blurs as they hurry by. Across the table, Sasha hums in delight. He can see the tracks without craning his neck, but he does so anyway, hunching over their forgotten game of cards to get a closer look. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "He can ",
+          "comment": "I wasn’t sure if Sasha was the “he” here or not. ",
+          "context_left": "ha hums in delight. ",
+          "context_right": "see the tracks witho"
+        }
+      ]
+    },
+    {
+      "body": "“How can you not like trains?” Sasha says; more of an admonishment than a question.",
+      "annotations": []
+    },
+    {
+      "body": "With a shake of his head, Cal turns back to their cards. “Who said I don’t like them?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "like",
+          "comment": "I was intrigued by this. It’s true that most people like trains. (There’s even a song “Everyone likes the sound of a train in the distance”!)",
+          "context_left": ". “Who said I don’t ",
+          "context_right": " them?”"
+        }
+      ]
+    },
+    {
+      "body": "“You have a terrible poker face,” Sasha swirls his finger in a circle around his own face, then jabs the same finger at Cal. “It’s why you always lose.”",
+      "annotations": []
+    },
+    {
+      "body": "“At Go-Fish? I lose at Go-Fish because I don’t have a poker face?” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "poker",
+          "comment": "This made me laugh. ",
+          "context_left": "ause I don’t have a ",
+          "context_right": " face?” "
+        }
+      ]
+    },
+    {
+      "body": "“Yes, that’s what I just said.”",
+      "annotations": []
+    },
+    {
+      "body": "Cal groans, scrubbing a hand over his face to hide his smile. ",
+      "annotations": []
+    },
+    {
+      "body": "The rest of the game can only be described as a swift, mercy killing. Cal ignores the shark-like grin from Sasha as he collects the cards and jams them back into their box, another bead of sweat slithering down his spine as he stands. This late in the season, the air is usually mild, but tonight it’s dense and viscous. Warm wind swirls at their ankles like stagnant pond water disturbed by wandering feet, algae clinging to legs in the form of sticky sweat splotches. Far off the shoreline of nearby Lake Erie, even farther off than the train, a storm lingers. Without the sun, it’s impossible to see the clouds, swollen fat with unshed rain. He can only catch brief glimpses of them with the rapid flashes of lightning, though it’s too far off to hear the accompanying clap of thunder. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "down his spine as he stands",
+          "comment": "I wasn’t sure who was doing the card collecting and standing here. ",
+          "context_left": "of sweat slithering ",
+          "context_right": ". This late in the s"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the season",
+          "comment": "Doesn’t need to be fixed, but I wondered what season it was. ",
+          "context_left": "tands. This late in ",
+          "context_right": ", the air is usually"
+        }
+      ]
+    },
+    {
+      "body": "\t“Bedtime?” Sasha asks through an exaggerated groan, arms stretched up over his head. Cal nods, wordlessly, and turns to tug the sliding door open and head inside. A blast of cool air greets them, courtesy of their free hotel air conditioning which Sasha had cranked down to the lowest possible setting as soon as they’d arrived. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "open",
+          "comment": "It’s a great detail that they’re outside but have the A/c blasting inside. ",
+          "context_left": "ug the sliding door ",
+          "context_right": " and head inside. A "
+        }
+      ]
+    },
+    {
+      "body": "\tSasha sets to work on getting ready for bed, but Cal lingers by the door. It’s been one tight space after another these past few days: from his tiny studio in Columbus to the even tinier passenger seat of Sasha’s sedan to the not-tinier-but-somehow-still-felt-suffocatingly-tiny probate court. After his years of pre-law studies, he’d been more than prepared to sit in a court of law, but it was still disorienting to be on the other side of the proceeding - that, compounded by the bouts of dizzying head-rushes every time his aunt was called the ‘decedent’ instead of her own name, made for a long afternoon. ",
+      "annotations": []
+    },
+    {
+      "body": "\tInstead of following Sasha’s lead, he brushes past the two twin beds to the small entryway, jamming his feet into shoes and swiping a key card off the television stand. ",
+      "annotations": []
+    },
+    {
+      "body": "“Need to stretch my legs,” He tells Sasha, “I won’t be long.”",
+      "annotations": []
+    },
+    {
+      "body": "Sasha stares at him for a moment, expressionless, as if he can see straight through Cal’s skin and bones - his smoke and mirrors. Then, he gives a small jerk of the head and a clipped, “Okay.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Okay",
+          "comment": "I’d like to get a better sense of who they are to each other — brothers? Lovers? Hard to tell. ",
+          "context_left": "ead and a clipped, “",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "Sasha won’t stop him, never has, but Cal hurries out anyway. The buzz of fluorescent lights follows him from the hotel’s carpeted halls to the stairwell and out into the parking lot, street lamps mimicking the drone of cicadas and the copper glow of candlelight as he passes under them. Just ahead, the storm beckons and warns in tandem. No cars are out, but he still skitters across the road, sandals slapping noisily as he climbs over the rocky border between asphalt and sand. At high tide, there’s only a sliver of dry sand, littered with rough debris, to stand on. The rest of the ‘beach’, if you can call it one, only appears between gushes of black water that spit out offerings in the form of stones and shards of seashells.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "seashells",
+          "comment": "Is this a place he knows already? (If so, why are they at a motel?) ",
+          "context_left": "tones and shards of ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "He plunks down on a somewhat flat rock, heedless of the rough sand and prickly vegetation, drops his head into his hands, and cries. A little at first - hot tears that wet the seams of his eyelids, a few solitary drops making their way down the valley of his face - then more, and more, until he’s no longer crying, really. Just gasping for air in between wet hacks, trying to expel something that will never be dislodged. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dislodged",
+          "comment": "A nice moment. Might give him something that triggers it (or at last explain what it is to us). ",
+          "context_left": " that will never be ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "More drops fall to his face, but this time, they’re coming from the sky. Cal stumbles down from his perch, nearly brains himself trying to scramble back up to the road, and hustles back to the hotel. The storm is faster, still, catching up to him in the parking lot and pelting him with cold pricks of rain that sting at his arms and legs but soothe his puffy face. By the time he reaches their room, he’s breathless and cold, fingers trembling as he attempts to slide the keycard into the lock. He gets it eventually, popping the door open and sliding inside to an unexpectedly bright room. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lock",
+          "comment": "Nice description. ",
+          "context_left": "he keycard into the ",
+          "context_right": ". He gets it eventua"
+        }
+      ]
+    },
+    {
+      "body": "Sasha is sitting up in bed across the room with a book perched against his knees. His eyes flick over to Cal with that same expressionless face, and Cal crumples. Somewhere between his ass hitting the floor and that return of the dizzying head-rush sensation, Sasha had gotten out of bed to come sit on the floor with him, bony hand pulling Cal’s head to rest on Sasha’s shoulder. They’ve never hugged before - Cal isn’t sure if this even counts as a hug - but, all things being equal, it’s okay.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "They’ve never hugged before ",
+          "comment": "Who are they to each other? They’ve never hugged before but they’re sharing a hotel room? ",
+          "context_left": "n Sasha’s shoulder. ",
+          "context_right": "- Cal isn’t sure if "
+        }
+      ]
+    },
+    {
+      "body": "“She’s dead,” He whispers, monotone,  into the thin cotton of Sasha’s pajama shirt. “I didn’t see her for- I won’t see her again.”",
+      "annotations": []
+    },
+    {
+      "body": "“No,” Sasha says, and Cal doesn’t know if he’s agreeing or disagreeing, but decides that he doesn’t care either way. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThe ferry ride from Port Clinton to South Bass Island is, on average, only twenty minutes long. Today, it felt like an eternity. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Port Clinton to South Bass Island ",
+          "comment": "Help us understand where this. Are we still on Lake Erie? ",
+          "context_left": "The ferry ride from ",
+          "context_right": "is, on average, only"
+        }
+      ]
+    },
+    {
+      "body": "\tWhen Cal had lived with his Aunt Sloane, it was in a one-bedroom apartment on the east side of town, where they had to install a divider down the middle of the bedroom and a murphy bed in the living room for when Sloane’s snoring got to be too much for Cal to sleep through. It was only after his second year away at college that she bought the house on South Bass, quitting her job as a pharmacy tech at the hospital so she could channel all her energy into ‘creating, as God intended’ - and create she did. During Cal’s last visit, it took them the better part of an hour to clear a space for him in her spare bedroom, the room fit to burst with the number of canvases she’d stuffed in there, each covered in varying degrees of paint. Most were works in progress: sunrises with no earth to emerge from, figures with no faces, boats with no waves to carry them, faces with no figures. Only a few were completed, signature and all. Of those, only one was hung up on the wall. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "side of town, ",
+          "comment": "Which town?Now, I know the questions I’m asking here are very small. Which is good! But even those these are tiny data points, I do still really need to know these key bits of information. Consider whether your narrator could be just a little more helpful. ",
+          "context_left": "artment on the east ",
+          "context_right": "where they had to in"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "on the wall. ",
+          "comment": "You might consider having him tell Sasha about this. ",
+          "context_left": "nly one was hung up ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "A woman, perhaps around Cal’s age, sits cross-legged in a sea of brush-stroked grass, leaning back on her hands with her head tipped towards an unseen sun. It’s bright in her world, so much so that she has to squeeze her eyes shut to reveal the beginnings of crow’s feet near her temples, though her mouth remains stretched out in a close-mouthed grin. Her head lolls to one side, towards the viewer. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "viewer",
+          "comment": "I thought that this was a person on the ferry! ",
+          "context_left": "e side, towards the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Cal hasn’t seen the painted woman or her creator in over three months. He tells himself he was too busy, between wrapping up his studies, house-hunting with Sasha, and searching for a job while also window shopping for law schools - but that’s only a half truth. He had time, there’s always time, but the other half of the truth is a far more difficult pill to swallow.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "house-hunting with Sasha, ",
+          "comment": "Okay, they’re together? But haven’t hugged? ",
+          "context_left": "ing up his studies, ",
+          "context_right": "and searching for a "
+        }
+      ]
+    },
+    {
+      "body": "When the ferry finally docks, Cal takes his time herding Sasha off the boat, letting most of the top deck clear out before making their way downstairs. He makes Sasha go first, warily eying the way his entire body sways out of sync with the rocking of the ship - Cal’s not small by any means, but next to Sasha, anyone would look slightly. ",
+      "annotations": []
+    },
+    {
+      "body": "They manage to disembark without any major injuries, though the steep hill up to the road and golf cart rental almost finishes Cal off. He tries not to let the attendant see how winded he is as they make their way through the rental agreement, promising the girl behind the counter that no, he will not operate the cart while under the influence and yes, he will be the only driver. Once he’s signed the dotted line and they’ve found their cart, well out of the attendant’s line of sight, Cal tosses Sasha the keys and plunks down into the passenger seat.",
+      "annotations": []
+    },
+    {
+      "body": "“You know how this works?” He glances at Sasha’s side profile. His thick brows are furrowed at the set of instructions printed on the wheel, finger tracing along as he mouths the words to himself. ",
+      "annotations": []
+    },
+    {
+      "body": "“Yes, yes,” Sasha huffs, “I can drive anything.”",
+      "annotations": []
+    },
+    {
+      "body": "Cal holds his hands up in mock surrender, lets Sasha fuss some more, then braces himself against the cracked leather seat as they go lurching out of the parking lot. With the end of tourist season drawing closer and closer, they don’t pass many people out on the road. They buzz down empty stretches of pavement, feeling like the loudest thing around for miles, and pass by the airport and a campground before Cal signals Sasha to turn down a gravel lane. Lemon yellow siding soon comes into view - Sloane trimmed back much of the foliage that’d been snaking up all sides of the house - and when the golf cart comes to a stop behind the other car parked there, he can hear the clinking of a half-dozen wind chimes he knows are adorning the back deck. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "fuss",
+          "comment": "It’s a really nice detail that Cal has to do the renting but then lets/makes Sasha do the driving, but to be honest, I wasn’t quite sure why. ",
+          "context_left": "rrender, lets Sasha ",
+          "context_right": " some more, then bra"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "closer and closer, ",
+          "comment": "I’m perplexed as to whether this place is new to Sasha or not. If it is, perhaps Cal could explain it to him a bit? ",
+          "context_left": "rist season drawing ",
+          "context_right": "they don’t pass many"
+        }
+      ]
+    },
+    {
+      "body": "Part of Cal wants to stay right here, skin glued to the seat, and wait for Sloane to come sweeping out of the house to greet him. He wants her to fold him up in her arms again, let her smear paint on his clothes and try to rub it off with a licked thumb. He does not want to meet the owner of the unfamiliar car parked here.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "here",
+          "comment": "This might be something they talk about even, barely, on the way. ",
+          "context_left": "Part of Cal wants to stay right ",
+          "context_right": ", skin glued to the seat, and wait for Sloane to come sweeping out of the house to greet him. He wan"
+        }
+      ]
+    },
+    {
+      "body": "He technically already has, albeit it was only a clipped conversation via phone. Besides Cal, Aileen Halloran was the only other person named in Sloane’s will, the beneficiary of a few shares of stock Cal didn’t know she had as well as an inheritor of a chunk of Sloane’s extensive art collection. After the probate court notified her, she got in touch with Cal to sort out the sordid details. ",
+      "annotations": []
+    },
+    {
+      "body": "And now, here she is, her brick red hatchback sitting where Cal usually parks and likely somewhere inside, snooping through Sloane’s life. He almost wants to wring Sloane’s neck just as much as he wants to hug her: blindsiding him with her death was one thing, but throwing in some woman he’s never met, much less heard of, before in his entire two plus decades of knowing his aunt, without so much as a head’s up is a whole other can of worms. It’s all at once infuriating and totally par for the Sloane course. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hatchback sitting where Cal usually parks and ",
+          "comment": "Great detail. ",
+          "context_left": "e is, her brick red ",
+          "context_right": "likely somewhere ins"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "other",
+          "comment": "I get his annoyance, but this doesn’t feel like enough to be really angry about. Why would this be profoundly destabilizing to him? ",
+          "context_left": "ead’s up is a whole ",
+          "context_right": " can of worms. It’s "
+        }
+      ]
+    },
+    {
+      "body": "Rounding the corner of the detached garage, Cal nearly walks head-first into Sasha’s back, who’s come up short and staring at something on the front step. Cal follows his gaze only to find the painted lady sitting out on the step. Except she’s not in canvas form anymore - a real, flesh and blood woman is looking back at them and while her crow’s feet have deepened and there’s graying around her temples now, it is unmistakably the woman from the painting. Her expression tries to twist up into something neutral, but the stiff set of her shoulders and tightly clasped hands suggest otherwise.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "otherwise",
+          "comment": "Reader, I gasped! Great reveal. ",
+          "context_left": "asped hands suggest ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "One at a time, Cal forces his legs to take him up the walkway and meet the painted lady in a quick but firm handshake.",
+      "annotations": []
+    },
+    {
+      "body": "“I’m, uh, Callum,” He says, wiping his hands on his jeans, “We spoke on the phone-”",
+      "annotations": []
+    },
+    {
+      "body": "“I remember,” She cuts him off. Her voice is low, and bit rougher now than it was over the phone, as if she hasn’t spoken since their last conversation. “Aileen,” She gestures to herself, then peers around Cal at Sasha’s looming form. ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, right,” He clears his throat and shuffles to the side to let Sasha step forward, “this is Sash-”",
+      "annotations": []
+    },
+    {
+      "body": "“Aleksandr,” Sasha interjects.",
+      "annotations": []
+    },
+    {
+      "body": "Cal slides his eyes between the two of them as they shake hands, “Yeah, Aleksandr. He’s a friend, just here to give us an extra set of hands.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a friend, just ",
+          "comment": "I have no idea if this is legit or not. Aileen seems to be doubtful! ",
+          "context_left": "ah, Aleksandr. He’s ",
+          "context_right": "here to give us an e"
+        }
+      ]
+    },
+    {
+      "body": "She nods, a quick jerk of the head, though her eyes narrow at Sasha, “Right.”",
+      "annotations": []
+    },
+    {
+      "body": "There’s a prolonged pause, all of them looking at one another and simultaneously anywhere but one another, before Sasha reminds him that he has the house keys. He’s relieved at the opportunity to get out from under her unnerving gaze as he bounds up the stairs to the front door. With the storm door propped open against his back, he works the keys into the locks and pops the leaf green door open for Aileen and Sasha to follow him in.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "door",
+          "comment": "I like that you’re making Aileen kind of difficult and prickly, and would encourage you to continue to make her so. It helps explain why Cal doesn’t want her around. ",
+          "context_left": "at the opportunity to get out from under her unnerving gaze as he bounds up the stairs to the front ",
+          "context_right": ". With the storm door propped open against his back, he works the keys into the locks and pops the l"
+        }
+      ]
+    },
+    {
+      "body": "It’s the second time he’s been in here since Sloane’s passing, and the first time with company. Even Aileen’s impassive expression cracks a bit as they walk down the hall to the kitchen and living area, where every available surface has been decorated and adorned with artwork, both of Sloane’s own creation as well as pieces she’s collected over the years. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "as",
+          "comment": "Is there any more art of Aileen? ",
+          "context_left": "It’s the second time he’s been in here since Sloane’s p",
+          "context_right": "sing, and the first time with company. Even Aileen’s impassive expression cracks a bit as they walk "
+        }
+      ]
+    },
+    {
+      "body": "\tCal leaves Aileen and Sasha to balk as he heads over to the space he cleared on the kitchen table. The packet he’d found when he first came back to the house sits right where he left it, the letter from the beginning torn out and folded up in his suitcase back at the hotel. The rest of it contains pages upon pages of listed artworks, each with a set of initials next to them: ‘CD’ for Cal, ‘AH’ for Aileen. As executor of the will, Cal could technically chuck this list in the bin and duke it out with Aileen himself. And he wants to, as selfish as it is. But he’s also curious to see what made Aileen special enough to not only get an inclusion in the will, but a permanent space nailed onto Sloane’s wall.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "As executor of the will, Cal could technically chuck this list in the bin and duke it out with Aileen himself. ",
+          "comment": "Uh, no, he could not. :) ",
+          "context_left": "l, ‘AH’ for Aileen. ",
+          "context_right": "And he wants to, as "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Sloane’s wall.",
+          "comment": "You might consider whether Aileen is the first of Sloane’s lovers he’s met. Did everyone know Sloane was gay? (Was she?) ",
+          "context_left": "t space nailed onto ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tClearing his throat, he stands to pass along the packet to Aileen, who begins flipping through the pages with pursed lips and stony eyes. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“A lot of it is in the spare bedroom upstairs,” Cal jabs a thumb at the ceiling, “But there’s a lot on there that I don’t recognize. Some of it’s probably out in the garage, too.”",
+      "annotations": []
+    },
+    {
+      "body": "\tAileen hums, but her eyes don’t lift from the paper. Another long pause, then she flicks the packet shut and spins it back around to him. “Well, let’s get at it, then.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "get at it, then.”",
+          "comment": "Maybe she can be even more difficult? I think in general you can push your characters’ personalities a bit more to the extreme. Not a lot! I understand it’s realistic fiction and I like that. But a bit more. ",
+          "context_left": "o him. “Well, let’s ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“I don’t like her,” Sasha says through a mouthful of fries.",
+      "annotations": []
+    },
+    {
+      "body": "\tThey’re sitting at a table on the upper deck of the Boardwalk now, inhaling their lunch after a solid four hours of searching through that one spare bedroom, only to come up with six paintings from their list. Cal had offered Aileen free lunch in exchange for a car ride into downtown Put-In-Bay, but she’d declined almost instantly. No, thank you, she’d said, blunt, that’s not necessary. Whether she was talking about the lunch or the extra time they would be spending together, Cal was unsure.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "list",
+          "comment": "Confused — are there paintings not on the list? ",
+          "context_left": "aintings from their ",
+          "context_right": ". Cal had offered Ai"
+        }
+      ]
+    },
+    {
+      "body": "\t“She’s probably grieving, too,” Cal offers up a defense, though Sasha quickly cuts it down with a withering glance, “Yeah okay, I don’t like her either,” He sighs and goes back to picking at his burger.",
+      "annotations": []
+    },
+    {
+      "body": "\t“You are grieving, and you don’t act like that,” Sasha plows on. Like a dog with a bone, Cal thinks to himself. “She’s lucky you even let her in the house.” Nodding, Cal lets Sasha continue on his tirade, knowing he’s not all that upset but also that things will get ugly if he doesn’t get it out now, out of earshot from Aileen. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Sasha plows ",
+          "comment": "I’d like Sasha to have some particular reason to dislike her. It seems odd that he’s the one more upset. ",
+          "context_left": "n’t act like that,” ",
+          "context_right": "on. Like a dog with "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "out of earshot from Aileen. ",
+          "comment": "Probably not a bad idea to see some of that conflict play out. ",
+          "context_left": "n’t get it out now, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“And I am just trying to help! She’s so suspicious when she’s got no right to be,” Sasha says between gulps of soda. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“I know, man, I know,” Cal tries to placate, “But you are being a big help to me. I appreciate it.”",
+      "annotations": []
+    },
+    {
+      "body": "\tThey look at each other for a moment, Sasha’s mouth squirming, but he says nothing and they return to their food. Cal continues to shuffle his fries around and secretly hopes that, by the time they return to Sloane’s house, Aileen has either evaporated into thin air or walked off into the lake. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I really enjoyed this excerpt, and think my notes above point you to the two things I’d like to see. First, more help from the narrator. And also, greater stakes. It’s not that Aileen has to be horrible but these two should find her to be so, for some reason. Right now, she seems maybe a little aloof, but not that bad, and so their extreme dislike of her is strange — it almost makes the story more about Sasha than about the death and grief. I’m not suggesting you get rid of Sasha as a character, only think through what Aileen is doing that’s off-putting and so on. Hope that makes sense! It’s a strong draft with a lot of really nice writing — I felt the opening was quite strong. Thanks!"
+    }
+  ]
+}

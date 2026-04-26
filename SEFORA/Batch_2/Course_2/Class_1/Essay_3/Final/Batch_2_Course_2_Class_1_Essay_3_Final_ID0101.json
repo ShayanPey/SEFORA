@@ -1,0 +1,63 @@
+{
+  "paragraphs": [
+    {
+      "body": "AI in mental health: AI chatbots as therapists  University of Pittsburgh Introduction AI chatbot therapists have been a mental health treatment method even before generative AI made breakthroughs and popularized itself worldwide. In 2021, 22% of adults were reported to have used a mental health chatbot, and 47% reported to be interested in using it if needed, according to a U.S. national survey (Romael Haque et al., 2023). Today, the continuing development of AI therapists appears to provide greater access to mental health care, especially for traditionally underserved communities, while simultaneously raising important technical challenges. The critical questions emerging from this technological advancement include whether AI therapists improve effectiveness compared to human therapists in treating mental health conditions, how they ensure accuracy without misdiagnosing patients, and whether they truly reduce barriers to mental health care in underserved communities.",
+      "annotations": []
+    },
+    {
+      "body": "Discussion To take a closer look at these three main aspects of research questions, that is, the effectiveness, accuracy, and accessibility of AI therapists, a short interview with a student from Neuroscience Department, University of Pittsburgh was conducted in April 2025. The interview contains only two questions with respect to effectiveness and accessibility and is as below. Primary Research: An Interview Q1: Do you think AI improves effectiveness in treating mental health conditions? A1: Hard to say. “Treating mental health conditions” is a vague concept, and there have not been enough samples for us to verdict on whether AI improves treatment effectiveness or not. Q2: Do you think AI reduces barriers to mental health care in underserved communities? The interview confidently addressed the research question on accessibility, that is, it is clear very clear that AI therapists help reduce barriers to mental health care in underserved communities, but it left the other two questions on effectiveness and accuracy unaddressed. Therefore, further secondary research was taken to dive deeper into the topic. AI Therapists Give More Effective Treatments…Or Not?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " The interview",
+          "comment": "Please include the entire list of interview questions and sample participant quotes in the appendix.",
+          "context_left": "ucted in April 2025.",
+          "context_right": " contains only two q"
+        }
+      ]
+    },
+    {
+      "body": "AI therapists demonstrate improved effectiveness in treating common mental health issues compared to their human counterparts, to some extent. According to Zoha Khawaja and colleagues (2023), one of the key benefits of psychological AI chatbots is their ability to “provide highly personalized support and guidance”. By leveraging machine learning algorithms, these technologies can adapt to an individual's unique needs and preferences, tailoring their responses accordingly. This personalization ensures individuals receive support that is customized to their specific requirements, potentially making interventions more effective. Human therapists, despite their training and expertise, may occasionally miss nuances in personal requirements, making them less effective than algorithm-based AI in some cases. However, it's important to note that AI therapists generally show reduced effectiveness when dealing with rare or complex mental health issues where human therapists' experience and intuition remain superior.",
+      "annotations": []
+    },
+    {
+      "body": "But does “personalized support and guidance” necessarily lead to improved effectiveness in mental health treatments? AI’s commonly recognized capability of generating highly customized contents guaranteed AI therapists’ personalized treatments but does not guarantee enhanced effectiveness. According to research conducted by Ashish Mehta and colleagues (2021), there were already over 10,000 mental health applications available to customers even back in 2021, and it is almost impossible to monitor their quality and ensure all these generative mental health applications are providing effective, if not less effective than human therapists, treatments. Furthermore, the effectiveness of AI therapists appears to vary significantly depending on the mental health condition being addressed. According to the same study, AI therapists tend to be notably less effective in treating depression compared to anxiety, highlighting that even though AI therapists are proven to be more effective than their human counterparts when treating some mental health issues, there enough sufficiency is no to conclude that AI therapists will necessarily be more effective. Remain Unstable: Regarding Accuracy Currently, AI therapists cannot independently ensure their appropriateness and accuracy without human intervention. According to comprehensive research by Al Razaq and colleagues (2022), AI shows mental health diagnosis accuracy rates ranging from 54.76% to 92.1% in some studies. Guaranteeing the appropriateness and accuracy of AI therapeutic interventions is a substantial process requiring collaboration among various stakeholders, including data scientists, human therapists, and AI therapy users. Most AI systems are developed with oversight mechanisms where human clinicians review interactions, validate responses, and periodically update the knowledge base. Additionally, many platforms implement “alarming systems” to recognize high-risk situations, such as suicidal ideation or self-harm, and redirect users to human professionals or crisis resources. While AI systems continue to improve through supervised learning and feedback iterations, they remain complementary tools rather than standalone solutions today, but may someday became appropriate and accurate therapists themselves without human interventions. The Promising Accessibility The integration of AI therapists in mental healthcare shows particular promise for underserved populations facing barriers to traditional care systems. Research by AI therapy scientists Habicht and colleagues (2023) provides compelling evidence of this impact, demonstrating that AI-facilitated mental health tools led to a 15% increase in total referrals, significantly outperforming the 6% baseline increase observed in services using traditional self-referral methods during the same period. Most remarkably, these tools proved especially effective for minority groups, including non-binary individuals (235% increase), bisexual individuals (30% increase), and ethnic minority populations (31% increase). These statistics suggest that AI therapists can help address significant accessibility gaps by providing 24/7 availability, eliminating geographic barriers, reducing costs, and offering anonymous support that minimizes stigma-factors that often prevent underserved communities from seeking traditional mental health care. As these technologies continue to develop with cultural sensitivity and linguistic diversity, they could become vital components in creating more equitable mental health systems. A clear improvement in accessibility appears to be the most certain conclusion we can make from our primary and secondary research, but there still appear to be some counterarguments. Results from research conducted by Mojtabai and colleagues (2010) show that 44.8% of the respondents with a disorder of the survey reported to prefer handling mental by their own than seeking treatments, that is, despite the significantly improved accessibility to mental health treatments in underserved communities, some with mental health conditions may demonstrate low perceived need. While it is true that improved accessibility alone does not guarantee increased utilization of mental health treatments, dismissing its significance would overlook its foundational role in enabling accessibility. The fact that some individuals choose to manage their mental health conditions independently does not eliminate the importance of having accessible options available. Instead, it underscores the need for a dual approach – enhancing accessibility while also addressing the psychological and cultural barriers that prevent people from seeking mental health care.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "The arguments look nice!",
+          "context_left": "ed effectiveness. Ac",
+          "context_right": "According to researc"
+        }
+      ]
+    },
+    {
+      "body": "Results Wrapping up both primary and secondary research conducted, answers addressing the research questions put forward at the beginning can be presented. First, while AI therapists demonstrate certain advantages in terms of personalization, the evidence regarding their overall effectiveness is mixed. There appears to be clear variability for AI therapists in treating different mental health conditions, making us not confident enough to verdict on whether AI provide improved effectiveness than human overall. Regarding accuracy, current AI systems show inconsistent diagnostic reliability, with accuracy rate ranging severely in different studies and this variability suggests the need for continuous human oversight and intervention as well as the claim that AI therapists are not yet fully capable of operating independently or safely diagnosing and treating mental health conditions without human collaboration. In contrast to the uncertainty in effectiveness and accuracy, both primary interviews and secondary research showcase enough sufficiency for us to conclude that AI therapists can significantly reduce barriers to mental health care, particularly for underserved communities and minority populations, despite some counterarguments.",
+      "annotations": []
+    },
+    {
+      "body": "Conclusion In conclusion, AI chatbot therapists present a promising yet still maturing development in the field of mental health care, as most of other AI tools do. Just as what is stated in the answer addressing the question on accuracy, complemented by collaboration among various stakeholders, including data scientists, human therapists, and AI therapy users, AI can already make itself a powerful assistant, but still not yet a replacement to human therapists.",
+      "annotations": []
+    },
+    {
+      "body": "Reference Romael Haque, M. D., Rubya, S. (2023). An overview of chatbot-based mobile mental health apps: Insights from app description and user reviews. JMIR Mhealth Uhealth, 11. doi: 10.2196/44838. Khawaja, Z., Bélisle-Pipon, J. (2023). Your robot therapist is not your therapist: understanding the role of AI-powered mental health chatbots. Front Digit Health, 5. doi: 10.3389/fdgth.2023.1278186 Mehta, A., Niles, A. N., Vargas, J. H., Marafon, T., Couto, D. D., Gross, J. J. (2021). Acceptability and effectiveness of artificial intelligence therapy for anxiety and depression (Youper): Longitudinal observational study. JMIR, 23(6). doi: 10.2196/26771 Al Razaq, A. A., Alhuwail, D., Schneider, J., Toro, C. T., Ahmed, A., Al Zubaidi, M., Al Ajlani, M., & Househ, M. (2022). The performance of artificial intelligence-driven technologies in diagnosing mental disorders: an umbrella review. Npj digital medicine, 5. Habicht, J., Viswanathan, S., Carrington, B., Hauser, T., Harper, R., Rollwage, M. (2023) Closing the accessibility gap to mental health treatment with a conversational AI-enabled self-referral tool. Nature Medicine, 30, 595–602. doi: 10.1038/s41591-023-02766-x Mojtabai, R., Olfson, M., Sampson, N. A., Jin, R., Druss, B., Wang, P. S., Wells, K. B., Pincus, H. A., Kessler, R. (2010). Barriers to mental health treatment: results from the National Comorbidity Survey Replication. Psychological Medicine, 41(8). https://doi.org/10.1017/s0033291710002291",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 3.0,
+        "Sources": 3.0,
+        "Organization": 3.0,
+        "Writer’s Ethos": 2.0,
+        "Total": 14.0
+      },
+      "comment": "N/A"
+    }
+  ]}

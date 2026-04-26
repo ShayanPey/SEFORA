@@ -1,0 +1,96 @@
+{
+  "paragraphs": [
+    {
+      "body": "Literature World Across The Atlantic Ocean",
+      "annotations": []
+    },
+    {
+      "body": "After a thirteen-hour flight, I finally landed in Pittsburgh, Pennsylvania. The atmosphere here is so much different compared with the one in Taiwan, which is my hometown. Before the semester started, I walked around the campus, looking out for places and tourists that were new to me. While searching through the Internet, I found out that there is a library near our campus, the Carnegie Library in Pittsburgh. As a person who loves to explore novelty, I immediately planned to have a visit. In the beginning, I imagined the historical library to be covered with an artful and humanistic atmosphere. Through the posted pictures online, I can tell that the building gives a solemn vibe. As a result, I picture it as having crystal chandeliers and gorgeous decorations like it was in ancient centuries. (picture 1-1)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is so",
+          "comment": "Please use the past tense consistently throughout the paragraph.",
+          "context_left": "The atmosphere here ",
+          "context_right": " much different comp"
+        }
+      ]
+    },
+    {
+      "body": "It felt like moving into a different world when I stepped into the Carnegie Library in Pittsburgh. While walking up the elegant stairs, I glanced through the ornaments around the building. My move was much more cautious as the silent vibe filled the atmosphere. Obviously, some parts of the library look alike to the one in my imagination. Although it does have a historical and artful atmosphere, it is too luxurious in my imagination. In fact, the library has a cozy space where people are allowed to study or read. The area inside the library is spacious and comfortable with the soft lighting of orange. I enjoyed sliding through the bookshelf and flipping through the ancient novels and aged sheet music. Everything feels so quiet in the space. I would say that I was isolated in a good way. Surprisingly, there was a piano with earphones for people who wanted to play inside the library. Moreover, a machine for composition is provided for the public, which I never saw in any library back in my hometown. For those who love music and are interested in making music like me, the corner of the library is the best place for our entertainment. (picture 1-2) During the visit, I realized the impression given by the Carnegie Library in Pittsburgh was different from the library near my house. The library won the name “Knowledge Canyon” with the special design of the building. Despite the fact that it is still in construction, it could be clearly seen by the blueprint that the library will be surrounded by plants, providing an eco-friendly environment. The energy-saving functions, including the categories of wind and sunlight, make the library a unique place to study or read. Interestingly, my hometown Hsinchu was known as “風城”, which means that we got a lot of wind throughout the year. At the same time, the designers’ troupe is mainly about adding natural elements to buildings. “為都市創造出 諸多具有機生長、連續性皺褶蔓延的空間，形成所謂的人間自然.” Being inspired by the environmental factors in Hsinchu, the designers planned to give the Knowledge Canyon the ability to fit in the ecosystem without producing too much destruction. The library will possess ventilation and the transmission of light, making the best use of the natural resources. Those special details in the construction’s blueprint provide people with a natural space to relax and read. (picture 1-3)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " it",
+          "comment": "Please clarify what you mean by \"it\" here.",
+          "context_left": "magination. Although",
+          "context_right": " does have a histori"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "feels so",
+          "comment": "felt",
+          "context_left": "t music. Everything ",
+          "context_right": " quiet in the space."
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it is",
+          "comment": "The library - please clarify what you mean by \"it.\"",
+          "context_left": " artful atmosphere, ",
+          "context_right": " too luxurious in my"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "e designers’ troupe ",
+          "context_right": "mainly about adding "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "make",
+          "comment": "turned the library into a unique place",
+          "context_left": " wind and sunlight, ",
+          "context_right": " the library a uniqu"
+        }
+      ]
+    },
+    {
+      "body": "The Carnegie Library in Pittsburgh and the Knowledge Canyon in Hsinchu, Taiwan, appeared differently in either the appearance or the atmosphere. With a focus on distinct aspects, these two locations both feature remarkable designs. The former emphasizes more on the heritage of history and art; the latter dives more into how to utilize natural resources. I can’t deny that I have a certain stereotype when it comes to libraries in other countries. I always imagine it to be as splendid as it can be, forgetting that it is the mark of history. The sense of sacredness inside the library makes me develop a feeling of being a time traveler temporarily. It seems more like a fusion of library and museum to me. On the other hand, the Knowledge Canyon gives a fully modern feeling. Different from the former library, it includes all the functions that people require in nowadays' society. While providing a space that is suitable for people of all ages, the building gains a uniqueness in its appearance. Furthermore, the designers take action to save the planet with an environmentally friendly concept, which is using plenty of natural resources wisely. (picture 1-4)",
+      "annotations": []
+    },
+    {
+      "body": "I found it really interesting to be in a place that might be familiar to me but feels totally unalike after I went to Carnegie Library in Pittsburgh in person. The visit is such a special experience for let me realize the differences between libraries between America and Taiwan. In addition, it helped me appreciate how Western libraries often preserve history and cultural identity in their design, creating a sense of continuity. On the other hand, the library in my hometown reflects a modern and progressive approach to architecture. The distinct styles of building are interesting to learn about and are both vital for global cultural diversity. I realized that libraries are not merely places where people can gather information or read books. They are also powerful symbols of the values and ideals insisted on by different cultures. Whether they focus on tradition, cultural preservation, or modern innovation, libraries are important markers of a society's identity, priorities, and aspirations. The cross-cultural comparison opened my eyes to how the same kind of constructions across the ocean can lead to questions about the cultural differences between societies. The libraries themselves become more than just structures; they are reflections of the cultural narratives that shape them.",
+      "annotations": []
+    },
+    {
+      "body": "picture 1-1 picture 1-2",
+      "annotations": []
+    },
+    {
+      "body": "picture 1-3 picture 1-4",
+      "annotations": []
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Main Point": 2,
+        "Plot": 2,
+        "Details": 2,
+        "Transitions and Verb Tenses": 1.5,
+        "Writer's Ethos": 1.5,
+        "Overall": 9
+      },
+      "comment": "N/A"
+    }
+  ]
+}

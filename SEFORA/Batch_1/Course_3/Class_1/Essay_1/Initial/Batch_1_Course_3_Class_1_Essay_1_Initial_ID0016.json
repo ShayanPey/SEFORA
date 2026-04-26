@@ -1,0 +1,613 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Mixologist",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Mixologist",
+          "comment": "Intriguing title. It’s totally fine to include a cover page, but not necessary, FYI. ",
+          "context_left": "The ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "First Short Story, First Draft",
+      "annotations": []
+    },
+    {
+      "body": "Lydia knows the count, or, moreso, Lydia has made the count her ritual.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", or, moreso, ",
+          "comment": "It’s a great opening. I wonder if you need this. Maybe: “Lydia knows the count. She’s made it her ritual.” Works better? ",
+          "context_left": "ydia knows the count",
+          "context_right": "Lydia has made the c"
+        }
+      ]
+    },
+    {
+      "body": "Left hand: soda gun. Hold for five. T for sweet tonic water. Right hand: Tanqueray, fastened with the new bottle pourers Jimmy bought only last week, after a devastating cotton swab sample of mold was collected atop the spout of the old one, much to the horror of the regulars, on-looking, their red, bashful faces soon turning toward their phones, the reviews section of Google. Jimmy didn’t order the new bottle pourers through the supplier. Just walked on down to Walmart and picked up about five or so. Aiden, only sixteen and on his way to head cook, told Jimmy this was stupid. Lydia knows it’s stupid, too, more so than Aidan. But her input means less to Jimmy. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "T ",
+          "comment": "?",
+          "context_left": "gun. Hold for five. ",
+          "context_right": "for sweet tonic wate"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "section of Google. ",
+          "comment": "Was sort of surprised regulars would trash the bar on Google?Who was doing the swabbing? ",
+          "context_left": "phones, the reviews ",
+          "context_right": "Jimmy didn’t order t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "this was stupid",
+          "comment": "I don’t know why this was stupid and would appreciate some help understanding. ",
+          "context_left": "ad cook, told Jimmy ",
+          "context_right": ". Lydia knows it’s s"
+        }
+      ]
+    },
+    {
+      "body": "Hold for five. Same time as the tonic. One-to-one ratio, a perfectly curated symmetry. An even distribution of liquor and mixer over a bed of floating rocks, wasted in the bloated-bellies of hillbilly bar patrons, in which the cocktail will return again to the surface in the form of belches. They won’t enjoy it as much as they should. Not enough, anyway. They will tilt the frosted rim to their slit lips, yank the drink back as if a sling-shot, fumble for the coaster on the way down. Twist of lemon, every time. That’s what makes it perfect.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hillbilly bar patrons",
+          "comment": "This is totally me showing my straight edge, but this felt like slightly too sophisticated a drink for hillbillies? ",
+          "context_left": " bloated-bellies of ",
+          "context_right": ", in which the cockt"
+        }
+      ]
+    },
+    {
+      "body": "The cheap bar lights hum above as Lydia slides the drink across the bar’s Red Sea to the customer. Music roaring, loud and ear-piercing, the only acceptable level of volume for a rural dive-bar on a Friday night. In the low, dismal light, the patron smiles across the aisle to Lydia, swirling the thin, black straw around the glass’s ice maze. He sips through the puny straw. ",
+      "annotations": []
+    },
+    {
+      "body": "“Open or closed, hon,” Lydia says. She tightens her black apron around her waist, tugging at the scratchy fabric so that the front pocket is center. Feeling the ache in the back of her head, her eyes hover over the rest of the bar: no empty seat, all lushed-up, round bodies, asses stacked atop stiff barseats, a pack of inbred gargoyles.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "gargoyles",
+          "comment": "I love the flow of action here. The “hon” vs. how she really feels. That said, there’ve been three slams of the clientele in 3 paragraphs. Got it. ",
+          "context_left": "s, a pack of inbred ",
+          "context_right": ".  "
+        }
+      ]
+    },
+    {
+      "body": "The man jumps, lips still glued to the straw, as if he is taken aback by the question. As if his stay at the bar requires discrete contemplation, and he doesn’t see the inquiry coming. Lydia knows this part of their choreographed dance, too. His rehearsed indecision, shaking his head up and down, pretending to need her approval, or, pretending to not already be decided.",
+      "annotations": []
+    },
+    {
+      "body": "“Open. Yeah,” he pries his lips from the drink, “Let’s leave it open.”",
+      "annotations": []
+    },
+    {
+      "body": "Lydia smiles. She always knows the answer before he — always a he – opens his mouth.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Lydia smiles. ",
+          "comment": "I wondered if this is a real smile (pleased at herself for knowing) or a fake smile (for his benefit)?",
+          "context_left": "",
+          "context_right": "She always knows the"
+        }
+      ]
+    },
+    {
+      "body": "“Sure thing.”",
+      "annotations": []
+    },
+    {
+      "body": "\tA lot of bartenders, Lydia has found, justify their occupation by preaching, loudly, one or two frameworks. Either they claim, half-heartedly, that they did not do well enough in school to render a college education, or they just really love people. Sometimes, they will cultivate a shallow yet lighthearted story about how their dreams were previously set on being a therapist, and then abandoning this pathway all together when confronted with therapist salaries because, really, it’s quite a similar thing when you stop to think about it. Lydia has thought about it. She’s even stopped to think about it. Personally, she wouldn’t say so. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "render ",
+          "comment": "Wrong word",
+          "context_left": "enough in school to ",
+          "context_right": "a college education,"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "think about it",
+          "comment": "I felt that there were three frameworks here. ",
+          "context_left": "hen confronted with therapist salaries because, really, it’s quite a similar thing when you stop to ",
+          "context_right": ". Lydia has thought about it. She’s even stopped to think about it. Personally, she wouldn’t say so."
+        }
+      ]
+    },
+    {
+      "body": "\tLydia did okay in school. But she does not like people. ",
+      "annotations": []
+    },
+    {
+      "body": "\tUltimately, she likes the routine, and she’s lazy. She knows this. The money is fast, cuttingly so, and sometimes good. Such inconsistencies in what constitutes “good” she can’t predict – the worst part, arguably, and the only part that cannot be condensed into statistical significance: a probability. Her salary is enough to afford her a one-bedroom townhouse in rural Pennsylvania. This is enough. Yet, it’s disarming how a man can smile at the bar with his missing teeth, fold his oil-stand hands in polite surrender, just to leave a lint-stained quarter and dime. She likes being the true equalizer of spirits and sodas behind the bar, remembering a man who has stiffed her, and serving him a non-alcoholic beer next time. Karma. Justice. Chess. Checkers. Et cetera, et cetera. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and she’s lazy. She ",
+          "comment": "This is 100% what I hear from bartenders I know. Understand people, don’t like them. Money’s good. Other jobs seems lame. ",
+          "context_left": " likes the routine, ",
+          "context_right": "knows this. The mone"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "probability. ",
+          "comment": "Nice. Maybe she liked maths in school?",
+          "context_left": "cal significance: a ",
+          "context_right": "Her salary is enough"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "disarming ",
+          "comment": "Maybe not the word you mean. ",
+          "context_left": "s enough. Yet, it’s ",
+          "context_right": "how a man can smile "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "time",
+          "comment": "Nice. ",
+          "context_left": "ly, she likes the routine, and she’s lazy. She knows this. The money is fast, cuttingly so, and some",
+          "context_right": "s good. Such inconsistencies in what constitutes “good” she can’t predict – the worst part, arguably"
+        }
+      ]
+    },
+    {
+      "body": "\tLydia is making a second gin and tonic for the bar man – the one who almost shed a tear at the thought of closing the tab – when Jimmy appears behind her shoulder, his hot breath stinking like buffalo sauce against her face. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the bar man ",
+          "comment": "I’d go with “man” here — he’s still in the story enough that I remember him. ",
+          "context_left": "d gin and tonic for ",
+          "context_right": "– the one who almost"
+        }
+      ]
+    },
+    {
+      "body": "\t“Dia,” he booms, causing her to jump despite having smelt his stench before hearing his voice, “Family meeting behind the line.”",
+      "annotations": []
+    },
+    {
+      "body": "“Jesus Christ,” Lydia says, jumping. She’s pissed by the request and simultaneously startled by his bark behind her shoulder. Turning to face him, she plays the cocktail shaker in her hands like a maraca, hoping the sound of rattling ice will be enough to scare him away. ",
+      "annotations": []
+    },
+    {
+      "body": "Jimmy squints. His short stature is the only aspect about him that renders him not intimidating, that and his fat build resulting in greasy, kitchen sweat along his neck and brow. Back when Lydia was part-time, she and the other bartender girls used to joke about him having his testicles hanging out to dry in his cool, air-conditioned office, the only room below a hundred degrees in the entire restaurant – an exception being the walk-in. She and the other girls deduced that his nutsack bulging out of the leg of his shorts is the primary reason he forbids you from entering without a ferocious knock. All those girls are gone now. Back at college, sitting in upper-level courses on American art history or applying for big-girl jobs with words like “specialist” or “coordinator” in the title. Or, they are outside of town, in their little suburban houses, taking care of an armful of wailing babies while their husbands lay out, asleep on the bed, ballsack exposed. Lydia likes to envision this image more. She laughs to herself, remembering.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "his fat build resulting ",
+          "comment": "So his height is not the only aspect? I’m being very picky but in general, I love the story and think it’s moving along well. ",
+          "context_left": "imidating, that and ",
+          "context_right": "in greasy, kitchen s"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "only room ",
+          "comment": "Only but there’s an exception? (Picky!) ",
+          "context_left": "itioned office, the ",
+          "context_right": "below a hundred degr"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "remembering.",
+          "comment": "I might like to learn something more/different about Dia than that she hates people. ",
+          "context_left": " laughs to herself, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Wasn’t asking,” Jimmy says, yelling now so that his voice is louder than the Friday night music and cocktail shaker. ",
+      "annotations": []
+    },
+    {
+      "body": "Lydia huffs, setting the shaker down beside the register. She motions toward the patrons filling every bar seat, “Do you think I’m just here twiddling my fingers? There’s a full bar.”",
+      "annotations": []
+    },
+    {
+      "body": "Jimmy swallows, adjusting his posture. He never stops scowling at her.",
+      "annotations": []
+    },
+    {
+      "body": "“Said I wasn’t asking. C’mon,”",
+      "annotations": []
+    },
+    {
+      "body": "She opens her mouth to make a rebuttal about him fucking with her tips, her livelihood, in the vein of people having to work for a living, and what does he know about working when all he does is sit and get richer while propping his feet up on his office’s desk. Jimmy puts his hand on the small of her back and pushes her toward the direction of the kitchen, and she falls into these steps, walking, biting the inside of her cheek so hard that she tastes remnants of blood. ",
+      "annotations": []
+    },
+    {
+      "body": "Closing down. Effective soon, although Jimmy can’t say when. Aidan takes his baseball cap off and holds it over his heart, as if rising to respect fallen soldiers at a Memorial Day baseball game. Lydia imagines banging his head in with the walk-in door. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Jimmy",
+          "comment": "Yow! It’s surprising (but I also buy it) that this announcement has to come right at this moment). ",
+          "context_left": "tive soon, although ",
+          "context_right": " can’t say when. Aid"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "game",
+          "comment": "Great image. ",
+          "context_left": "morial Day baseball ",
+          "context_right": ". Lydia imagines ban"
+        }
+      ]
+    },
+    {
+      "body": "The staff stand in a semi-circle behind the line, tickets dinging from the POS system and the bar music, haunting, following through the kitchen’s swinging doors like a phantom, or a death that is not yet experienced but sure to be coming.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " kitchen’s ",
+          "comment": "I don’t think I quite realized until now that it’s a restaurant as well as a bar. ",
+          "context_left": "ollowing through the",
+          "context_right": "swinging doors like "
+        }
+      ]
+    },
+    {
+      "body": "And Lydia should have seen it coming, and yet she didn’t. She missed it somewhere. There were clues, surely, littered in all of the other bartenders leaving for school but never returning for the summer. She is the only bartender now, full-time. There’s a few servers. Making server wage. Only about three line cooks. Two dish boys. A fuck ton of patrons. A fuck ton of people at her bar. Surely, that doesn’t make sense. She asks.",
+      "annotations": []
+    },
+    {
+      "body": "“I knew you’d say that,” Jimmy says, an octave of irritation littered in his voice. The cooks wide-eye each other, speaking in some back-of-house language she cannot understand.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "speaking in some back-of-house language ",
+          "comment": "I wasn’t sure if this was a foreign language or if she just doesn’t understand their communication style. ",
+          "context_left": "ide-eye each other, ",
+          "context_right": "she cannot understan"
+        }
+      ]
+    },
+    {
+      "body": " “You remember what it was like last season, Dia. It’s not the same now. Lots of people doesn’t mean lots of money.” ",
+      "annotations": []
+    },
+    {
+      "body": "“That is literally what it means.”",
+      "annotations": []
+    },
+    {
+      "body": "The sound of her voice results in a collective sigh from the staff – a few haughty huffs entering into their semi-circle, a new kind of ghost now present.",
+      "annotations": []
+    },
+    {
+      "body": "Jimmy presses his thumb and forefinger against his nose, “Fucking Christ, Dia. We’re not bringing enough money in. Simple. Those fucks just sit and drink cheap liquor. Do you get that?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that",
+          "comment": "This is really nice writing because they’re both making good points. ",
+          "context_left": " liquor. Do you get ",
+          "context_right": "?”"
+        }
+      ]
+    },
+    {
+      "body": "Lydia swallows, returning her teeth to the inside of her cheek. She clenches her jaw so hard that she can feel the pressure of her teeth in her head.",
+      "annotations": []
+    },
+    {
+      "body": "Turning to address the crowd, Jimmy takes a softer approach, “I suggest you all start looking for other work. I’ll let you know about our last day soon.”",
+      "annotations": []
+    },
+    {
+      "body": "Mumbles from the staff as bodies begin to disperse, flooding back to their allocated stations. Aidan adjusts his baseball cap back on his square head, frowning into a pan of crusted oil on the stovetop. Blake huffs, itching his skin, probably thinking about when Jimmy will leave so he can hit the vape stashed in his jean pocket. Lydia stands next to Jimmy. She stares slightly upward at his face, dripping with yellow sweat. She looks into his eyes, black and tired. Looking at her boss in the piss yellow kitchen light, the frown lines around his mouth deep and elevens beside his eyes hollow, she almost feels bad for him. Almost. In the way that she almost feels bad for the patrons: gurgling slurred requests, knocking over glasses in uncoordinated, drunken movements. Sloppy. Sluggish. Nothing – or nobody – to come home to.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him. Almost. In ",
+          "comment": "Here, I maybe began to feel a little tired of Dia’s misanthropy. ",
+          "context_left": "lmost feels bad for ",
+          "context_right": "the way that she alm"
+        }
+      ]
+    },
+    {
+      "body": "Lydia stares at him. She thinks that she will keep staring at him until he looks at her, into her eyes. She wants him to feel that similar pang of sympathy, noticing the crows feet forming on her temples, the indent along her forehead. How all of the fat has thinned from her face. How much she has given of herself. Then, she thinks, they’ll be equal.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "herself. ",
+          "comment": "How old is she? ",
+          "context_left": "ch she has given of ",
+          "context_right": "Then, she thinks, th"
+        }
+      ]
+    },
+    {
+      "body": "He never does. He only glares straight ahead, into nothing: a stack of take-home boxes.  Outside, the bar man complains to the patron on his right. He needs a third gin and tonic. ",
+      "annotations": []
+    },
+    {
+      "body": "\tShe calls off fake-sick the next two days, resulting in Jimmy leaving angry voice messages on her phone about having to teach one of the brain-dead barely-eighteen server girls how to make an Old Fashioned mid-rush. Lydia does not answer, only rolls to the opposite side of the bed and lets the fleeting sunlight from her window join her. Beyond the back of her house is a never-ending grassy plain, almost like a flat sheet cake, topped with far-away cows that resemble figurines from where she lays. She can see miles and miles of nothing. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "rush",
+          "comment": "I wondered how she could afford to do this. Again, this made me like her less. Now, granted, I am an Old. But just noting. You may want us to not really like her, in which case: working! ",
+          "context_left": "n Old Fashioned mid-",
+          "context_right": ". Lydia does not ans"
+        }
+      ]
+    },
+    {
+      "body": "And Lydia spends these two sacred days doing nothing. She wraps herself in her comforter and sits at her kitchen table while the coffee brews, imagining that the smell of the French roast is actually vodka and the droning of her neighbor’s lawn mower is the juke box’s bass. She tries the cross-word in the paper but gives up because it’s too hard. She watches trashy reality television and masturbates during the commercials to stills from her memories.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "memories",
+          "comment": "Is she sober? Can we have some hint of what might be going on for here, even if she doesn’t quite know yet herself? ",
+          "context_left": " to stills from her ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": " On the third day, she rises again, like Jesus. She ties her hair into two pigtails. Better tips that way, she’s learned. Something disturbing that one of the old crew members told her about creeps loving bartenders who look like little girls. She sends Jimmy a text to say she’s feeling better. He shoots back a “K” and that is her way of knowing she is not fired.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Jesus",
+          "comment": "Made me laugh. So did the pigtails. ",
+          "context_left": "e rises again, like ",
+          "context_right": ". She ties her hair "
+        }
+      ]
+    },
+    {
+      "body": "When she walks in for her late-night shift, the sun just setting behind the skyline, the place is swarmed with frazzled, rushing bodies: patrons and staff alike, yelling and bumping into each other. Susie, the server with one hand still grazing adolescence, needily gawks at Lydia from behind the bar. Lydia watches from the door as Susie lets go of the lever on the keg too late, resulting in Guinness foam overflowing across her micro-tattooed hands.  ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, God! Dia! Dia!” Susie yells over top of the Monday night football announcer on the bar television, “Thank God! Thank God!”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "God! Dia! Dia!” Susie yells over top of the Monday night football announcer on the bar television, “Thank God! Thank God!”",
+          "comment": "Is the announcer yelling Thank God or is that Susie?Could you maybe mention Susie earlier — just noting that she’s not in that night, or something? ",
+          "context_left": "“Oh, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Susie shakes the Guinness foam from her fingers, making a buzzing sound behind her teeth when the stick doesn’t immediately melt away.",
+      "annotations": []
+    },
+    {
+      "body": "Lydia rushes to the back of the bar, patting Susie on the back. She tells her to go wash her hands and clock out, in that order, preferably. Susie tries to rattle off the drinks that the patrons want that she doesn’t understand the names of, flipping through her guest check booklet with an expanded chest, holding in her air. The patrons hold dollars in between their fingers, yelling behind the arm muscles of one another in broken, Appalachian-sounding English: a sea of snorts and deep belly groans. They all grow into one big beast begging for more liquor.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "air",
+          "comment": "Oh, Susie. ",
+          "context_left": "est, holding in her ",
+          "context_right": ". The patrons hold d"
+        }
+      ]
+    },
+    {
+      "body": "“I got it. I’ll take care of it,” Lydia says, already tilting a new Guinness glass under the tap’s spout. ",
+      "annotations": []
+    },
+    {
+      "body": "Susie exhales, loudly, as if expressing her gratitude non-verbally. Wiping her hands on her apron, she spins on her heel to hop back to her server-room enclosure where nobody will ask her to make something vulgar like a Blowjob Martini or Sex on the Beach. ",
+      "annotations": []
+    },
+    {
+      "body": "Lydia calls out to her just as she takes her first steps, “Hey, Sooze?”",
+      "annotations": []
+    },
+    {
+      "body": "“Yeah?”",
+      "annotations": []
+    },
+    {
+      "body": "“Where’s Jimmy?” Lydia worries that he will come up behind her again, his aroma tingling her neck hair, and scream at her for disappearing into the void following the news of the closure.  ",
+      "annotations": []
+    },
+    {
+      "body": "Susie shrugs, “Dunno. Haven’t seen him since yesterday.”",
+      "annotations": []
+    },
+    {
+      "body": "Lydia nods, slowly, her brow furrowed. The television sports sounds are already stinging the inside of her ears. She slides the Guinness over to a gray old man with tattered clothes. Of course, he wants to leave it open.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the",
+          "comment": "Of course. This is a nice little scene but I think it can work harder for you. What if Susie asks how Lydia feels about the closing? We might learn a lot from how she answers. ",
+          "context_left": "Lydia nods, slowly, her brow furrowed. The television sports sounds are already stinging ",
+          "context_right": " inside of her ears. She slides the Guinness over to a gray old man with tattered clothes. Of course"
+        }
+      ]
+    },
+    {
+      "body": "\tThe bartender always has to stay past closing time. Long after the kitchen staff are clocked out and rolling sad joints in their beater cars, Lydia is still perfecting the count. She shines a margarita glass with a rag, watching from the inside as the windows of an old Chevy in the parking lot turn foggy, concealing Aiden and Blake inside in a cloud of smoke. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "smoke",
+          "comment": "No bar back at this place? ",
+          "context_left": "nside in a cloud of ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tThrough her shift, she eyes the front door. It’s not common for Jimmy to not be there for an entire day without checking in. During one of the slow hours, she knocked on his office door. When there was no answer, she slowly twisted the knob, closing her eyes half-way in case the rumors were, actually, true after all. He wasn’t inside. And, of course, they aren’t. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "And, of course, they aren’t. ",
+          "comment": "Line doesn’t quite work. ",
+          "context_left": ". He wasn’t inside. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tThe brilliant Pennsylvania sky is a navy blue, freckled with stars only visible out here. In the city, there’s all that light pollution, the congestion. Here, in the country, the stars are the size of nickels from the bar’s east-facing windows. The moon is a shining silver dollar. ",
+      "annotations": []
+    },
+    {
+      "body": "\tTwo hundred and fifty-three. Ninety-nine cents, exactly. Lydia takes a penny from the jar beside the register to make it even. She counts the money in the register. She eyes her sales on the computer. Apparently, it’s just not enough. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "enough",
+          "comment": "She doesn’t agree? ",
+          "context_left": "ntly, it’s just not ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tWhen she hears the ding of the bell from the front door, she keeps her head facing down, toward the stack of money between her fingers. She expects Jimmy’s lecture to crescendo down her temple, hitting all the right curses on the way down. When she doesn’t hear anyone call her a bitch, she sets the money down and looks up.",
+      "annotations": []
+    },
+    {
+      "body": "\tA man takes a seat at one of the bar stools, prompting Lydia to check her watch. Ten minutes until last call. Too close. She watches the minute hand race the hour toward the top of the clock. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "clock",
+          "comment": "I like this little surprise of this last visitor. ",
+          "context_left": "ward the top of the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tThe man relaxes in his seat, sighing, as if the energy spent setting his ass down is insurmountable.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Quittin’ time?” He asks Lydia. He taps his fingers against the bar’s surface. ",
+      "annotations": []
+    },
+    {
+      "body": "\tLydia shakes her head, pushing her lips to the side. She feels flustered by the question, as if she caused it by checking her watch in front of a patron. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“You got ten minutes,” Lydia says. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThe man nods, “Gin and tonic, please. Closed.”",
+      "annotations": []
+    },
+    {
+      "body": "\tLydia takes his card and notices that he’s the same bar man from the other day: the Friday marking the end of the world, or just the end of the bar.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "same bar man from ",
+          "comment": "I was surprised that she didn’t recognize him? ",
+          "context_left": "tices that he’s the ",
+          "context_right": "the other day: the F"
+        }
+      ]
+    },
+    {
+      "body": "\tHe smiles as if acknowledging her recognition. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Heard the place is closing down, eh?”",
+      "annotations": []
+    },
+    {
+      "body": "\tHow this information already reached the patrons, Lydia does not know. Probably Susie’s big, white-toothed mouth. Lydia grabs the soda gun and the Tanqueray, one in each hand, becoming the bar’s equalizer, again. Lemon: twisted. She slides it over. He sucks it down.",
+      "annotations": []
+    },
+    {
+      "body": "\tThe man does not wait for Lydia to respond before speaking again. He hums into his straw, as if remembering.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Shame,” he says, “‘Bout this place. Plus bein’ so close to the city, you know. Everyone’s just gonna go out drinking there. So much more going on there.”",
+      "annotations": []
+    },
+    {
+      "body": "\tLydia nods, understanding. Outside, the fat nickel stars remain opaque in the sky.",
+      "annotations": []
+    },
+    {
+      "body": "He takes the gin and tonic to his lips, blue from late summer’s outside chill. A clear indicator that fall is coming: its inevitable change. Its constant camouflage. ",
+      "annotations": []
+    },
+    {
+      "body": "“Nothing going on here,” he says before the drink hits the back of his throat. ",
+      "annotations": []
+    },
+    {
+      "body": "Lydia watches his Adam’s apple bob up and down. The bar lights hum above. ",
+      "annotations": [
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "While I love a quiet ending, this one didn’t quite land for me yet. I didn’t know how to take this guy — who seemed different from the character I had met before. Is the point that now Dia is able to connect with him? Would this work better if it was Jimmy who comes in? Overall, though, this is a very strong first draft, Sophia. Most of my comments were just pointing out places where your word choice needs some thought, or where I thought you hammered home the same point one too many times. I think your pacing, characterization and setting are all top notch — I bought all of it. I think my biggest question here is what it is that Dia wants? We hear a lot (A LOT) about her dislike of people, which doesn’t always seem justified, but is interesting. But I didn’t quite see what she wants — for the bar to stay open? To have some connection to someone? To make things right or wrong with Jimmy? (You don’t help yourself by having him exit the story halfway through, nor by having her alone and not communicating if so). And whatever it is that she wants, who opposes her? What’s keeping her from getting that? It could well be that she herself is her own worst enemy — in fact, it seems that might be the case. But I also don’t see her really trying, even ineptly, to get anything. That’s what I would think about and work on for Draft 2. Again, excellent work!"
+    }
+  ]
+}

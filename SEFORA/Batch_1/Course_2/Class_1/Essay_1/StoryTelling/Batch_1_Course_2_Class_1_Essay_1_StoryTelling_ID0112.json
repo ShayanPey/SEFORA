@@ -1,0 +1,42 @@
+{
+  "paragraphs": [
+    {
+      "body": "When creating both the AI-assisted video using Vyond Go and the manually created one, I noticed clear differences in the process and results. Both methods have their own challenges and benefits.",
+      "annotations": []
+    },
+    {
+      "body": "For the non-AI-assisted video, the process required more hands-on effort, and all the ideas came directly from our thoughts. This made the process time-consuming and demanding. We had to manually design every element, from the storyboard to the final product, ensuring that every scene, character, and background fit our vision. For example, we carefully designed the shopping scenes at Ross Park and China’s SKP Mall to reflect the subtle cultural differences between the U.S. and China. This manual process gave us full control over every detail, from the tone of the background music to the expressions of the characters. Even though this required significant time and effort, the story turned out exactly as we envisioned.",
+      "annotations": []
+    },
+    {
+      "body": "In contrast, creating the AI-assisted video was much faster. Vyond Go could quickly generate animations based on our input, but this speed came at the cost of creativity. While the AI efficiently produced animations, it often missed the nuances we wanted to convey. For example, I wanted to show the contrast between Ross Park Mall and SKP Mall through the character’s imagination, but the AI couldn’t fully capture this comparison. It simply created the scenes without grasping the cultural and emotional depth we achieved in the manually made video. Moreover, the AI-generated characters and scenes lacked the personalization and emotional clarity that we could accomplish through manual adjustments. This made us realize that while AI can speed up the process, high-quality storytelling still requires precise control.",
+      "annotations": []
+    },
+    {
+      "body": "I used a prompt for the AI-assisted video that centered on a shopping trip to Beijing’s Ross Park and SKP Mall. The content of the prompt involved us shopping at Ross Park Mall, while contrasting it with the imagined scene of SKP Mall. I chose this prompt to highlight the cultural differences and emotional reactions that arise from shopping in two distinct locations. The goal was for the audience to experience the different atmospheres in these two countries and the sense of wonder and confusion that these differences can create. However, Vyond Go didn’t fully understand the contrast I wanted to convey. While it successfully generated mall scenes, it lacked the deeper cultural contrast and emotional expressions I aimed for. The AI performed well in generating the basic scenes, but it left me with only a rough outline. The content itself— such as the specific dialogue, emotional expressions, and facial reactions—needed more detailed adjustments to align with the richer content we had achieved through hand-drawn elements.",
+      "annotations": []
+    },
+    {
+      "body": "After generating the video with Vyond Go, I made several modifications. First, I added more detailed facial expressions to better convey the characters' emotions, especially when comparing the two malls. I also adjusted the background music to match the changing emotions throughout the video. For instance, during the conversation where they discuss how Ross Park Mall resembles the old SKP, I made sure the tone of both the dialogue and the music was more surprised and reflective, emphasizing the cultural differences. These changes were necessary to better convey the story and highlight the contrast I intended between the two shopping experiences.",
+      "annotations": []
+    },
+    {
+      "body": "Both processes had their challenges. The biggest challenge for the non-AI video was the time it took to manually create the detailed scenes. This required a lot of planning, including carefully syncing background music and designing character expressions. However, these challenges were worth it because the final video felt more authentic and aligned with our original vision. On the other hand, the challenge with the AI-assisted video was the lack of creative freedom. I felt less control over the story’s finer details. The AI often provided generic animations, forcing me to adjust the music and pacing to bring the video closer to the story I wanted to tell.",
+      "annotations": []
+    },
+    {
+      "body": "AI in video-making is a double-edged sword. On one hand, it saves time by quickly generating animations and ideas. On the other hand, it can limit creative freedom and produce content that doesn’t fully reflect the creator’s vision. In our case, while the AI-assisted video was faster, the non-AI-assisted video resulted in a more engaging and personalized story, especially with the use of background music and detailed expressions.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Storytelling": 3,
+        "Length requirement": 2,
+        "Storytelling Statement": 3
+      },
+      "comment": "N/A"
+    }
+  ]}

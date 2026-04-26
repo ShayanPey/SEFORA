@@ -1,0 +1,90 @@
+{
+  "paragraphs": [
+    {
+      "body": "In recent years, China’s education system has undergone significant reforms aimed at reducing student burdens, promoting equitable access, and modernizing curricula. These initiatives reflect the government’s commitment to fostering a balanced and high-quality educational environment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "n re",
+          "comment": "Please meet the minimum length requirement (600 words).",
+          "context_left": "I",
+          "context_right": "cent years, China’s "
+        }
+      ]
+    },
+    {
+      "body": "Introduction: China’s education system, managed by the Ministry of Education, mandates nine years of compulsory education, encompassing six years of elementary school and three years of middle school. In recent years, the government has introduced several reforms to address challenges such as excessive academic pressure, educational inequality, and the need for modernization.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "the Ministry of Education,",
+          "comment": "Please add hyperlinks to other relevant Wikipedia articles.",
+          "context_left": " system, managed by ",
+          "context_right": " mandates nine years"
+        }
+      ]
+    },
+    {
+      "body": "Primary and Secondary Education: A pivotal reform in China’s primary and secondary education is the “Double Reduction Policy” introduced in July 2021. This policy aims to alleviate the excessive burden of homework and after-school tutoring on students. Specifically, it sets limits on homework duration—no written homework for first and second graders, up to 60 minutes for third to sixth graders, and no more than 90 minutes for middle school students. Additionally, the policy regulates extracurricular training by banning for-profit tutoring in core subjects, transforming existing institutions into non-profit entities, and prohibiting tutoring during weekends and public holidays. These measures seek to reduce financial pressures on families and promote a more holistic educational experience.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "it s",
+          "comment": "I would clarify what you mean by \"it.\"",
+          "context_left": "ents. Specifically, ",
+          "context_right": "ets limits on homewo"
+        }
+      ]
+    },
+    {
+      "body": "Higher Education: In higher education, China has been focusing on developing world-class universities and disciplines that align with national strategic needs. Efforts include readjusting academic disciplines, encouraging collaborations with international institutions, and promoting the establishment of programs that cater to emerging industries and technologies. These initiatives aim to enhance the quality of higher education and ensure that graduates are well-equipped to contribute to the nation’s socio-economic development.",
+      "annotations": []
+    },
+    {
+      "body": "Challenges and Reforms: Despite these reforms, challenges persist. The implementation of the Double Reduction Policy, for instance, has led to unintended consequences. While the policy intended to reduce educational costs and narrow the gap between affluent and less privileged students, reports suggest that schooling has become more expensive, potentially exacerbating educational inequality. Parents continue to seek alternative avenues to provide their children with competitive advantages, indicating a deeply ingrained culture of academic competition. Moreover, the rapid pace of reforms necessitates continuous assessment to address emerging issues. Ensuring that policies achieve their intended outcomes without creating additional disparities remains a critical focus for policymakers.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Parents continue to seek alternative avenues to provide their children with competitive advantages, indicating a deeply ingrained culture of academic competition. Moreover, the rapid pace of reforms necessitates continuous assessment to address emerging issues. Ensuring that policies achieve their intended outcomes without creating additional disparities remains a critical focus for policymakers",
+          "comment": "In-text citations are needed to justify each factual claim.",
+          "context_left": "educational inequality. ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Conclusion: China’s recent educational reforms underscore a commitment to reducing student burdens, enhancing educational quality, and promoting equity. While significant progress has been made, ongoing evaluation and adaptation are essential to address challenges and ensure that the education system meets the diverse needs of its student population.",
+      "annotations": []
+    },
+    {
+      "body": "References:“Double Reduction Policy. ” Wikipedia, en.wikipedia.org/wiki/Double Reduction _ _Policy. “China unveils 2024-2035 plan to build ‘strong education nation’.” Reuters,www.reuters.com/world/asia-pacific/china-unveils-2024-2035-plan-build-strong-education-nation-2025-01-19/.“China’s education reforms were meant to lower costs. So why is schooling more expensive?”South China Morning Post,www.scmp.com/economy/china-economy/article/3243926/chinas-education-reforms-were-meant-lower-costs-so-why-schooling-more-expensive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "China",
+          "comment": "Please format the references according to Wikipedia's citation style and cite more academic sources.",
+          "context_left": "“",
+          "context_right": "’s education”"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 1.5,
+        "Sources": 2.0,
+        "Writer’s Ethos": 1.0,
+        "Total": 8.5
+      },
+      "comment": "N/A"
+    }
+  ]}

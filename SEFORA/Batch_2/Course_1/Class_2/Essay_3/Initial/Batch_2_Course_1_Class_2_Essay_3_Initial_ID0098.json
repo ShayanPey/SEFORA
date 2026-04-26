@@ -1,0 +1,61 @@
+{
+  "paragraphs": [
+    {
+      "body": "My name is Alex Owen, and I’m a student at the University of Pittsburgh. I am taking an English Composition class, and one of the assignments was to read and annotate your essay “Girls,\" which focused on the lives of girls in your society, their social roles, and how the culture expects them to behave.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Not quite the title :)",
+          "context_left": "nd annotate your ess",
+          "context_right": "ay “Girls,\" which focused on t"
+        }
+      ]
+    },
+    {
+      "body": "Initially, I thought the essay was strange—why would an author write it that way? However, as I continued to read and delved deeper into its meaning, I came to love the structure. The use of sentences without periods at the end, which seem random and overwhelming, effectively conveys the essay’s purpose. It shows how the life of a girl, as portrayed in this essay, can be frustrating and overwhelming in some cultures. Furthermore, I noticed that not providing character names and presenting it like a to-do list brings the essay’s emotions to life and allows anyone who reads it to feel the frustration truly. I also liked that you gave the girl a chance to defend herself; it shows the resistance and the fight against those scary beliefs and standing against the absurd culture that people follow blindly.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The use of sentences without periods at the end, which seem random and overwhelming, effectively conveys the essay’s purpose. It shows how the life of a girl, as portrayed in this essay, can be frustrating and overwhelming in some cultures. Furthermore, I noticed that not providing character names and presenting it like a to-do list brings the essay’s emotions to life and allows anyone who reads it to feel the frustration truly.",
+          "comment": "These are very good points, and you're doing a great job of communicating your ideas about Kincaid's writing without overexplaining it back to her which might otherwise ring as forced or false.",
+          "context_left": "love the structure. ",
+          "context_right": " I also liked that y"
+        }
+      ]
+    },
+    {
+      "body": "As I read, it certainly felt familiar. With all the recent events that happened in my country and to the girls there, I could feel the emotions so vividly. Cultures are beautiful, but they also have their dark sides. Decades of war have turned my country into a hostile place for women, too. Cultural practices and taboos without logical or religious foundations also exist there. I could see the patriarchal society and the unfair treatment between boys and girls in your essay, just like in mine, where society gives boys a more comfortable life than girls.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "As I read, it certainly felt familiar. With all the recent events that happened in my country and to the girls there, I could feel the emotions so vividly. Cultures are beautiful, but they also have their dark sides. Decades of war have turned my country into a hostile place for women, too. Cultural practices and taboos without logical or religious foundations also exist there. I could see the patriarchal society and the unfair treatment between boys and girls in your essay, just like in mine, where society gives boys a more comfortable life than girls.",
+          "comment": "This is all fascinating, and you're making great connections between your own experiences/observations and the writing you're discussing. Would you be willing to mention your country by name? Also, could you share perhaps one specific example of the dark side you have seen for yourself?",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "As someone who is always trying to seek deeper meaning in everything, there is a sentence I keep contemplating: “Don’t throw stones at blackbirds because it might not be a blackbird at all.” I would like to understand this sentence more deeply. I believe it holds many layers and stories within it. One conclusion I have drawn is about not judging others and the experience of being judged in society, but no one knows the true meaning behind that better than the author herself. Another thing I want to know is the reasoning behind italicizing the girl’s responses. There are two instances of the girl’s appearance, and in both cases, the sentences are italicized.",
+      "annotations": []
+    },
+    {
+      "body": "I appreciate your bravery in sharing your story with the world and not just ignoring it. Believe me, there are millions of girls living their lives this way all around the world, but no one dares to question it, or their voices just become silenced. It’s not just your story but also a voice for others who experience the same situation.",
+      "annotations": []
+    },
+    {
+      "body": "Sincerely, Alex Owen",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Overall": 98.0
+      },
+      "comment": "Great work here. It is always very difficult to merge the academic with the personal, but you are navigating this tricky rhetorical situation with grace and intelligence. I would love to see you continue to develop your own perspective, so Kincaid could have an even greater appreciation for the connections you are making between her life and your own."
+    }
+  ]}

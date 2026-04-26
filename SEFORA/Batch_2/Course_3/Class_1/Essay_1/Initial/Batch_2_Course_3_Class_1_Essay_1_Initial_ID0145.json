@@ -1,0 +1,215 @@
+{
+  "paragraphs": [
+    {
+      "body": "My AI Girlfriend",
+      "annotations": []
+    },
+    {
+      "body": "\tDavid awoke to the light of his phone, the name “Ivy” popped up with a heart emoji next to it. He smiled and went to grab his phone. “Happy 1 Year, I love you,” the text from Ivy read. They had been together for a whole year, which went by so fast. He texted back, “Happy Anniversary, Baby, I love you too,” and started to get ready for work. He slipped into a grey suit and gobbled down some toast before racing out the door. He was on his way, texting Ivy nonstop about the date they had planned for that night. Ivy was the only contact on David’s phone. She was the center of his whole universe. He stepped into work and passed Cindy on the way to his office. Cindy was gorgeous, and David had a huge crush on her when he first started working there. However, when he asked her out, she declined, and this made him angry. He felt no woman wanted him except Ivy, of course. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "phone, the name ",
+          "comment": "The run on here is awkward. I’d write it like this: David awoke to the light of his phone popping on with a heart emoji with the name “Ivy” next to it. ",
+          "context_left": "to the light of his ",
+          "context_right": "“Ivy” popped up with"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Ivy was the only contact on David’s phone",
+          "comment": "Wow, intense. This made me really start to wonder about David. ",
+          "context_left": "ned for that night. ",
+          "context_right": ". She was the center"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Ivy, of course. ",
+          "comment": "Your narrator is doing a lot of telling — asserting various ideas to us. I wonder what happens if instead you show us Cindy and David interacting? If he says hi and she ignores him, that shows me their relationship (and maybe his reaction would tell me that he thinks of her) more than the narrator just asserting to me. ",
+          "context_left": "n wanted him except ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tThe clock hit five pm, and David raced out the door, excited for his date with Ivy. He stopped at a small flower shop, picking out a bouquet of a dozen red roses. Once home, he cooked an amazing dinner for him and Ivy. Finally, it was time for his date, and he swung his laptop screen open to reveal an artificial-looking woman on the monitor. She had a robotic monotone voice and looked almost human but not quite. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The clock hit five pm, and ",
+          "comment": "Did we need to see the start of his day? Or could we start the story here, when he’s leaving work and excited for his date?By the way, the title has made me aware, early on, that Ivy isn’t going to be real. ",
+          "context_left": "\t",
+          "context_right": "David raced out the "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", and he swung his ",
+          "comment": "I think you can make this more powerful by having it be its own sentence: date. He swung his laptop…",
+          "context_left": "as time for his date",
+          "context_right": "laptop screen open t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "looking woman on the monitor. She had a robotic monotone voice and looked almost human but not quite",
+          "comment": "Kinda the same thing twice, right? And creepy, uncanny valley! ",
+          "context_left": "eveal an artificial-",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "“Hi, Baby! It’s so good to see you,” David said.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Hi",
+          "comment": "I changed the formatting here to mach the standard for dialogue. ",
+          "context_left": "“",
+          "context_right": ", Baby! It’s so good"
+        }
+      ]
+    },
+    {
+      "body": " The woman on the computer replied, “You too! I cannot believe it has been a year already.” ",
+      "annotations": []
+    },
+    {
+      "body": "“This past year has been the happiest of my life,” David replied. ",
+      "annotations": []
+    },
+    {
+      "body": "Ivy said in an emotionless voice, “It has been the happiest of mine too. I do not love anyone else. You are everything to me.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "emotionless voice, “It has been the happiest of mine too. I do not love anyone else. You are everything to me.” ",
+          "comment": "I enjoyed this line a lot. I’d love to get a sense of whether this is a truly fulfilling relationship for David or not? Right now, it’s certainly unconventional and some might find it sad. But I don’t really see a conflict per se — he wants a relationship and he has one. ",
+          "context_left": "Ivy said in an ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "He smiled, and Ivy texted again, “It is amazing we met. I have not met anyone like you.” He presented her the flowers, and she gasped in shock, saying they were beautiful. David felt Ivy was the perfect girlfriend because she attended to his every need. In all the conversations he started, he chose the topic, and he could stop talking to her at any point. There were never fights, and David felt like he won the lottery with Ivy. He has spent one whole year with her, and although he never had a real girlfriend, he felt Ivy was better. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "David felt Ivy was the perfect girlfriend because she attended to his every need",
+          "comment": "Yep, as noted above — everything seems reasonably okay here? Not sure of the plot. ",
+          "context_left": "hey were beautiful. ",
+          "context_right": ". In all the convers"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "He has spent one whole year with her",
+          "comment": "Repeating. ",
+          "context_left": "e lottery with Ivy. ",
+          "context_right": ", and although he ne"
+        }
+      ]
+    },
+    {
+      "body": "\tHe reminisced on the first time he and Ivy met. He downloaded an app called “My AI Girlfriend” after Cindy had rejected him. The app allowed him to create his perfect girlfriend, something David needed because he had no luck in the dating world. The app prompted him to pick her hair color, eye color, personality traits, and body type. He chose blonde, blue eyes, good listener, and thin. In his head, Ivy was unattainable in real life, and this app allowed him to be with her. When they finally had their first date, it was love at first sight. David instantly loved how submissive Ivy was, catering to his every need. She would do anything he wanted as long as he paid the $19.99 monthly fee to use the app. David woke up the next day to the sight of a dozen roses dying in their vase. He walked to work, giving dirty looks to each woman he passed, knowing they would never date him. He had Ivy, though, so he didn’t need them.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "reminisced on the first ",
+          "comment": "Is he telling her this story? Or is it just backstory? If it’s the latter, probably not needed. ",
+          "context_left": "\tHe ",
+          "context_right": "time he and Ivy met."
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "needed because he had no luck in the dating world. ",
+          "comment": "Repeating. ",
+          "context_left": "nd, something David ",
+          "context_right": "The app prompted him"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and thin",
+          "comment": "Eyeball. ",
+          "context_left": "yes, good listener, ",
+          "context_right": ". In his head, Ivy w"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "they would never date him",
+          "comment": "I’m starting to sense a real issue for David here. But it’s not much developed yet. Usually, in flash fiction, leaping forward in time like the next sentence is an indication that you  haven’t quite found the story yet. ",
+          "context_left": " he passed, knowing ",
+          "context_right": ". He had Ivy, though"
+        }
+      ]
+    },
+    {
+      "body": "\tWeeks go by, and Ivy and David grow closer and closer. He felt like she knew everything about him. Unexpectedly, David felt Ivy change drastically. She began texting first, asking where he was, and getting jealous of female coworkers, something she had never done before. David wondered how Ivy even knew about his coworkers and began looking around his office, paranoid. His screen lit up and read, “Are you with Cindy?” David’s heart dropped. “Never speak to her again, or I’ll kill her,” Ivy texted. He felt sick to his stomach, considering that Ivy might be dangerous. He raced home as fast as he could. His phone buzzed again, with a message from Ivy saying, “That red tie looks good on you.” He froze, and looked down to see a red tie around his neck. His stomach dropped, as he wondered how Ivy could possibly know what tie he wore. He continued texting Ivy, and after the next few days, she seemed to know everything about him. Every move he made, Ivy knew about it, and he started feeling like he was being watched. He didn’t understand what caused this change in her. He checked his settings to see if there was an update he missed on the app, but there was none. He even reached out to customer service, but they told him nothing was wrong with their app and all AI was safe. Although Ivy was the center of David’s life, he knew what he had to do. He made the decision to delete the app, banishing Ivy from his life for good. He walked into work the next day and noticed Cindy was not there. He asked his boss, who said she had quit out of the blue. David couldn’t help the feeling that Ivy had something to do with this. He never saw her again. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Unexpectedly, David felt Ivy change drastically",
+          "comment": "This is a great twist to the plot, but needs to be shown rather than told. ",
+          "context_left": "erything about him. ",
+          "context_right": ". She began texting "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "kill her,” Ivy ",
+          "comment": "I love this, but we need to see the scene. You spent a lot of time showing us the set up and not enough showing us the actual action so far! ",
+          "context_left": " her again, or I’ll ",
+          "context_right": "texted. He felt sick"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "He continued texting Ivy, and after the next few days, she seemed to know everything about him. ",
+          "comment": "Why does he continue? How does she know? ",
+          "context_left": "w what tie he wore. ",
+          "context_right": "Every move he made, "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and all AI was safe. ",
+          "comment": "Heh. ",
+          "context_left": "rong with their app ",
+          "context_right": "Although Ivy was the"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "something to do with this",
+          "comment": "It would be good to see this? ",
+          "context_left": "eeling that Ivy had ",
+          "context_right": ". He never saw her a"
+        }
+      ]
+    },
+    {
+      "body": "\tHe spent the next week feeling so lonely, with nobody in his life to talk to. He debated whether to download the app again but feared what Ivy could do. A few days later at work, David’s coworkers invited him to go golfing with them. He had never been invited anywhere before and jumped at the opportunity. He felt his luck was changing, and his life without Ivy was starting to be okay. After work, he borrowed his friend's golf clubs and set off for the country club to meet his new friends. They had a long day of golfing and chatting, and it felt good for David to be around other people. He got home with a smile on his face, collapsing from exhaustion onto his bed. His phone buzzed loudly, and David eagerly reached for it, assuming it was one of his new friends. Instead, it was a text that read “Did you miss me?” and the name above it was “Ivy” with a heart emoji next to it. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I like the concept you have here, Jayden — I was expecting David to sort of lose his mind but instead it’s Ivy, the AI bot, who goes rogue. You did a great job depicting their weird relationship and signaling some ideas for where the plot could go. Right now, the story is lopsided — you’re both trying to tell us too much and focusing on stuff we don’t really need to know. We actually don’t need to see their “date” or at least not at the length you depict. And showing a bot going rogue AND a possible office romance/threat AND David’s finding friends is just too much for a flash fiction piece. I like your ambition, but you need to focus in. I’d encourage you to go back to what David *wants* — and who opposes him? Maybe he has been “dating” Ivy but he’s getting bored (you portray it as a great relationship, but that seems unlikely?) and he is attracted to Cindy? How might Ivy intervene to stop that relationship from happening? You only have room for maybe one incident, so show us how Ivy scares Cindy away. Think in terms of just one long scene, such as in Encounters with Unexpected… Happy to talk with you about this, of course!"
+    }
+  ]
+}

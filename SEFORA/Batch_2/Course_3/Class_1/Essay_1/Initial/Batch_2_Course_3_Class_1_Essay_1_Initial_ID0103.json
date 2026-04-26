@@ -1,0 +1,228 @@
+{
+  "paragraphs": [
+    {
+      "body": "“Revenge of the iPad Kids.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Kids",
+          "comment": "Nice title! I fixed the formatting a little bit. I would suggest not using quotation marks for the texts, but italics, and I fixed the indenting at the top — to be done throughout. ",
+          "context_left": "Revenge of the iPad ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "Lol. What’s for dinner? ",
+      "annotations": []
+    },
+    {
+      "body": "Jennifer glanced at her phone. Not this again. ",
+      "annotations": []
+    },
+    {
+      "body": "Emily come down from your room if you want to talk to me! Enough with the iPad. ",
+      "annotations": []
+    },
+    {
+      "body": "The tablet was a birthday gift, and one Jennifer would regret almost instantaneously, even more so than the child-size Banjo her husband had showed up with on Emily’s 5th birthday. For months, she and Steve woke up to the shrill cry of an off-key Banjo, stringing together notes (if you could even call them notes) of twinkle, twinkle, little star. Steve still never heard the end of it, but the iPad was admittedly Jennifer’s idea. Emily was turning 10, an important milestone for a fourth grader in Hillcrest School District and not only because of the move to double digits. The move to fifth grade also involves moving to a new building—West End Elementary—for the fifth and six graders. For Hillcresters, this is a huge deal. As the move to West End approached, Jennifer thought the iPad would be an excellent “teaching opportunity,” a chance for Emily to take on more responsibility and show some maturity to her and Steve. After reviewing each of the eight parenting books she had accumulated since Emily was born and scouring countless more Reddit threads and parenting blogs, Jennifer finally gave in because she is the kind of parent who wants the very best for her child. Steve maxed out his overtime hours in the office for months to save up for the device, and Jennifer set aside the skinny latte money she used every week at the Mother’s Club, a group of Hillcrest moms who met for coffee a few times a week to gossip. But on March 5, Emily’s face made it all worth it. Her smile lit up the room as she looked up from the nest of wrapping paper, scotch tape, and ribbons, beaming at the glorious white box sitting in her lap. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "Lots of great details here. I was confused about the verb tense “would regret” — she already regrets it, right? ",
+          "context_left": " gift, and one Jennifer would regret almost instantaneously, even more so than the child-size Banjo ",
+          "context_right": " husband had showed up with on Emily’s 5th birthday. For months, she and Steve woke up to the shrill"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Banjo",
+          "comment": "No need to capitalize here, but do capitalize Twinkle, Twinkle… ",
+          "context_left": "rthday gift, and one Jennifer would regret almost instantaneously, even more so than the child-size ",
+          "context_right": " her husband had showed up with on Emily’s 5th birthday. For months, she and Steve woke up to the sh"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " of the move to double digits. The move to fifth grade also involves moving to a new building",
+          "comment": "Still great details! Try to avoid using move or its variants 3x here. ",
+          "context_left": "and not only because",
+          "context_right": "—West End Elementary"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "this is a huge deal. ",
+          "comment": "Repeating what we’ve been told. ",
+          "context_left": ". For Hillcresters, ",
+          "context_right": "As the move to West "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "After reviewing each of the eight parenting books she had accumulated since Emily was born and scouring countless more Reddit threads and parenting blogs",
+          "comment": "This made me laugh. ",
+          "context_left": "y to her and Steve. ",
+          "context_right": ", Jennifer finally g"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "because she is the kind of parent who wants the very best for her child",
+          "comment": "I don’t think you need this unless you mean it as something she tells others. ",
+          "context_left": "fer finally gave in ",
+          "context_right": ". Steve maxed out hi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "few times a week to ",
+          "comment": "Is she a stay at home mom? IPads aren’t that expensive anymore, so this paints a picture of a family in pretty deep financial distress. ",
+          "context_left": "ho met for coffee a ",
+          "context_right": "gossip. But on March"
+        }
+      ]
+    },
+    {
+      "body": "Jennifer had tried to sit down with Emily to set some ground rules. No screen time before bed. No iPad at meals. No bringing the iPad to school. No iPad before homework is finished. Jennifer had Emily scrawl each of them out on a piece of notebook paper that she promptly stuck to the refrigerator. She had read on blogmom.com that having your child write or repeat rules aloud makes them more likely to follow them. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "them",
+          "comment": "Nice. ",
+          "context_left": "bringing the iPad to school. No iPad before homework is finished. Jennifer had Emily scrawl each of ",
+          "context_right": " out on a piece of notebook paper that she promptly stuck to the refrigerator. She had read on blogm"
+        }
+      ]
+    },
+    {
+      "body": "Unfortunately, the honeymoon period did not last. After a few weeks, Emily began skirting the rules, not necessarily maliciously, but the thing was enthralling. One afternoon, Emily walked through the door after school, plopped her stuff down, and ran straight past her mother’s inviting smile and warm cookies to the small shelf where the thing sat charging in the living room, immediately immersing herself in another world. Jennifer stood there, aghast. “Excuse me young lady. Where are your manners? I welcome you home from school with chocolate chip cookies, and this is what I get?” She stood above Emily, now slouched on the couch, her nose buried in the thing and a warm white glow lighting up her face. “Sorry, Mom. Hi! I’ll take a cookie please,” Emily replied without glancing up from the screen for a split second. What could possibly be so fascinating, Jennifer thought to herself. This generation. She just didn’t get them. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "last",
+          "comment": "I like how you’re bringing in this conflict — it’s clear what the problem is but it’s not clear how it’s going to get resolved. ",
+          "context_left": "moon period did not ",
+          "context_right": ". After a few weeks,"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "herself. This ",
+          "comment": "You might want to show whether Jennifer is addicted to her own devices — if she is, the story reads one way, and if she isn’t, a different way! ",
+          "context_left": "Jennifer thought to ",
+          "context_right": "generation. She just"
+        }
+      ]
+    },
+    {
+      "body": "The next transgression happened the following week, exactly one month after Emily’s birthday. Jennifer was sitting in bed, paging through the Danielle Steele novel her girlfriend Alisha had lent her after Mother’s Club the day before. Emily had gone down for bed about an hour ago and Steve lay fast asleep snoring beside her. Maybe it was motherly instinct, or just sheer luck, but Jennifer decided to check on Emily. She was getting over a small cold, and Jennifer worried she might be having trouble sleeping. She was half correct. Emily was having trouble sleeping, but it was not because of her cold.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her cold.",
+          "comment": "Oh boy. I wonder if you could bring in some sense of what exactly Emily is looking at? ",
+          "context_left": " was not because of ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "As Jennifer poked open the door to Emily’s bedroom, she saw Emily’s face, illuminated in the dark room by the halo of the thing, and her eyes glued to the screen in front of her. “Emily! Put that away. You know you’re not supposed to have that thing out past your bedtime,” hissed Jennifer. Emily jolted forward, fumbling the thing before dropping it on her lap as she reflexively clasped her hands over her mouth. Jennifer walked from the doorway to Emily’s bedside, extending an open hand to her daughter. Reluctantly, Emily placed her prized possession in the open palm of her disappointed mother. “I will be holding on this for the rest of the week until your father and I can figure out what to do about this,” said Jennifer. “But” started Emily. “Nope, I don’t want to hear it young lady. End of discussion.”",
+      "annotations": []
+    },
+    {
+      "body": "Jennifer placed the iPad on her bedside table and climbed back into bed. She started flipping through Alisha’s book again, wondering how someone she considers a friend could find any of this entertaining. The iPad stared at her invitingly from the table beside her. What was Emily even doing on the thing so late anyways? For weeks, she had watched her daughter become precipitously enveloped by this overpriced piece of glass and aluminum. Yet, she still could not understand how something could be worth losing sleep over. She licked her finger, turning to the next page in the book, though she hadn’t even read the previous one. Finally, Jennifer gave in, overcome with curiosity. She tossed the book aside and grabbed the iPad. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "beside",
+          "comment": "Ah yes. I did wonder why Jennifer purchased her daughter something she doesn’t hav herself? ",
+          "context_left": "ngly from the table ",
+          "context_right": " her. What was Emily"
+        }
+      ]
+    },
+    {
+      "body": "Even Jennifer had to admit the thing was cool (she had taken to calling Emily’s iPad “the thing”). The small colorful squares were arranged so neatly, each equidistant from one another on the screen, and they flowed effortlessly from side to side at the light touch of a finger. Jennifer told herself she was just checking. A quick look to see what had kept Emily up so late—nothing more. She tapped one of the colorful squares, a game with bright cartoon animals and cheerful music. Simple enough. Probably mindless, Jennifer thought. But twenty minutes later, she had already leveled up twice. The mechanics were intuitive, the rewards instant, the colors and sounds oddly satisfying. She smirked, imagining what Steve would say if he found her like this. I’m just testing it out, she reassured herself. Just making sure it’s appropriate.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "checking",
+          "comment": "I love this description. ",
+          "context_left": "erself she was just ",
+          "context_right": ". A quick look to se"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "making",
+          "comment": "You might consider having this conversation with Steve really happen. I love the idea that she’s protecting her daughter by holding on to it but then really just indulging herself. ",
+          "context_left": "sured herself. Just ",
+          "context_right": " sure it’s appropria"
+        }
+      ]
+    },
+    {
+      "body": "The next night, she picked it up again. Only for a minute. But somehow, it was already midnight when she set it back down.",
+      "annotations": []
+    },
+    {
+      "body": "Days passed, and Jennifer found herself reaching for the iPad absentmindedly. While waiting in the carpool line. While stirring spaghetti sauce. While Steve talked about his day. She downloaded a puzzle game, then a shopping app. She even scrolled through Emily’s favorite videos, laughing at things she would have rolled her eyes at just weeks ago.",
+      "annotations": []
+    },
+    {
+      "body": "At dinner, Emily’s voice interrupted her scrolling. “Mom?”",
+      "annotations": []
+    },
+    {
+      "body": "Jennifer barely looked up. “Hmm?”",
+      "annotations": []
+    },
+    {
+      "body": "“I said, can you pass the mashed potatoes?”",
+      "annotations": []
+    },
+    {
+      "body": "Jennifer reached for the bowl but never took her eyes off the screen. Emily let out a small sigh.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the",
+          "comment": "I wasn’t sure I bought that she was this addicted. ",
+          "context_left": "Jennifer reached for ",
+          "context_right": " bowl but never took her eyes off the screen. Emily let out a small sigh."
+        }
+      ]
+    },
+    {
+      "body": "A few weeks later, Emily brought home a drawing from art class—a picture of her family. Jennifer noticed the details immediately: Steve standing tall with a spatula at the grill, Emily with a soccer ball at her feet. And then there was Jennifer, sitting at the table, her face illuminated by the glow of a small white rectangle.",
+      "annotations": []
+    },
+    {
+      "body": "Jennifer opened her mouth to say something—to promise it wasn’t true, that she was still paying attention—but Emily had already disappeared upstairs.",
+      "annotations": []
+    },
+    {
+      "body": "Jennifer stared at the picture for a long time. Then, without thinking, she reached for the iPad again.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "OUCH. What an ending. I really enjoyed your work here, Reza. The story is well thought out and the draft is great to work with. I think you have given yourself a number of gifts here that you can unpack more. Clarifying what Jennifer’s relationship is with technology feels important. I was surprised that she seems to have absolutely none and yet would buy her kid an iPad. Why? Maybe the school requires them? You could consider having her engaged not by an iPad but by a particular app (you described the game so well) that she can’t plan on her phone. I also wanted to see more of the conflict between Emily and her mom — that Emily would argue about having to give up her iPad (especially if it’s for school!) and maybe drew that last photo as a sort of revenge. You have quite a bit at the top that you don’t need — the description of Emily’s moving to another school, for example, is wordy and doesn’t really give you much. So some cuts there could help, but it’s also okay to have this come in over 1500 words. Think about who your main character is and what she wants — and who opposes her. Happy to discuss, and again, nice work, Reza!"
+    }
+  ]
+}

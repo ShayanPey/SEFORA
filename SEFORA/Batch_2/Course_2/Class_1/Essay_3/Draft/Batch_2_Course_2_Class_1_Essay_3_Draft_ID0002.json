@@ -1,0 +1,47 @@
+{
+  "paragraphs": [
+    {
+      "body": "Smart but Wrong: How AI Hallucinations Undermine Credibility and Truth 1) Introduction Have you confidently believed what large language models like ChatGPT produced is completely true? It may not be true most of the times. This phenomenon is known as hallucination in AI and is a serious issue, now more prevalent, as LLM’s like ChatGPT keep growing in popularity. Hallucinations refer to AI-generated content that appears fluent and plausible but is not grounded in any real data or sources (University of Arizona Libraries). For example, in 2023, a lawyer unintentionally submitted a brief containing fake court case citations produced by ChatGPT (Bohannon, 2023). Such cases highlight the risks posed by AI systems that sometimes “make up” facts. This essay examines the problem of hallucinations in LLMs, explaining what they are, how and why they occur, their impact on credibility and academic integrity, and practical solutions to resolve these issues. The goal is to shed light on why AI hallucinations undermine trust and to propose steps for building more reliable, truthful AI tools. One good solution is by statistically guessing whether the generated output is a hallucination through what’s called semantic uncertainty; and this also requires awareness to the general public (Farquhar et al., 2024, p. 625). The other solution is to integrate a real time fact checker or reliable databases. Claim 1: What are these hallucinations? They happen all the time. Why? Hallucinations are unfaithful to the provided source content often presented as the truth to mask their credibility as popularly said by any LLM dissector. In other words, the AI has no real support or evidence for what it states and the text it generated has fluency that makes it difficult for users to discern truth from fiction. They are different from falsifications produced by the AI. Crucially, hallucinated answers typically sound valid, since they are grammatically correct, relevant to the context provided, and delivered with confidence making them hard to spot. Regardless of the prompt and request, AI can effectively hallucinate anywhere from small errors to completely fake references since they are always lying albeit done unintentionally. This is called a confabulation (honest lying) (Farquhar et al., 2024, p. 625) and concerns how the AI itself is personally built. Large language models like ChatGPT don’t really know facts they just predict what word should come next based on training data. (AI is just a misnomer for LLM’s and is very misleading). If that data is messy or incomplete, the AI might guess or improvise. And since these models are not grounded in real data or fact-checking tools, they just give their best guess and confidently state incorrect information without realizing it. This often happens because the provided prompt and references does not align with the LLM’s source inputs despite carefully curating the data. This issue is common across all LLMs since they are not connected to reliable databases or real time fact-checking systems during output generation where all these models switch to their fail-safe mode. Some other issues could include the time the actual prompt is set in as LLM’s don’t usually have the latest sources uploaded to them. Although, the above stated issues are not usually true if you are a paid subscriber in AI’s like ChatGPT plus and others (University of Arizona Libraries).",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "you",
+          "comment": "Please use a first/third person, serious tone throughout the paper.",
+          "context_left": ") Introduction Have ",
+          "context_right": " confidently believe"
+        }
+      ]
+    },
+    {
+      "body": "Now that we understand how hallucinations show up and how LLMs confidently produce made-up responses, one of the biggest issues that grows from this is their inability to properly cite where they got the information from. Even when AI models give you a list of references, most of the time they’re either completely fake, irrelevant to what was said, or just don’t exist. As pointed out by the University of Maryland Libraries, ChatGPT can give you a different list of citations for the exact same answer, and not a single one of them might actually be where that information came from (University of Maryland Libraries, 2023). It’s basically guessing what looks like a good source and throwing it at you with confidence. This is especially bad in academic work, where knowing who said something and being able to trace it back matters more than anything. And since AI can’t actually look up real-time sources unless it’s designed for that, its answers are just predictions—not references. So even if the AI sounds smart, without real traceability, it is like using random posts from the internet and you have no idea what’s real unless you go and manually check it yourself. Claim 3: The credibility Academic fields cannot trust hallucinated content (includes counter arguments)",
+      "annotations": []
+    },
+    {
+      "body": "Now that we know AI fails to reliably cite sources, the next concern is the impact that has especially on credibility in academic and professional fields. For instance, hallucinated content in an essay could lead to unintentional plagiarism or misinformation if not double-checked. This is not a small error. One study found GPT-3.5 made up over 50% of its citations, and even GPT-4 still faked nearly 1 in 5 (Walters & Wilder, 2023). In real-world situations, this has already caused problems. A lawyer once submitted a legal brief filled with fake cases produced by ChatGPT and it led to actual court sanctions (Bohannon, 2023). In academic work, it’s even worse because your credibility depends entirely on how accurate and properly sourced your content is. If the AI gives you fake sources or even mixes up real ones, you could get accused of dishonesty without realizing it. And some people say this issue is getting better with newer models or paid versions, which is partly true. But even small hallucination rates are dangerous in settings where facts are everything. So, until this is fully solved, trusting AI-generated content without manually verifying it is risky and careless, no matter how good the model seems.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "this",
+          "comment": "I would clarify what you mean by \"this\"",
+          "context_left": "l-world situations, ",
+          "context_right": " has already caused "
+        }
+      ]
+    },
+    {
+      "body": "References Bohannon, M. (2023, June 8). Lawyer used ChatGPT in court and cited fake cases. A judge is considering sanctions. Forbes. https://www.forbes.com/sites/mollybohannon/2023/06/08/lawyer-used-chatgpt-in-court-and-cited-fake-cases-a-judge-is-considering-sanctions/ Farquhar, Sebastian, Kossen, J., Kuhn, L. et al. Detecting hallucinations in large language models using semantic entropy. Nature 630, 625–630 (2024). https://doi.org/10.1038/s41586-024-07421-0 University of Maryland Libraries. (2023). What does AI get wrong? Artificial Intelligence and Information Literacy. https://lib.guides.umd.edu/c.php?g=1340355&p=9880574 University of Arizona Libraries. (n.d.). Does ChatGPT hallucinate references? Ask Us. https://ask.library.arizona.edu/faq/407990 Walters, W.H., Wilder, E.I. Fabrication and errors in the bibliographic citations generated by ChatGPT. Sci Rep 13, 14045 (2023). https://doi.org/10.1038/s41598-023-41032-5",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(2023).",
+          "comment": "Please format this source according to APA.",
+          "context_left": ". Sci Rep 13, 14045 ",
+          "context_right": " https://doi.org/10."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "paragraphs": [
+    {
+      "body": "Laced Ribbons ",
+      "annotations": []
+    },
+    {
+      "body": "      I am a girl who reads Kafka not for pleasure but for the superiority complex. To be honest, I could give a fuck about whether Gregor is a verminous life sized roach striving to be a great salesman. I think girls who dye their hair after a midlife crisis are worth getting to know. Cigarettes and black coffee have always been a simple pleasure of mine. At the age of six, my father would let me sip on his beer from time to time. Since then my taste buds have always been drawn to bitter things. I am a woman who dates mostly men but fantasizes about Stacy Abrhams in black laced underwear during my walk to lecture. I don't believe in god, yet I am not a firm believer in all things science. I use a heavy hand when applying black eyeliner, because I like the way the charcoal leaves a trace of ash along the bags of my eyes throughout the day. I think the sound of rusty swings creaking back-and-forth scare away crows. I have an odd insecurity when it comes to the skin wrapped around my finger bones, the lines, wrinkles and dark crevices that lay underneath my nail beds become a fixation I cannot escape. And I think the peak of the world's existence was during Neoclassicism because it evoked artistic principles and philosophies that guided us to believing we were controlling our own destinies. Hello reader, my name is Teagan and my ribbon is red. What color is yours? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ribbon is red. ",
+          "comment": "The opening is engaging and also slightly off-putting. The barrage of information ends up almost cancelling itself out, and I found myself pondering the schematics of much of it. For example — how can a “girl” be having a “midlife” crisis? I also, and this is probably most important, wondered who in the world the narrator was talking to. Who’s the audience for this semi-rant? Then, when we got to the ribbon, I was intrigued. ",
+          "context_left": "me is Teagan and my ",
+          "context_right": "What color is yours?"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "is yours? ",
+          "comment": "There’s no real way for the reader to respond, which might be worth thinking about? ",
+          "context_left": " is red. What color ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "      My mother's ribbon is this cream, beige color, brittle and thin to the touch, one may say laced. The last time I visited her was the summer prior to my second year at Cambridge. I remember watching her pour a cup of tea and the light hitting her ribbon from our kitchen window. It was sheer, like the material they used to make wedding veils; the light slipped right through it. My mother always told me to protect my ribbon, to never let anyone touch it, and I listened.? Is it that important to fall in love, I know Jo March would agree that love is not all a woman is fit for. Now, I call mum on holidays and the Anniversary of my father's death. Every time we speak, I picture her ribbon, wondering what condition it is in since the last time ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "laced. ",
+          "comment": "?",
+          "context_left": " touch, one may say ",
+          "context_right": "The last time I visi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "through it",
+          "comment": "Where is the ribbon on her person? ",
+          "context_left": "light slipped right ",
+          "context_right": ". My mother always t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "listened.? ",
+          "comment": "Which punctuation do you want here? ",
+          "context_left": "one touch it, and I ",
+          "context_right": "Is it that important"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Is it that important to fall in love, I know Jo March would agree that love is not all a woman is fit for. ",
+          "comment": "Found this a little confusing — the run-together sentence and the reference to Jo (who did, after all, get married). ",
+          "context_left": "t, and I listened.? ",
+          "context_right": "Now, I call mum on h"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " mum ",
+          "comment": "Capitalize this, not Anniversary. ",
+          "context_left": "fit for. Now, I call",
+          "context_right": "on holidays and the "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me",
+          "comment": "I’m having trouble parsing whether the ribbons are real or not. In fiction, they could be! ",
+          "context_left": "r's ribbon is this cream, beige color, brittle and thin to the touch, one may say laced. The last ti",
+          "context_right": " I visited her was the summer prior to my second year at Cambridge. I remember watching her pour a c"
+        }
+      ]
+    },
+    {
+      "body": "      Now, I am in my last year at Cambridge, changed my subjects twice from Law to English, slept with 8 more people than I did last week and can only remember two of their names. I live in Whittlesford, with two flatmates: Autumn Barlowe and Elliot Ward . I have known Sam since we were in secondary school together. We took violin lessons before swim practice on school days and smoked pot at the Riverport near our flats on weekends. Her ribbon was yellow, it was in respectable condition, nowhere near my mothers. Sam never really liked to date around let alone fall in love. Her ribbon was quite beautiful actually, it was the shade of yellow that raced around the sun, gold almost if you looked hard enough. It hung down her thigh and was only visible when she wore skirts. I met Eli in a second year lecture on the ethical imagination. We were assigned 200 pages of The Cambridge Companion to Foucault prior to class–Eli  had forgotten his text back at his dormitory so I let him share with me. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "twice from Law to English",
+          "comment": "That’s just one change. The sentence about sleeping with 8 people more than the week before makes me feel very tired on this person’s behalf. ",
+          "context_left": "changed my subjects ",
+          "context_right": ", slept with 8 more "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "nowhere near my mothers. ",
+          "comment": "Not sure whether this means the ribbon is more or less intact than the mother’s. ",
+          "context_left": "pectable condition, ",
+          "context_right": "Sam never really lik"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was quite ",
+          "comment": "I’m confused about why the ribbon is being spoken of in the past tense. ",
+          "context_left": "in love. Her ribbon ",
+          "context_right": "beautiful actually, "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "It hung down her thigh and was only visible when she wore skirts. ",
+          "comment": "Intriguing. This implies to me that the ribbons are real. Are they there from birth or assigned? ",
+          "context_left": "looked hard enough. ",
+          "context_right": "I met Eli in a secon"
+        }
+      ]
+    },
+    {
+      "body": "       He whispered in my ear that day, “Teagan, that is your name, isn’t it?” I glance over at him while keeping my eyes towards the front of the room.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I glance over at him while keeping my eyes towards the front of the room.  ",
+          "comment": "This is not physically possible. ",
+          "context_left": "ur name, isn’t it?” ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "     Did I sleep with one of his friends? I studied my surroundings briefly before I answered. Did I leave my ID out on the desk?  “How’d you know?” I whispered. He knew I was confused by the way I stared at him ",
+      "annotations": []
+    },
+    {
+      "body": "“I've noticed you around, your ribbon, I mean” he says tentatively, yet something about the scuff on his shoes and the crevices of skin encompassing his eyes lead me to believe he wasn’t uncertain at all. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and the crevices of skin encompassing his eyes lead me to believe he wasn’t uncertain at all. ",
+          "comment": "Unclear. The line about flattery is funny, although I don’t know what her ribbon looks like at this time, given that this scene takes place in the past. ",
+          "context_left": " scuff on his shoes ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": " “I see flattery is not one of your strengths”  ",
+      "annotations": []
+    },
+    {
+      "body": " But then he continued to carry on, “I have never seen one in such good condition for someone our age, your ribbon is like no other” His eyes glued to mine. He knew he saved himself once he watched the lines around my mouth dance up.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dance up.",
+          "comment": "I’m very intrigued by the ribbons but also confused — and if they represent virginity, I do wonder that there aren’t more people with pristine ribbons? It’s not that uncommon. ",
+          "context_left": "nes around my mouth ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "       I saw Foucault peeking out of his bookbag and smiled and told him to meet me after class. We fucked back at his dorm. The sex was mediocre, but that wasn't even the worst part. It was his not-so-subtle way of trying to grab my ribbon that pushed me over the edge. I could tell he wanted the night to move further into the realm of conversations and sharing of deep, dark secrets.  I told him I had to leave because I had an early morning (I lied) and if he wanted to continue to sleep together, he would never try to touch my ribbon again–he listened. Most people knew that I was not one to do the whole dating thing because of my ribbon. The beauty of its vibrant, deep color was the answer to those who wanted to be more than friends. To others, I must have been a prude or a lover of one night-stands.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "of his bookbag and smiled ",
+          "comment": "Confused about this — it was her book? ",
+          "context_left": "oucault peeking out ",
+          "context_right": "and told him to meet"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ribbon",
+          "comment": "What is up with the ribbons? These people are obsessed! ",
+          "context_left": "as mediocre, but that wasn't even the worst part. It was his not-so-subtle way of trying to grab my ",
+          "context_right": " that pushed me over the edge. I could tell he wanted the night to move further into the realm of co"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "one",
+          "comment": "So you can have sex but falling in love hurts the ribbons? Interesting. Does that mean only romantic love? ",
+          "context_left": " together, he would never try to touch my ribbon again–he listened. Most people knew that I was not ",
+          "context_right": " to do the whole dating thing because of my ribbon. The beauty of its vibrant, deep color was the an"
+        }
+      ]
+    },
+    {
+      "body": "      We made a pact a few days later, promising neither of us would catch feelings for each other. Since then, he's held his end of the bargain and so have I. Yet, Sam never entertained the idea of the three of us under the same roof because she believed I would soon unmask this so-called “madonna-whore complex” I possessed (yet this complex is mostly seen in cis-gender men) and let my feelings get involved. Sometimes, I wonder if it was the right decision to live with a girl who studies psychology and calls her parents every night before bed. I never took into account the constant psychoanalysis she must be running on me. However, after many weeks of bargaining thrifted prized possessions from my closet and reminding her the financial benefits we would reap, she finally budged.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "entertained the idea ",
+          "comment": "I thought it was already stated that they are all roommates? ",
+          "context_left": "e I. Yet, Sam never ",
+          "context_right": "of the three of us u"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "budged",
+          "comment": "While it’s wonderfully written in many ways, I do want to point out that you spent almost 2 pages of this 5ish page story on backstory of the three roommates. What’s the plot of this story, the one we’re reading now? ",
+          "context_left": "d reap, she finally ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "I heard a loud banging noise on the other end of my door. ",
+      "annotations": []
+    },
+    {
+      "body": "      “Teagan, wake the fuck up you have to be at Lady Mitchell in 20 minutes to hand in your  thesis!” Sam bangs on my door. Splitting my ears wide-open, making the volumes of her screams sound miles away as though she has done this before (maybe she has). She wakes up Eli and his “lady friend” from their precious little rendezvous. When Eli brought other girls home, it confirmed our little safe-haven of secret occasional fucks with no feelings involved. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Splitting my ears wide-open, making the volumes of her screams sound miles away as though she has done this before (maybe she has). ",
+          "comment": "Awkward, and not a sentence. ",
+          "context_left": "m bangs on my door. ",
+          "context_right": "She wakes up Eli and"
+        }
+      ]
+    },
+    {
+      "body": "       I sober myself up by downing a carton of orange juice. I look in the mirror once more at the back of my neck, making sure my ribbon is as it was yesterday–perfection. I leave for the train, thankfully catching it. It was nice, the bustle of people and the wandering looks, the forced smiles, the tired eyes. It made one feel less alone in their misery.  Luckily, Dr.Leite looked like he had gotten laid last night and had his needed cup of joe beside him–I walked out with relief.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was",
+          "comment": "Okay, so the ribbons can be at different places on the body? ",
+          "context_left": "orange juice. I look in the mirror once more at the back of my neck, making sure my ribbon is as it ",
+          "context_right": " yesterday–perfection. I leave for the train, thankfully catching it. It was nice, the bustle of peo"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Dr.Leite ",
+          "comment": "Is this Lady Mitchell?This section has the feel of the author trying to figure out what might happen in the story and not this particular option. You abandon both the roommates and Dr. Leite pretty quickly, so does the story need them? ",
+          "context_left": "r misery.  Luckily, ",
+          "context_right": "looked like he had g"
+        }
+      ]
+    },
+    {
+      "body": "      I have a paper due tomorrow on postcolonial literature that I have not started, see you might be thinking by now that I do not care about my higher education and I only like to sleep with people and drink booze, and you may be partially correct, but there is something about this place that takes me back to when my love for the craft was raw–like the skinning of cow.  When I was little, my daddy and I would stay up and read old Scottish folk tales and hum along to Tracy Chapman singing “fast car”. I am 9 years old, telling my daddy that we will write our own tales of mythical creatures with great amounts of shimmer. I think about him more than I would like to admit, the calm days, I mean. He was a drunken bastard. The smell of liquor lingered as soon as he stepped foot in the house. His presence was known, without a word needed to be said.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "without",
+          "comment": "Feels too late to bring in the daddy portion of her personality. If she thinks about him all the time, why not bring him up in the first paragraph of things she thinks about and does? ",
+          "context_left": "presence was known, ",
+          "context_right": " a word needed to be"
+        }
+      ]
+    },
+    {
+      "body": "      I walk up the stairs to the third floor, an eternal wardrobe of literature floods the study. It would necessitate innumerable lifetimes to peruse every book in this grand edifice.The room was filled with sounds of murmur and silent coughs. There was the constant sound of the printer gently stacking papers, one after the other. The smell of oak wood shelves gave each book a fragrance—aged but sweet. The mosaic stained glass windows let hues of light dance in. Lady Mitchell was a place of ancient dark academia where browns, beiges and deep earth tones were considered bewitching, however, the colors of light made this place feel like magic. I sat and began to work on my paper.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " was ",
+          "comment": "Again, you’ve begun the paragraph in the present tense and then switched into past tense. ",
+          "context_left": "tudy. It would necessitate innumerable lifetimes to peruse every book in this grand edifice.The room",
+          "context_right": "filled with sounds of murmur and silent coughs. There was the constant sound of the printer gently s"
+        }
+      ]
+    },
+    {
+      "body": "      I found myself slipping into a daydream, my mother worn down and weary and my father a drunken shadow of a former self sitting beside her on a couch, one I have not seen before. My mother's ribbon must have been silk woven by clouds themselves, and my father's hands wrapped around her like thorns on the stem of a rose. This wasn’t real though. I was not in this memory, nor did I recognize this place. I felt a gentle touch on my shjoulder–Eli. \"Teagan, are you alright?\" he asked softly, his voice breaking through the fog of my thoughts. “I will be.”",
+      "annotations": [
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Okay, not really following this ending. Why does Eli magically appear to ask her this question? What does he want to know? Why does she feel that she will be all right? Mila, lots of great sentences here. In fact, I think that’s your real strength as a writer — you have a gift for detail and specificity and wording it all smashingly. Some moments here were just gems. Overall, though, the story doesn’t work — it feels like a number of different sections smashed together. You spend a paragraph on your narrator boldly introducing herself but then don’t really make use of anything she’s told us until her last two sentences. We meet Sam, but she’s barely in the story. We meet Eli, but it doesn’t seem to be all that important that he and the narrator stept together. We learn about the mom and the dad, but they, too, don’t feel important. So I’m left asking what the plot of this story is? What is it that Teagan wants to get or be or achieve, and how does she fight for it? And who opposes her? Who is keeping her from getting what she wants? The class of those two forces is what shapes your plot and gives it meaning. I was so intrigued by the ribbons, but there, too, it doesn’t quite work yet. I expected Teagen to remove or wound her ribbon in some way by the end, but that doesn’t seem to have happened. So you might think about what the ribbons mean and what Teagan wants for her — how does she fight to keep the ribbon the way it is (or to change it)? What opposes her? The whole concept is cool and mysterious but just doesn’t go anywhere yet. So much potential here! Can’t wait to see what you do."
+    }
+  ]
+}

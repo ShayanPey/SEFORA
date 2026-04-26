@@ -1,0 +1,61 @@
+{
+  "paragraphs": [
+    {
+      "body": "Dear Carlos Greaves, My name is Malik Turner, and I am a division 1 track and field athlete at the University of Pittsburgh. I recently read and enjoyed the article “Are You Allowed to Criticize Simon Biles?” Which focused on the life and athletic career of Simone Biles, and all of the criticism she received from the media after dropping out of the Olympics for her mental and physical health.",
+      "annotations": []
+    },
+    {
+      "body": "I noticed how effectively you used the Decision tree. I thought it was fun and different and thoroughly enjoyed it more than if I were to be reading a basic article. I like how when I was reading this article I started learning stuff about Simone Biles that I didn’t even know happened to her despite calling myself a supporter of her. “Have you single-handedly revolutionized your sport, including, but not limited to, inventing 4 mind boggling complex original moves that are now named after you. ” I like this quote because I feel like I am getting educated with the journalist. The article is filled with a lot of fun facts I did not know, and I feel like it is humanizing her to the journalists that were tearing her down, because she stepped out of the Olympics. Telling the public how much Simone Biles has done for the sport shows how the public was being way too harsh on her.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "don't forget quote burger templates to integrate quotes!",
+          "context_left": "ing 4 mind boggling ",
+          "context_right": "complex"
+        }
+      ]
+    },
+    {
+      "body": "Although I am not a world class athlete, I am a college athlete who has faced a fraction of the criticism that Simone Biles has. Being an athlete and underperforming is hard enough, but underperforming and having the world comment on everything that you are doing wrong is a different type of disappointment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Being an athlete and underperforming is hard enough, but underperforming and having the world comment on everything that you are doing wrong is a different type of disappointmen",
+          "comment": "Well said. There's a lot to explore here about the pressures athletes face!",
+          "context_left": "t Simone Biles has. ",
+          "context_right": "t."
+        }
+      ]
+    },
+    {
+      "body": "A few questions that I have about this piece is, I wonder why you chose to use more informal language? I also wonder why you chose to use unscholarly language to get your point about Simone Biles across. Could you be using informal language as part of your strategy as a comedy writer to hold the audience's attention? And finally I wonder how you got all these facts about Simone Biles?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Could you be using informal language as part of your strategy as a comedy writer to hold the audience's attention? And finally I wonder how you got all these facts about Simone Biles?",
+          "comment": "Excellent questions. I'd like to see you analyze them yourself to make some observations/discoveries about rhetorical choice and effect :)",
+          "context_left": "imone Biles across. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Thank you for sharing this article on Simone Biles. I think it will make others think a little harder next time an athlete does not perform to their “standards” and makes them realize that the athlete they are criticizing is human too.",
+      "annotations": []
+    },
+    {
+      "body": "Sincerely, Malik Turner",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Overall": 96.0
+      },
+      "comment": "You're doing an excellent job of analyzing this essay and making connections between the writing and your own experience as an athlete. I'm looking forward to seeing you make further connections between Biles's experiences and your own. I'd love to see more analysis and discovery in this writing, though. Think about _how_ and _why_ Greaves' essay works. Push yourself to new insights and learning and the ways writing works on the page!"
+    }
+  ]}

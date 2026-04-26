@@ -1,0 +1,20 @@
+{
+  "paragraphs": [
+    {
+      "body": "Standard Score (Z-score) See also: Standard score The concept of normalization emerged alongside the study of the normal distribution by Abraham De Moivre, Pierre-Simon Laplace, and Carl Friedrich Gauss from the 18th to the 19th century [1]. As the name “standard” refers to the particular normal distribution with expectation zero and standard deviation one, that is, the standard normal distribution, normalization, in this case, “standardization”, was then used to refer to the rescaling of any distribution or data set to have mean zero and standard deviation one [2]. While the study of normal distribution structured the process of standardization, the result of this process, also known as the Z-score, given by the difference between sample value and population mean divided by population standard deviation and measuring the number of standard deviations of a value from its population mean [3], was not formalized and popularized until Ronald Fisher and Karl Pearson elaborated the concept as part of the broader framework as statistical inference and hypothesis testing [4][5] in the early 20th century.",
+      "annotations": []
+    },
+    {
+      "body": "Student’s t-statistic See also: t-statistic William Sealy Gosset initiated the adjustment of normal distribution and standard score on small sample size. Educated in Chemistry and Mathematics at Winchester and Oxford, Gosset was employed by Guinness brewery, the biggest brewer in Ireland back then, and was tasked with precise quality control. It was through small-sample experiments what Gosset discovered that the distribution of the means using small-scaled samples slightly deviated from the distribution of the means using large-scaled samples – the normal distribution – and appeared “taller and narrower” in comparison [6]. This finding was later published in a Guinness internal report titled the application of the “Law of Error” to the work of the brewery and was sent to Karl Pearson for further discussion, which later yielded a formal publishment titled the probable error of a mean in the year of 1908 [7]. Under Guinness brewery privacy restrictions, Gosset published the paper under the pseudo “Student”. Gosset’s work was later enhanced and transformed by Ronald Fisher to the form that is used today [8], and was, alongside the names “Student’s t distribution” – referring to the adjusted normal distribution Gosset proposed, and “Student’s t-statistic” – referring to the test statistic used in measuring the departure of the estimated value of a parameter from its hypothesized value divided by its standard error, popularized through Ronald Fisher’s publishment titled Applications of “Student’s” distribution [9].",
+      "annotations": []
+    },
+    {
+      "body": "Feature Scaling See also: Feature scaling The rise of computers and multivariate statistics in mid-20th century necessitated normalization to process data with different units, hatching feature scaling – a method used to rescale data to a fixed range – like min-max scaling and robust scaling. This modern normalization process especially targeting large-scaled data became more formalized in fields including machine learning, pattern recognition, and neural networks in late 20th century [10][11].",
+      "annotations": []
+    },
+    {
+      "body": "Batch Normalization See also: Batch normalization Batch normalization was proposed by Sergey Ioffe and Christian Szegedy in 2015 to enhance the efficiency of training in neural networks [12].",
+      "annotations": []
+    }
+  ]
+}

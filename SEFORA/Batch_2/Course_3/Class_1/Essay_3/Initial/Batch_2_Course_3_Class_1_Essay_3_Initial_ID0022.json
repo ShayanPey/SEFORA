@@ -1,0 +1,366 @@
+{
+  "paragraphs": [
+    {
+      "body": "Title Here",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Title",
+          "comment": "? ",
+          "context_left": "",
+          "context_right": " Here"
+        }
+      ]
+    },
+    {
+      "body": "\t“Addie, I’m worried about you,” my mom said. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“What do you mean? My life could not be more perfect that it is right now,” I said.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "said",
+          "comment": "I read this as sarcastic so was surprised the mom took it seriously! ",
+          "context_left": "it is right now,” I ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tMy mom sighed. “Yes, you’re right, things are going good for you, but they won’t always be that way. You’ve been pushing your luck too much recently. I know you think you’re untouchable at work, but if you make another mistake like the one last week-”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "recently",
+          "comment": "I was intrigued! ",
+          "context_left": " your luck too much ",
+          "context_right": ". I know you think y"
+        }
+      ]
+    },
+    {
+      "body": "\t“That wasn’t my fault. It was a stupid first year resident’s. My attending is just mad because I didn’t catch her mistake before she killed the patient. It’s not my fault he died. I shouldn’t have to babysit other doctors. But don’t worry, nothing’s going to happen. I’m too good at what I do for them to fire me,” I interrupted. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me",
+          "comment": "Wow, I do not like Addie! (But maybe that’s your intention!) ",
+          "context_left": "do for them to fire ",
+          "context_right": ",” I interrupted. "
+        }
+      ]
+    },
+    {
+      "body": "\t“Addie, that’s what I’m talking about! You don’t take any responsibility for your actions. You are that resident’s higher up. Their mistakes are your mistakes.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "your",
+          "comment": "I was a little confused by how the mom would know so much about this situation and about how Addie is at work. It feel like a conversation she might have with a mentor or supervisor? ",
+          "context_left": "\t“Addie, that’s what I’m talking about! You don’t take any responsibility for ",
+          "context_right": " actions. You are that resident’s higher up. Their mistakes are your mistakes.”"
+        }
+      ]
+    },
+    {
+      "body": "\t“Look, I didn’t visit you just to get lectured. If you can’t talk about anything else. I’m leaving.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "g.”",
+          "comment": "The dialogue is nice. I wonder if we could see what they’re doing as well? ",
+          "context_left": "ing else. I’m leavin",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“I just know you worked so hard to get to where you are, and I’d hate to see it get taken away. These last few years have changed you, Addie. I’m so proud of you for becoming a doctor, but I’m worried it’s all gone to your head.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“I can’t believe you. I’m finally successful, and it’s a bad thing to you? Goodbye mom. I have to go to the hospital,” I said.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Addie, please-”",
+      "annotations": []
+    },
+    {
+      "body": "\t“No, mom, I’m leaving”",
+      "annotations": []
+    },
+    {
+      "body": "I got up off the couch and walked towards the door. I couldn’t believe she had the audacity to be mad at me for doing something good with my life. Would she rather I worked some dead-end job for years like her? She was ridiculous. I knew I shouldn’t have visited her. It always ended in some kind of argument. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my",
+          "comment": "I’m surprised by how hostile Addie is in this situation. The mom, at least to me, seems like she’s trying to help. ",
+          "context_left": "something good with ",
+          "context_right": " life. Would she rat"
+        }
+      ]
+    },
+    {
+      "body": "My mom followed after me. Of course she did. She always does.",
+      "annotations": []
+    },
+    {
+      "body": "“Adeline, I am not mad at you for being successful. I’m just saying-”",
+      "annotations": []
+    },
+    {
+      "body": "I interrupted her. “Mom, I mean this with all due respect: I don’t think I can see you anymore. Every time I visit, you find ways to drag me down, and I don’t need that in my life right now. When you’re ready to be happy for me, let me know.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "for",
+          "comment": "You have a really interesting situation here, because from my perspective, the mom seems to be correct, and Addie is overreacting (and seems incorrect and a little callous). Is that what you want? ",
+          "context_left": "e ready to be happy ",
+          "context_right": " me, let me know.”"
+        }
+      ]
+    },
+    {
+      "body": "“Addie, please be careful. You’re flying too close to the sun, and it’s a long way down,” my mom warned.",
+      "annotations": []
+    },
+    {
+      "body": "I slammed the door behind me, heading for my car. I used work as an excuse to get out of there, but maybe that’s where I needed to be. Being in the hospital always calmed down, and besides, I was on call, so I was sure I’d end up there at some point that night. Luckily, my mom lived close to the hospital, so I didn’t have a long drive. Despite the short distance, I found myself thinking about our fight.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I",
+          "comment": "Might be helpful to give more details — name of the hospital, what she does there, etc. ",
+          "context_left": "",
+          "context_right": " slammed the door behind me, heading for my car. I used work as an excuse to get out of there, but m"
+        }
+      ]
+    },
+    {
+      "body": "I’m the best resident in my class, and she thinks they’re going to fire me. What does she know? I’m the one with an education, she just spent her whole life cleaning houses. What an idiot. And besides, what was up with that warning? Did she practice that line in front of a mirror or something? “It’s a long way down.” What kind of bullshit is that?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "cleaning",
+          "comment": "WOW, Addie. ",
+          "context_left": "pent her whole life ",
+          "context_right": " houses. What an idi"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "down.” ",
+          "comment": "I did enjoy this because the mom did sound a little silly saying that. ",
+          "context_left": "g? “It’s a long way ",
+          "context_right": "What kind of bullshi"
+        }
+      ]
+    },
+    {
+      "body": "As I pulled into the parking lot, I forced myself to stop thinking about it. It was only going to make me angrier. I walked into the hospital, heading for the on-call room, but I ran into my program director on the way there. ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, nice to see you Dr. Graham. I was actually just about to call you,” he said. ",
+      "annotations": []
+    },
+    {
+      "body": "“Nice to see you too, Dr. Miller. What did you want to talk about?” I asked.",
+      "annotations": []
+    },
+    {
+      "body": "“Maybe it’s better if we do this somewhere private.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, right, HIPAA. Of course. I was just heading to an on-call room, if you wanted to talk there?”",
+      "annotations": []
+    },
+    {
+      "body": "“I think my office would be better for this, Dr. Graham.”",
+      "annotations": []
+    },
+    {
+      "body": "I couldn’t stop thinking about what case Dr. Miller wanted to discuss. Even though he was the residency director, he still took on patients of his own, and he always had fascinating cases. I was still daydreaming when we sat down at his desk. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "stop thinking about ",
+          "comment": "It’s surprising that she’s so oblivious to what is about to happen. ",
+          "context_left": "I couldn’t ",
+          "context_right": "what case Dr. Miller"
+        }
+      ]
+    },
+    {
+      "body": "“Dr. Graham, do you remember that surgery you did last week on Ms. Smith? The knee replacement?” Dr. Miller asked me.",
+      "annotations": []
+    },
+    {
+      "body": "“I do. The surgery went well, as usual.”",
+      "annotations": []
+    },
+    {
+      "body": "“Ms. Smith presented to the Emergency Department today with a severe brain bleed. She died this afternoon.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "severe",
+          "comment": "Yikes. Is this a different case from the one she was talking to her mom about? ",
+          "context_left": "rtment today with a ",
+          "context_right": " brain bleed. She di"
+        }
+      ]
+    },
+    {
+      "body": "“Okay, I don’t see how that’s my problem. That sounds like the ED and her neurosurgeon aren’t doing their jobs.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "how that’s my problem",
+          "comment": "Do you want her to be this arrogant? (Maybe so!) ",
+          "context_left": "“Okay, I don’t see ",
+          "context_right": ". That sounds like t"
+        }
+      ]
+    },
+    {
+      "body": "“Dr. Graham, we looked into her chart. You prescribed blood thinners after her surgery,” Dr. Miller told me.",
+      "annotations": []
+    },
+    {
+      "body": "“I did. I wanted to prevent any clots from forming. I didn’t want to risk her having a heart attack or stroke,” I explained.",
+      "annotations": []
+    },
+    {
+      "body": "“You didn’t discuss this with one of your attendings beforehand. If you did, you would’ve realized that Ms. Smith had uncontrolled high blood pressure, and you would’ve been told not to prescribe blood thinners. Can you tell me why Ms. Smith wouldn’t have been given blood thinners, Dr. Graham?” he asked.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "asked",
+          "comment": "As a non medical person I’m having trouble following this conversation. You might consider having Addie explain it to us a bit. ",
+          "context_left": "rs, Dr. Graham?” he ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“I guess maybe if someone wanted her to have a stroke they wouldn’t prescribe them. I made the decision to prescribe medications to prevent further harm. If any attendings wouldn’t prescribe blood thinners, they shouldn’t be working here.”",
+      "annotations": []
+    },
+    {
+      "body": "“Ms. Smith’s hypertension caused weakening of the walls of her blood vessels in her brain. Prescribing blood thinners caused the vessels to rupture, which caused her brain to bleed. Her death is your fault,” Dr. Miller said. His face had turned red, but his voice remained eerily calm. “If you did what you were supposed to and talked with your attendings. She would still be alive. Instead, you have a god-complex that makes it impossible for you to do your job right. Dr. Graham, you are a good surgeon, but that makes two patient deaths in two weeks that were caused by negligence and disobedience. This hospital has no choice but to remove you from the residency program. You can go home.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ",” Dr. Miller ",
+          "comment": "I had trouble buying that a doctor would say this to another. Legally, is this correct? (This is where we get into my advice not to write about situations you don’t know well!) ",
+          "context_left": " death is your fault",
+          "context_right": "said. His face had t"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "with your ",
+          "comment": "I wondered how he knows she did talk to her attending? Did he talk to them? ",
+          "context_left": "posed to and talked ",
+          "context_right": "attendings. She woul"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "home",
+          "comment": "Wow. Now I bought this! But is removal the most likely step they’d take? I’d think the hospital would be worried about malpractice suits? ",
+          "context_left": "program. You can go ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "My ears started ringing. I felt like I was going to pass out. Removed from the program? That wasn’t possible. ",
+      "annotations": []
+    },
+    {
+      "body": "“Dr. Miller, are you sure you’re talking to the right physician? I mean, I’m the best resident here. I can’t be fired. What would the hospital do without me?” I asked.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "right",
+          "comment": "You might consider why she is so sure she’s the best. Did someone say that to her? Or is it completely hubris? ",
+          "context_left": "u’re talking to the ",
+          "context_right": " physician? I mean, "
+        }
+      ]
+    },
+    {
+      "body": "“Probably have fewer patient deaths caused by physician oversight. You’re good with a scalpel, Dr. Graham, but that’s about it. Being a surgeon is about more than just cutting, believe it or not. You should consider yourself lucky Ms. Smith’s family hasn’t decided to sue for malpractice. Now please, I have to get to my patients. I trust you can escort yourself out?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "yourself",
+          "comment": "I believed the first part of the speech but not the ending. ",
+          "context_left": "s about it. Being a surgeon is about more than just cutting, believe it or not. You should consider ",
+          "context_right": " lucky Ms. Smith’s family hasn’t decided to sue for malpractice. Now please, I have to get to my pat"
+        }
+      ]
+    },
+    {
+      "body": "****",
+      "annotations": []
+    },
+    {
+      "body": "The rest of the day went by in a blur. I somehow made it home and spent the rest of the night sitting on the couch, staring at the wall. Fired? How was that even possible? Sure, a few patients died, but if they were healthier, maybe they would have had a better chance at survival. I didn’t understand why I was fired for their poor choices in life. I decided that tomorrow I’d apply to other residency programs. I figured the chances of me being accepted were slim, considering I was fired from mine, but I knew if I explained the situation, they’d understand. And I doubted they’d be able to deny me when they saw how good I was.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a",
+          "comment": "I wasn’t sure I needed to learn much more about the day or have this time break — I think it might be more effective to keep the scene/story continuous as you’ve done until here. ",
+          "context_left": "The rest of the d",
+          "context_right": "y went by in a blur. I somehow made it home and spent the rest of the night sitting on the couch, st"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "figured t",
+          "comment": "Is that even possible? Again, I feel we’re out of known territory here. ",
+          "context_left": "sidency programs. I ",
+          "context_right": "he chances of me bei"
+        }
+      ]
+    },
+    {
+      "body": "I thought back to my mom’s warning. She was right, I was close to the sun, but only because I was the best of the best. And maybe it was a long way down, but I would never know what the fall felt like. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Waylon, you have this fascinating situation here, where a woman allllmost learns a lesson but then just doubles down on being a jerk. I wonder what happens to this story if she does actually learn the lesson — if this firing does actually break her — and then what happens? Maybe she goes back to her mom and apologizes? Maybe she tries to talk to the supervisor again? Or maybe she decides, nope, I did nothing wrong and I’ll apply elsewhere. (This is what you have now, except she never really changes or even seems like she might.) I do think you’ve at times gone beyond what makes logical sense — I couldn’t believe that a supervisor would fire his resident when she happened to wander into the hospital or that she could just apply elsewhere. So I would suggest thinking through that a bit, maybe trying to find someone’s online post about what happens when you get fired. I didn’t mind so much that I don’t much like Addie, but it was also hard to stay interested in her when she was a jerk to everyone. Is there anyone she’s nice to?Happy revising! Thanks!"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "paragraphs": [
+    {
+      "body": "Angela",
+      "annotations": []
+    },
+    {
+      "body": "[Saturday, 13:00]",
+      "annotations": []
+    },
+    {
+      "body": "“What the — what do you mean I have to run the shop?!”",
+      "annotations": []
+    },
+    {
+      "body": "“Sally, I know this is hard to process—”",
+      "annotations": []
+    },
+    {
+      "body": "“Hard to process?!” Sally cried, slamming her hands on the table. “Gavin’s been doing that for three years! I’m supposed to go to LA for an internship! I have to start next week!”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that fo",
+          "comment": "I love starting with dialogue and the time stamp is fun. I did wonder if this could work harder for you? The phrasing seemed a little off. ",
+          "context_left": "“Gavin’s been doing ",
+          "context_right": "r three years! I’m s"
+        }
+      ]
+    },
+    {
+      "body": "“Kailiani, please, listen to me,” her mother pleaded, reaching her hands across the table and placing them upon her daughters. “I wanted to send you, I even had tickets bought. But your father…”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her mother ",
+          "comment": "Common to happen in a first draft, but I didn’t understand that there are three people in this scene. I thought the mother was calling Sally by the wrong name. ",
+          "context_left": "ase, listen to me,” ",
+          "context_right": "pleaded, reaching he"
+        }
+      ]
+    },
+    {
+      "body": "“It would be dad. What’d he say this time?”",
+      "annotations": []
+    },
+    {
+      "body": "“He said running the store would teach you more responsibility than you’d ever learn in Los Angeles, and that it would do you good to stay… and before I could do anything, he returned the ticket.”",
+      "annotations": []
+    },
+    {
+      "body": "Sally scoffed, ignoring the gentle squeeze from her mother and only returning it absentmindedly. Leave it to her cowardly excuse of a father to not even be around to break the news himself, to force it upon his wife who gave him more of her heart than he deserved. It wasn’t like they could just leave. Not when her father hadn’t given her mother her own bank account, and certainly not while he was still paying for tuition fees.",
+      "annotations": []
+    },
+    {
+      "body": "“We gotta kill this guy,” she muttered halfheartedly, resting her head on the table. Steeling her will, she said reassuringly, “It’s fine, makahuine, really. I’ll figure something out.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I’ll figure something out.”",
+          "comment": "I was interested in this but not quite sure what it is that she’s trying to figure out. How to kill him? Or just how to get to LA? ",
+          "context_left": " makahuine, really. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "[Saturday, 19:00]",
+      "annotations": []
+    },
+    {
+      "body": "“Long day?”",
+      "annotations": []
+    },
+    {
+      "body": "“Fucking — FUCK! Stupid fucking bastard of a dad, always fucking getting in my GODDAMN WAY!”",
+      "annotations": []
+    },
+    {
+      "body": "The sounds of fists meeting leather echoed throughout the gym as Sally hammered away at the punching bag. Holding it in place firmly, a neutral expression on her face, stood her kickboxing coach, Angela. As Sally continued taking out her anger on the innocent bag, Angela piped up, “And what exactly did he do?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "piped up",
+          "comment": "Again, I love the scene and the dialogue — this isn’t what I expected! Just a note that you can just go with “said” or “says” and other simpler words. You don’t need to twist yourself in knots trying to come up with variations like “piped up”.",
+          "context_left": "nnocent bag, Angela ",
+          "context_right": ", “And what exactly "
+        }
+      ]
+    },
+    {
+      "body": "“All of a fucking sudden he wants the best for me! All of a sudden he thinks I’m responsible enough to run the shop when he wouldn’t even let me touch the fucking register!”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh. Were you not meant to go to LA for an internship?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to",
+          "comment": "You might consider what Angela could already know, so we don’t repeat information. ",
+          "context_left": "“Oh. Were you not meant ",
+          "context_right": " go to LA for an internship?”"
+        }
+      ]
+    },
+    {
+      "body": "“That’s why he did it!”",
+      "annotations": []
+    },
+    {
+      "body": "With one final punch, Sally toppled against the bag, gasping for breath as she tried to collect herself again. Wordlessly, Angela offered her a water bottle and towel, face still set in that damn neutral expression.",
+      "annotations": []
+    },
+    {
+      "body": "“Have you considered talking to him?”",
+      "annotations": []
+    },
+    {
+      "body": "“I swear to god I’ll knock your teeth out.”",
+      "annotations": []
+    },
+    {
+      "body": "“You know what I mean,” Angela admonished, putting on her own gloves. “You’re no pushover. You only allow yourself to be pushed over because he happens to be your father.”",
+      "annotations": []
+    },
+    {
+      "body": "“Yeah yeah, I know, just tell him what I’m doing instead of what I want,” Sally grumbled. “Don’t give him a choice and all that.”",
+      "annotations": []
+    },
+    {
+      "body": "“If you know it, go do it. Now get up. I’ll pretend to be him.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh good, cause I got some choice words I need to practice.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "practice",
+          "comment": "This made me laugh. I liked this scene too. Now, I will say, the first and second scene essentially cover the same information. You could eliminate the first scene if Sally just tells Angela about how her mom is early pushed around. ",
+          "context_left": "ice words I need to ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "[Sunday, 14:56]",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [2:56]: ALL A’S WE UP",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "UP",
+          "comment": "I immediately enjoyed Ayomi! ",
+          "context_left": " [2:56]: ALL A’S WE ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Ayomi [2:56]: wbu how’d that fuckass op management go",
+      "annotations": []
+    },
+    {
+      "body": "Sally [2:57]: Oh, did those come out?",
+      "annotations": []
+    },
+    {
+      "body": "Sally [2:57]: I’ll be happy to have passed. Give me a sec.",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [2:57]: i mean if you didn’t we can like",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [2:58]: send him a zip bomb or something",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [2:58]: you there?",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [3:00]: sally?",
+      "annotations": []
+    },
+    {
+      "body": "Sally [3:05]: I failed. And I have a D in accounting on top of that.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "failed",
+          "comment": "Oh, interesting. I didn’t expect this since she seems school-oriented. But a nice detail! ",
+          "context_left": "Sally [3:05]: I ",
+          "context_right": ". And I have a D in "
+        }
+      ]
+    },
+    {
+      "body": "Ayomi [3:05]: HUH",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [3:05]: ??",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [3:06]: HOW",
+      "annotations": []
+    },
+    {
+      "body": "Sally [3:07]: I messed up on my final. As for op management… I don’t know. He never put in grades up until the very end, no matter how many times I asked him to tell me, so how could I have known? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "known",
+          "comment": "Hate professors who do this. ",
+          "context_left": "so how could I have ",
+          "context_right": "? "
+        }
+      ]
+    },
+    {
+      "body": "Ayomi [3:07]: ok yeah he’s a real bitch ill get the zip bomb ready",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [3:08]: so now what?",
+      "annotations": []
+    },
+    {
+      "body": "Sally [3:08]: Well, I’m suddenly one bad class away from losing all of my scholarships, which would give my dad another excuse to keep me at home.",
+      "annotations": []
+    },
+    {
+      "body": "Sally [3:09]: So it’s time to lock in.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "time to lock in.",
+          "comment": "I wonder if it would be helpful to have Ayomi be the one to bring her back, focused? ",
+          "context_left": "lly [3:09]: So it’s ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Ayomi [3:10]: never back down never what",
+      "annotations": []
+    },
+    {
+      "body": "Sally [3:10]: Never give up.",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [3:11]: NEVER BACK DOWN NEVER WHAT",
+      "annotations": []
+    },
+    {
+      "body": "Sally [3:11]: NEVER GIVE UP",
+      "annotations": []
+    },
+    {
+      "body": "Ayomi [3:11]: THATS RIGHT LETS GO",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "LETS GO",
+          "comment": "I liked how much I learned about this relationship from their conversation. ",
+          "context_left": "[3:11]: THATS RIGHT ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "[Sunday, 19:15]",
+      "annotations": []
+    },
+    {
+      "body": "Sally [7:15]: I failed two classes.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "classes",
+          "comment": "I don’t know that it works to have Angela be IRL in one section and texting in the next. I got a little confused about how close they are? Angela didn’t seem to know much in the conversation but here seems not surprised at all. ",
+          "context_left": "7:15]: I failed two ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Angela [7:20]: Impressive.",
+      "annotations": []
+    },
+    {
+      "body": "Sally [7:21]: Seriously not the time, Angela. What do I tell my mom?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "not the time, Angela",
+          "comment": "This feels very friend-like. ",
+          "context_left": "y [7:21]: Seriously ",
+          "context_right": ". What do I tell my "
+        }
+      ]
+    },
+    {
+      "body": "Angela [7:21]: The truth. You made a mistake. You’re going to fix it.",
+      "annotations": []
+    },
+    {
+      "body": "Sally [7:21]: I can’t do that, she would go into shock. There has to be a way to let her down easy.",
+      "annotations": []
+    },
+    {
+      "body": "Angela [7:23]: And telling her is how you will do so. Hiding it from her will only convince her that her daughter is a liar who isn’t working as hard as she says she is. It will only convince her that she has been wasting her efforts in supporting you.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you",
+          "comment": "It’s interesting here that Sally is more concerned about her mom than her dad. Why would Angela be qualified to tutor Sally? ",
+          "context_left": "Angela [7:23]: And telling her is how ",
+          "context_right": " will do so. Hiding it from her will only convince her that her daughter is a liar who isn’t working"
+        }
+      ]
+    },
+    {
+      "body": "Angela [7:24]: And it would be an insult to your hard work.",
+      "annotations": []
+    },
+    {
+      "body": "Angela [7:25]: If need be, I can tutor you.",
+      "annotations": []
+    },
+    {
+      "body": "Sally [7:26]: Maybe I’ll take you up on that.",
+      "annotations": []
+    },
+    {
+      "body": "[Sunday, 20:00]",
+      "annotations": []
+    },
+    {
+      "body": "“Lightning, hey! What’s up?”",
+      "annotations": []
+    },
+    {
+      "body": "[“Nothing much, you?”]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Nothing much, you?”]",
+          "comment": "This is an interesting way to format the dialogue but I don’t think you need it. We can hear what Lightning is saying, right? So just as normal is fine. I definitely wanted to hear about Milo earlier if he’s Sally’s boyfriend. ",
+          "context_left": "[“",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Let’s not talk about me,” Sally groaned, flopping onto her bed and staring at the ceiling, phone pressed to her ear. “Listen, Milo hasn’t been answering my calls, do you know what he’s up to?”",
+      "annotations": []
+    },
+    {
+      "body": "[“... Right. Milo.”] Lightning replied hesitantly, a hint of worry leaking through. Sally hoped that wasn’t worth focusing on.",
+      "annotations": []
+    },
+    {
+      "body": "“Uh huh. It’s kind of urgent, so maybe you could pass the message on?”",
+      "annotations": []
+    },
+    {
+      "body": "[“You know what, I totally would, except he specifically told me not to tell you anything about him and I feel like that goes both ways.”]",
+      "annotations": []
+    },
+    {
+      "body": "“Wait, what?”",
+      "annotations": []
+    },
+    {
+      "body": "[“No, yeah, the bartending has been going great, it's just the last thing he told me was that his coworker was hitting on him and I’m gonna be honest he didn’t seem entirely against it? And then he realized how that sounded and he told me not to tell you but Sally, you need to know because he’s too much of a coward to tell you himself.”]",
+      "annotations": []
+    },
+    {
+      "body": "“Oh.”",
+      "annotations": []
+    },
+    {
+      "body": "[“Yeah.”]",
+      "annotations": []
+    },
+    {
+      "body": "“I… right. Can’t say I blame him. I haven’t exactly been the most attentive, what with college and all,” Sally sighed, fighting to keep her voice steady. “Hey listen, I’ll call you back later, ok? Tell Milo I’m sorry.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her",
+          "comment": "Definitely have a bad feeling about this. ",
+          "context_left": "d, fighting to keep ",
+          "context_right": " voice steady. “Hey "
+        }
+      ]
+    },
+    {
+      "body": "[“Sally, wait—”]",
+      "annotations": []
+    },
+    {
+      "body": "[Monday, 2:15]",
+      "annotations": []
+    },
+    {
+      "body": "“I’m so tired.”",
+      "annotations": []
+    },
+    {
+      "body": "[“That is because it’s 2 am. Go to sleep.”]",
+      "annotations": []
+    },
+    {
+      "body": "“You’re a regular comedian, aren’t you,” Sally snarked, although her voice was slowly fading. “I can’t sleep, or else I wouldn’t have called you.”",
+      "annotations": []
+    },
+    {
+      "body": "[“And I am glad you did. But if you could explain what’s going on, that would be splendid,”] Angela requested, unable to hide the lack of energy in her voice.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "be",
+          "comment": "Here, again, the brackets don’t help you. ",
+          "context_left": "oing on, that would ",
+          "context_right": " splendid,”] Angela "
+        }
+      ]
+    },
+    {
+      "body": "“I just… everything’s going wrong, Angela. It’s been two days and my life’s falling apart. I still haven’t spoken to my dad cause he’s avoiding me like a bitch, it’s summer so there’s no chance to fix my grades cause I can’t afford a summer class without the internship, and Milo’s probably falling out of love with me cause I’m fucking stuck here!”",
+      "annotations": []
+    },
+    {
+      "body": "[“And what will you do now?”]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "what will you do now?”]",
+          "comment": "It’s interesting that Angela isn’t all that helpful — I feel like a lot of these people aren’t quite helping Sally as she wanted. ",
+          "context_left": "[“And ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“I don’t know!” Sally wheezed, feeling her heart rate spike up as the weight of the world pressed down on her lungs. “I don’t know, I — I thought it’d be easier, I thought I had everything figured out, I thought I was doing well and I was so why is everything going wrong?!”",
+      "annotations": []
+    },
+    {
+      "body": "Angela was saying something, but Sally couldn’t hear her — her ears had shut out any noise, replaced by the pounding of her own heart and desperate breaths. She curled into a ball, hands gripping at the sheets just to try and contain the overwhelming regret flowing through them.",
+      "annotations": []
+    },
+    {
+      "body": "[“Kailiani,”] Angela said firmly. [“Are you still there?”]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "[“Kailiani,”] ",
+          "comment": "Why did Angela use this name here? ",
+          "context_left": "",
+          "context_right": "Angela said firmly. "
+        }
+      ]
+    },
+    {
+      "body": "“I’m so tired,” Sally whispered, eyes squeezed shut as she tried (and failed) to fight back her tears. “I don’t want to do this anymore, Angela. I’m so tired of pretending I’m ok, I can’t do it anymore, I —”",
+      "annotations": []
+    },
+    {
+      "body": "[“Then don’t.”]",
+      "annotations": []
+    },
+    {
+      "body": "Sally’s tongue forgot how to form words as she stammered out a feeble, “Huh?”",
+      "annotations": []
+    },
+    {
+      "body": "“Stop pretending. You seem to think people will judge you for struggling. They don’t, and if they did, who cares? You don’t need to be strong for their sake. You need to be strong for your own,” Angela ordered. “And if you can’t, then I will be strong for you, until you can recover.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "You seem to think people will judge you for struggling",
+          "comment": "I wonder if it might be helpful for Angela to point out all the people who know Sally is struggling and don’t hate her? ",
+          "context_left": "“Stop pretending. ",
+          "context_right": ". They don’t, and if"
+        }
+      ]
+    },
+    {
+      "body": "There was no stopping the tears now as Sally sobbed into her pillow, unwilling to burden Angela with their weight. And yet, being the saint she was, her mentor continued offering reassuring statements and words of encouragement, which were slowly fading away as sleep began overtaking Sally. As darkness filled her vision, Sally could just barely make out one final sentence as Angela seemed to realize what was happening.",
+      "annotations": []
+    },
+    {
+      "body": "[“Good night, dear child. You will never feel the bitter pain of loneliness so long as I am around. This, I promise.”] And this time, Sally allowed the tears to gently trace her cheeks as she fell into dreams",
+      "annotations": [
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "How much older is Angela?Joshua, I really enjoyed this piece! I love how you went for it, using a variety of styles and leaning heavily on dialogue (a lot of new writers are scared of dialogue but not you!). I also liked and sympathized with Sally — we have all been where she is. I, liked, too that the “solution” for her wasn’t that everything could be fixed but just that she could learn to cope. I think you probably have a few too many people in this story — the parents seem to blur over the course of the story and Milo pops up briefly (as does Lightening) before disappearing. And I had trouble believing Angela who starts out as a trainer and by the end is a wise mentor/friend. And you introduced big problems (an abusive dad/spouse) which you don’t have time to explore. So I would work on compressing some of these characters and the situation a bit. What if the mom is the one who cancels the internship and has to be told about the failures? What if Ayomi and Lightening are the same person? Nothing really huge but just sort of making everyone work a bit harder. (And, too, as I mentioned, you can combine the first and second scenes which essentially give the same information.) Think, too, about Angela — what happens to the conflict if she isn’t always great? She’s as real as Sally, and she might have things going on in her life that keep her from being able to be super-responsive to Sally at all times. That would make the ending more of a conclusion, when Angela is actually able to be there for Sally. I’m excited to see where you take this story and can’t wait for the workshop!"
+    }
+  ]
+}

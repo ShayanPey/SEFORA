@@ -1,0 +1,140 @@
+{
+  "paragraphs": [
+    {
+      "body": "In the article, “Beyond the politics of nostalgia: What the fall of the steel industry can tell us about the future of America,” Tony Dutzik asserts that the United States has passed its golden age of manufacturing, and that political promises to bring it back are misleading. Reminiscing on the economic prosperity that American manufacturing once had leaves out the environmental damage and pollution it brought to American cities like Pittsburgh. Instead of focusing on the nostalgia of past manufacturing, American cities should follow in the steps of Pittsburgh and invest in green industries and postindustrial options. He supports his point by developing several important ideas. First, Dutzik argues that the cause of the manufacturing collapse in America was due to the slowdown in demand for steel, new union contracts increasing the cost to produce in the U.S., and other countries developing their own, cheaper steel industries. Next, he highlights how promises to return America back to a manufacturing country are fake choices. Promises from the left and the right to recreate industrial jobs are not sustainable because of cheaper alternative options abroad. Finally, Dutzik believes that to work towards postindustrial investment and projects, America must abandon past concepts of economic development and prosperity. Pittsburgh represents this concept as a city that lost many of its manufacturing jobs, it has recovered somewhat by post-industrial industries, which have also transformed it into a greener and cleaner city.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Nice job with summary!",
+          "context_left": "what by post-industrial industries, which have also transformed it into a greener and cleaner city.",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "watch out for comma splices :)",
+          "context_left": "what by post-industrial industries, which have also transformed it into a greener and cleaner city.",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Have you ever heard of Steelers? The answer is probably yes. But have you ever wondered why the Steelers are called the Steelers. This was a question that always came to me when I was a kid. While the answer to that question is relatively straightforward, the team being named after Pittsburgh’s former steelworks renown. The impact this had on the city today and me growing up isn’t as straightforward.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "While the answer to that question is relatively straightforward, the team being named after Pittsburgh’s former steelworks renown.",
+          "comment": "sentence fragment?",
+          "context_left": "e when I was a kid. ",
+          "context_right": " The impact this had"
+        }
+      ]
+    },
+    {
+      "body": "When I talk to many of my old high school friends that have moved out of the city for college or for work, or even when I talk to people still living in the city. They express a certain dislike for the city. This always surprises me, because as someone born and raised here, I’ve always been fond of it, and never felt like I needed to escape. My first thought is to ask why. What is specifically about the city that turns people away? Many people the “bad” weather, the steep hills, or most commonly, the small size compared to other major U.S. cities.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "When I talk to many of my old high school friends that have moved out of the city for college or for work, or even when I talk to people still living in the city.",
+          "comment": "Also a sentence fragment.",
+          "context_left": "",
+          "context_right": " They express a cert"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Many people the “bad” weather, the steep hills, or most commonly, the small size compared to other major U.S. cities.",
+          "comment": "",
+          "context_left": " turns people away? ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "While some of these criticisms are certainly valid, as even true yinzers can agree on how bad the potholes are, and how bad the winters get. The problem lies though with not these industries but with how they frame what kind of city Pittsburgh is. Underneath the soot and grime of the steel city, there is a resilient population that historically and currently, has reveled in the difficulties. Pittsburgh is a beautiful place once you know where to look and what to do.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "some of these criticisms are certainly valid, as even true yinzers can agree on how bad the potholes are, and how bad the winters get. ",
+          "comment": "Nice details and voice!",
+          "context_left": "While ",
+          "context_right": "The problem lies tho"
+        },
+        {
+          "type": "strikeout",
+          "text": "While",
+          "comment": "",
+          "context_left": "",
+          "context_right": " some of these criti"
+        }
+      ]
+    },
+    {
+      "body": "As the article iterates, Pittsburgh isn’t what it used to be, but I don’t take that to have a negative connotation. It certainly isn’t the manufacturing giant that it used to be, as the city population and job declines. In the article, Dutzik himself writes, “American steel mills now produce roughly the same amount of steel with only half as many workers as they did in 1990 – and many, many times fewer workers than they did during Pittsburgh’s industrial heyday.” In other words, Dutzik believes that while it may seem like the Pittsburgh and the U.S is producing the same amount of steel, the steel industry has shrunk dramatically from what it once was. Manufacturing jobs that once employed thousands of people in Western Pennsylvania are no longer available. Although the steel industry that once defined Pittsburgh brought the city more than just manufacturing jobs and the steel city culture.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Dutzik himself writes, “American steel mills now produce roughly the same amount of steel with only half as many workers as they did in 1990 – and many, many times fewer workers than they did during Pittsburgh’s industrial heyday.” In other words, ",
+          "comment": "great quote burger!",
+          "context_left": "es. In the article, ",
+          "context_right": "Dutzik believes that"
+        }
+      ]
+    },
+    {
+      "body": "In area in the East End of Pittsburgh I’ve driven past or visited countless times over the years is Bakery Square. Standing in that area there is dozens of modern, glass buildings with offices for tech giant Google, electronic manufacturer Philips along with many others. As I’ve grown up it seems that every time I visit, the area gets bigger, with more restaurants, stores and companies popping up. What is remarkable to me though is that my parents would always tell me before all the new companies moved in there, all that stood there was a Nabisco Cookies factory. My mom tells me she misses when she could smell the fresh baked cookies when driving fast the factory. While I never got to experience that, I have experienced the staggering growth of the old cookie factory, into a bustling center of shops, restaurants, offices and much more.",
+      "annotations": []
+    },
+    {
+      "body": "The other category that Pittsburgh used to lead in along with steel production was pollution. Dutzik agree when he writes, “The other thing that Pittsburgh was most known for in the 20th century, besides steel, was pollution.” Dutzik point is that people who long for the return of steel manufacturing, forgot the immense dangerous pollutants that came with it. This pollution has had far reaching impacts for peoples health, and signs of this dangerous past can still be found all over the city.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "The other category that Pittsburgh used to lead in along with steel production was pollution. Dutzik agree when he writes, “The other thing that Pittsburgh was most known for in the 20th century, besides steel, was pollution.” Dutzik point is that people who long for the return of steel manufacturing, forgot the immense dangerous pollutants that came with it. This pollution has had far reaching impacts for peoples health, and signs of this dangerous past can still be found all over the city.",
+          "comment": "While this is certainly true, I'm not sure how this idea contributes to your essay's central focusing idea about how Pittsburgh is still awesome if you look beyond the surface :)",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Only a couple of blocks from my house growing up, there is a small, old church with a distinct black stone exterior. While there were no longer services held there, it was used as a community center for my neighborhood. I had passed the building almost every day, and had been inside numerous times, whether it was for pottery class, community events or youth group services. I had many fond childhood memories made there, and any time I was in that building, there was sure to be something exciting or fun happening.",
+      "annotations": []
+    },
+    {
+      "body": "Traveling past this building and going inside for events throughout my childhood, it never occurred to me why this building had a dark black stone color. When I was 9 or 10, I remember the building closed for renovation, so the different events I would attend had to move location. Crews began to come and clean the exterior, which revealed a shocking bright and beautiful beige exterior, which was the original color of the stone. The steel city history of smoke and smog had permanently discolored the church. This is one of my favorite facts of Pittsburgh’s unique history. My favorite part though, is that the old church was used as a place for community engagement before and after.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "My favorite part though, is that the old church was used as a place for community engagement before and after.",
+          "comment": "",
+          "context_left": "h’s unique history. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "While it is true that the city is significantly smaller than its peak steel producing powerhouse days, as someone born and raised here, the city has recovered and is more beautiful and vibrant than ever before. There are blossoming industries in technology, healthcare, and education. As well as a well-connected community, and unique characteristics that you won’t find in any other city. This is why you shouldn’t overlook or disregard Pittsburgh, as someone who was born and raised, and loves this city.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Summary": 15.0,
+        "Response": 26.0,
+        "Concrete and specific details and examples": 20.0,
+        "Integrating quotes": 20.0,
+        "Effective rhetorical choice and effect": 8.0,
+        "Effective images": 5.0,
+        "Total": 94.0
+      },
+      "comment": "Nice work! This is a fascinating \"insider's\" view of Pittsburgh that clearly demonstrates your love and appreciation for your hometown. It's well written and full of fascinating details, too :) Also, great quote burgers! See my notes in-text for a few ideas about another potential revision (including the essay's \"map\" and sentence-level issues like sentence fragments and comma splices). Thanks for sharing this essay with me. It was a fun read :)"
+    }
+  ]
+}

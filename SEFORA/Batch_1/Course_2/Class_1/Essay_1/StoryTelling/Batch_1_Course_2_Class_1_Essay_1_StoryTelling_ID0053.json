@@ -1,0 +1,46 @@
+{
+  "paragraphs": [
+    {
+      "body": "Creating both non-AI-assisted and AI-assisted videos offered contrasting experiences in terms of creativity and decision-making. The non-AI-assisted video gave me complete control over every aspect, from concept to execution. This meant I had to manually design scenes, choose visuals, and plan transitions. While this allowed for a strong sense of creative freedom, it was a slow, labor-intensive process. Every decision had to be carefully planned and implemented, which required significant time and effort.",
+      "annotations": []
+    },
+    {
+      "body": "In contrast, using AI with Vyond Go simplified the process. I provided a prompt, and the AI generated an initial draft. This shifted my role to that of an editor, focusing on refining and customizing the video rather than starting from scratch. While the AI saved time, I had less control over specific creative details, as the generated content didn’t always perfectly match my vision. For instance, the AI-generated characters and transitions felt generic, lacking the cultural and emotional nuances I wanted to capture.",
+      "annotations": []
+    },
+    {
+      "body": "In the non-AI process, the biggest challenge was the amount of work required to manage every detail. To overcome this, I broke the project into smaller tasks, completing one aspect at a time. With AI, the challenge was aligning the generated content with my intended narrative. The solution was manually adjusting characters, scene transitions, and music to better suit the story.",
+      "annotations": []
+    },
+    {
+      "body": "The prompt I used for the AI-assisted video was: “Generate a 1-min animated video to tell the story of two bridges—Smithfield Street Bridge in Pittsburgh and Yangmingtan Bridge in Harbin—in the next 50 years. Both bridges will face the challenges of a rapidly changing world, and technology will play a critical role in their evolution. In the first scene, focus on how autonomous electric vehicles will travel seamlessly across the Smithfield Street Bridge, while on the Yangmingtan Bridge, AI-driven systems will monitor traffic and enhance safety for pedestrians and cyclists. Local businesses near both bridges will utilize AI to offer personalized services and products to visitors. In the second scene, highlight the use of sustainable energy and innovative designs in response to climate change. The Smithfield Street Bridge will feature solar panels and green spaces that manage stormwater, while the Yangmingtan Bridge will incorporate snow-melting technology and wind turbines to harness renewable energy. In the final scene, synthesize the key changes that will occur over the next 50 years, showcasing both bridges as symbols of connectivity and resilience, celebrating their roles as vital links in their communities while embracing the future.”",
+      "annotations": []
+    },
+    {
+      "body": "I chose this prompt because it aligned with my vision of exploring how the two bridges would adapt to future technological and environmental challenges. I wanted to showcase the role of AI and sustainability while maintaining the bridges' importance to their communities.",
+      "annotations": []
+    },
+    {
+      "body": "The primary benefit of AI was the time saved in generating an initial video. It provided a solid framework for me to build on and offered creative suggestions I hadn’t initially considered. However, the AI lacked nuance, often producing generic scenesthat didn’t fully align with the cultural and emotional aspects I wanted. While it made the process more efficient, it limited my creative freedom, requiring me to spend extra time making manual edits.",
+      "annotations": []
+    },
+    {
+      "body": "I was moderately satisfied with the AI-generated video. While it captured the core narrative of technology and sustainability, it lacked the emotional depth I intended. The transitions were abrupt, and the characters didn’t reflect the communities surrounding the bridges. The video worked, but it needed refinement to meet my storytelling goals. To improve the video, I made key changes: adding more diverse characters, smoothing out transitions, and changing the background music to better fit the futuristic theme. These edits were essential for achieving a more authentic and emotionally resonant story.",
+      "annotations": []
+    },
+    {
+      "body": "In conclusion, AI made the process faster but required manual adjustments to align with my vision. It’s a helpful tool, but human creativity is still needed to add depth and personalization.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Storytelling": 2,
+        "Length requirement": 2,
+        "Storytelling Statement": 3
+      },
+      "comment": "N/A"
+    }
+  ]}

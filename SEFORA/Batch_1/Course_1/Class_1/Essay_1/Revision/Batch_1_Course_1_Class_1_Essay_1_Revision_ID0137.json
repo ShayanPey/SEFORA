@@ -1,0 +1,185 @@
+{
+  "paragraphs": [
+    {
+      "body": "Dogs and Emotions",
+      "annotations": []
+    },
+    {
+      "body": "In the article \"Dogs and our Emotions,\" Aaron Llera insists that dogs understand human emotions without saying a word through visual cues. Llera is a practicing veterinarian who started writing about what pets might be going through so owners can better understand them. He asserts his point by developing several essential ideas. First, Llera observes that dogs can respond to human emotions without fully understanding them. According to Llera, \"Dogs, like toddlers, are susceptible to emotional contagion. This means dogs can respond to the emotions of humans without fully understanding what the person is feeling.\" Next, he believes dogs' ability to understand human emotions stems from the century-long relationship between humans and canines. Dogs were domesticated thousands of years ago, leaving vast amounts of time to pick up on human tendencies to learn from us. Finally, Llera claims noise helps them pick up on human emotions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Finally, Llera claims noise helps them pick up on human emotions.",
+          "comment": "I'm interested in this idea, but I don't get it! (which feels like it'll be important, somehow, to your essay. Is it? Is this the right idea to \"point\" to your own ideas?)",
+          "context_left": "s to learn from us. ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "Nice summary templates and signal verbs :)",
+          "context_left": "respond to human emotions without fully understanding them. According to Llera, \"Dogs, like",
+          "context_right": " toddlers, are susce"
+        },
+        {
+          "type": "strikeout",
+          "text": "without saying a word t",
+          "comment": "",
+          "context_left": "tand human emotions ",
+          "context_right": "hrough visual cues. "
+        }
+      ]
+    },
+    {
+      "body": "My dogs mean everything to me. Melody was the first dog I ever knew; coming home to her when I was born. I grew up with her, and we went through many moments in my life together. When I was seven, my parents told my sister and me we were moving. I was leaving my friends and family to go to a state I had never been to. I went to a room where I could be alone, but Melody knew something was wrong and followed me. I had never felt more anxious in my life until that point; what if the people were different in this new state? What if they made fun of the toys I played with? Would I ever see my friends and family again? While all these questions went through my mind, Melody could understand and be there for me when I did not want anyone else to be.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "coming home to her when I was born.",
+          "comment": "watch out for sentence fragments!",
+          "context_left": "st dog I ever knew; ",
+          "context_right": " I grew up with her,"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Melody could understand and be there for me when I did not want anyone else to be.",
+          "comment": "how so? Can you explain and develop \"how\" Melody was there for you? And how she understood you?",
+          "context_left": "nt through my mind, ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "I wonder if you should start your response right here?",
+          "context_left": "ts in my life togeth",
+          "context_right": "er. When I was seven, my parent"
+        }
+      ]
+    },
+    {
+      "body": "As Melody got older, we got two more family dogs, Daisy and Chloe. I spent far more time with them as I was helping to train them. Going through the stress of high school with them, they started to learn when I wasn't feeling myself. Countless nights before finals, SATs, or ACTs, I would be endlessly studying, worrying I would not know anything, thinking I would fail or not do well, and my dogs would follow me around. The weeks leading up to college were stressful with packing, picking classes, and everything in between. Every so often, I would hear the footsteps of one of my dogs outside my room, looking to enter. They knew exactly when my mood would change, when to come, and where to find me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "They knew exactly when my mood would change, when to come, and where to find me.",
+          "comment": ":)",
+          "context_left": ", looking to enter. ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "Nice details in this paragraph :)",
+          "context_left": "they started to learn when I wasn't feeling myself. Countless nights before finals, SATs, or",
+          "context_right": " ACTs, I would be en"
+        }
+      ]
+    },
+    {
+      "body": "After reading Llera's article about how dogs understand human emotions, I could not help but think how my dogs could do the same. Llera states, \"We don't have much scientific evidence regarding how much our dogs understand us; research is ongoing in that arena. Despite the halo of mystery, we do know that part of a dog's ability to understand human emotions stems from the centuries-long relationship between humans and canines.\" Lleras's point is that while no one fully knows why dogs can understand human emotions as they do, part of the reason is their relationships with humans. Every person in this world expresses emotions differently, so how would this factor in how dogs can determine how you feel? Llera brings up another point about dogs using scent to sniff out sweat samples of humans. According to Llera, \"When exposed to the fear sweat sample, the dogs' heart rates went up, and they sought comfort from their owners, ignoring the stranger. When exposed to the happy sample, the dogs were more relaxed and less wary of the stranger.\" Basically, Llera is saying that dogs can smell how you are feeling, as sweat glands smell differently based on your emotions. If this statement is true, do dogs care about you or come over because you smell different?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Lleras's point is ",
+          "comment": "",
+          "context_left": "umans and canines.\" ",
+          "context_right": "that while no one fu"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Basically, Llera is saying",
+          "comment": "nice quote burger templates!",
+          "context_left": "y of the stranger.\" ",
+          "context_right": " that dogs can smell"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Every person in this world expresses emotions differently, so how would this factor in how dogs can determine how you feel?",
+          "comment": "Do you need to answer this question in order to make your essay's central focusing ideas/big ideas clear to your reader? This question seems important...",
+          "context_left": "nships with humans. ",
+          "context_right": " Llera brings up ano"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "According to Llera, ",
+          "comment": "",
+          "context_left": " samples of humans. ",
+          "context_right": "\"When exposed to the"
+        },
+        {
+          "type": "note",
+          "comment": "Why are these questions important to your essay? What are they revealing? How do they support/develop your essay's central focusing idea?",
+          "context_left": "sweat glands smell differently based on your emotions. If this statement is true, do dogs care",
+          "context_right": " about you or come o"
+        }
+      ]
+    },
+    {
+      "body": "For as long as I can remember, I have struggled with anxiety, and my dogs have always been there to support me. Thousands of nights before tests, big games, and many other events were anxious for me, and my dog sat by me when I needed it. Not only do they come to comfort me when I am anxious, but they are sad and excited. Each time, they show emotion, too. They jump on me when excited, cry to be pet when sad, and cuddle next to me when nervous. My dogs have been supporting me a lot on my journey moving into college. I have had plenty of anxiety around meeting new people, living far away from home, and the stress of classes. My dogs were there every step of the way until I moved in. Who is here to understand me now that my dogs are not?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Who is here to understand me now that my dogs are not?",
+          "comment": "This question, however, leads your reader right into your next point! So nice job :)",
+          "context_left": "y until I moved in. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Moving into college, I did not know anyone, but that quickly changed. There were many freshman events and people in classes with whom I quickly became friends. These friends soon became the ones in my life who were supporting me. Being with my friends all day, they know when I am stressed because I have an exam coming up or when I am annoyed because the dining hall food was not good. My friends do not just understand my emotions but know what to do in these situations. They are the ones who are supporting me now that my dogs are not around.",
+      "annotations": []
+    },
+    {
+      "body": "My dogs have shown me how I like to be supported in different situations and how to support friends. As my friends have picked up on my emotions, I have learned to read theirs just like my dogs did with me. They have shown me how little or much space to give in situations. My dogs have made me comfortable being there for others when I did not think I could be.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "They have shown me how little or much space to give in situations. My dogs have made me comfortable being there for others when I did not think I could be.",
+          "comment": "interesting. This essay's central focusing idea seems to be about how dogs can teach us how to be more human. That's fascinating.",
+          "context_left": "y dogs did with me. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The connections I have made with friends at college have been short. This brings me to how I can pick up on my friends' emotions. There are many things I do not know about them including their family or friends from home. I do not know how they grew up and what their friends and family did to be there for them. How can I understand their emotions when I hardly know them. This is the same question I ask with my dogs, picking up on my feelings. The connection I have with my friends at college is strong, just like the connection I have with my dogs. My dogs have shown me that being there for someone does not matter how long you have known someone, how they smell, or what their past is like. Showing up and supporting the people around you when they need it most is the most important thing even if you are not entirely positive on what that Works Citied “Dogs and Our Emotions | VCA Animal Hospitals.” Vca, https://vcahospitals.com/know-your- pet/dogs-and-our-emotions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "entirely positive on what that",
+          "comment": "Did you forget the last part of the line? :)",
+          "context_left": "even if you are not ",
+          "context_right": " Works Citied “Dogs "
+        },
+        {
+          "type": "note",
+          "comment": "See my comment above. I think you miss the opportunity to truly drive your essay's central focusing idea home. How do dog's teach us to be more human? How do you practice the empathy and understanding that your dogs have taught you? Develop and explain :)",
+          "context_left": "The connections I have made with friends at college have been short. This brings me to",
+          "context_right": " how I can pick up o"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Summary": 14,
+        "Response": 26,
+        "Concrete and specific details and examples": 19,
+        "Integrating quotes": 17,
+        "Effective rhetorical choice and effect": 9,
+        "Effective images": 0
+      },
+      "comment": "Nice revision! This draft is much more cohesive and clear. Nice voice and tone, too :) Great details. There are ways to improve this essay even further :), so see my notes in-text should you choose to do another revision :) Also, I'm not sure your quotes are cohesively integrated with your ideas, and I don't see any images? "
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Language",
+      "annotations": []
+    },
+    {
+      "body": "I've struggled with language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly\". In elementary school, after being examined and found that the problem was not my IQ or effort, I was given an IEP, which was intended to help individualize how I learned.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I've struggled with language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age.",
+          "comment": "Really? Wow. I wouldn't have thought this. Also, I wonder if a story might \"show\" these things more effectively than simply summarizing them?",
+          "context_left": "",
+          "context_right": " Most standardized t"
+        }
+      ]
+    },
+    {
+      "body": "My fluency in the English language was hard-earned. I spent hours studying and worked hard to overcome the frustration of being confined to my low standard. I recall how awkward it was to be dragged out of class to take tests in a different room from my peers. This was because I had been given more time for those tests. My teachers decided it would be better due to my IEP, so they made it public information so my classmates would understand. My middle school friends didn't understand and made me feel as if there was something wrong with me. It continued like that until I left for high school.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "of being confined to my low standard.",
+          "comment": "interesting, potentially revealing, phrase...",
+          "context_left": "ome the frustration ",
+          "context_right": " I recall how awkwar"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "My middle school friends didn't understand and made me feel as if there was something wrong with me.",
+          "comment": "right! Yes. This friction is intriguing. (and, also, incredibly difficult, I imagine...especially as a middle-school kid)",
+          "context_left": "s would understand. ",
+          "context_right": " It continued like t"
+        }
+      ]
+    },
+    {
+      "body": "In high school, I had more encouragement from my teachers, and the confidence they had in me was directly related to my confidence in myself. Aside from my teachers, my new friends made a significant impact on my confidence. I am not only confident in myself but also in my intelligence. My home friends encourage me to be my best self. Because of their unwavering support during this difficult period in my life, I formed a unique friendship that resulted in languages and lasting memories.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "the confidence they had in me was directly related to my confidence in myself.",
+          "comment": "another potential idea to explore?",
+          "context_left": "om my teachers, and ",
+          "context_right": " Aside from my teach"
+        }
+      ]
+    },
+    {
+      "body": "My 'home' language is the one I speak with my pals. My friends at home encouraged me to speak this language with them. Emily Hart is not just my best friend, she’s one of the most incredible people I’ve been lucky enough to have known over the past few years. She has this beautiful way of making me feel so deeply cared for and appreciated through her words and actions.",
+      "annotations": []
+    },
+    {
+      "body": "Emily and I were presidents of our high school's GSA. We’d go to her house every week and bake goodies for our club meetings. Those memories in her kitchen are ones I will treasure forever. We went on adventures like exploring the excitement of New York City and finding peace and quiet in the woods while camping. We’ve done so much together, and I hope to continue to expand on the beautiful language of our friendship that we already have.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I wonder how these friends are related to your experience with learning differences? Your intro/first paragraphs set that topic up as the main exploration of this essay, so let's discuss the connections :)",
+          "context_left": "peace and quiet in the woods while camping. We’ve done so much together, and I hope to",
+          "context_right": " continue to expand "
+        }
+      ]
+    },
+    {
+      "body": "Another friend of mine, Joseph Hsu, is honestly one of the most down-to-earth people I know. He's a trustworthy guy and always keeps it real, which I appreciate. This past senior year, we’d hang out during lunch, and we would spend the entire time talking about life with the Allderdice theater director. He also tagged along on a bunch of the trips Emily, and I took, and honestly, I wouldn’t trade those memories for anything.",
+      "annotations": []
+    },
+    {
+      "body": "I talk normal English with them, but it doesn't sound \"normal\" to those around us. \"Wassup, pretty lady\" is a common greeting when I'm among these friends. Conversations about optimism and intellectual ideas are common, yet strange noises, reactions, and comments always accompany them. When I started college, some of these reactions and statements followed me. Sharing these with my fellow students was frequently well-received, but it also occasionally confused whoever I spoke to. These conversations make me feel at home because it's the way I talk with them, and that is what makes it so special.",
+      "annotations": []
+    },
+    {
+      "body": "Gloria Anzaldua explores her deep connection between language and her memories that will stick with her for a long time. In \"How to Tame a Wild Tongue,\" Gloria Anzaldua is both Mexican and American. Anzaldua writes how she is both and they both define her. “I may switch back and forth from English to Spanish in the same sentence or the same word,” Gloria tells us that these two languages are so intertwined to her that they form one language. This is an important part of her identity because not everyone wants her to express that they're both part of her.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in a possible to Anzaldua, but I'm not sure what that connection is?",
+          "context_left": "will stick with her for a long time. In \"How to Tame a Wild Tongue,\" Gloria Anzaldua is both",
+          "context_right": " Mexican and America"
+        }
+      ]
+    },
+    {
+      "body": "Gloria Anzaldua lived in what she describes as the borderlands, and I cannot begin to describe exactly what that is like because I have never been in her shoes, but I too have lived somewhere.",
+      "annotations": []
+    },
+    {
+      "body": "To lived in a small home means to constantly hear your mom's laugh, having your elder sister move out too soon, leaving the house quieter than before, then being filled again with the laughter of friends who came to visit, We are making the experience less lonely.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "To lived in a small home means to constantly hear your mom's laugh, having your elder sister move out too soon, leaving the house quieter than before, then being filled again with the laughter of friends who came to visit, We are making the experience less lonely.",
+          "comment": "Also interesting, though I feel like home, the smallness of the house, the loneliness you're introducing seem like a new and different idea from either growing up with an IEP, your close friendships, or Anzaldua's competing identities/languages. What' the connection? Let's talk :)",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Gloria Anzaldua uses a similar poem to evoke emotion and help the reader fully understand the significance of identity, language, and culture. Her poetry reflects the complicated dynamics of her situation. Attempting to imitate her writing showed to me the importance of pauses in between lines. Gloria Anzaldua's goal was to express her connection to two very vital elements of herself.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Attempting to imitate her writing showed to me the",
+          "comment": "",
+          "context_left": "s of her situation. ",
+          "context_right": " importance of pause"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "importance of pauses in between lines. Gloria Anzaldua's goal was to express her connection to two very vital elements of herself.",
+          "comment": "That's awesome! But remember that this essay should be based on your own agenda, have a clear center of gravity, and a clear sense of audience and purpose. It's not an analysis or response to Anzaldua...",
+          "context_left": "ng showed to me the ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Gloria Anzaldua demonstrates how these languages define us. Showing the reader that they go beyond simply speaking. Each language or dialect we speak represents distinct aspects of our personalities and cultures. Gloria shares stories and languages of her friends and family, and how they help shape who she is. I can relate because who you surround yourself with becomes part of your identity like how my friends are part of my own.",
+      "annotations": []
+    },
+    {
+      "body": "Their impact has made me a stronger, empathetic, and caring person. Because of the love that I've been shown by these important connections and through time, these languages have come to be apparent in these different groups. Without these people in my life, I wouldn't be myself. Although I'm still trying to figure out exactly who I am, I know that these people have been with me for parts of my life while trying to discover who I am, and I am very grateful for them.",
+      "annotations": []
+    }
+  ],
+    "annotations": [
+    {
+      "grades": {
+        "Have a clear “central focusing idea” with value, meaning, and purpose. This claim should relate to the relationship between language/culture and identity/sense of self.": 7,
+        "Develop cohesive “big ideas” that support the essay’s “central focusing idea” effectively for the essay’s audience and purpose.": 14,
+        "Use ideas, observations, and examples from the author’s own life and experience to develop its “big ideas.”": 8,
+        "Use concrete and specific details, examples, and language in the development of its “big ideas.”": 18,
+        "Use a variety of intentional writing forms, including a poem and both an introduction and conclusion paragraph form chosen from the options we discussed in class (see the resources on our Canvas site).": 14,
+        "Develop logically and cohesively at the sentence and paragraph level.": 8,
+        "Make effective rhetorical choices (including, grammar, punctuation, and syntax) for the essay’s audience, purpose, and writing situation.": 9
+      },
+      "comment": "Great draft! You have so many ideas to explore and a plethora of meaningful ideas to develop. Your voice and tone is so engaging, so fun to read. And your concrete and specific details are awesome. A lot of heat and energy bubbling beneath the surface :) Remember that this essay is neither a response to, nor an analysis of, Anzaldua's work. Rather, this is an essay based on your own agenda. So let's also talk about your essay's audience and purpose. This will help focus your \"center of gravity\" and the \"so what\" question so that you can more intentionally develop what's really at the heart of your essay (and then \"map\" a full set of big ideas). And let's see if there's a more effective intro form for your essay as we \"map\" your it. Let's also talk about the function of the poem. I'm quite taken with the voice and tone of it, but I wonder if it develops the \"right\" ideas for your essay? Keep up the good work!"
+    }
+  ]
+}

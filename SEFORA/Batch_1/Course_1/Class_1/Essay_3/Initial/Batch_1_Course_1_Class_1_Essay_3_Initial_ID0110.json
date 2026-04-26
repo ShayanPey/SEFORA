@@ -1,0 +1,100 @@
+{
+  "paragraphs": [
+    {
+      "body": "Odd Object",
+      "annotations": []
+    },
+    {
+      "body": "It was a small four by six-inch frame right next to a big, comfortable, decorated bed. The picture in the frame holds an important and happy memory between me and my parents. Me in the middle, my dad on my right and my mom on my left with big smiles on our faces sucking up all the excitement in that moment. With my dad dressed up (somewhat at least) which happens very rarely, my mom looking beautiful in her blue cheetah top with her hair all done, then me in my little black dress and my hair all curled. Little does anyone know this picture holds an incredibly happy, cheerful, favorable moment, but it also holds an upsetting, sad, bittersweet moment. Our smiles cover it up pretty well, but we are happier than ever. This moment took place at my senior banquet for softball. Which means it was the end, and end of an era for me and my parents. That day was a very important day for us. It was our day; we looked forward to it every single year. This time it was different. We knew that day was going to be different this year. We knew it was going to be different ever since we woke up that day. But even now we know that we didn’t let it affect our moods. We put a big smile on our faces and believed it was a normal softball banquet like every other year. Yes, there were some tears at the end of the night when it all hit us, but now it’s one of my favorite memories.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "With my dad dressed up (somewhat at least) which happens very rarely, my mom looking beautiful in her blue cheetah top with her hair all done, then me in my little black dress and my hair all curled.",
+          "comment": "Nice details!",
+          "context_left": "ent in that moment. ",
+          "context_right": " Little does anyone "
+        },
+        {
+          "type": "note",
+          "comment": "Great job starting with a descriptive paragraph :) I wonder, though, what idea, or revelation, these details add up to? What does this description reveal for your reader (in terms of your essay's overall purpose)? Could you extend the description?",
+          "context_left": "the middle, my dad on my right and my mom on my left with big smiles on our faces sucking up",
+          "context_right": " all the excitement "
+        },
+        {
+          "type": "note",
+          "comment": "New paragraph here",
+          "context_left": "are happier than eve",
+          "context_right": "r. This moment took "
+        }
+      ]
+    },
+    {
+      "body": "Additionally, another one of my favorite memories is when my parents, my little sister and I went on a trip to South Carolina for me to play in a softball tournament. This trip wasn’t going to happen due to some personal issues, but my parents loved me so much that they figured out the issues and made it work for me. So, we got in our minivan and started driving to Columbia, South Carolina. This trip took about 9 hours or even a little longer. That is how I knew my parents loved me a lot because who really wants to sit in a car for 9+ hours, spend tons of money, sleep in a hotel bed just to watch their daughter play softball; they did. They powered through the grumpiness and the uncomfortable arrangements to make me happy. We finally got there around midafternoon which was good for parents so they could just relax for the rest of the day. I took my little sister to go get some food. We brought our food back to the hotel along with something for our parents. My parents were very much appreciative because they were exhausted from the drive. That car ride with my sister made us truly realize how thankful I am for them, especially because I know they didn’t have to take me on this trip. They wanted me to go and get to experience it so I can achieve my dreams. The next morning, we had to get up around 8am to head to the fields. It wasn’t horrible, but we did have to play 3 games that day. To get back to the hotel at 9pm to shower and go to bed. Many people would think of this as a vacation, but for my parents sadly, it wasn’t. They were running around like crazy, getting me food, drinks, candy, anything I possibly needed to keep my energy up. So, you would think this trip was horrible and not needed, but spending the whole time with my family and feeling loved made it feel 100% worth it.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I wonder if these important ideas (about sacrifice, commitment--your parents giving their time, energy, and money to you, etc.) might be more powerful in narrative? Let's talk :)",
+          "context_left": "day. I took my little sister to go get some food. We brought our food back to the hotel along with",
+          "context_right": " something for our p"
+        }
+      ]
+    },
+    {
+      "body": "“Love hurts, love heals” that is the definition of love. Love does not necessarily have to mean happiness or having feelings for someone else. Love doesn’t solve all your problems or physically/ emotionally have to do with anyone else. Love does not always have to happen between two people. Love can come in many different ways. That could be happiness, anger, depression, and so much more. It can also come with a sport that you care very much about and enjoy playing. You can also love your pets, job, your best friend, you can love anything you want to. For example, not only do I love my parents, because of everything they have done for me, but because they did the things that they didn’t have to do for me, but they did it anyway. That is what shows in my picture frame next to my bed, it holds that photograph not only of us happy, but the love we hold for each other. No one or anything can break that love because it’s not only emotional but physical because we do actions to express it for each other. I love them, but they can also make me mad, upset, happy, but most importantly they make me feel loved.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Let's talk about the potential power of the definition paragraph to point your reader to your essay's central focusing idea. Is this paragraph doing that? Is it defining the \"right\" things?",
+          "context_left": "physically/ emotionally have to do with anyone else. Love does not always have to happen",
+          "context_right": " between two people."
+        }
+      ]
+    },
+    {
+      "body": "Love is a profoundly tender, passionate affection for another person, especially when based on sexual attraction. A feeling of warm personal attachment or deep affection. A person toward whom love is felt. It can mean multiple different things like, falling in love, being in love with something, love handles, love life, love beads, love affair, etc. Love has changed throughout the years. In the past, it often focused on duty and family connections, with arranged marriages being common. Today, love is more about personal choice and emotional connection, emphasizing romance and partnership. But love doesn’t always mean a love partner, it can also mean friendship. Some synonyms of love are affection, appreciation, deviation, emotion, fondness, friendship, infatuation, lust, passion, respect, amity, weakness, worship, and many more. Respect is one of the most interesting synonyms to me because I feel like in any type of relationship, you’re in there should be some sort of respect. I always stand by you “should treat others the way you want to be treated”. Some positive connotations of love are childishness, safety and comfort, receiving gifts, acts of service, words, or affirmation, employ, courage, quality time, easygoing, chatty. Some negative connotations include punishment, danger, suffering, loneliness, despair, suffering, abusive, conflict, violence, heartbreak, confinement, desolation, desperation, adversity, emotional turmoil, etc. An exceedingly popular quote of love is, “love is the greatest refreshment in life” by Pablo Picasso. I've heard this quote multiple times, and I totally agree with it. Love is what everyone needs. It doesn’t matter what type of love it is, but everyone should have it. I feel like love makes everyone happy especially when it’s the right love.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "An exceedingly popular quote of love is, “love is the greatest refreshment in life” by Pablo Picasso.",
+          "comment": ":)",
+          "context_left": "ional turmoil, etc. ",
+          "context_right": " I've heard this quo"
+        },
+        {
+          "type": "note",
+          "comment": "I'm compelled and intrigued by all the various ways you're looking at \"love\" in this paragraph. I wonder, though, what idea does this paragraph \"point\" your reader to? How does it support your essay's central focusing idea?",
+          "context_left": "others the way you want to be treated”. Some positive connotations of love are childishness,",
+          "context_right": " safety and comfort,"
+        }
+      ]
+    },
+    {
+      "body": "Some discoveries I have noticed while researching love are that love has a lot of meanings and has changed a lot throughout the years. One thing that I read that really stops me is that love affects our brain and emotions. Scientists have found that love releases chemicals like dopamine, making us feel happy and connected. There was also research done that shows that love also can improve our health and wellbeing. Some claims I have found about love are that it can boost happiness and reduce stress, communication and trust are key for lasting love, love can change over time, adapting to different life stages. One question I have always wondered is, “what do you think is the most important quality in a loving relationship?” To answer that question, I feel like the most important quality is communication because I feel like if you have bad communication there’s always a handful of fights. Not even fights that make sense, there’s fights that happen over the smallest things you can get mad at. Another question I always ask is, “how does love change as people grow older?” This question makes me really think about my parents and how their love grew throughout the years they have known each other. There was a part of me that didn’t believe in love, but seeing my parents go through different stages of love has made me believe in it more these last couple of years.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "There was a part of me that didn’t believe in love, but seeing my parents go through different stages of love has made me believe in it more these last couple of years.",
+          "comment": "Well this is a compelling moment of friction. Let's talk!",
+          "context_left": "e known each other. ",
+          "context_right": ""
+        }
+      ]
+    }
+  ],
+    "annotations": [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves.": 15,
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea.": 14,
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.).": 5,
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole.": 13,
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole.": 13,
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation.": 14
+      },
+      "comment": "So many fascinating insights and details in this essay! I'm so interested to find out more about the metaphor you're developing (which may be different than you started out thinking it was), and I'm drawn to so many places of heat and energy. This essay is an exciting example of a draft that allows for discovery :) Let's discuss the center of gravity for this essay so that we can decide which parts of this essay are necessary for your essay's purpose and which aren't. Also, let's talk about how you can leverage your descriptive and definition paragraphs (and write a narrative paragraph [which isn't in this draft, yet])to support your essay's central focusing idea :) Well done!"
+    }
+  ]
+}

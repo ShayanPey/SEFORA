@@ -1,0 +1,88 @@
+{
+  "paragraphs": [
+    {
+      "body": "Discover different cultural backgrounds from places in life I want to convey the three main points between two places, The difference of architectural. style; the mapping of historical background; the similarities and differences of living habits.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I want",
+          "comment": "Please add a 0.5'' indentation to the beginning of each paragraph.",
+          "context_left": "from places in life ",
+          "context_right": " to convey the three"
+        }
+      ]
+    },
+    {
+      "body": "I have never been to Schenley Park in Pittsburgh. Before I went there, my impression of Schenley Park is that there are small rivers, various paths, various landscapes of flowers and trees. “青山隐隐水迢迢，秋 尽江南草未凋“There are also relevant interpreters in the scenic area to take you to visit, people take a leisurely walk here, and old people take children for a walk here. My expectation of Schenley Park is that I can take a quiet walk here, away from the hustle and bustle of the city, and enjoy the embrace of nature. In my native language, Chinese, we would call similar parks \"安静\" and \"悠闲\", and Schenley Park seems to me to be such a place where I can immerse myself in the beauty of nature. The key element of my preconception is that park is a scenic spot for out-of-town tourists to visit and appreciate. As I learned more about Pittsburgh, I found that the city is known for its industrial history, and many places retain the imprint of the steel industry. What I imagined for Schenley Park might be something different from this industrial urban atmosphere, perhaps an oasis in the city, with a touch of softness that contrasts with the steel buildings.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "have",
+          "comment": "had",
+          "context_left": "I ",
+          "context_right": " never been to Schen"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "on of Schenley Park ",
+          "context_right": "that there are small"
+        }
+      ]
+    },
+    {
+      "body": "In fact, after my first visit to Schenley Park, I found that it was not what I had imagined before, there were large empty lawns, there were some wild animals such as squirrels and deer walking on the lawns, and there were many young people chatting and eating picnics on the lawns. “落霞与孤鹜齐飞，秋水共长天一色”There are some details that struck me, I saw the people here to protect the ecology so well, people and natural animals live in harmony, do not disturb each other makes me amazed. What surprised me most was the diversity of the park. Schenley Park is more than just a natural attraction, it's also a part of everyday life for Pittsburghers, seemingly with a greater emphasis on community interaction and outdoor activities. I realized that this was not only a place of relaxation, but also a place of vitality and vitality, breaking my stereotype of \"静谧\" attached to the word \"公园.\"",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "me, I",
+          "comment": "This is a run-on sentence. Please start a new sentence here.",
+          "context_left": "details that struck ",
+          "context_right": " saw the people here"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " it's",
+          "comment": "Start a new sentence here.",
+          "context_left": " natural attraction,",
+          "context_right": " also a part of ever"
+        }
+      ]
+    },
+    {
+      "body": "Compared with my hometown, I think Beijing Olympic Forest Park and Schenley Park are very similar, both have very lush vegetation, and there are a lot of animals co-existing in the park, people camping in the park, running and doing sports; “锦江春色来天地，玉垒浮 云变古今“However, the difference is that the scenic spots in Beijing are occupied by a large number of tourists, and there are many guides explaining. In terms of architecture, Shenley Park is mainly dominated by some western churches and Gothic buildings, which are generally older, while Beijing's Olympic Forest Park is mainly dominated by modern buildings, including the five Ring towers with many Olympic elements. The overall feeling is that Schenley Park is more comfortable and relaxed atmosphere, and Olympic Forest Park is more crowded. Known for its wide roads and iconic buildings such as the Bird's Nest and the Water Cube, the Olympic Park is always full of tourists, athletes and sightseers. Although both are the green lungs of the city, they present a very different atmosphere and design philosophy. The design of the Olympic Park focused on \"壮丽\" and \"宏伟\", while Schenley Park is more \"亲切\" and closely connected with the lives of city residents.",
+      "annotations": []
+    },
+    {
+      "body": "The culture of Chinese and American people can be seen through the lifestyle and form of people in the park. Cross-cultural comparison makes me change the way of thinking about these two places. By studying the cultural backgrounds of the two countries, I find that the population of the United States is small, and people tend to live outdoors; while the population of China is large, and once there is a scenic spot, many people will go to visit it. Second, the history of economic development and construction in the United States is relatively early, preserving many buildings from the developed period of a hundred years ago, while China developed relatively late, so the buildings in most developed areas are relatively new. Through this cross-cultural experience, I realized that although the two parks are very different in function and design, they each reflect the culture and lifestyle of different cities. Schenley Park shows me a beauty that is closer to life, while the Olympic Park embodies the ambition of a modern city. The meaning and function of parks vary greatly from culture to culture, and these differences are not only reflected in the architecture and design, but also in the use of language. In Pittsburgh, I learned to appreciate a more natural, life-like park design, while in Beijing, the Olympic Park made me rethink the park as a symbol of modernity. Most parks in China are occupied by dense crowds and old people dancing in public squares, lacking some space for full activities. By contrast, Schenley Park in Pittsburgh, USA, for example, has majority of Spaces for full activities and sports, which also reflects the general culture of Chinese people who like the feeling of many people. The general American culture is to have their own personal space. This comparison enables me to have a deeper understanding of the cultural diversity between the two places from the perspectives of historical background, economic development, people's usual living habits, and the style of atmosphere and environment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The meaning and function of parks vary ",
+          "comment": "This is a well-written paper. Please add a 0.5'' indentation to the beginning of each paragraph. fix the run-on sentences, and use the simple past tense consistently throughout the paper. Overall, good job!",
+          "context_left": "n of a modern city. ",
+          "context_right": "greatly from culture"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 3,
+        "Organization": 2,
+        "Writer's Ethos": 2
+      },
+      "comment": "N/A"
+    }
+  ]}

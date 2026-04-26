@@ -1,0 +1,173 @@
+{
+  "paragraphs": [
+    {
+      "body": "Snake Island",
+      "annotations": []
+    },
+    {
+      "body": " \t“This seems like a nice place.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "place.” ",
+          "comment": "I think this has more impact on its own. ",
+          "context_left": "s seems like a nice ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "My dad looks around, taking in his surroundings. It is a nice sunny day in May. We are sitting at a bench by the reservoir, surrounded by maple trees and the sound of birds chirping. It is my dad’s birthday, but he doesn’t know. We are also sitting on the same bench that we had since I was little. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", but he doesn’t know. ",
+          "comment": "This was a striking sentence — I was immediately concerned about why the dad doesn’t know his own birthday. ",
+          "context_left": "is my dad’s birthday",
+          "context_right": "We are also sitting "
+        }
+      ]
+    },
+    {
+      "body": "\tThe sun was beaming off the reservoir, reflecting back up at us. I squint and look out to the middle of the reservoir where there is a skinny strip of land, mostly taken up by trees and bushes so that you could barely see the grass. I was nine the first time my dad took me out onto Snake Island. It took a whole twenty minutes for us to bring our canoe down to the reservoir from our cabin. My dad held the front of the canoe, and I held the back, though I could barely hold any of the weight so my dad more so dragged the canoe. We got to the dock and my dad threw in the canoe. I hopped in first, my dad got in after and pushed us out into the water. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sun was beaming ",
+          "comment": "Just a note that you’re switching back and forth between present and past tense. You started in present, but this is past. (I prefer past as I think it’s easier to write in, but you’re call — so long as it’s standardized!) ",
+          "context_left": "\tThe ",
+          "context_right": "off the reservoir, r"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "into the water. ",
+          "comment": "I’m not sure that I think the backstory is working well for you. I think I see why you need it, but I wonder if there are stronger ways to write it rather than starting us off briefly in the present and then immediately going to the past. ",
+          "context_left": "r and pushed us out ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tAs he paddled us across the water, he pointed out every different bird that passed over us: blue jays, song sparrows, and goldfinches. The year prior when we were at the cabin, we got lucky enough to see a bald eagle, but not this day. He talked about how global warming had been messing up the bird’s migration patterns and how the last president to care about our environment was Jimmy Carter. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Jimmy Carter. ",
+          "comment": "I do enjoy these details. What if you start with this story — “When I was 9, my dad…” and then bring us to the present? ",
+          "context_left": "our environment was ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tHe pulled our boat to the side of Snake Island where the water was shallow enough for us to hop out and pull the boat. This was the first year I agreed with my dad’s request to go to Snake Island as its title was not very inviting. We spent the rest of the evening on the small island, exploring for other animals. We found a couple more birds, some insects, and a lot of snakes which I had come to learn were friendly snakes. When the sun started to go behind the trees we decided it was time to go back to the mainland. Every day for the next two weeks that we were at the cabin we went back to the island, and soon it became my favorite place. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "as its title was not very inviting. ",
+          "comment": "Name, not title",
+          "context_left": " go to Snake Island ",
+          "context_right": "We spent the rest of"
+        }
+      ]
+    },
+    {
+      "body": "\t“Should we go to bed now,” my dad says. I look at him and nod. It is getting late for him, and I am sure he is ready for bed. I take his hands and help him off the bench. I glance back one more time at the island, my chest tightening as a wave of grief swallowed me. This is the first time I have been to our cabin since my dad’s diagnosis five years ago. I tried to bring up the idea of going a couple times during his beginning stages, but he stubbornly denied. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "“Should we go to bed now,” my dad says",
+          "comment": "Can you let us know what time it is? I didn’t quite understand that they weren’t going out to the island in the present. ",
+          "context_left": "\t",
+          "context_right": ". I look at him and "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "time I have been to ",
+          "comment": "Just a note that you can loosen your verb usage here. It feels more natural to use “I’ve been” instead of typing it out very formally. (I know that’s a rule HS English teachers make, but it’s dumb! We use contractions IRL!) ",
+          "context_left": ". This is the first ",
+          "context_right": "our cabin since my d"
+        }
+      ]
+    },
+    {
+      "body": "“I don’t want to go without a complete mind,” he would say. ",
+      "annotations": []
+    },
+    {
+      "body": "I was finally able to convince him this week to go up for his birthday, though it really didn’t take any convincing. He no longer remembers my name, let alone our vacation cabin, so he easily agreed. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "easily agreed. ",
+          "comment": "Very sad. I redid the formatting a bit. I like that you tied it to his birthday, which helps me understand why the narrator wanted to go. ",
+          "context_left": "cation cabin, so he ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tAfter about twenty minutes, I successfully put him to bed and went back outside to my favorite bench. I am my parent’s only child, so I was used to coming out here alone when I was a teenager once my dad was asleep. Sometimes I would go down to the dock and dip my toes in or lay and look up at the stars. The reservoir feels a lot different now than it did as a child, because as much as this is my favorite place, it was more so my dad’s favorite place. He had been coming here since he was ten when his parents had the cabin built. He started coming up here with me and my mom before they got divorced, but even more after when he needed a place to escape to. It is hard to see him no longer know his favorite place- It is much more heart wrenching to me than him not knowing his birthday or my name. Tomorrow we will be leaving the cabin, and I wonder if I’ll ever be brave enough to come back. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "parent’s only child",
+          "comment": "His only child?Where’s the mom? ",
+          "context_left": "rite bench. I am my ",
+          "context_right": ", so I was used to c"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "they got divorced",
+          "comment": "Ah, okay. I think that will work better for you if the details are a little bit more specific. The narrator seems to feel that this place was important to the dad, but it’s not clear what she wants from brining him back here when she knows he doesn’t remember it. ",
+          "context_left": "e and my mom before ",
+          "context_right": ", but even more afte"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "much more heart wrenching ",
+          "comment": "I don’t really see this in the story yet. ",
+          "context_left": "vorite place- It is ",
+          "context_right": "to me than him not k"
+        }
+      ]
+    },
+    {
+      "body": "\tWhat I don’t know yet, is that I will be sitting on the same bench only eight months later. It will be January, and I will be needing an escape after my first holidays without my dad. The lake is frozen, and I will wonder how the snakes on snake island are able to survive in this weather. I will push away my feelings of relief now that he is gone. I will feel guilty for not missing him in the way I should, but I will be much happier. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "much",
+          "comment": "I like the leap into the future, and this, while sad, made sense to me. ",
+          "context_left": "ould, but I will be ",
+          "context_right": " happier. "
+        }
+      ]
+    },
+    {
+      "body": "\tI will look out onto the frozen reservoir to Snake Island where much of its usual greenery will be replaced by stripped plants and a thin layer of snow. I will see my dad in the branches and in the birds flying west. I will see him in the reservoir and in the snakes. I will smile. I will see the real him– the one I had to mourn for years while his mind faded.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "There’s a lot that works here, Madelyn. It’s a sad little story (and wonderfully brief) but also manages a sort of happy ending. I really enjoyed reading it. Right now, it’s a little vague, in a way. The narrator, while beautifully written, most tells us how she feels, but the potential is really there to *show* us scenes that explain everything. I would suggest starting with the scene that shows her being a child and going to Snake Island with her dad. Keep in mind that a little dialogue or specific details help the scene resonate - don’t just tell us she eventually found the snakes friendly, but show us what he dad says to make that happen. Then take us to the present and show us her trying or hoping to get her father engaged with the island, which he is unable to do. And then you can take us to the last section where she has made some peace with his passing. This will better show us her trying to get what she wants and learning to live with it even when she fails. Great work!"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "paragraphs": [
+    {
+      "body": "A Soft Reminder",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "A Soft Reminde",
+          "comment": "Nice title :)",
+          "context_left": "",
+          "context_right": "r"
+        }
+      ]
+    },
+    {
+      "body": "My mom and grandma gave me a bunny stuffed animal the day I was born. The day they put that in my arms I felt there would be some special connection I shared with it. For some reason, my grandma named it Bunny Fu Fu and it became my favorite stuffed animal, a soft, pink-and-white bunny that I carried with me everywhere no matter what. Its fur was smooth, with light pink on its ears, paws, and cheeks, and white everywhere else. Over time, though, the pink faded a little, and the white fur got dusty and worn from being hugged so much. The bunny always smelled like my baby lotion mixed with a bit of the scent of home, which was like the warm, comforting smell of my room. I used to wipe my snotty nose on it when I had a cold, rubbing the soft fur against my face to get rid of the sniffles. It didn’t matter how much snot or tears Bunny had to deal with, it was always there, ready to be hugged. Bunny Fu Fu didn’t mind at all, and it was always there to help me feel better and get me through the bad days, soft and familiar. Its little button eyes, even though one was loose, still gave me comfort, and I would carry it with me to the store, to the car, to the doctor, and to bed. No matter where I went, Bunny Fu Fu was by my side. The fabric felt smooth in my hands, and it made a soft, almost silent rustling sound when I hugged it. Losing Bunny Fu Fu one day in Target felt like losing a part of myself. My grandma, mom, and the workers searched through the aisles, feeling panic although they knew it was gone. The emptiness of not having it with me, especially after all the years we spent together, made my heart ache. I cried, feeling like the world had changed, like a piece of my childhood was lost forever. Even now, thinking about Bunny Fu Fu brings back memories of my grandma, who would tuck the bunny into bed with me when I stayed at her house. To this day, whenever I think of Bunny Fu Fu, I remember my grandma's gentle smile and how much comfort that little bunny gave me. I did not just lose a stuffed animal that day, but I lost a piece of myself, the version of me that still felt protected and whole. I felt that same kind of loss again on March 13th, in 9th grade, when my teacher looked up from his laptop and told us school was shutting down because of COVID-19.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The fabric felt smooth in my hands, and it made a soft, almost silent rustling sound when I hugged",
+          "comment": "Perhaps the transition between ideas is better without this line?",
+          "context_left": " Fu was by my side. ",
+          "context_right": " it. Losing Bunny Fu"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The bunny always smelled like my baby lotion mixed with a bit of the scent of home,",
+          "comment": "lovely details!",
+          "context_left": "ing hugged so much. ",
+          "context_right": " which was like the "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "did not just lose a stuffed animal that day, but I lost a piece of myself, the version of me that still felt protected and whole.",
+          "comment": "Wow! Revealing line. I bet this idea is at the heart of your essay :)",
+          "context_left": "le bunny gave me. I ",
+          "context_right": " I felt that same ki"
+        },
+        {
+          "type": "note",
+          "comment": "New paragraph here?",
+          "context_left": "sound when I hugged ",
+          "context_right": "it. Losing Bunny Fu Fu o"
+        }
+      ]
+    },
+    {
+      "body": "It was March Friday the 13th in my 9th grade Honors English class with Mr. Randolph. The day felt like any other. The sun shined through the windows, and everyone seemed relaxed, just waiting for the weekend. We were reading quietly and having a good time, not expecting anything unusual, but then Mr. Randolph suddenly looked up from his laptop. His face changed and his eyes opened wide. He stared at his screen for a long time before saying, “There’s breaking news, school is going into a two-week emergency lockdown because of the COVID-19 pandemic.” The room got silent, and I remember I looked at my friends Marina and Natalie and we were so lost. Other people smiled and laughed nervously, thinking it might be like an unexpected break. But something in Mr. Randolph’s voice made it feel serious. When the last bell rang, we packed up and left, not knowing it would be the last “normal” day for a long time. Two weeks turned into months, and months into years. Online school started, and everything became harder for me, my room turned into my classroom. I sat in front of my screen every day in my bed, trying to stay focused, even when I felt tired, bored, or sad. I missed my friends, the noise of the hallways, and feeling like things made sense. I didn't give up, but I had no idea what to do because it brought so much anxiety and worry to my life, like something I had never felt before. My parents were always there, checking in, helping me stay on track, and reminding me that I was strong enough to get through it. They knew I was a nervous wreck when I told them I thought I was going to die every day because I never used to have a worry in the world. That time taught me what perseverance really means. It’s not about always having energy or motivation, but it’s about battling challenges even when it feels impossible.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "missed my friends, the noise of the hallways, and feeling like things made sense.",
+          "comment": "Another great sentence!",
+          "context_left": "d, bored, or sad. I ",
+          "context_right": " I didn't give up, b"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "When the last bell rang, we packed up and left, not knowing it would be the last “normal” day for a long time. Two weeks turned into months, and months into years.",
+          "comment": "Yes. Right. Great rhythms in this sentence variety, too.",
+          "context_left": "de it feel serious. ",
+          "context_right": " Online school start"
+        },
+        {
+          "type": "note",
+          "comment": "***New descriptive paragraph here?",
+          "context_left": "and months into year",
+          "context_right": "s. Online school sta"
+        }
+      ]
+    },
+    {
+      "body": "Even though one moment was about losing my favorite stuffed animal and the other was about a global pandemic, both experiences taught me the same important lesson. I didn’t realize how much Bunny Fu Fu meant to me until it was gone, just like I didn’t realize how much I loved being around my friends and learning in a real classroom until I was stuck behind a screen for months. Both times, I felt like a part of me had disappeared, and it was hard to imagine things ever feeling normal again. But those moments showed me that even when life changes in ways we don’t expect, we still have the strength to keep moving forward. The comfort I felt from Bunny Fu Fu and the support from my family during COVID-19 reminded me that I’m stronger than I think, and that I should hold onto the things and people that matter most to me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "both experiences taught me the same important lesson. I",
+          "comment": "great job revealing the metaphor of the object!",
+          "context_left": " a global pandemic, ",
+          "context_right": " didn’t realize how "
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " I felt like a part of me had disappeared,",
+          "comment": "This line is so intriguing! It kind of hit me in the gut. This idea that Covid led to a whole generation of children feeling like they \"disappeared\" is incredibly powerful. You could explore an entire new essay with that one idea.",
+          "context_left": " months. Both times,",
+          "context_right": " and it was hard to "
+        }
+      ]
+    },
+    {
+      "body": "A stuffed animal is not just a furry, fun toy. It is not something you outgrow or forget about once you get older. It was not just a baby gift from my grandma and mother. To me, my stuffed animal was Bunny Fu Fu, and it meant so much more. Bunny Fu Fu was comfort for me during the chaos, strength when I wanted to give up, and a quiet reminder that I was never alone, even on the hardest days. My stuffed animal was Bunny Fu Fu, a soft pink-and-white bunny with one loose button eye, worn-down fur, and the comforting smell of my house. I held it close when I was sick, scared, or sad. It came with me everywhere from long car rides to overnight stays at my grandma’s house, like a tiny protector that made me feel safe. But the day I lost Bunny Fu Fu in a Target store, everything inside me shriveled up. I remember the panic in my mom’s voice as she searched the toy aisles, the way my grandma asked strangers for help, and how the fluorescent lights felt too bright while I stood there, heartbroken. I did not just lose a stuffed animal that day, but I lost a piece of myself, the version of me that still felt protected and whole. I felt that same kind of loss again on March 13th, in 9th grade, when my teacher looked up from his laptop and told us school was shutting down because of COVID-19. At first, it sounded like an unexpected vacation, but deep down, I knew it was not that simple. As days turned into weeks, and weeks into months, I slowly began to feel myself slipping away again. My room became my classroom, my bed became my desk, and my energy disappeared. The fun, confident version of me faded, and I didn’t recognize the tired, anxious girl staring at the screen every morning. I felt alone, scared, and unsure how to get back to the person I used to be. What was it like for life to feel normal again? Deep down, I knew something kept me going; it was the memory of Bunny Fu Fu and how it had always been there when things felt too heavy. Even without it in my arms, it had taught me that comfort and strength don’t always come in loud, obvious ways. Perseverance isn’t about always feeling brave or superior. Sometimes, it’s about showing up anyway, even when everything feels like it’s falling apart. Bunny Fu Fu gave me a quiet reminder that even when I feel like I’ve lost myself, I can still find the strength to keep going, and that’s what perseverance looks like to me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "I remember the panic in my mom’s voice as she searched the toy aisles, the way my grandma asked strangers for help, and how ",
+          "comment": "",
+          "context_left": "de me shriveled up. ",
+          "context_right": "the fluorescent ligh"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "The fun, confident version of me faded, and I didn’t recognize the tired, anxious girl staring at the screen every morning. I felt alone, scared, and unsure how to get back to the person I used to be.",
+          "comment": "I also wonder if this description belongs in the paragraph I marked with *** above?",
+          "context_left": "energy disappeared. ",
+          "context_right": " What was it like fo"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "fluorescent lights felt too bright while I stood there, heartbroken.",
+          "comment": "These details are so great. I wonder if the whole experience of losing Bunny Fu Fu would be even more impactful in a narrative?",
+          "context_left": "r help, and how the ",
+          "context_right": " I did not just lose"
+        },
+        {
+          "type": "note",
+          "comment": "There are some ideas and lines in this section that you've already written in previous paragraphs. Let's talk about the \"map\" of your essay so that you can decide where these ideas should go and which parts you might want to cut.",
+          "context_left": "As days turned into ",
+          "context_right": "weeks, and weeks into months, I slowly began to feel myself slipping away again. My room"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves. (20)": 19.0,
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea. (20)": 17.0,
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.). (15)": 15.0,
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole. (15)": 14.0,
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole. (15)": 14.0,
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation. (15)": 14.0,
+        "Total": 93.0
+      },
+      "comment": "Wow! Beautiful essay. So many great ideas synthesizing and emerging in this essay--nice job with metaphor. Excellent details, too. This isa strong and engaging essay. Let's talk about your essay's \"map\" so that we can talk about how you might leverage another narrative and, perhaps, descriptiveparagraph to create more cohesion between your paragraphs and big ideas. :) Well done."
+    }
+  ]}

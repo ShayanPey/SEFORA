@@ -1,0 +1,84 @@
+{
+  "paragraphs": [
+    {
+      "body": "Kuwait Airways is Kuwait's national aircraft carrier. It was started in 1954 following the oil boom in Kuwait and the world. It started as a non-government airline that was struggling with its entrance into the airliner world. The Kuwaiti Government ended up buying 100% share of the company's shares and helped it build a solid foundation with the amount of money that it received.[1]",
+      "annotations": []
+    },
+    {
+      "body": "Incidents and Accidents Kuwait Airways Flight 032",
+      "annotations": []
+    },
+    {
+      "body": "On June 30, 1966, Kuwait Airways Flight KU32, a Hawker Siddeley Trident 1C, was operating a scheduled international flight from Beirut, Lebanon, to Kuwait City. The flight proceeded uneventfully until the descent phase. At 20:28 GMT, the aircraft was cleared to descend from FL300 to FL95 near the DY NDB, maintaining this altitude until passing the beacon at 20:39 GMT. The pilot-in-command elected to conduct a visual approach, and the crew reported sighting the airport’s rotating beacon and lights.[2]",
+      "annotations": []
+    },
+    {
+      "body": "During the approach to Runway 33R, the aircraft was positioned 6 miles from the airport at 2,300 feet with an airspeed of 178 knots. The autopilot remained engaged, and the co-pilot was occupied with landing checks. The aircraft’s intended approach speed was 154 knots with a 700 ft/min descent rate, but it continued descending at 1,500 ft/min. At 20:46 GMT, the aircraft impacted terrain approximately 4 km short of the runway threshold, slightly left of the centerline, at an elevation of 185 feet.[2]",
+      "annotations": []
+    },
+    {
+      "body": "The accident resulted from an unstable approach rate and failure to follow company regulations. The corrective action of calling for 10,500 rpm was insufficient to regain level flight, and a delayed power request was ineffective. The pilot-in-command did not follow approach procedures, with landing checks incomplete and an incorrect altimeter setting set during the incident.[2]",
+      "annotations": []
+    },
+    {
+      "body": "Kuwait Airways Flight 422",
+      "annotations": []
+    },
+    {
+      "body": "On April 5, 1988, Kuwait Airways Flight 422, a Boeing 747-200 registered as 9K-ADB, departed from Bangkok en route to Kuwait City with 97 passengers and 15 crew members, including three members of the Kuwaiti royal family. Approximately three hours into the flight, over the Arabian Sea, the aircraft was hijacked by several Lebanese militants armed with machine guns and hand grenades. The hijackers directed the crew to fly to Mashhad, Iran, where they demanded the release of 17 Lebanese Shi'ite prisoners held in Kuwait for involvement in the 1983 bombings.[3]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "On April 5, 1988, Kuwait Airways Flight 422, a Boeing 747-200 registered as 9K-ADB, departed from Bangkok en route to Kuwait City with 97 passengers and 15 crew members, including three members of the Kuwaiti royal family.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "",
+          "context_right": " Approximately three"
+        }
+      ]
+    },
+    {
+      "body": "During the standoff in Mashhad, 25 hostages were released, including a male passenger with a medical condition and 24 female passengers. Negotiations stalled, leading the hijackers to force the aircraft to depart. The plane asked for landing permission in Beirut and Damascus but was denied by both. After seven hours, it landed in Larnaca, Cyprus, where two Kuwaiti passengers were executed, and their bodies were left on the tarmac. The ordeal continued as the aircraft flew to Algiers, Algeria, where, after a total of 16 days, the remaining hostages were released, and the hijackers, who were first in custody of the Algerian authorities, but after released and taken to an unknown location disappeared. evading capture and failing in their mission of freeing the prisoners in Kuwait.[3]",
+      "annotations": []
+    },
+    {
+      "body": "Kuwait Airways during the Iraqi Invasion of Kuwait Kuwait Airways suffered blows during the Iraqi invasion of Kuwait, at least 15 aircraft were seized by Iraq and taken to be used by Iraqi Airways. The Revolutionary Command Council decided that the Kuwait Airways company would be dissolved and all it's property would be transported to the Iraqi Airways Company. This made Kuwait Airways file two legal actions against Iraqi Airways, these legal actions would take almost 22 years to end and were only settled in 2017. an A310-300s and A300 were seized by Iraqi forces, repainted in the Iraqi Airways livery, and given new registrations by the Iraqi Directorate of Air Safety. Iraqi Airways started to prep the 2 planes for commercial services by regularly maintaining them. In July and August of 1992, Iran returned six Toulouse-built jets to Kuwait Airways after Kuwait paid them $20 million for maintenance and storage. A pair of Tupolev Tu-124Vs, both G-IIIs and one of the two BAe.125s were destroyed by coalition airstrikes during Operation Desert Storm. These planes ended up being written-off. Additionally, there was a Boeing 727 that was being used by Iraqi Airways before being ferried to Oman and later, returned to Kuwait after the war.[4]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Kuwait Airways suffered blows during the Iraqi invasion of Kuwait, at least 15 aircraft were seized by Iraq and taken to be used by Iraqi Airways. The Revolutionary Command Council decided that the Kuwait Airways company would be dissolved and all it's property would be transported to the Iraqi Airways Company. This made Kuwait Airways file two legal actions against Iraqi Airways, these legal actions would take almost 22 years to end and were only settled in 2017.",
+          "comment": "Same as above. Citations are needed.",
+          "context_left": " Invasion of Kuwait ",
+          "context_right": " an A310-300s and A3"
+        }
+      ]
+    },
+    {
+      "body": "After the war Kuwait Airways sought to seek compensation for the lost planes, at first, Kuwait was seeking $1.2 billion. Iraq and Kuwait ended up settling on a deal that would see Iraq pay Kuwait $500 million. $300 million in cash and $200 million in a Kuwaiti-Iraqi airline venture. [5]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "venture.",
+          "comment": "Please cite more academic sources in the list of references.",
+          "context_left": "waiti-Iraqi airline ",
+          "context_right": " [5]"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 1.5,
+        "Sources": 2.0,
+        "Writer’s Ethos": 1.5,
+        "Total": 9.0
+      },
+      "comment": "N/A"
+    }
+  ]}

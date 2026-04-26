@@ -1,0 +1,45 @@
+{
+  "paragraphs": [
+    {
+      "body": "Two Different Downtown",
+      "annotations": []
+    },
+    {
+      "body": "Main point: Compare the differences between downtown Pittsburgh and downtown China. Learn about the cultural differences between the two regions.",
+      "annotations": []
+    },
+    {
+      "body": "Exposition: Before I visited downtown Pittsburgh, I thought it was very old and not very prosperous, because I usually think that downtown is the first area of a city to be built and will not develop very modernly. I was looking forward to seeing beautiful old western-style buildings and many places for leisure and entertainment. I imagined that downtown Pittsburgh would be very colorful.",
+      "annotations": []
+    },
+    {
+      "body": "Conflict: After visiting downtown Pittsburgh, I found that it was not as colorful as I thought. There are many skyscrapers, but they are usually used for offices. These buildings make the place look not so old. There are many shops on the first floors of these skyscrapers, but most of them are chain stores and do not reflect the unique characteristics of Pittsburgh. The old buildings seem to have been replaced by high-rise buildings or are blocked by them. Rising action: Compared to the downtown of Pittsburgh, the buildings in the downtown of Beijing are older. There are not so many high-rise buildings in the downtown of Beijing, and most of them are old and short buildings, such as hutongs and courtyard houses. There are not many buildings serving offices or businesses here; most of them are residential buildings or tourist attractions. Climax: Comparing the two places, Beijing's city center retains more of its original architectural state. This allows the local traditional culture to be well preserved and carried forward. For residents in Beijing, their lives may retain more traditional living habits. For residents in Pittsburgh, they may pursue a newer lifestyle, so relatively speaking, there is not much traditional cultural heritage. In Pittsburgh, the city center may be a busier working area. Most people passing by here are for work. The city center of Beijing provides people with more ways to relax and have fun. Most people who come here are either older residents or tourists who come to visit attractions. Resolution: By comparing the two cities, we can see different cultures. Buildings such as the iron bridge in the center of Pittsburgh reflect that this is a steel industry city. And ancient buildings such as the hutongs and the Forbidden City in Beijing further reflect the traditional Chinese culture. In the whole comparison process, describing the content of the comparison is of great help to our language expression, so that we can describe these similarities and differences more clearly.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "There are many",
+          "comment": "Please use the past tense more consistently.",
+          "context_left": "orful as I thought. ",
+          "context_right": " skyscrapers, but th"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "Please specify what you mean by \"this.\"",
+          "context_left": "rchitectural state. ",
+          "context_right": " allows the local tr"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Overall": 5
+      },
+      "comment": "This is well-written. You have done a good job in developing a plot for your narrative. I enjoyed reading your description of downtown Pittsburgh. I would suggest using the simple past tense more consistently and avoid vague pronouns such as \"this.\" Please also use Chinese words and/or dialogues to enrich the outline. Overall, good job!"
+    }
+  ]}

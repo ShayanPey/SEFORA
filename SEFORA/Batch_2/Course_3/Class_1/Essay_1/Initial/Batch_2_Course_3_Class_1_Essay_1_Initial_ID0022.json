@@ -1,0 +1,287 @@
+{
+  "paragraphs": [
+    {
+      "body": "Stasis",
+      "annotations": []
+    },
+    {
+      "body": "I was six years old the first time it happened. I was playing tag at recess, and I was “it”. I wanted to catch up to the person in front of me, but I wasn’t fast enough. I wished they’d just slow down so I could tag them. A second later, they stopped running.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "t”. ",
+          "comment": "I like this title — here, you want the punctuation inside the quotation marks though. ",
+          "context_left": "recess, and I was “i",
+          "context_right": "I wanted to catch up"
+        }
+      ]
+    },
+    {
+      "body": "\tYears later, I did it again in middle school. I was taking a test and knew time was going to run out before I could finish writing my answer. I needed at least another ten minutes, but I only had three left. But by some miracle, I was able to finish my test in time.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "miracle",
+          "comment": "I like how these examples could just be coincidences. ",
+          "context_left": "e left. But by some ",
+          "context_right": ", I was able to fini"
+        }
+      ]
+    },
+    {
+      "body": "\tThe rest of my adolescence was filled with instances like this, where I seemed to get lucky with my timing. They were all small things, like getting somewhere early when I was sure I was going to be late, or traffic lights staying yellow just long enough for me to make it through. It took me a long time to realize what was really happening. I don’t know if I ever would have noticed if not for Sydney.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me a long time to realize what was really happening. I don’t know if I ever would have noticed if not for Sydney.",
+          "comment": "Really nice flow of information here. I like how your narrator is teling the story. ",
+          "context_left": "it through. It took ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "It started with a nickname. ",
+      "annotations": []
+    },
+    {
+      "body": "“Hey Stacey! You know how time always seems to stop around you?” Sydney asked at lunch one day. “I’m changing your name to ‘Stasis.’ Get it?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "You know how time always seems to stop around you",
+          "comment": "It’d be interesting to know why Sydney knows this. ",
+          "context_left": "“Hey Stacey! ",
+          "context_right": "?” Sydney asked at l"
+        }
+      ]
+    },
+    {
+      "body": "“Wow, that’s hilarious Syd. How long did it take you to come up with that one?” I asked.",
+      "annotations": []
+    },
+    {
+      "body": "“At least three days. I spent way too long thinking about it,” She answered. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " She ",
+          "comment": "Not capitalized. ",
+          "context_left": " thinking about it,”",
+          "context_right": "answered. "
+        }
+      ]
+    },
+    {
+      "body": "Then, she started bringing it to my attention every time it happened. At first, I wrote it off as some weird coincidence. But the more Sydney talked about it, the more I started to doubt myself. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "myself. ",
+          "comment": "I might have a little trouble believing the narrator hasn’t noticed this before. I mean, I assume Sydney is not with her constantly. ",
+          "context_left": " I started to doubt ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“That’s the fourth time a light has stayed yellow for at least twenty seconds, Stasis. You have to admit that’s a little weird,” she said on the way to school one day. I didn’t answer her, instead trying to drive as fast as I could so we wouldn’t be late. She didn’t care that I wasn’t answering, and talked about how one of her classes was going. When I pulled into the parking lot five minutes later, she froze.",
+      "annotations": []
+    },
+    {
+      "body": "“Sorry Syd. I didn’t mean to ignore you. You can keep talking,” I told her. ",
+      "annotations": []
+    },
+    {
+      "body": "“We aren’t late,” she said, voice shaking.",
+      "annotations": []
+    },
+    {
+      "body": "“What do you mean?” I asked.",
+      "annotations": []
+    },
+    {
+      "body": "“I mean, we aren’t late. Look at the clock. School doesn’t start for another twenty minutes. How did we get here twenty minutes early? I live at least twenty minutes away and you only picked me up five minutes ago,” she explained.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "early",
+          "comment": "It might be interesting to have this be the moment Sydney realizes — so instead of her making this argument up to now, this proof is what convinces both of them. ",
+          "context_left": "here twenty minutes ",
+          "context_right": "? I live at least tw"
+        }
+      ]
+    },
+    {
+      "body": "“Well, my car is old. The clock probably stopped working when I picked you up,” I said, reaching for my phone. I turned it over to show her the time, and my heart stopped. It matched the time in the car. “Sydney, don’t freak out, but my phone says the same time.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh yeah, don’t worry. I definitely won’t freak out right now. Why would I? Time is just frozen. No big deal,” she mumbled.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "mumbled.",
+          "comment": "I think this scene is great, and honestly, the story can almost just open with them on the drive — you don’t need so much build up. You both tell us what they discover and then that Sydney is the one who really discovered it, and then we see this scene of them both discovering it. ",
+          "context_left": ". No big deal,” she ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“What does this mean? What am I doing?” I started to panic. “I thought I just had really lucky timing. I never thought I was actually making it happen. What am I going to do? If anyone finds out, my life will be over. Who knows what kind of tests the government will do on me. Syd, I’m supposed to go to college this fall, I can’t be locked up in some lab somewhere.”",
+      "annotations": []
+    },
+    {
+      "body": "“Relax. You’re spiraling. No one will find out. You’ve just got to calm down, and hopefully time will start moving again,” she said.",
+      "annotations": []
+    },
+    {
+      "body": "We spent a while figuring out how I could get time to move again. Sydney was surprisingly calm about the whole thing. Finally, what felt like three hours later, the clock changed. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "three",
+          "comment": "It’s funny that it feels like three hours. I wonder if they wanted to try to explore during this time gap — see if anyone else is experencing it. If they’re frozen, or what? ",
+          "context_left": "lly, what felt like ",
+          "context_right": " hours later, the cl"
+        }
+      ]
+    },
+    {
+      "body": "“You know what this means, Stasis?” Sydney asked.",
+      "annotations": []
+    },
+    {
+      "body": "“What?” I sighed.",
+      "annotations": []
+    },
+    {
+      "body": "“I accidentally gave you the coolest superhero name ever,” she said, laughing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "said, laughing.",
+          "comment": "I love this whole scene. It does feel like you’re writing a bigger story than can fit in flash fiction. ",
+          "context_left": "ero name ever,” she ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tSydney and I graduated a month later. We spent the rest of that summer trying to figure out how I controlled time, and where exactly it came from. Instead of relaxing by the pool, or going shopping for our dorm, we spent days researching. The more I thought about time, the more I froze it. I even learned I could freeze specific objects in time when I stopped a glass from breaking after it fell off of a table. But we still didn’t make any progress. When we moved into our college dorm at the end of summer, I wasn’t any closer to understanding my power.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "But we still didn’t make any progress. ",
+          "comment": "It sounds like they did make progress? I’m confused about what she wanted to achieve and did not. ",
+          "context_left": "ell off of a table. ",
+          "context_right": "When we moved into o"
+        }
+      ]
+    },
+    {
+      "body": "\tThe first semester of college went pretty much the same way. We balanced schoolwork with research, still not having any luck. To make matters worse, my lack of control was only getting worse as the semester went on. I stopped time for a whole night when I stayed up late studying for an important exam. I didn’t even notice I was doing it until I went to go to bed at what I thought was three in the morning and saw the clock still said ten. The only thing I learned was that the more stressed I was, either about my power or just about anything in general, the more volatile my power was. When I had exams, I would stop time for hours. When I had a present in front of a class, I’d freeze people in their seats. The only bright side was that no one except Sydney and I seemed to notice. Of course, we had no explanation for that either. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "went pretty much the same way",
+          "comment": "When you start summarizing big swaths of time in flash fiction, that’s generally a hint that you’re shoving too much story into a few pages. ",
+          "context_left": "semester of college ",
+          "context_right": ". We balanced school"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that either",
+          "comment": "Yes, it’s awfully convenient that this doesn’t affect Sydney. ",
+          "context_left": " no explanation for ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tThe next three years flew by, even with me stopping time on almost a daily basis. Sydney and I gave up on trying to figure out what was behind my power. After all, it didn’t seem to hurt anyone, and I became used to time stopping around me. Things got a lot easier for Syd and me after we stopped looking for the reason why I had powers. We didn’t realize how much of a toll it was taking on us. Once we stopped, we could actually enjoy what little time of college we had left. For the first time since I had realized I could control time, I felt normal. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "since",
+          "comment": "Just noting that while the story is well written and fun to read, there’s not much plot here. Everything seems reasonably okay. ",
+          "context_left": " For the first time ",
+          "context_right": " I had realized I co"
+        }
+      ]
+    },
+    {
+      "body": "\tAt the end of April that year, Sydney and I went out to celebrate the end of our college career. We were only a few finals away from being part of the “real world,” and it felt good. Syd and I managed to get jobs close together, which made things even better. But the more we talked about our futures, the more nervous I got. I still hadn’t gotten my time powers under control, and now I wouldn’t have Sydney around to help me when they got bad. I started to panic. I glanced up at the clock and saw it wasn’t moving. Great, just what I needed right now. I looked over at Sydney to tell her I needed to leave, and my heart stopped. She was frozen mid-sentence, along with everyone else in the bar. I had never stopped time this much before. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "close together",
+          "comment": "These two are tight! ",
+          "context_left": "managed to get jobs ",
+          "context_right": ", which made things "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "before",
+          "comment": "Ah, good. ",
+          "context_left": "pped time this much ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tMy mind started racing, trying to figure out what to do. I didn’t know how to unfreeze everyone. Usually, when I stopped time or froze an object, Sydney was able to help. But this time, she was the one that was frozen. I thought about what usually worked in the past. Usually, Sydney just had me take deep breaths and helped me calm down, but I had never been able to do it on my own before. It seemed like when I stopped time, I panicked too much to think rationally, which is why Sydney always had to help. But I had to try. I couldn’t just leave everyone frozen, especially my best friend who had been there to help me with my powers for the past four years. I took a deep breath and closed my eyes. After what felt like days, I finally heard people again. I opened my eyes just a little bit and saw Sydney looking at me with a confused look on her face. I was so relieved I started crying.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "crying",
+          "comment": "I love this little scene — it showed me that time stopping is a bit of a metaphor. ",
+          "context_left": " relieved I started ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\t“What’s going on, Stasis?” Sydney asked.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Nothing, Syd. I’m just glad you’re my friend,” I answered. “Oh, and I may have frozen everyone in here including you. But, on the bright side, I think I finally learned how to control my powers!”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Well, that’s definitely not nothing, but I’m glad. How about we get out of here and go home? It seems like you’ve had a long night,” she said. “You can tell me all about how to control your powers on the walk back.”",
+      "annotations": []
+    },
+    {
+      "body": "\tWe graduated a week later. Sydney and I moved out of our little college apartment and into a bigger one closer to our new jobs. Despite all the stress of moving and starting a job, I hadn’t stopped time once since that night I frozen Sydney. I managed to stay calm, which meant that time didn’t freeze. I still had a lot of learning to do about my powers, but at least I was heading in the right direction. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Waylon, I really enjoyed this clever little story. I love the way you considered how a super power might kind of suck, or even just be… meh. It seemed like it was helpful to her but also a bit of a drag (to be honest, it didn’t seem like that much of a problem until the last scene?). I also loved the friendship between Sydney and Stacey. I do think that you’re telling too much story in 1500 words — you’re moving so fast through things we don’t get a chance to really get to know these people. I would suggest in your revision that you focus on the last scene, the one where she freezes Sydney. You can definitely show us a little bit up to then but the real point of the story is the horror she feels when she freezes her only friend and how she has to overcome her own fear and loneliness to free everyone. I’d love to see that in more detail — what exactly in their conversation causes the problem and what she says to herself to calm down. I would also love to see Sydney really have to deal with the fact that she, too, can be frozen. I’m not saying that they have to not be friends anymore, but that’s gotta be so weird after 4+ years of thinking you’re the only who it doesn’t affect. Focus on that scene, show us these two in conflict with each other, and what a great story it will be!Happy revising!"
+    }
+  ]
+}

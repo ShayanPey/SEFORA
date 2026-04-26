@@ -1,0 +1,108 @@
+{
+  "paragraphs": [
+    {
+      "body": "A Tale of Two Cathedrals: Learning in Pittsburgh, Believing in Shanghai Before my arrival in Pittsburgh during the summer of last year, the first thing I did is check out pictures of the Cathedral of Learning on the web. Of course, this renowned structure is one of the tallest foreighn university buildings, and its unique design is Gothic which reminded me of other European cathedrals. Given its title, ‘Cathedral of Learning’ I expected it to be an old, monumental and solemn place which is regarding of a historic academic structure. I imagined walking inside and seeing high ceilings and stone walls along with massive wooden doors, but nothing beyond what I had seen in similar buildings before. But my first time seeing it in person has completely changed what I had imagined.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Before",
+          "comment": "Please add a 0.5'' indentation at the beginning of each paragraph.",
+          "context_left": "lieving in Shanghai ",
+          "context_right": " my arrival in Pitts"
+        }
+      ]
+    },
+    {
+      "body": "When I first arrived in Pittsburgh, it was midnight and I found it extremely difficult to sleep due to jet lag. A friend sitting next to me on the flight was also awake, so we decided to walk around campus in the early morning. At that time of the day, the streets were relatively dark and only a few street lights were glowing bright enough to illuminate the roads. With no idea of where we were heading, we decided to wander around mindlessly. Then, out of nowhere, we saw it. The Cathedral of Learning was now vague against the dark sky, but still remarkable. The thick stone structure loomed over the silent city streets and made me feel like there was something bigger than what I had anticipatred close to me. It was almost like magic when it revealed itself to us. “这就是传说中的 Cathedral 啊,” I murmured. Both of us held our gaze towards it in awe. Intrigued, we made our way to the stone steps and opened the wooden doors. The instant we entered I was completely shocked. To my disbelief, the area was enormous, much larger than I expected. The ceiling was reached so high it seemed like it was far fetched, and with the yellow chandeliers on both sides, it made the hall glow. The tall stone pilars created an illusion that we had just entered a completely different dimension. I was expecting a typical university building, but this seemed to me something that I once watched in the movies. It simply made me feel like being at Hogwarts. The room was empty except for the soft footsteps we made which echoed throughout the halls. As we explored the place, we came across inscriptions on the walls, much historical carvings and doors which opened to specially themed rooms depicting different cultures. These rooms were completely new to me as they opened up my eyes to make me understand that the Cathedral of learning is not just a classic educational building but a grand structure filled with rich history, art and cultural symbols. The Cathedral of Learning is a striking structure that reminds me of another ‘cathedral’ back home- Sheshan Catholic Church in Shanghai. They look similar on the surface, but serve very different purposes. The Sheshan Church is a place of worship, resting on a hill far away from the noisiness of the city, entirely designed for worship. It captures both Eastern and Western styles of architecture with Roman arches, Gothic spires, and Greek columns while decorated with Chinese glazed tiles. Moreover, the Cathedral of Learning has no such decorations. Instead, it is solely used for education and tourism in occasions. It embodies purely Gothic architecture.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "this",
+          "comment": "To avoid vague pronouns, I would clarify what you mean by \"this\" - this building",
+          "context_left": "rsity building, but ",
+          "context_right": " seemed to me someth"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " but",
+          "comment": "; however,",
+          "context_left": "university building,",
+          "context_right": " this seemed to me s"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "to make me understand",
+          "comment": "realize",
+          "context_left": "y opened up my eyes ",
+          "context_right": " that the Cathedral "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "They ",
+          "comment": "These two locations",
+          "context_left": "Church in Shanghai. ",
+          "context_right": "look similar on the "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " It",
+          "comment": ", featuring a Gothic-style architecture.",
+          "context_left": "ipatred close to me.",
+          "context_right": " was almost like mag"
+        }
+      ]
+    },
+    {
+      "body": "However, the biggest distinction between the two is the peace and tension of the atmosphere. The latter is filled with students and visitors, more busier than Sheshan which is laced with nature. As a result, the former is noisy with countless people speaking English while the latter is silenced with faithful prayer. Equally, considering the difference between these two “cathedrals” also made me realize that a simple word “cathedral,” is relative to different locations. It stands for a center of learning and education in Pittsburgh. It stands for a religious and spiritual belief in Shanghai. Each place unites people, but in different fashions. This experience shifted how I look at places and cultures. There are times when we are too certain that we know something just from seeing pictures or using descriptions, but when one goes to visit in person, it could be an entirely different experience.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "the former",
+          "comment": "the Sheshan catholic church",
+          "context_left": "ature. As a result, ",
+          "context_right": " is noisy with count"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The latter",
+          "comment": "The Cathedral of Learning",
+          "context_left": " of the atmosphere. ",
+          "context_right": " is filled with stud"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "Please expand this concluding paragraph to enrich its content.",
+          "context_left": "different fashions. ",
+          "context_right": " experience shifted "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " It",
+          "comment": ", while it stands for...",
+          "context_left": "different locations.",
+          "context_right": " stands for a center"
+        }
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": 100
+      },
+      "comment": "N/A"
+    }
+  ]
+}

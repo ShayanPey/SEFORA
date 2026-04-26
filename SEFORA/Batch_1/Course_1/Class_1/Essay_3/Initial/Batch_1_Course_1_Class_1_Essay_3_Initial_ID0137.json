@@ -1,0 +1,133 @@
+{
+  "paragraphs": [
+    {
+      "body": "Baby Blanket",
+      "annotations": []
+    },
+    {
+      "body": "I stood facing the court. This court had floors that were darker than the average wood gym floor. There was a big blue M in the middle beneath the net for the high school's logo. The court lines were very faint, being a yellow that blended too much with the wood. We were down by two sets and had no hope of coming back being down by a couple points in the third. We lost the first point I was off for by shanking the pass far behind any of the girls reach. We then had to serve and receive the ball dropped right in front our passer on the right, diving too late for it. It was game point them now and they served the ball to her again. She stepped to the side too late, missing the ball and it dropped on our side of the court. The other team was cheering in a huddle on their side of the court cheering. We were in a huddle crying having our season ended, and my career. We were on opposite sides of the net high fiving one another under it saying good game even though we didn't mean it. We then lined up for medals directly across from one of their players. We gave them their gold medal and they gave me my silver medal. After they quickly changed for a photo, wearing these white shirts reading section 1 champions with the New York state outline on it. They held a banner reading out the same thing the shirts had for a photo I would see everywhere. That night I went to bed crying I would never get to play high school volleyball again and my dream of winning the section was never going to come true. As I closed my eyes, I held my baby blanket extra tight for a sense of comfort. I have had this baby blanket since I was born, given to me as a gift from family friends. One side of the blanket has a light baby green fabric. Its fleecy texture is still soft to the touch. The other side is a patchwork of vertical stripes baby pink, yellow, green, and blue. This side, rougher in texture than the green side. It carries more of a polyester feel, slightly stiffer and less appealing to the touch. The many times of washing and drying this blanket have left many pills of light green scattered fuzz, the color slightly faded, and a rougher texture. This blanket is there for all my dreams when I sleep, some more unrealistic than others.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "After they quickly changed for a photo, wearing these white shirts reading section 1 champions with the New York state outline on it.",
+          "comment": "watch out for sentence fragments!",
+          "context_left": "me my silver medal. ",
+          "context_right": " They held a banner "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "We were in a huddle crying having our season ended, and my career.",
+          "comment": "",
+          "context_left": "the court cheering. ",
+          "context_right": " We were on opposite"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " some more unrealistic than others.",
+          "comment": "interesting",
+          "context_left": "dreams when I sleep,",
+          "context_right": ""
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This side, rougher in texture than the green side.",
+          "comment": "",
+          "context_left": "w, green, and blue. ",
+          "context_right": " It carries more of "
+        },
+        {
+          "type": "note",
+          "comment": "Great job starting with narrative!",
+          "context_left": "court lines were very faint, being a yellow that blended too much with the wood. We were down",
+          "context_right": " by two sets and had"
+        },
+        {
+          "type": "note",
+          "comment": "this one's a fused sentence, however. :)",
+          "context_left": "would see everywhere. That night I went to bed crying I would never get to play high school",
+          "context_right": " volleyball again an"
+        },
+        {
+          "type": "note",
+          "comment": "Nice descriptions!",
+          "context_left": "ne side of the blanket has a light baby green fabric. Its fleecy texture is still soft to the touch.",
+          "context_right": " The other side is a"
+        }
+      ]
+    },
+    {
+      "body": "My dreams have changed over the years. When I was little, they started wanting to be a mermaid, then a marine biologist. As I got older my dreams became more realistic about wanting to work in the medical field and what colleges I dreamed of going to. My dreams included sports like volleyball. I had dreams to win tournaments with my club. I wanted to win states with my high school team. My dream was to play in college and reach the highest level I could achieve. Not all dreams come true though. I did not become a mermaid and do not aspire to work as a marine biologist anymore. For volleyball I did not achieve my dreams of championships with the teams I cared about deeply. But most importantly I let my younger self down by not playing I at the highest level I could. I chose not to play in college and instead went to a bigger university where I did not know if I could even make the club team. I let my younger self down knowing I stopped playing the sport I loved so much. While dreams do not always turn out how you hope to, they are what motivated me to get where I am today.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "While dreams do not always turn out how you hope to, they are what motivated me to get where I am today.",
+          "comment": "which is where, exactly? What, specifically, has the loss of your dreams resulting in for you? What is the \"so what\" of this statement for your reader? On that note: who is your reader?",
+          "context_left": "rt I loved so much. ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "Nice job comparising the loss of the game in your narrative with the loss of your dream. Good move!",
+          "context_left": "by not playing I at ",
+          "context_right": "the highest level I could. I chose not to play in college and instead went to a bigger university"
+        }
+      ]
+    },
+    {
+      "body": "A childhood is not just years one to thirteen. Childhood is not just a simpler period of life. Childhood is not just a developmental stage in a person's life. A childhood is not a time without learning. Childhood is not a period completely separate from adulthood. The word childhood to me means the experiences that I look back on and want to relive. Childhood is when everyone in your class was friends and there was no drama. Childhood was when you would play sports on the weekends for fun, not to win. A childhood is a time you can look back and not remember any responsibilities you had to fulfill. Childhood is when grades you received in school did not matter. Childhood is when you believed in Santa, Faries and other mystical creatures. Childhood is believing all dreams come true. My childhood are the memories I can look back on and remember the carefree feeling I always had. Volleyball was a part of my childhood. I started playing in a rec league and loved it for what it truly was. Dreams were a big part of my childhood, always wanting to be something greater. My blanket was there for all the memories I had of my childhood.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "the experiences that I look back on and want to relive.",
+          "comment": "",
+          "context_left": "ildhood to me means ",
+          "context_right": " Childhood is when e"
+        },
+        {
+          "type": "note",
+          "comment": "I'm interested in the details and definition you're creating here! I'm not sure, however, how this definition relates meaningfully or logically to dreams or the blanket or volleyball?",
+          "context_left": "remember any responsibilities you had to fulfill. Childhood is when grades you received in",
+          "context_right": " school did not matt"
+        },
+        {
+          "type": "note",
+          "comment": "Let's talk about the potential power of the definition paragraph to point your reader to your essay's central focusing idea. Perhaps this isn't quite the \"right\" word to define? Let's talk :)",
+          "context_left": "remember any responsibilities you had to fulfill. Childhood is when grades you received in",
+          "context_right": " school did not matt"
+        }
+      ]
+    },
+    {
+      "body": "My baby blanket was not just a silly gift i have kept all these years. My blanket is my childhood, holding all of the memories I can look back on within it. My blanket is a reminder of all the nightmares I had when I would sleep. It is a reminder of all the dreams about who I wanted to be and how I achieved some of those. My blanket reminds me of all the memories I will forever look back on that made me who I am today. This blanket is a reminder to me of what I aspired to be growing up and how far I have come since then. My baby blan gives me a sense of comfort no matter where I go in life, I will always have a part of my childhood to go back to.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "My blanket reminds me of all the memories I will forever look back on that made me who I am today.",
+          "comment": "Again--let's explore the metaphor of this blanket, your dreams, and your ideas about who you are today, specifically! You're beginning to address the metaphor of the blanket, here, but let's dig into it :)",
+          "context_left": "eved some of those. ",
+          "context_right": " This blanket is a r"
+        }
+      ]
+    }
+  ],
+    "annotations": [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves.": 16,
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea.": 14,
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.).": 14,
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole.": 14,
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole.": 12,
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation.": 12
+      },
+      "comment": "So many fascinating insights and details in this essay! I'm so interested to find out more about the metaphor you're developing (which may be different than you started out thinking it was), and I'm drawn to so many places of heat and energy. Let's discuss the center of gravity for this essay so that we can decide which parts of this essay are necessary for your essay's purpose and which aren't. Let's talk about the \"map.\" Also, let's talk about how you can leverage your descriptive and definition paragraphs in this essay to support your essay's central focusing idea :) It might help us to talk about the metaphor of the blanket, as well. Well done!"
+    }
+  ]
+}

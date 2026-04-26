@@ -1,0 +1,202 @@
+{
+  "paragraphs": [
+    {
+      "body": "Fixing bias in healthcare AI: making it fair for everyone Artificial Intelligence is becoming more common in hospitals and healthcare in general. It can help doctors find problems, give treatment plans, and even guess who might get sick in the future. This can save time for the workers and help patients. But there is a big problem: AI is not always fair. AI learns from old data. If the old data is unfair or missing information about some people, then the AI will also make unfair choices. This is called algorithmic bias. In healthcare, this can be dangerous. It means some patients, especially Black, Latino, or poor people can get the wrong help or no help at all, because of biases. A study by Obermeyer et al. (2019) found that an AI system thought Black patients were healthier than they really were. This happened because the AI looked at how much money people spent on healthcare and not how sick they were. Black patients often get less care, so the AI made wrong decisions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "Same as above. Please clarify what you mean by \"this.\"",
+          "context_left": "sick in the future. ",
+          "context_right": " can save time for t"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " this",
+          "comment": "this phenomenon",
+          "context_left": "bias. In healthcare,",
+          "context_right": " can be dangerous. I"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Fixing bias",
+          "comment": "Please add a title page before the introduction, follow the style guide of the APA 7th handout, and use double spacing to format the paper.",
+          "context_left": "",
+          "context_right": " in healthcare AI: m"
+        }
+      ]
+    },
+    {
+      "body": "In this paper I argue that bias in healthcare AI is real and dangerous. To fix this, we need three things: 1. More diverse data 2. Clearer and more transparent AI systems 3. Stronger rules and teamwork between tech companies, doctors and patients. As an international student studying in the U.S., I’m very interested in how AI can help people. But I can also see how unfair systems can make things worse. In healthcare, it is very important that every person is treated the same, no matter their background. That is why I think this topic matters a lot.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "three things:",
+          "comment": "need to use the following methods:",
+          "context_left": "o fix this, we need ",
+          "context_right": " 1. More diverse dat"
+        }
+      ]
+    },
+    {
+      "body": "The problem: AI is aot always fair Biased data creates biased AI AI tools need to be trained using past data. But if that data mostly comes from white or rich people, then the AI will not work well for other type of people. Gianfrancesco et al. (2018) wrote that health records already have bias because they come from doctors who might treat people differently based 1 on race, gender, or age. This bias stays inside the AI. Then the AI repeats the same unfair decisions again. For example, if women or Black patients were not taken seriously in the past, the AI will learn to do the same as it learns from the past. In the Obermeyer study, the AI used healthcare cost as a sign of sickness. That could sound logical, but in reality, Black patients spend less money on care because they don’t get as much help. So, the AI wrongly thought they were healthier. This is not just a mistake, it can be the matter of life or death when we are talking healthcare.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " wrote",
+          "comment": "write",
+          "context_left": "ncesco et al. (2018)",
+          "context_right": " that health records"
+        }
+      ]
+    },
+    {
+      "body": "Lack of transparency Another problem is that many AI tools are “black boxes.” This means we don’t know how they make decisions. Rajkomar et al. (2018) say that AI systems need to be explainable. If doctors and patients don’t understand how the AI works, they can’t know if it’s fair or correct. For example, if an AI says one patient should go home and another should stay at the hospital, doctors should be able to ask, “Why?” and get a clear answer. If they can’t, that’s dangerous as they don’t know why. When AI is a mystery, people might stop trusting it. That means they will stop using helpful tools, even ones that are good. So, it is very important to build trust by making AI decisions easier to understand.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "can’t know if it’s fair or correct.",
+          "comment": "Please use formal, academic language throughout the paper; for instance, these individuals will not be aware of AI's level of fairness or accuracy.",
+          "context_left": " the AI works, they ",
+          "context_right": " For example, if an "
+        }
+      ]
+    },
+    {
+      "body": "Weak oversight and few rules AI in healthcare is still very new, and there are not enough rules. Chin et al. (2023) say that fairness must be part of how we build and use AI. Right now, companies can test their AI in private and don’t have to share how it works or who it helps or harms. Also, there is no required “fairness test” for most healthcare AI systems. That means a tool can be biased, but no one checks it before it goes into hospitals. We need regular audits and public testing. We also need to include patients and communities in building these systems, so they are fair in real-life situations. Overall, we need more transparency and be able to see what’s going on.",
+      "annotations": []
+    },
+    {
+      "body": "Counterarguments and responses Some people say AI is no worse than human doctors. That’s true, humans also make biased decisions. But AI gives us a chance to do better. It can use better data and be tested more often. Others say it is impossible to remove all bias. That is also partly true, but it’s not a reason to stop trying. We can still make AI tools much safer and fairer, than biased doctors today. Some say 2 adding rules will slow down progress. But without rules, AI could hurt people. Fairness and safety must come first, especially in medicine as the consequences of not doing so are too big.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " say",
+          "comment": "may argue",
+          "context_left": "esponses Some people",
+          "context_right": " AI is no worse than"
+        }
+      ]
+    },
+    {
+      "body": "Survey results: what people think To learn more, I created a small survey with college students or student athletes mostly. I asked 10 people on my team about AI in healthcare.",
+      "annotations": []
+    },
+    {
+      "body": "My survey questions and results:",
+      "annotations": []
+    },
+    {
+      "body": "1. Do you trust AI to make healthcare decisions for you?",
+      "annotations": []
+    },
+    {
+      "body": "• Yes: 3 • No: 7 2. Do you think AI is fair to all races and backgrounds?",
+      "annotations": []
+    },
+    {
+      "body": "• Yes: 2 • No: 8 3. What is the most important way to fix bias in healthcare AI?",
+      "annotations": []
+    },
+    {
+      "body": "• Diverse data: 6 • Transparency: 2 • Strong rules: 2 4. Do you understand how AI systems work in healthcare?",
+      "annotations": []
+    },
+    {
+      "body": "• Yes: 4 • No: 6 5. Should AI be used more in hospitals?",
+      "annotations": []
+    },
+    {
+      "body": "• Yes: 4 • No: 2 • Not sure: 4",
+      "annotations": []
+    },
+    {
+      "body": "3 These answers show that most students do not trust AI to be fair. They also think using more diverse data is the best way to fix the problem. Many people also don’t understand how AI works, which matches what researchers say about the need for transparency.",
+      "annotations": []
+    },
+    {
+      "body": "Solutions: How we can fix it 1. Use More Diverse Data This is the most important step. AI needs to be trained with data from people of all colors, genders, ages, and backgrounds. Right now, many datasets are too small or too narrow. Chin et al. (2023) say this is the first step to making AI tools fairer. If we don’t fix the data, we can’t fix the AI, as it is the building stones for AI. Hospitals and companies should work together to collect better, more equal data. That means using patient records from many different places and not just big cities or private hospitals.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " say",
+          "comment": "state",
+          "context_left": ". Chin et al. (2023)",
+          "context_right": " this is the first s"
+        }
+      ]
+    },
+    {
+      "body": "2. Make AI transparent Doctors and patients should know how the AI makes choices. It should not be a mystery. If something goes wrong, people need to be able to understand why. Rajkomar et al. (2018) say that AI systems should include explanation tools. These tools show how decisions are made step-by-step. This will help build trust. It also helps doctors make better decisions because they can check the AI’s work.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " say",
+          "comment": "argue",
+          "context_left": "jkomar et al. (2018)",
+          "context_right": " that AI systems sho"
+        }
+      ]
+    },
+    {
+      "body": "3. Create Stronger Rules and Teamwork Right now, most countries do not have strong rules for AI fairness. We need laws that say healthcare AI must be tested for bias before being used. We also need audits, which are checks done by outside experts to make sure AI is safe and fair. These should happen at least every year. And finally, we need more teamwork. Doctors, tech workers, patients, and community leaders should work together. Rajkomar et al. (2018) say that AI can only be fair if people from different groups help build it. For example, a team building AI for skin cancer should include people of different skin tones and backgrounds. That way, the AI can work well for everyone and not just favor one race.",
+      "annotations": []
+    },
+    {
+      "body": "AI can help healthcare, but only if it is fair. Right now, AI systems can be biased. This bias comes from poor data, hidden systems, and weak rules. This can hurt patients, especially people of color or those with less money. To fix this, we must use more diverse data, make AI clearer, and create better rules. We also need teamwork between doctors, tech people, and communities. This problem is not just a technical one, it is ethical. We must act now so that AI helps everyone, not just a few of us. As a student learning about AI, I do believe we can create better systems in the future. If we build them with fairness in mind, they can be one of the best tools in medicine and really help us.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "fix this,",
+          "comment": "address this problem",
+          "context_left": "with less money. To ",
+          "context_right": " we must use more di"
+        }
+      ]
+    },
+    {
+      "body": "References Chin, M. H., Afsar-Manesh, N., Bierman, A. S., Chang, C., Colón-Rodríguez, C. J., Dullabh, P., et al. (2023). Guiding principles to address the impact of algorithm bias on racial and ethnic disparities in health and health care. JAMA Network Open, 6(12), e2345050. https://doi.org/10.1001/jamanetworkopen.2023.45050 Gianfrancesco, M. A., Tamang, S., Yazdany, J., & Schmajuk, G. (2018). Potential biases in machine learning algorithms using electronic health record data. JAMA Internal Medicine, 178(11), 1544–1547. https://doi.org/10.1001/jamainternmed.2018.3763 Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science, 366(6464), 447–453. https://doi.org/10.1126/science.aax2342 Rajkomar, A., Hardt, M., Howell, M. D., Corrado, G., & Chin, M. H. (2018). Ensuring fairness in machine learning to advance health equity. Annals of Internal Medicine, 169(12), 866–872. https://doi.org/10.7326/M18-1990 5",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "References",
+          "comment": "Please cite a minimum of 5 sources in the reference list.",
+          "context_left": "",
+          "context_right": " Chin, M. H., Afsar-"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "JAMA Network Open, ",
+          "comment": "These should be italicized",
+          "context_left": "th and health care. ",
+          "context_right": "6(12), e2345050. htt"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 2.0,
+        "Sources": 3.0,
+        "Organization": 3.0,
+        "Writer’s Ethos": 2.0,
+        "Total": 13.0
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

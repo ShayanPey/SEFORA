@@ -1,0 +1,455 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Body of the Deer",
+      "annotations": []
+    },
+    {
+      "body": "Chapter 1",
+      "annotations": []
+    },
+    {
+      "body": "The afternoon sun pierced through the autumn leaves dangling off the half dead trees that covered the landscape as far as the eye could see. A blanket of leaves that had already left their home covered the forest floor so evenly that the frozen ground could barely be seen. The sun was high in the sky, and its bright, white light seemed as if it was stretching over every inch of the ground, pushing shadows into the darkest crevices of the forest floor. The forest was old, and the uneven ground was covered in logs and stones of all shapes and sizes. It was deceptively cold, and the stagnant air seemed to hold still as if it were beginning to freeze along with the rest of the forest. The forest seemed barren of life, empty of any creature or plant, other than the trees which stood as if they were statues of stone. Situated next to a large tree that was shielded on one side by a sharp change in elevation that formed a rocky, frozen wall, sat a pile of bundled robes and blankets that held the shivering figure of a small boy.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "frozen ground ",
+          "comment": "Very nit-picky, but I was a little confused as to why the trees were half-dead? (Leaves falling doesn’t mean the trees are dying…) ",
+          "context_left": " so evenly that the ",
+          "context_right": "could barely be seen"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "pushing shadows ",
+          "comment": "This seems somewhat in conflict with the idea that the sun is coming in through the leaves? ",
+          "context_left": "inch of the ground, ",
+          "context_right": "into the darkest cre"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "statues of stone",
+          "comment": "So at this point, I felt the description of the forest, while lovely, had gone on for a bit too long. I wanted the story to begin. ",
+          "context_left": "ood as if they were ",
+          "context_right": ". Situated next to a"
+        }
+      ]
+    },
+    {
+      "body": "The boy stood up from his spot leaning against the craggy surface of the wall. The tan-gray blanket that was wrapped around him fell to the ground to reveal a face that looked older than the small figure that was huddled in the blanket. Though he had a small stature, he was around fourteen years old. Upon closer inspection, the boy’s pale face held a grim expression, and there was an air of serious in his deep brown eyes that seemed to add years to his age. His unkempt, brown hair was mostly covered by the hood of a plain wool cloak that matched the rest of his dark clothes.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "around fourteen years old",
+          "comment": "“Small boy” feels like, 3 or 4 to me, so I was really surprised by this. ",
+          "context_left": "all stature, he was ",
+          "context_right": ". Upon closer inspec"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "add years to his age. ",
+          "comment": "Just noting that you’re tending to give us the same information twice — here, for example, you’ve already told us that he has “a face that looked older than the small figure…” and then his eyes “add years to his age.” So, we’re told, twice, that he looks older in the face. Now both sentences are effective and nicely written. But laying them on top of each other creates the impression that you don’t trust the reader to get it, and thus weakens them. ",
+          "context_left": "eyes that seemed to ",
+          "context_right": "His unkempt, brown h"
+        }
+      ]
+    },
+    {
+      "body": "The boy smothered the dying fire in front of him and meticulously hid the traces of it with the leaves that already covered the forest floor. He looked up into the sky to see the sun had been covered by gray clouds and knew snow would be arriving soon.  He wrapped up his blanket and stuffed it into the cloth bag that held what little possessions and provisions he had left. He threw the bag over his shoulder before crouching down to pick up a short sword that was hidden by a simple leather sheath. The boy stared at the weapon. He then slowly unsheathed it to look upon the blade. It was nicely polished, and the boy stared deeply at his reflection. He thought to himself that he was beginning to look a lot like his father. This thought triggered his memory, and his expression crumpled into grief as he remembered the events of last night.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "had been covered ",
+          "comment": "I wondered what sparked him to get up. It seems odd that he’d put out the fire as the weather worsens? ",
+          "context_left": " sky to see the sun ",
+          "context_right": "by gray clouds and k"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "events",
+          "comment": "I liked this entire section with the sword. It caught my attention, .",
+          "context_left": "s he remembered the ",
+          "context_right": " of last night."
+        }
+      ]
+    },
+    {
+      "body": "The pale moon shone over the thatched roofs of the small village below. The village sat on the edge of the sea with a singular dock stretching out over the water. The moon cast a long milky reflection over the surface of the water that looked as if it was a path straight to its surface. On the edge of the village sat a small home, one of the few buildings where light still crept out from the doorway. The boy sat, wrapped in blankets and animal furs in front of the fire in the center of the room. Across the fire, his mother sat, leaning towards the boy, as she told stories of great adventurers. The boy’s mother was a strong woman with fierce facial features. Her dark hair framed her face as she spoke, and the boy’s attention was glued to his mother’s words. From the other room, the boy heard his father’s voice.",
+      "annotations": []
+    },
+    {
+      "body": "“Anyone hungry? I have some sweets.” The boy’s father entered the great room, already stuffing his face with bread and honey. His father was a large man, his long, fair hair was matted and wild, much different from the usual tight braid that hung down his back. He wore only his pajamas, and a large, goofy smile spread across his face as he said, “Hurry and come grab this before I eat it all.” The boy giggled as he stood up, walking towards his father before a blood curdling scream ripped through the air.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "His father was a large man",
+          "comment": "The narrator feels a little off to me. I’m assuming these people were killed very recently, and the narrator seems to be fairly close to the boy’s thoughts. So it seems slightly strange that he’s not more upset and is so controlled in his thinking about these people he’s lost. ",
+          "context_left": "th bread and honey. ",
+          "context_right": ", his long, fair hai"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "boy giggled as he stood up",
+          "comment": "Seems younger than 14. ",
+          "context_left": " I eat it all.” The ",
+          "context_right": ", walking towards hi"
+        }
+      ]
+    },
+    {
+      "body": "A snowflake landed on the boy’s reflection in the blade, snapping him back to reality. He looked up into the sky to see snow quickly falling down. He could already tell the ground would be covered very soon, as the snow was falling hard, with no end in sight. The boy sheathed the short sword and fashioned it around his waist. It was already midday, and the boy began walking again. It would still take a few days to reach the town, and the boy looked into his bag to check his provisions. All he had left was a mostly full water skin and about one meals worth of dried meat. The boy began to continue his journey north. He had lived in his village for his entire life, and during that time he learned from his father the cardinal directions. He knew if he faced the sea from his house, he would be facing southeast, so he had used this information the past night to figure out which way to go when fleeing. The boy remembers many techniques of survival that his father taught him. His father was a hunter, but the boy had never actually been on a real hunt with him. For now, the boy trudged on towards his goal.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "reflection in the blade, ",
+          "comment": "This is a nice moment. I wonder if you want to have him not tamp the fire and get ready to go until he realizes that the snow is starting? ",
+          "context_left": "landed on the boy’s ",
+          "context_right": "snapping him back to"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "still take a few days ",
+          "comment": "That is very far away! ",
+          "context_left": "ing again. It would ",
+          "context_right": "to reach the town, a"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The boy remembers many techniques of survival that his father taught him. His father was a hunter, but the boy had never actually been on a real hunt with him. For now, the boy trudged on towards his goal.",
+          "comment": "It does feel like he’s written younger than 14. ",
+          "context_left": "to go when fleeing. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The day was slowly crawling to a halt, and it began to become too dark for the boy to see. It had been snowing all day, and the ground was now covered in a thick sheet of snow. He found an area where he was mostly shielded from the elements. He cleared some snow from the ground until he had a decently dry area to sleep. The spot he had picked was surrounded by three trees that grew closely together. The boy gathered as many sticks and logs as he could to attempt to build a fire. He found a rock that was about half the size of his head and used it to dig a small hole. He then put the wood he had gathered in there and begun to build a fire. He spent over half an hour working on it until he was finally able to start the fire. He then put blankets around himself to try and keep as much of the heat near him as he could. The boy ate the last of the dried meat he had saved up, then curled up and tried to fall asleep. The boy stared into the fire as he had so many times when he fell asleep in his own home. Usually, one of his parents would come in later to put the fire out, but the boy figured the snow, or the wind would put it out. The boy stared deeply into the fire, letting his mind wander off.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sleep",
+          "comment": "Why is this spot superior to the one he left? ",
+          "context_left": "hielded from the elements. He cleared some snow from the ground until he had a decently dry area to ",
+          "context_right": ". The spot he had picked was surrounded by three trees that grew closely together. The boy gathered "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The boy ",
+          "comment": "He needs a name. ",
+          "context_left": "dry area to sleep. The spot he had picked was surrounded by three trees that grew closely together. ",
+          "context_right": "gathered as many sticks and logs as he could to attempt to build a fire. He found a rock that was ab"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "start the fire",
+          "comment": "Notice that in 3 of the 4 sentences here, you refer to him starting or building a fire. This happens a lot when beginning a new work, so no big deal, but the story has a bit of a feeling of throat-clearing about it. You’re spending a lot of time describing what you’re sue of (the fire building) and not as much time on the circumstances that put him in this situation. ",
+          "context_left": "was finally able to ",
+          "context_right": ". He then put blanke"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wind would put it out",
+          "comment": "I wondered why he put the first fire out but doesn’t care about this one? ",
+          "context_left": "ed the snow, or the ",
+          "context_right": ". The boy stared dee"
+        }
+      ]
+    },
+    {
+      "body": "The terrifying scream caused the boy to freeze in his tracks, and he saw his father’s cheerful smile quickly change into a grim scowl. Before either of them could move, the boy felt his mother’s hands grab his shoulders and directed him into the bedroom.",
+      "annotations": []
+    },
+    {
+      "body": "“Stay here for now. Get dressed in warm clothes and put your boots on. Stay here until me or your father comes back.” The boy quickly did as he was told, his hands shaking as he got dressed. He could tell something was amiss, and fear began to envelop him. He sat down in his bed, huddled in his blankets, staring into the dying fire as he waited for one of his parents to return to him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ", huddled in his blankets, ",
+          "comment": "He spends a lot of time huddled in blankets! ",
+          "context_left": " sat down in his bed",
+          "context_right": "staring into the dyi"
+        }
+      ]
+    },
+    {
+      "body": "The cloth covering that hung from the doorway to the main room was flung open. The boy’s father stood in the doorway. His jaw was clenched, and his eyes had become fierce narrow slits. The boy could tell he had hastily dressed and the large fur cloak he wore was situated loosely on one shoulder.",
+      "annotations": []
+    },
+    {
+      "body": "“Get up,” The boy’s father said sternly before throwing a bag onto the ground in front of his son.",
+      "annotations": []
+    },
+    {
+      "body": "“Father, what’s going out outside. Where’s-” His father quickly cut him off.",
+      "annotations": []
+    },
+    {
+      "body": "“Now is not the time for questions,” The father’s booming voice had a sharp sternness that startled the boy who was not used to hearing this tone from his father. “Once you are ready grab the bag and meet me in the great room.”",
+      "annotations": []
+    },
+    {
+      "body": "The boy’s father spun around and as the cloth settled the boy saw a quick glimpse of his mother, who was franticly moving around the great room, before his vision was obstructed by the cloth of the doorway. As the boy got dressed, he listened to the noise outside. The yelling had become much louder, and the boy heard sound of destruction the occasional clang of metal weapons. He could hear fires roaring from the outside, and it finally clicked to the boy that the village was being raided. The boy threw his cloak over his head and grabbed the bag as he quickly moved into the great room.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "become",
+          "comment": "I’m slightly confused by teh action here. He’s in the main room, and his mother tells him to go to the bedroom, but then the father tells him to go to the main room again? Again, you’re figuring it out and there’s nothing wrong with being unsure of how this is going to proceed. Just pointing out how this is a little flabby right now. ",
+          "context_left": "de. The yelling had ",
+          "context_right": " much louder, and th"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the bag ",
+          "comment": "I wondered what time period this is taking place in? ",
+          "context_left": "is head and grabbed ",
+          "context_right": "as he quickly moved "
+        }
+      ]
+    },
+    {
+      "body": "The great room that once felt cozy and warm seemed cold and dark. The boy’s father stood in the middle of the great room speaking to the boy’s mother. She was positioned right next to the front door which stood halfway open. The boy looked past his mother, staring at the opening of the doorway, which now felt like a portal to another world. The boy’s home was farthest from the edge of the sea and at the edge of the woods that surrounded the village on all sides. The front door faced the entire village and as the boy looked out the doorway, he saw the chaos that unfurled in his once peaceful village. The bright, raging fires covered nearly every building in the village. Lifeless bodies lay discarded on the ground outside. Terrifying barbarians ran rampant stealing and killing everything in their paths. Suddenly, while he was distracted by the terrible scenes outside, the boy felt the tight grasp of his father’s hands around his shoulders. The boy’s father stared into his son’s eyes.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "outside",
+          "comment": "I would assume he would have sensed this or seen the flames’ light before now? ",
+          "context_left": "ing fires covered nearly every building in the village. Lifeless bodies lay discarded on the ground ",
+          "context_right": ". Terrifying barbarians ran rampant stealing and killing everything in their paths. Suddenly, while "
+        }
+      ]
+    },
+    {
+      "body": "Suddenly, the sound of rustling in the dead plants pulled the boy out of his thoughts. He sat up and, just past the fire, he saw a deer. The eyes of the boy and the deer locked, and for a while they were still. The boy remembered his need for food and quickly grabbed his short sword, but when he looked back up the deer was gone. The boy looked around momentarily before giving up and laying back down. As his eyes began to shut, he noticed the snow had stopped falling.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "falling",
+          "comment": "He’s intriguingly inactive as a character, which would track with the guilt and sadness and terror he might be feeling. ",
+          "context_left": "he snow had stopped ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "In the morning, the boy packed up his camp. Again, he tried to hide all traces of his camp. It was unlikely that anyone would be following him especially since the snow had covered all traces of him except for his most recent tracks. As he packed up, he noticed his tracks were not the only ones in the snow. The deer from last night also left a trail. The boy finished gathering his things together and began to follow the tracks. After a little while he realized the deer was also heading north. He figured he should try and track the deer as he was going to need food. The boy resumed his journey, with the added task of following the deer.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "deer",
+          "comment": "I would like to sense more urgency for him. ",
+          "context_left": " most recent tracks. As he packed up, he noticed his tracks were not the only ones in the snow. The ",
+          "context_right": " from last night also left a trail. The boy finished gathering his things together and began to foll"
+        }
+      ]
+    },
+    {
+      "body": "The day passed by slowly. The boy’s hunger grew as his journey continued. Trudging through the snow was proving to be very difficult. The cold air was brutal, and the snow was making his feet wet and cold. Eventually he came to a small stream. The tracks of the deer reached the stream and then turned sharply. The boy looked at the stream and realized it was difficult to tell how deep the stream was. He followed the tracks along the bank of the stream. The sun had come out and was shining brightly. The sparkle of the sun reflected off the running water of the stream, bouncing off the hills and valleys the moving water created. The boy looked up to the trees which were even more barren now that the snow had knocked most of the remaining leaves off. The tracks suddenly disappeared, and the boy realized that the deer must have crossed here. The water was shallow and rocky. It was a good place to cross. The boy smiled and thanked the deer in his head. The cold water immediately began soaking the boy’s feet, and he bounded hurriedly across the stream, desperate to be out of the water. In his rush, he loses his footing, slipping on an ice-covered rock as he got to the other shore, falling face first into the bank of snow in front of himself.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "here",
+          "comment": "You might make more of his lack of experience with these skills, since you mentioned he hasn’t used them before. Tracking deer is quite hard! He’s making it seem pretty easy. ",
+          "context_left": "r must have crossed ",
+          "context_right": ". The water was shal"
+        }
+      ]
+    },
+    {
+      "body": "\tThe boy stood up wiping the mud from his face, which now hid the tears that had just been flowing down his face. His heart beat fast with both fear and agony, as he stumbled up, taking another look backwards. A large fire enveloped the timber he had once called home. The sound of the house creaking as the fire slowly deconstructed it was almost drowned out by the screams from other villagers. The boy took a step back towards his home, hand reaching out, hoping that his father would arise from the great flare that raged in front of him. He was startled from his stupor by an angry yell from a deep voice, a barbarian yelling at a villager, quite close to where the boy stood. He turned and ran. The boy’s heavy, uneven breathing was loud in his ears and his overwhelming fear pushed his legs towards the edge of the forest. As he reached the edge of the forest, he turned back to look at the village that he once called his home. An angry, raging fire enveloped the entire village. Most of what he knew was now unrecognizable. He took a step back towards the village and hesitated for a moment before turning back around and running into the dark woods.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "boy",
+          "comment": "This transition didn’t work as well for me, because it was the narrator’s decision to switch timelines, not the boy’s memory making the switch. ",
+          "context_left": "\tThe ",
+          "context_right": " stood up wiping the mud from his face, which now hid the tears that had just been flowing down his "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "unrecognizable",
+          "comment": "This missed scene feels so key — did his father tell him to run? Is he protecting anything? Did he try to stay? Did he abandon his parents? All really important information. ",
+          "context_left": "hat he knew was now ",
+          "context_right": ". He took a step bac"
+        }
+      ]
+    },
+    {
+      "body": "The boy quickly hopped up from the snow, hurriedly following the tracks left by the deer. He comes across a small hill and, as his head poked over the top, he sees the deer grazing on a small spot of grass that was not covered in snow. The boy immediately fell back behind the hill. His heart was racing. The deer was close, but he felt he would not be able to reach it before it noticed him. An idea began to creep into his mind. The boy slowly moved to the right of the hill until he was positioned behind the deer. Then he found a thick stick and took out his short sword. He slowly stood up, just out of view of the deer. Then all in one motion, he threw the stick way over the deer’s head and began to run. The stick clattered through trees that were very far in front of the deer. Its head shot up and it tensed up to run but did not move just yet. All of its attention was focused on the noise in front of it, and the boy used the distraction to quickly close the ground between him and the deer. Just as he was reaching it, the deer noticed his advance and turned to flee. The boy dove out at the last second with his sword, but the deer had jumped out of the way. As the deer ran off, the boy threw his sword in a desperate, last-ditch effort, but it clanged harmlessly off a tree. The boy stood up, defeated, and walked over to pick up the short sword. The boy felt helpless and decided to give up on the deer. He was still about a day out from the town, and he feared that to survive the cold he was going to have to eat something, but he had no faith in himself to successfully kill any animal. He decided to just head straight north and felt he would have to leave his survival up to chance.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him",
+          "comment": "It’s sort of funny that in this vast forest, he’s fixated on one deer. ",
+          "context_left": "eart was racing. The deer was close, but he felt he would not be able to reach it before it noticed ",
+          "context_right": ". An idea began to creep into his mind. The boy slowly moved to the right of the hill until he was p"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "off",
+          "comment": "I enjoyed this section — it is not easy to kill a deer with a handheld weapon and I appreciated that this scene didn’t make it seem like it was. ",
+          "context_left": "dove out at the last second with his sword, but the deer had jumped out of the way. As the deer ran ",
+          "context_right": ", the boy threw his sword in a desperate, last-ditch effort, but it clanged harmlessly off a tree. T"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "going to have to eat something",
+          "comment": "Yes, I’d like to see more of his struggle to stay alive despite eating. He must be so hungry! Stephen King’s The Girl Who Loved Tom Gordon does a really nice job of portraying a child lost in the woods. ",
+          "context_left": "ive the cold he was ",
+          "context_right": ", but he had no fait"
+        }
+      ]
+    },
+    {
+      "body": "The boy walked all day. The sun was setting, and the entire forest was bathed in a red-orange light from the sun. The boy felt weak, like his body was going to freeze up soon, he was so cold. He figured he should start to look for a place to set up camp before it was too dark. As he stumbled through the snow, he began to hear the painful cry of an animal. Sparked with new life, the boy ran towards the sound. As he got closer, the screams got louder, and his heartbeat increased. He suddenly came to a large drop-off that was covered in ice and snow, making the edge deceivingly almost a foot longer. The boy looked to the side and saw a place where the ice had broken, and the snow was pushed off and around one spot. The boy moved over to it and noticed the tracks of a deer. The boy then looked over the side of the drop off. About twenty feet below lay the same deer he had been chasing. The scene below him was gruesome, the mangled body of the deer lay twitching in the dark, stained snow. The boy was transfixed on the creature clinging to life below him, his face twisting into a mangled expression of grief and horror.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "horror",
+          "comment": "Surprising that a deer would make this mistake but the boy would not. ",
+          "context_left": "ession of grief and ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "The boy took refuge in the comforting gaze of his father’s eyes. “We were attacked during the night. There is nothing left to save,” the boy’s father said with a stern calmness. “We are going to take what we can and flee towards the woods.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "gaze of his father’s ",
+          "comment": "So, here, you’ve actually gone back further than the last scene from the past you showed us, which is confusing. Also notice that here, too, your narrator is choosing to tell the story in these alternating timelines rather than having the change come from the boy’s own thoughts. ",
+          "context_left": "e in the comforting ",
+          "context_right": "eyes. “We were attac"
+        }
+      ]
+    },
+    {
+      "body": "“We don’t have much time left.” The boy’s mother now spoke while standing in the open doorway. “They will reach our home soon,” The boy’s mother spoke with worry in her voice. “If we don’t-” She suddenly froze as her body lurched forward and the color drained from her face. As she collapsed forward onto the floor of the home, the boy saw a smooth piece of wood protruding from her back. He stared in stunned confusion until his brain finally let him realize that a small axe was buried in her back. His eyes widened in horror, as he realized the life was gone from his mother. A large lump formed in his throat, and his cheeks suddenly felt wet. He could not bring himself to pull his eyes away from the lifeless body in front of him. His father recovered quickly and, although tears already began welling in his eyes, he grabbed his son’s face and turned it towards his own. “Look at me, son. Concentrate on what I’m saying.” He gave the boy a light shake. “Listen to me,” He sputtered with strained desperation.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the life was gone from his mother",
+          "comment": "People don’t generally die that quickly from a stabbing. ",
+          "context_left": "ror, as he realized ",
+          "context_right": ". A large lump forme"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "desperation",
+          "comment": "It does feel like you’re dragging this out a bit rather than just sharing what the father said. ",
+          "context_left": "tered with strained ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "The boy hurriedly ran to the side, the top of the small cliff slowly reuniting with the ground on the other side. He jumped down into the snow and, after stumbling from his desperate pace, sprinted back towards the deer. He slowed as he came back upon the deer. The ground was deceivingly rocky where it landed, and it was in bad shape. Two of its legs were completely shattered and there was probably even more extensive damage to the side it was now lying on. The light from the setting sun made the snow look like a light reddish orange, but the blood of the deer, which now stained the snow all around the deer, was black. The boy knelt down in front of the deer. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the top of the small cliff slowly reuniting with the ground on the other side",
+          "comment": "A nice image. ",
+          "context_left": "ly ran to the side, ",
+          "context_right": ". He jumped down int"
+        }
+      ]
+    },
+    {
+      "body": "The voice of his father slowly brought him back to the present. His father noticed the boy’s eyes focus on him, and quickly began to speak. “There is a town to the north of us. It is a two-and-a-half-day walk. You must go there as fast as you can. When you get there, find a small fur trading shop. It is owned by my friend. He will-” The boy’s father was interrupted by an explosion of fire. One side of the house has erupted into flames. The boy’s father turned his face back to his son. “Tell him what happened here tonight. He will protect you.” Tears continued streaming down the boy’s face.",
+      "annotations": []
+    },
+    {
+      "body": "“What about you, father?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "father",
+          "comment": "I’m always a little dubious about characters calling their parents “Father” or “Mother.” :) I like this reveal of information a lot but I wonder why the boy hasn’t been thinking of the fur trader before now? I would think he’d be wondering how to find him. Has he ever been to the town? It sounds like not, so this must feel so overwhelming. ",
+          "context_left": "“What about you, ",
+          "context_right": "?”"
+        }
+      ]
+    },
+    {
+      "body": "“Do not worry about me. You mustn’t turn back.” The boy’s father turned around to pull out a sheathed short sword. “Use this to protect yourself. My father gave this to me when I was around your age, and now I want you to have it.” The boy’s father handed his son the weapon before pushing him away. “Leave through the back door and run straight to the forest. Keep running until you are too tired to move anymore.” The boy’s father paused for a second before holding his son’s head.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "it",
+          "comment": "I wonder why a 14-year-old wouldn’t have been given any weapons training? ",
+          "context_left": " I want you to have ",
+          "context_right": ".” The boy’s father "
+        }
+      ]
+    },
+    {
+      "body": "“I love you.” The boy’s father stood up and began to move towards the front door. The boy could not move and was frozen in place.",
+      "annotations": []
+    },
+    {
+      "body": "“Go now!” the boy’s father yelled, sounding desperate now.",
+      "annotations": []
+    },
+    {
+      "body": "Then, all of a sudden, the door exploded in fiery embers and pieces of wood. Two Barbarians smashed though the burnt frame of the door. The boy’s father launched into action attempting to hold the two back. The sudden commotion broke the spell, and the boy stumbled backwards, still staring as his father threw himself into the barbarians with the fervor of a wild animal. The boy had now backed into the wooden frame of the back door, still watching as his father fought through fatal injuries, blood staining the floor as he continued to hold the barbarians back. A large flaming beam crashed in front of the boy, and he dove backwards out of his home.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "home",
+          "comment": "Since we already know what happens, this scene feels a little deflating. ",
+          "context_left": "ackwards out of his ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "The boy’s heart was beating out of his chest. He had never killed a living animal before. As he slowly removed his short sword, fear overwhelmed him. He looked into the eyes of the deer and saw the same fear he now felt. The same fear he felt as he saw his parents struck down. The same fear he felt as he ran away from everything he ever knew. He saw his mother’s pained expression as she let out her last breath in the eyes of the deer. He felt he could understand this animal, now. Tears were now streaming down the boy’s face. The deer in front of him was going to die, there was nothing he could do to stop it. The boy raised his father’s short sword over his head. The boy realized now that he would survive to reach the town. He was going to go on to live because his parents died. He was going to live because the animal before him will die. His tears came faster now. His hands shook, and he shut his eyes tightly as he let out a pained, guttural scream before plunging his sword into the wounded body of the deer.",
+      "annotations": [
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "You take away the suspense of the story (until he gets to town anyway) by noting this. I think this is a strong first excerpt, Silas. I love your language and use of suspense. I definitely wanted to know what would happen. And I cared about the boy, who seems helpless (and probably could be made more so). What I’m left with in terms of revision are mostly questions for you: Why does this character need to be 14? You write him about 10 or so, to me. Why doesn’t he have any skills for survival if he lives in a village on the edge of the woods? (Is he a scholar in training or someone who wasn’t supposed to learn to fight — that could be interesting!) Why isn’t he thinking of his family and his destination as he travels through the woods? And, most of all, what will happen once he gets to the fur trader’s? Will he fight the barbarians? Will he mourn his parents? I’m not getting a sense of what the story is about, exactly, yet. Excited to read more and to hear your classmates’ feedback. Congraulations on beginning!"
+    }
+  ]
+}

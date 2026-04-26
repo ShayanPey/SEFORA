@@ -1,0 +1,103 @@
+{
+  "paragraphs": [
+    {
+      "body": "It was a cold day, and I was bundled up in layers of clothing to protect myself from the biting wind. I was walking downhill from school on my way back to the house. Every bit of ground I crossed was blanketed in snow, transforming the landscape into a white, wintry scene. As I reached the steepest part of the hill, I was met with a large pile of snow-covered leaves that had gathered on the sidewalk, blocking my path. Now, I had two options: I could either try to walk through this slippery pile or change my route altogether. Unfortunately, I happened to be wearing the worst possible pair of sneakers that day—the ones with absolutely no grip. They were comfortable but completely unsuitable for icy or snowy conditions. After weighing my options, I decided to take the risk and walk through the pile. As I moved closer to the leaves, intrusive thoughts began to surge through my mind, warning me of a potential fall. But I ignored them, determined to push forward and get home as quickly as possible. The moment I placed my foot on the pile, I felt my balance waver, and for a split second, I was sure I would slip. However, I managed to steady myself and avoid an embarrassing fall in front of the passing cars. As I made my way across that first pile, I was greeted by several more similar piles of slippery leaves. Carefully, I navigated each one, feeling a sense of relief every time I reached a safe patch of ground. In the end, I made it safely back to my house, cherishing the fact that I had returned in one piece, without a single mishap. Dry leaves are a daily part of my life. Those black and brown leaves along the sides of the road, the satisfying crunch they make underfoot—it’s probably the best part of my day. As I walk toward the bus stop, I spot a large pile of leaves gathered in the corner. I cross to that side of the road just to enjoy the sensation. When I step on them, some seem to disappear beneath me, almost like water evaporating into the air. Others don’t give quite the same feeling; instead of crunching, they cling to the ground, blending into the pile. The sight of those scattered leaves, each one unique in shape and shade, feels oddly comforting. They remind me of the changing seasons, a natural cycle that continues, unaffected by the rush of daily life. I imagine each leaf has its own story, drifting down from the trees and eventually settling here. Walking through them feels like a simple, fleeting connection to nature—a small joy in an otherwise ordinary day. During fall, I see these leaves even more often—the season's name gives it away. “Fall,” like the leaves falling to the ground. But as tempting as it is to step into that big pile of leaves, a word of caution: in the snowy season, that inviting pile can become a slippery trap, turning you into the main act in a live comedy show, with cars around as the audience! But for now, I enjoy this moment, knowing that with each crunch, I’m cherishing a little bit of nature’s beauty.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "“Fall,” like the leaves falling to the ground.",
+          "comment": "neat",
+          "context_left": "name gives it away. ",
+          "context_right": " But as tempting as "
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Dry leaves are a daily part of my life. Those black and brown leaves along the sides of the road, the satisfying crunch they make underfoot—it’s probably the best part of my day. As I walk toward the bus stop, I spot a large pile of leaves gathered in the corner. I cross to that side of the road just to enjoy the sensation.",
+          "comment": "Turn this into narrative",
+          "context_left": "ut a single mishap. ",
+          "context_right": " When I step on them"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Walking through them feels like a simple, fleeting connection to nature—a small joy in an otherwise ordinary day.",
+          "comment": "interesting moment! Perhaps some heat and energy to explore here?",
+          "context_left": "ally settling here. ",
+          "context_right": " During fall, I see "
+        },
+        {
+          "type": "note",
+          "comment": "Lovely narrative opening! Is this the \"right\" narrative\" for your essay, though? What does it reveal? What is the metaphor? How does that support and develop your essay's central focusing idea?",
+          "context_left": "house. Every bit of ",
+          "context_right": "ground I crossed was blanketed in snow, transforming the landscape into a white, wintry scene."
+        }
+      ]
+    },
+    {
+      "body": "A dry leaf on the road isn’t just a leaf; it’s a friend I encounter every day. That leaf isn’t lying in the middle of the road without purpose. And it’s not just one friend—there are millions of them out there, scattered across sidewalks, parks, and streets. Each one seems to wait for me to step on it, offering that satisfying crunch, as if hoping to make me feel better, even for a second. Like the leaf on the sidewalk, everything in life exists for a reason. Just as that once-green leaf now lies brown and brittle, exposing its veins to the bright sun, everything transitions from vibrant life to quiet stillness. And then there’s that leaf blower, heartlessly sucking up my little friends with its loud, relentless machine. These leaves that once made the world look beautiful, now reduced to debris, turn the landscape into something out of a zombie apocalypse scene from World War Z. My friends, the leaves, come and go as fall arrives, but I get to make new friends with fresh leaves when spring is over, ready to start the cycle again. Technically, I have over a million friends right now, scattered across the city. Our lives mirror these friendships with leaves. People, like leaves, come and go you make new friends, say goodbye to old ones. Some friends you speak to every day, while others drift in and out on rare occasions. Cherish every moment, because you never know if you’ll get to experience those lifelong moments with your loved ones again. Life, like a leaf, is fragile.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "A dry leaf on the road isn’t just a leaf; it’s a friend I encounter every day. That leaf isn’t lying in the middle of the road without purpose.",
+          "comment": "This feels like the beginning of a definition paragraph, though the paragraph doesn't actually develop into a complete definition. Let's talk about how you might leverage this definition paragraph to your essay's advantage by focusing on, and developing, the right word for your purpose.",
+          "context_left": "",
+          "context_right": " And it’s not just o"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Life, like a leaf, is fragile.",
+          "comment": "",
+          "context_left": "r loved ones again. ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "I wonder if this sense of fragility might be related to your ideas about fleeting joy?",
+          "context_left": "your loved ones again. Life, like a leaf, is fragile.",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I remember my friends from way back in elementary school and middle school. I remember writing down each of their phone numbers, thinking I would always stay in touch with them. Funny enough, not even one of us ever made the effort to call each other. Those friendships, once so vibrant and full of life, were created and then quietly buried on the day we parted ways. We promised to stay in touch, but life had other plans, scattering us in different directions. It’s strange how something so important at one time can fade into a distant memory, almost like leaves on the ground. Just like the millions of fallen leaves that gather at every corner of the city, the wind eventually picks them up and scatters them miles apart. Each leaf once belonged to the same tree, thriving together, but now they exist in entirely different places, unknown to one another. That’s what those friendships feel like—a collective memory scattered by time and distance. But perhaps that’s the beauty of it. Those friendships, no matter how brief, played their role in shaping who I am today. Just as leaves nourish the earth when they decay, old friendships leave their mark, even if we never reconnect. Sometimes, I wonder where those friends are now—whether they think of those moments like I do or whether those days are as distant to them as they sometimes feel to me. Life moves forward, and just like leaves that fall, new ones always grow, bringing with them new memories and connections.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "That’s what those friendships feel like—a collective memory scattered by time and distance.",
+          "comment": "gorgeous line.",
+          "context_left": "own to one another. ",
+          "context_right": " But perhaps that’s "
+        }
+      ]
+    },
+    {
+      "body": "Today, as I made my way to the bus stop, I walked along the same sidewalk I’ve been using for the past few years. Something caught my attention—those large piles of leaves I used to see were nowhere to be found. Every tree around me painted a picture that made me feel as if I were part of a horror movie. Those good little friends, now nowhere in sight, will return next year. This moment made me reflect on life and how much it resembles these leaves. Leaves come and go, and so do people. Just as leaves fall and disappear, only to return in a new season, people enter and leave our lives, each leaving a mark before moving on. It reminded me that, like the leaves, we must appreciate the presence of people in our lives before they’re gone, knowing that some connections will return while others remain a cherished memory.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "There is something lovely about the fleetingness of life in this paragraph--about finding joy in the moment. Let's talk about your essay's central focusing idea and audience!",
+          "context_left": "year. This moment made me reflect on life and how much it resembles these leaves. Leaves",
+          "context_right": " come and go, and so"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves.": 16,
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea.": 16,
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.).": 12,
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole.": 14,
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole.": 10,
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation.": 14
+      },
+      "comment": "So many fascinating moments and excellent details in this essay! I'm so interested in the metaphor you're developing, and the descriptive sentences scattered throughout this essay are gorgeous! Let's talk about the center of gravity for this essay, and dig a little deeper, so that we can decide which parts of this essay are necessary for your essay's purpose and which aren't. A clear sense of your audience will be important in this conversation, too. Also, let's talk about how you can leverage your descriptive, definition, and narrative paragraphs in this essay to support your essay's central focusing idea :) I'm not sure your narrative is the \"right\" one, and you seem to be missing a whole and complete definition paragraph as well. Nice work!"
+    }
+  ]}

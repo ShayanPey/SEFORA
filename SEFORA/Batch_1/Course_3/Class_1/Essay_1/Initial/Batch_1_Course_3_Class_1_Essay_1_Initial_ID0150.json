@@ -1,0 +1,396 @@
+{
+  "paragraphs": [
+    {
+      "body": "Sol",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Sol",
+          "comment": "Hmm. ",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "If he hadn’t gotten out of bed that morning, the sun wouldn’t have vanished. This could not be known by anyone and may not, in fact, be the truth. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "vanished",
+          "comment": "It’s a great opening line. The second one was a little too complex in wording to take in as smoothly. I’m definitely intrigued to hear more. ",
+          "context_left": "e sun wouldn’t have ",
+          "context_right": ". This could not be "
+        }
+      ]
+    },
+    {
+      "body": "If he hadn’t gotten out of bed that morning, the sun would have risen in the east at 6:14am and climbed steadily upwards over the course of the morning. At noon, the sun would have stopped and simply hung there in the sky. Twelve hours later, it would remain, staring at the city of Houston with a dispassionate heat. Then, suddenly, the star would begin to grow. The light would expand, and a shining radiance would reach out from beyond the void to embrace the planet. Swiftly, quietly, Earth would have been swept away like dust from the kitchen floor.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "floor",
+          "comment": "Yikes! You evoked this well. I wondered if you could spare a line for the panic that would set in on Earth as people realized…",
+          "context_left": "st from the kitchen ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Instead, he woke up at 5am and went for a run. Returning home, he drank three glasses of water, ate a beige breakfast, and waited patiently on his spacious balcony for the first hints of sunrise. The horizon was a flat black, all stars sanded out by the city’s lights. He breathed deeply and tried to appreciate the chill in the air.",
+      "annotations": []
+    },
+    {
+      "body": "After fifteen minutes, he got a book from inside and sat down by a window to wait. After twenty minutes, he turned on the television. At 7:00, he called his office but received no reply. He made a pot of coffee, drank a cup and a half, and left both mug and carafe half-full. He drove to work at 8:00am and 62mph, the Apollo blazing across the city like a comet. How wonderful, he thought, that the roads were so empty today. Wonderful indeed.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "on the television. ",
+          "comment": "Can you explain his (I assume) increasing unease here? And can we know a bit about what he sees on the TV? ",
+          "context_left": " minutes, he turned ",
+          "context_right": "At 7:00, he called h"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "empty today. Wonderful indeed.",
+          "comment": "I’m not quite following why he’s not catching on to this situation being… not great? “Wonderful indeed” was the first time the narrator seemed to be commenting. I would play with that even more, earlier, if you want that effect. ",
+          "context_left": "t the roads were so ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "It is unlikely that he would have noticed the deafening silence outside of his window even if he had turned the music down. At the end of his commute waited Phaethon HQ--a sprawling compound of glass and steel, his kingdom. In his opinion, the headquarters’ design was beautiful, futuristic, a vision of human progress—all of these descriptors and many others which he had extolled at length at the last World Petroleum Congress. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Congress",
+          "comment": "Is he the owner? Is he rich? (If so, I was surprised that there were not other people involved in his day — I expected servants or someone like that). ",
+          "context_left": "ast World Petroleum ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "The campus formed—he had told any who would listen— “A delicate spiral. We have four whorls consisting of offices, warehouses, you know? Workers. Then at the core of it all is the executive building…you should see that thing lit up at night.” As it came into view now, an enormous white cube, slick and brilliant in the glare of several floodlights, his lips tugged up into a loving smile.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "told any who would ",
+          "comment": "Another nice aside! ",
+          "context_left": "ampus formed—he had ",
+          "context_right": "listen— “A delicate "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "loving smile.",
+          "comment": "I think you can either have the very explicit times or you can have this guy not quite realizing what time it is, etc. But it makes him seem sort of stupid to not have processed that the sun isn’t coming up if he knows what time it is, you know? ",
+          "context_left": "ps tugged up into a ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": " From above, Phaethon HQ looked like a vortex, a shining whirlpool which consumed, smoothed, and paved over the unnecessary surrounding greenery. The electrical output of the headquarters emitted a constant droning hum—a sound that he had often remarked “Sounded like productivity.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "productivity",
+          "comment": "I like the brevity of this ominous description. ",
+          "context_left": "arked “Sounded like ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "He parked the sports car in the garage and took the elevator to the seventh floor. The secretary was not in yet, and this caused him to check his watch. No wonder, he thought, he’d made excellent time. He closed the door to his office, seated himself behind his desk, and opened his computer to focus on his responsibilities.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him to check his watch",
+          "comment": "And then what does he think? Why does he dismiss this? ",
+          "context_left": "et, and this caused ",
+          "context_right": ". No wonder, he thou"
+        }
+      ]
+    },
+    {
+      "body": "For the past three years, he had regarded himself as the captain of a ship—he who steered his company through uncertain waters. Recently, however, the comparison was beginning to feel cliché. Worse, he remained constantly anxious that his workers did not share his allegiance to the ship—and what was a captain with no crew? No, time for a new direction. He leaned back in his chair and gazed out of his window. His reflection looked back out of the oil-black glass.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "No, time for a new direction. ",
+          "comment": "This felt a bit out of nowhere — everything’s cool and then he’s suddenly thinking he has to upend the whole business? Maybe something triggers this thinking (he might be annoyed that the secretary isn’t there yet, for example - why isn’t she as dedicated?) ",
+          "context_left": "ptain with no crew? ",
+          "context_right": "He leaned back in hi"
+        }
+      ]
+    },
+    {
+      "body": "His brooding yielded fruit. This season he was a charioteer, a captain no longer. As the coachman, it was his duty to whip the horses under his command into shape. Yes, he was the driver—the crop-holder. Perfect, he was excellent at this job. Contented with himself, he sat back and searched for his cup of coffee, then remembered that he didn’t have one. At his apartment, a half-finished mug had cooled. The pot sat stonily--half black, half empty. There was nobody else in the office. The time was 9:00am.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "This season ",
+          "comment": "Is his business seasonal? Could that help you help him think this way — it’s the beginning of a new season somehow? ",
+          "context_left": "ding yielded fruit. ",
+          "context_right": "he was a charioteer,"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "time was 9:00am.",
+          "comment": "Again, how does this process for him? ",
+          "context_left": " in the office. The ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Outside, a light wind dragged itself through the city. Streetlights cast anemic beams beneath which the concrete appeared very old.  Somewhere in the distance, a car alarm was blaring. The warehouses on Phaethon’s spiraling streets hung empty like mounted heads. Lights, scattered across the skyline, stagnated under the empty sky.",
+      "annotations": []
+    },
+    {
+      "body": "For two more hours, he remained at his desk. Every so often, he rose to use the bathroom located at the far end of his office. At noon, he poured himself a glass of the bourbon he kept in his desk and finished it in one swallow—only ice made him consider sipping liquor. He poured another.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "remained at his desk",
+          "comment": "So, at this point, I lost faith in the story a bit. The burden I’m asked to bear as the reader, to buy that this guy is entirely aware of the time, etc. but doesn’t notice that the sun isn’t out yet, just didn’t feel plausible to me. ",
+          "context_left": " two more hours, he ",
+          "context_right": ". Every so often, he"
+        }
+      ]
+    },
+    {
+      "body": "He cracked his office door. The secretary’s desk was still empty, the computer screen dark and lifeless. Swirling his bourbon, he admired the desk. Yesterday, he thought, this was the prow of my ship. Now I can surely see the reins of the chariot in front of me. He finished his drink and left the glass on the secretary’s desk. Then he walked down the hall, peeked into the kitchen, and--finding no one--waited for the elevator.",
+      "annotations": []
+    },
+    {
+      "body": "When it rose to his level, he rode it down to the seventh floor. He disembarked and did a leisurely lap of the area. He strolled through the rows of cubicles, hands in pockets, glancing casually around and nodding here and there. The chairs hung unoccupied. The computers all shared the same blank expression. He paid little attention to the decorations cluttering the cubicle walls.",
+      "annotations": []
+    },
+    {
+      "body": "There was no sound among the workstations. There never was, he imagined, with everyone so focused. He reached the end of the row and turned, breaking into a light jog. He ran back and forth across the room once, twice, three times. The watch he’d selected today—a vintage Zenith—read half past. He ran another lap.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "workstations. ",
+          "comment": "I need to better understand why he’s patrolling the floor but not really taking anything in. I completely get that this is a satire of a self-satisfied tech bro, by the way, and I like that. It just doesn’t have much of a plot or conflict yet, because the main character isn’t engaging with the story you’ve set up for him. ",
+          "context_left": " no sound among the ",
+          "context_right": "There never was, he "
+        }
+      ]
+    },
+    {
+      "body": "\tNo one had called off work. Strictly speaking, no one had called in to work either. He made a pot of the cheap, instant stuff he found in the breakroom and drank as much as he could stomach. It was tasteless enough, and besides, he only needed something to carry him through to his reservations. ",
+      "annotations": []
+    },
+    {
+      "body": "Poking through the fridge—more out of curiosity than anything else—he found a small box of grocery-store strawberries. He wasn’t particularly hungry, but they were easy to eat, and he plucked one from the small pile and took a bite. It was sour, and he made a face. It had been a long time since he’d had a strawberry that wasn’t dehydrated or liquefied, but at least those had a pleasant sweetness. He dumped the little box and its contents into the trash and returned to the elevator.",
+      "annotations": []
+    },
+    {
+      "body": "The ride up was so quiet that he noticed how heavy his eyelids felt. Those two glasses of bourbon had smothered the coffee, he thought, and loosened his tie. When he made it to his office and closed the door, he removed the garment completely and fell into the loveseat against the window. A hypnotic spin behind his eyelids dragged him off to sleep.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and loosened his tie",
+          "comment": "The phrasing implies that the bourbon had loosened his tie. ",
+          "context_left": "coffee, he thought, ",
+          "context_right": ". When he made it to"
+        }
+      ]
+    },
+    {
+      "body": "A long, sustained gust of wind rolled across the city like one great wave. It blew through the streets, up and over every wall and further, sweeping over even the invisible clouds, and that was the last of it. The air fell dead and still, muffling the city. Fifty miles southeast, the Gulf of Mexico lay flat and dark as tar. Hands continued to revolve around the clock.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "around",
+          "comment": "It’s an interesting choice that we can’t tell if something supernatural is happening or if he’s just a little drunk and the refusal of the sun to rise is completely natural. ",
+          "context_left": "ontinued to revolve ",
+          "context_right": " the clock."
+        }
+      ]
+    },
+    {
+      "body": "When he woke up, it was dark outside his windows. How long had he been asleep?",
+      "annotations": []
+    },
+    {
+      "body": "He checked his watch and swore. The glossy face read 6:00pm, everyone would have gone home by now. Really, he should have been gone by now, but what did it matter? These were his offices, after all. Still, he thought, as he rose from the couch and straightened his shirt, he should shower before dinner. Their reservations were for 8:00, and he wanted to be there first. If he left now, he could be at the restaurant by 7:45. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "gone home by now",
+          "comment": "But he did clock that no one was there, right? ",
+          "context_left": "everyone would have ",
+          "context_right": ". Really, he should "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Their reservations ",
+          "comment": "I’m interested that there’s a “they” in this story. Perhaps we could be introduced to whomever this other person is earlier? ",
+          "context_left": "ower before dinner. ",
+          "context_right": "were for 8:00, and h"
+        }
+      ]
+    },
+    {
+      "body": "He rang the place—Zephyr or Sulphur or something—on his way to the car but got no response. Blaming the garage’s reception and frustrated by the chill air, he turned on the heat and drove home in a huff. The lights inside the office, motion-activated by his exit, remained on for a few minutes before shutting off in resigned silence. On his desk, his lamp continued to burn.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Zephyr or Sulphur or something",
+          "comment": "Made me laugh",
+          "context_left": "He rang the place—",
+          "context_right": "—on his way to the c"
+        }
+      ]
+    },
+    {
+      "body": "Waiting at a long red light, he dug his phone out of his pocket and messaged the others. As he had set the reservation, he felt that should be the one to share the address. The light turned green before anyone responded. There was still no response when he arrived at home—but he had forgotten by then.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "but he had forgotten by then.",
+          "comment": "Why? ",
+          "context_left": " he arrived at home—",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "He made it to Aguila at 7:43, grinning from ear to ear. Turning off the Apollo and leaving his keys on the seat, he made his way inside and was pleased to find the place emptier than he had expected. Still, he waited patiently at the ‘Please wait to be seated’ sign.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sign",
+          "comment": "The story has a bit of stagnancy now — you’ve established that this guy does not get it, and the narrator is sticking very closely to his POV, so we don’t get to “enjoy” the dying world outside of his not getting it. ",
+          "context_left": " wait to be seated’ ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "He had realized, after his father had passed and he’d taken over, that he quite liked the sound of the family name coming from his own mouth. There was a resonance, a silent strength. The host would come to their post any second now, ask for his name, and hear it without realizing the sheer immensity of that name’s contribution to this city, this country, this world. He clasped his hands behind his back and waited, proud of his own patience—he did not need to wait, but it was an impressive thing to do.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "do",
+          "comment": "This moment, and its immense self-regard, registered for me. ",
+          "context_left": "impressive thing to ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "All of the tables were bare except for their black tablecloth shrouds. In the back, plates and silverware sat neatly organized for the morning. In the kitchen, the only sound came from the still-running walk-in refrigerator. The gas stove stood cold and unmanned. Only in the dining room had the motion-sensor lights come on.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "on",
+          "comment": "Exactly as I expected. ",
+          "context_left": "rouds. In the back, plates and silverware sat neatly organized for the morning. In the kitchen, the ",
+          "context_right": "ly sound came from the still-running walk-in refrigerator. The gas stove stood cold and unmanned. On"
+        }
+      ]
+    },
+    {
+      "body": "Still in the entryway, he checked his watch with mounting frustration. The face read 7:52. If no one came to help, he’d have to suffer his guests’ questions about the menu and perhaps—he shuddered—someone else would pick the wine. He swore under his breath and leaned over the host’s stand as if he would find the worker crouched behind it, giggling. There was no one there. No one was there.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wine. ",
+          "comment": "This does seem to be a really impossible level of delusion. ",
+          "context_left": "else would pick the ",
+          "context_right": "He swore under his b"
+        }
+      ]
+    },
+    {
+      "body": "“Hello?” He called into the restaurant. “Hello, I have a reservation?” There was no response. He did not move from his place in the entryway (why would he? No one had even taken his coat) but continued to call. He gave his reservation time, how many were in his party, his name.",
+      "annotations": []
+    },
+    {
+      "body": "No response.",
+      "annotations": []
+    },
+    {
+      "body": "An uneasy feeling settled in his stomach. Someone here was not doing their job. He reiterated that he had five guests coming to no avail, and then remembered that his guests would indeed be there momentarily. Checking the watch again—7:55—he poked his head outside the front door and looked for any sign of new arrivals.",
+      "annotations": []
+    },
+    {
+      "body": "In the darkness, he could not make out much other than the empty street and his car—waiting exactly where he had left it. That queasy, anxious feeling grew stronger. Stepping back inside the restaurant, he felt something which he had not experienced in many years. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "experienced in many years. ",
+          "comment": "I’m so happy that this moment finally arrived! It’s a bit of narrative convenience but yay, it’s here. ",
+          "context_left": "ng which he had not ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Once, when touring the deck of a drill with his father—this was some years ago, when the sun had shone brightly in his eyes—he had fallen seasick. Father had continued with the tour, leaving him behind to “get it out of the system”. ",
+      "annotations": []
+    },
+    {
+      "body": "Leaned over the rail, spitting bile into the waves, he had (for the first time in his life) truly looked into the water. It was moving and murky, not to mention far below the platform he stood on, but he felt without comprehension the full depth of the sea below. Unbidden, the idea of sinking had filled him, and he’d backed away from the view, trying to suppress the image of slipping into the dark. Failing to drown out his imagination, he’d opted to vomit onto the deck itself. ",
+      "annotations": []
+    },
+    {
+      "body": "Standing now in the restaurant, he cast around for anything to pull his thoughts from those depths. There was a bell on the counter which, when he pounded on it, made a futile little chime. He did not advance past the host’s stand but stared wildly across the dining room, which seemed to elongate before his eyes, transforming into a vast expanse. He gripped the podium and bellowed out his name again. It did not echo around the desolate room. ",
+      "annotations": []
+    },
+    {
+      "body": "“…eight o’clock,” he said, in a tone surpassing plaintive, “table for six.” His watch read 8:09. With a feeble voice, he called his name out one last time. In response, the automatic lights in the dining room clicked off, submerging him in the dark.",
+      "annotations": []
+    },
+    {
+      "body": "He fled Aguila, flung himself into the Apollo, and tore off across the city. The sound of the engine screaming cut through the numb hush that had settled like snowdrifts in the streets of Houston. He was no longer the charioteer, nor the captain, he was only a panicked boy trying to remember how to swim. ",
+      "annotations": []
+    },
+    {
+      "body": "From above, Phaethon HQ looked like a vortex shining in a murky sea. A pair of headlights—little more than a speck—swirled gently deeper and deeper until, all at once, they were swallowed completely. The End",
+      "annotations": [
+      ]
+    }
+  ],
+  "annotations":
+  [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Maverick, there’s a lot to like in this draft. I appreciated the care you took with your word choice and the evocation of a world without the sun (and apparently, without people?). It’s spooky and thought-provoking. As I mentioned in my notes throughout, the story probably takes longer than you really want to get to the climactic action. When we finally do see your main character spiral, it’s quite effective, but the few pages before make the same point and ask us to buy that he’s completely unaware of the world around him (like, wouldn’t it be *cold*??) for an entire day. There are solutions — maybe it’s a breakfast meeting? — and things to think about — maybe it’s a day that he has reason to not take in what’s going on around him (or rather, not going on around him), like an anniversary or the day before a launch, etc? But right now, it’s not until he starts asking for his table that we see him want anything, so that’s when the story really begins. Now, from my long experience in teaching fiction writing, I can tell you that many of your classmates will want to know the *why* here — what has happened to the world, especially since you begin with the intriguing notion that he killed the sun (an idea you never quite come back to, alas). For me, that’s of interest but I’m more concerned about whether that knowledge would meaningfully shape the conflict in some way. Would it? Do you know what has happened? Or is it just the evocation of a world in decline that is of interest to you here? That said, I do wonder where all the bodies of everyone else are. Happy revising!"
+    }
+  ]
+}

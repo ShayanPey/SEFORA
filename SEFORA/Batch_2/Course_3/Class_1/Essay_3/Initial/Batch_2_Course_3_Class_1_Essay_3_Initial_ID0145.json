@@ -1,0 +1,252 @@
+{
+  "paragraphs": [
+    {
+      "body": "“The WishMaker”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "WishMaker",
+          "comment": "I like the vaguely technical feel of this title. ",
+          "context_left": "“The ",
+          "context_right": "”"
+        }
+      ]
+    },
+    {
+      "body": "\tIt was report card day. Nicole stuffed her card into her back pocket, hoping it would disappear. She walked into her front door after school and crept up the stairs trying to avoid her mom. She made it halfway up before she heard her mom’s footsteps getting closer. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "footsteps",
+          "comment": "Nice opening. I already felt for Nicole. ",
+          "context_left": "she heard her mom’s ",
+          "context_right": " getting closer. "
+        }
+      ]
+    },
+    {
+      "body": "\t“How was school today sweetie?” her mom asked. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“It was good, nothing crazy happened,” Nicole replied plainly. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "plainly. ",
+          "comment": "You don’t need the adverb — doesn’t help you. ",
+          "context_left": "ed,” Nicole replied ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“So, did you get that report card back yet?” she asked. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Umm. No, not yet” Nicole said looking down at her feet. ",
+      "annotations": []
+    },
+    {
+      "body": "\tHer mom scowled and said, “That is interesting cause your teacher just emailed me that they were sent home today.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "today",
+          "comment": "The mom is a little passive-aggressive! ",
+          "context_left": "they were sent home ",
+          "context_right": ".” "
+        }
+      ]
+    },
+    {
+      "body": "Nicole’s heart dropped. She knew she was in trouble. She said she forgot and handed her mom the crumbled-up report card. Her mom unfolded the paper, and an immediate frown hit her face. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Ni",
+          "comment": "I’m breaking the paragraph because, as we discussed in class, you want to give each line of dialogue its own paragraph. Please make sure you’ve formatted this correctly in your final portfolio! ",
+          "context_left": "",
+          "context_right": "cole’s heart dropped"
+        }
+      ]
+    },
+    {
+      "body": "\t“So not only did you lie to me about getting your report card today, but you got three C’s? You are grounded. No going out” her mom yelled angrily in her direction. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "going out” her mom yelled angrily ",
+          "comment": "Fix formatting. I wonder if we could get a sense of Lauren’s party as important earlier. Maybe Nicole specifically hides the report card because of that? I also wondered if you wanted to expand the conversation between the mom and Nicole? Because we don’t learn a lot about them — just yelling. ",
+          "context_left": "ou are grounded. No ",
+          "context_right": "in her direction. "
+        }
+      ]
+    },
+    {
+      "body": "\tNicole pleaded, “Please, mom!! It’s Lauren’s birthday party tonight, and I have to go. Everyone is going to be there.\"",
+      "annotations": []
+    },
+    {
+      "body": "\t“Absolutely not! Go to your room, and we will talk about this later,” her mom scolded. ",
+      "annotations": []
+    },
+    {
+      "body": "\tNicole slammed the door of her room, furious with her mom. She texted Lauren, “Can’t make it tonight. My mom grounded me.” Lauren replied instantly, “Just sneak out!” The idea crossed Nicole’s mind. The party was at an arcade a 15-minute walk away, so she definitely could. The clock struck 8 pm, and Nicole decided to brave it. She jumped out of her window and shimmied down the tree next to her room. She got to the arcade and began walking around playing games with her friends. She used the $20 she stole from her moms purse to buy them tickets. After several rounds of skeeball, the girls migrated to a weird-looking machine in the back corner. It was covered in dust and said “The WishMaker” in bold letters across the top. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "could",
+          "comment": "I was thinking of Nicole as about 12 years old, but this seems older? ",
+          "context_left": ", so she definitely ",
+          "context_right": ". The clock struck 8"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "e got to the ",
+          "comment": "I get a sense of the story sort of looking for its conflict. Everything is going pretty well for Nicole — she is able to sneak out despite being grounded and even successfully steals the money. Maybe that’s because the conflict is ahead, but right now the story actually doesn’t have much in the way of stakes. Things are going okay for her. ",
+          "context_left": "next to her room. Sh",
+          "context_right": "arcade and began wal"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "letters",
+          "comment": "This is very Big (the movie) coded. I wonder if we can get here faster. ",
+          "context_left": " WishMaker” in bold ",
+          "context_right": " across the top. "
+        }
+      ]
+    },
+    {
+      "body": "\t“It’s only one ticket; we might as well try it, right?” Nicole said, slipping one ticket into the machine. It glowed instantly, causing the girls to jump a little. A piece of paper shot out of the machine that said, “You have one wish. Choose wisely.” Nicole thought to herself what she wanted most in life. She thought back to her mom and how suffocated she felt around her. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "felt around her. ",
+          "comment": "This doesn’t make a ton of sense yet since she was able to successfully sneak out. Maybe if we saw more of the conversation with the mom? ",
+          "context_left": " how suffocated she ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tNicole finally decided and said, “I wish to be grown-up.” Right after the words leave her mouth, another ticket shoots out of the machine. It said, “Wish granted.” Nicole showed her friends, and they all laughed. She put the ticket in her pocket. After lots of games, Nicole crept back into her house using the spare key. Nicole figured she would explain everything to her mom the next morning. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "spare key. ",
+          "comment": "I wondered how she got out. But why does she need the spare key? Doesn’t she have one? ",
+          "context_left": "her house using the ",
+          "context_right": "Nicole figured she w"
+        }
+      ]
+    },
+    {
+      "body": "\tNicole woke up and immediately outstretched her hand to her phone. She checked the time, which said nine thirty-four am, and thought she should probably head downstairs and face her punishment. She stood up out of bed and looked down to see her legs looked longer than usual. She raced to the mirror and was greeted with a fully grown woman staring back at her. She almost didn’t recognize herself. Her hair was 5 inches longer; she had grown by 3 inches, and she even had some wrinkles on her face. Her pajamas were extremely small on her now, hugging her body uncomfortably. Nicole was terrified, and the only thing she wanted was her mom. She opened the bedroom door and navigated to her mom’s room. She slightly cracked open the door to see her mom wasn’t there. She was in the kitchen making breakfast. Nicole took this opportunity to raid her mom’s closet, finding some properly fitting clothes. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "men",
+          "comment": "Just pointing out that this is, like, the first 5 minutes of a 2 hour movie! And you only have used 2 more pages. So probably the story you’re telling is too big for this format. ",
+          "context_left": " and face her punish",
+          "context_right": "t. She stood up out "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "clothes",
+          "comment": "You have two slightly contradictory impulses here. We’re told that all she wants is her mom, but she takes the time to get different clothes. ",
+          "context_left": "me properly fitting ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tShe slipped on an old t-shirt, some sweatpants, and sneakers she managed to find in her mom’s room. After this, she went downstairs to explain everything to her mom. She walked into the kitchen and sat at the counter, her mom facing away doing dishes in the sink. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hi, mom. I’m sorry about last night” Nicole said worried.",
+      "annotations": []
+    },
+    {
+      "body": "\t“You’re in big trouble, young lady. I was worried sick!” her mom flipped around and met Nicole face to face. “AHHHHH! Who are you??? Where’s my daughter??” her mom screamed. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "daughter",
+          "comment": "I think you have to decide if she’s truly unrecognizable (as the mom seems to react) or just older (as she is described). ",
+          "context_left": "e you??? Where’s my ",
+          "context_right": "??” her mom screamed"
+        }
+      ]
+    },
+    {
+      "body": "\t“Mom, it’s me. It’s Nicole. I don’t know what happened. I made a wish on a machine, and now I look like this. Please believe me,” Nicole pleaded, sobbing to her mom. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“If you have my daughter, please just bring her home!!” her mom yelled, tears in her eyes. She picked up the phone and dialed 911. She crouched in the corner, staring at Nicole as if she was a stranger. Nicole knew nothing she could say could fix this. She bolted to the front door and took off in the direction of the park. She needed to think over her options. She sat on a park bench, crying her eyes out. The machine. It was all the machine’s fault. She needed to find this machine and reverse her wish. ",
+      "annotations": []
+    },
+    {
+      "body": "\tNicole walked to the arcade to find the WishMaker. She walked in the doors and headed straight to the back corner where she last saw it. Nothing. She walked around the entire arcade, searching with no luck. Her last effort was to ask an employee. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hi! I was wondering if you had a machine called “The WishMaker?” I was just here last night and played it.” Nicole asked the worker at the front desk.",
+      "annotations": []
+    },
+    {
+      "body": "\tThe employee gave her a confused look, “Uhhhh, let me ask my boss. One second.” He disappeared for a few minutes only to return and say, “Sorry, he has never heard of this machine. Said we never had a game called that.” Nicole’s heart raced, she knew it was there last night. Where could it have gone? ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Do you know where a game with that name would be?” Nicole asked. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Let me look it up for you. Hold on.” He disappeared for another five minutes and returned with a piece of paper and an address. “I think there is one at this mall. I have the address here for you. Good luck.” Nicole smiled and thanked him, and raced out the door. The bus would take her near the mall, so she waited at the stop. Hours passed, and finally, a big green bus pulled up next to her. She snuck on, avoiding the bus driver because all she had were the clothes she stole from her mom. Her journey finally ended at the mall, where she began searching for the machine.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you",
+          "comment": "This complication seems a little unnecessary — what does the story gain from her having to go tot he mall? ",
+          "context_left": "\t“Let me look it up for ",
+          "context_right": ". Hold on.” He disappeared for another five minutes and returned with a piece of paper and an addres"
+        }
+      ]
+    },
+    {
+      "body": " She searched and searched until she finally stumbled across the machine with big, bold letters that said, “The WishMaker.” It did exist. She ran up to the machine and realized she needed tickets. She saw a group of people standing far away from their tickets and took this opportunity to steal one. She had to do whatever it took to get this wish reversed. She stuck one ticket into the machine; it immediately lit up, and a paper shot out that said, “You have one wish. Choose wisely.” ",
+      "annotations": []
+    },
+    {
+      "body": "Nicole took a deep breath and closed her eyes, “I wish to be sixteen again.” Another ticket shoots out of the machine that reads, “Wish Granted.” ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Hi Jayden, I love a Big style plot and you used many of the key aspects of it well here. The plot you’ve chosen is far too big for four pages, though — that’s why movie versions are 2+ hours!More importantly, I don’t see a lot of character development here — the conflict is not really arising from, nor resolved by, the character. She makes and gets a wish, but then we don’t really see her grapple with what getting her wish means. And then she resolves it quickly, without an opportunity for us to see how she changed or grew from her experience. So. I would focus on one aspect of the story in a scene or two. What do you want to show us about Nicole? You could possibly begin with her waking up, older, and show us that scene with her mom. Or she could start at the amusement park making her wish — but allow us to see her dealing with the fallout of that. Your draft is short — you have room for more, but not enough to get a whole film into 8 pages. So! Recalibrate. What shorter story do you want to tell here? What journey should we go on with Nicole?Thanks and happy drafting!"
+    }
+  ]
+}

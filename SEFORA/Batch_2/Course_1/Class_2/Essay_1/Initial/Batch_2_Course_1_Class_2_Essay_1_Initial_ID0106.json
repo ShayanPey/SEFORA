@@ -1,0 +1,125 @@
+{
+  "paragraphs": [
+    {
+      "body": "NVIDIA and Apple NVIDIA is a company that produces GPUs (graphics cards), which are components found in computers that help with gaming, 3D rendering, AI language model training, video editing, and more. With the recent boom in AI, AI startup companies require graphics cards in bulk. Since NVIDIA is the only company that makes cards good enough for this market, NVIDIA’s stock soared to become one of the biggest in the world. Their focus shifted from making cards designated towards gamers to cards made for AI-related workloads, and this was abundantly clear in the new generation of cards NVIDIA recently released.",
+      "annotations": []
+    },
+    {
+      "body": "Gamers Nexus is a company that reviews PC hardware and covers PC-related news. Having more than 2 million subscribers on YouTube, they are well known within the PC enthusiast community. They’ve been around for a long time and have proven to provide accurate information regarding the performance of PC components to their main audience (gamers). Recently, Gamers Nexus has covered the launch of NVIDIA’s 50 series of cards, including the RTX 5080.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "This first page reads mostly like a report  on, and review of, different graphic cards. What are you summarizing exactly? And how much of this information do you need to \"point\" your reader to what's really at the heart of this essay? Let's talk about the art of summary. :)",
+          "context_left": "cently, Gamers Nexus has covered the launch of NVIDIA’s 50 series of cards, including the RTX 5080.",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "Also, try using our summary templates and moves to make it clear who and what information is summary for the purposes of your essay.",
+          "context_left": "cently, Gamers Nexus has covered the launch of NVIDIA’s 50 series of cards, including the RTX 5080.",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The RTX 5080 has been considered by Gamers Nexus (and most third-party reviewers) to be a paper launch. This means that NVIDIA produced very few cards, which resulted in stores selling out in literally 30 minutes to an hour. This is a scummy business practice that is done to please shareholders and to deceive the average consumer by making the card look popular since it is sold out when in reality it is simply due to low supply. Historically, paper launches of GPUs led to increased prices of previous generations as well as current generation cards being both out of stock constantly and horrendously priced due to scalpers (scalpers are people who set up bots to instantly purchase new products in bulk, then resell them with an outrageous markup. When there is very little supply of a product, this becomes a problem as consumers don’t have other options).",
+      "annotations": []
+    },
+    {
+      "body": "Ignoring the low supply of the 5080 and looking purely at the card itself, it has proven to be a disappointingly low improvement over its last-generation counterpart, the 4080 super. As “NVIDIA GeForce RTX 5080 review” by Gamers Nexus points out, “The 5080 is a relatively boring uplift over the 4080, unfortunately. This must be why NVIDIA has pushed MFG so hard” (Note: MFG stands for Multi-Frame generation. I will go more in-depth on what this is later). Despite the 50 series of cards using a brand new architecture called “Blackwell architecture” by NVIDIA, they cannot seem to significantly improve their latest generation. While testing the 5080 versus its previous-gen counterparts as well as some competitors, Gamers Nexus found the 5080 to be on par with some of its cheaper competition and only 10-20% better than the 4080 super. NVIDIA knew that people wouldn’t be happy about the lackluster improvements, so the marketing surrounding the 5080 (and all 50 series cards) was entirely spent highlighting new upscaling technologies, those being DLSS 4 and MFG. DLSS 4 (deep learning super sampling) is the 4th version of DLSS, it renders games at lower resolutions and then uses AI to predict what the game should look like at higher resolutions. The result is getting better performance at the cost of more input lag as well as some graphical glitches. MFG is similar, but it creates “AI frames” that increase the frame rate of the games you play, at the cost of significant input lag. Due to NVIDIA using these technologies to justify their ridiculous prices and create deceiving marketing, most consumers are not huge fans of these technologies. I can speak from personal experience that Frame generation (the lesser version of MFG) had a ton of input lag and made playing games not enjoyable.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "don't forget quote burger explaining templates!",
+          "context_left": "e in-depth on what this is later).",
+          "context_right": " Despite the 50 seri"
+        },
+        {
+          "type": "note",
+          "comment": "This is still report and review. Remember that we're not writing reports :). Rather, use your resource and summary simply as the \"spark\" to get to what's really at the heart of your essay. Your voice, your experience, your ideas are the most important part of this essay.",
+          "context_left": "generation (the lesser version of MFG) had a ton of input lag and made playing games not enjoyable.",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The one thing the 5080 did right was power efficiency. Again in Gamers Nexus review, they highlight, “Final Fantasy 14 at 4K had the RTX 5080 at the top of the chart for efficiency. Comparatively, this is a great result.” Especially in the US, most consumers are more concerned with the performance compared to the price of the card. However, in countries or just anywhere where electricity is a lot more expensive, having more efficient electronics becomes imperative to avoid $500+ electricity bills. For people in such situations, it might make sense to buy a card like this.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "again, don't forget those quote burger templates!",
+          "context_left": "is a great result.” ",
+          "context_right": "Especially in the US, most c"
+        }
+      ]
+    },
+    {
+      "body": "In middle school when I got my first “phone” (it was an iPod), I was super thankful, as a lot of my classmates have had one for a long time. I’ve had a few replacements every 5 years or so, and so has my family. One thing has remained consistent for every phone me and my family have gotten: they were all iPhones (or at least made by Apple).",
+      "annotations": []
+    },
+    {
+      "body": "Ever since I got into PC hardware as a hobby, I’ve also learned a few things about the hardware inside of phones. About 2 years ago, I had an iPhone 7 along with most of my family, and my mom decided it was time for us to upgrade. When I heard about this, I chimed in and suggested that maybe we should consider getting an Android or some other phone made by a different company. My sister was close by and heard my suggestion, in response she said something along the lines of “Ew, who would ever want to get an android? Those are terrible!”. I caved and we all ended up getting iPhone 14s. One day I was curious about the hardware inside of my iPhone 14, and how it compares to other iPhones. As it turns out, the only discernable difference between the iPhone14 and iPhone13 was the camera, and it even does some things worse like not having a SIM card tray.",
+      "annotations": []
+    },
+    {
+      "body": "Seeing this lack of innovation, you may ask yourself “Why do consumers buy this crap?” Indeed, that is what I was asking myself, thinking of the hundreds of thousands of people who fork over nearly $1,000 every time a new generation of phones comes out. I then remembered back to how dogmatically against Androids my sister was. Despite my vastly superior knowledge of technical hardware, she would not budge. This phenomenon is well known, and it’s called brand loyalty. Instead of consumers looking at all of their options from a logical standpoint, they stick to one brand and no matter how shitty the product is, the consumers will buy it. Why? Simply because research requires brain power and time. Your average consumer does not want to or can’t pour hours into learning the intricacies of a given product and then researching how different options compare.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This phenomenon is well known, and it’s called brand loyalty. Instead of consumers looking at all of their options from a logical standpoint, they stick to one brand and no matter how shitty the product is, the consumers will buy it. Why?",
+          "comment": "This is interesting. How might \"brand loyalty\" impact other aspects of life? Does it? How has it impacted you?",
+          "context_left": "he would not budge. ",
+          "context_right": " Simply because rese"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Seeing this lack of innovation, you may ask yourself “Why do consumers buy this crap?” Indeed, that is what I was asking myself, thinking of the hundreds of thousands of people who fork over nearly $1,000 every time a new generation of phones comes out.",
+          "comment": "This is a moment of heat and energy. Let's explore it!",
+          "context_left": "",
+          "context_right": " I then remembered b"
+        }
+      ]
+    },
+    {
+      "body": "Apple is by far the most popular example of brand loyalty, and even I am technically a victim of it. Despite other companies offering better or on-par products, Apple still manages to outcompete them all due to taking advantage of its loyal customers. Another popular example of brand loyalty is NVIDIA. The launch of the 5080, despite all its flaws and disappointments, saw almost all of its supply selling out (while it's true that 5080s being sold out is due to low supply and not incredibly high demand, even if the supply was large it’s likely NVIDIA would still sell a ton of them). NVIDIA’s rise to becoming a tech giant is parallel to Apple, both companies made great products at first, then using their reputation they are able to coast and beat out their competitors while churning out subpar products.",
+      "annotations": []
+    },
+    {
+      "body": "There are countless examples of companies who, intentionally or unintentionally, abuse the brand loyalty that their customers have. Brand loyalty, as we have seen with iPhones and NVIDIA GPUs leads to overpricing and a lack of innovation, both of which negatively impact the consumer experience. That being said, I can sit here all day and complain about how companies take advantage of us but at the end of the day, it's the consumers who perpetuate this phenomenon. So what can you as a consumer, whether it be phones, GPUs, or some other product do to prevent yourself from falling into this trap? There is the obvious answer of doing your research before buying, but asking people to do that for everything they buy is unrealistic, as research requires a lot of time. If you are willing to like I am, that’s the best solution but I believe there is a better one for the average person: don’t replace your product every generation. A lot of people, myself included, already do this, but there are even more people who buy every new generation as I mentioned with iPhones earlier. If you wait 3,4 or even 5 generations before buying a new product, whatever new product you get will be a big improvement over what you had previously even if what you got isn’t a big difference from the previous generation. Another potential solution is when you get a new product, don’t get rid of your old one. Compare the two, whether it be side by side or back to back. If you can’t find a difference that matters to you, take note and either return your new product or just keep that in mind for when the next generation comes around. We can’t all be experts in everything, but it is our duty as customers to keep these companies in check, as you deserve their best.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "as you ",
+          "comment": "Who _is_ your audience, here? What is your essay's purpose? How does your answer the \"so what\" question for your reader? Let's explore :)",
+          "context_left": "companies in check, ",
+          "context_right": "deserve their best."
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "That being said, I can sit here all day and complain about how companies take advantage of us but at the end of the day, it's the consumers who perpetuate this phenomenon.",
+          "comment": "More heat and energy, here. More to talk about!",
+          "context_left": "onsumer experience. ",
+          "context_right": " So what can you as "
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Summary": 11.0,
+        "Response": 23.0,
+        "Concrete and specific details and examples": 16.0,
+        "Integrating quotes": 12.0,
+        "Effective rhetorical choice and effect": 8.0,
+        "Effective images": 0.0,
+        "Total": 70.0
+      },
+      "comment": "You have a lot of great material to work with, here--so many moments of heat and friction. I see your central focusing idea developing as well, which is great. For development, let's talk about: ~this essay's prompt, which asks you to develop big ideas based on your own life, experiences, and ideas. ~audience/purpose. How does this essay address the \"so what\" question? ~ try using summary moves and templates, and the _art_ of summary. ~and don't forget quotes and quote burger templates! ~also, what images should you include?"
+    }
+  ]}

@@ -1,0 +1,239 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Body of the Deer",
+      "annotations": []
+    },
+    {
+      "body": "Chapter 2",
+      "annotations": []
+    },
+    {
+      "body": "Arty knelt down by the small fire tending to the flames, fanning them larger before placing another small log in the heat. The sun rested upon the horizon, nestled between two soft, rolling hills which held the great orange ball from rolling away. The warmth scraped the snow away, which was mostly gone from the weakly green plain in front of the boy, but a cold chill was still creeping just beyond the border of the trees. Arty placed a flat, thin rock on the fire, and after waiting not too long, tossed a pinch of snow onto it, which popped and hissed, jumping off the scorching stone. Arty placed a sloppily cut hunk of venison on the stone, the flesh screaming as it was seared. He thought about bread and fruit, and almost wished he could put some sort of seasonings on the meat before shaking off the thought, angry at his own greediness. He finished cooking the venison and immediately began eating, the thoughts of improving his meal washed away as the warm, savory flavor flooded his senses. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "away",
+          "comment": "Lovely imagery. ",
+          "context_left": " the horizon, nestled between two soft, rolling hills which held the great orange ball from rolling ",
+          "context_right": ". The warmth scraped the snow away, which was mostly gone from the weakly green plain in front of th"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "away",
+          "comment": "I felt really contented reading this. ",
+          "context_left": " the horizon, nestled between two soft, rolling hills which held the great orange ball from rolling ",
+          "context_right": ". The warmth scraped the snow away, which was mostly gone from the weakly green plain in front of th"
+        }
+      ]
+    },
+    {
+      "body": "His mind wandered back to the night before, his wild hunger forcing him to tear away at the animal’s raw flesh. He stood over the carcass; the dim light of the moon made the boy look nearly inhuman. He squatted in the snow, his hands stained black. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "hunger",
+          "comment": "Slightly confusing — maybe “the night before, when his wild hunger had forced him…” so it’s clear this is a memory? ",
+          "context_left": "ht before, his wild ",
+          "context_right": " forcing him to tear"
+        }
+      ]
+    },
+    {
+      "body": "Arty shook the thought out of his head, disgusted by the brutal ravaging of the night before. He had passed out under the cliff overhang, exhausted both physically and mentally from the result of his hunt. In the morning, he uncovered the body which had been preserved by a fresh layer of snow, and cut off hunks, coating them in salt as his mother taught him to and placing them in his bag. As he started to walk on, Arty paused for a moment, his gaze floating back to the once animated body, desecrated by his hand. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "coating them in salt ",
+          "comment": "How does he have that much salt? ",
+          "context_left": " and cut off hunks, ",
+          "context_right": "as his mother taught"
+        }
+      ]
+    },
+    {
+      "body": "“Thank —” Arty’s voice caught, a weak rasp. He tried again. “Thank you —um …friend. I — thanks.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Thank",
+          "comment": "I wondered if this is a ritual his father taught him, perhaps? Or is there something special about this deer that compelled him to say it? ",
+          "context_left": "“",
+          "context_right": " —” Arty’s voice caught, a weak rasp. He tried again. “Thank you —um …friend. I — thanks.”"
+        }
+      ]
+    },
+    {
+      "body": "Arty’s cheeks were cold— and wet. He reached a hand up to the side of his face and realized there were tears in his eyes. He stepped back over to the body, unsheathing his father’s blade and holding on to the end of one of the small, protruding antlers. In one motion, he swung… once… twice… jerking forward as he chopped through. He placed the piece in his bag.",
+      "annotations": []
+    },
+    {
+      "body": "“Stay with me. I’ll—” Arty pause for some time, unsure of what to promise. “—Honor you. I’ll honor you,” He finished.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "finished",
+          "comment": "This is a complex but lovely moment. Again, I’d like to see some tie back to the parents he misses so much. ",
+          "context_left": "I’ll honor you,” He ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tArty had almost reached the top of the hill, hoping the village would be close within his view. As he reached the top, he looked frantically, side to side, until, far in the distance, he saw smoke rising from a fuzzy cluster of buildings, which could only be his destination. His brow furrowed, and his attention shifted to the foreground where a dirt road stretched out, winding towards the village. Arty remembered his father’s warning just a few days ago.",
+      "annotations": []
+    },
+    {
+      "body": "\tGo to the woods. The roads won’t be safe, they can spot you easily and you will be easier to follow.",
+      "annotations": []
+    },
+    {
+      "body": "\tArty hesitated, fearing his father’s words, but his train of thought was interrupted as the snort of a horse came from nearby. Fear shot up his spine, his aching muscles tensed to run, but the crunches and creaks of wooden wheels announced the arrival of what looked to be an old merchant cart. An older, weathered man sat at the front of the cart driving two horses, the reign laying loosely in his hand. A large, stitched-together sheet of animal hides stretched out over the back of the cart, uneven lumps protruding out each angle. Arty looked between the cart and the city, hesitantly stepping forward, when the man called out.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Ho! Boy, c’mere,” the man croaked out. “Whoa, whoa.”",
+      "annotations": []
+    },
+    {
+      "body": "\tHe brought the horses to a stop in front Arty and waved the boy over.",
+      "annotations": []
+    },
+    {
+      "body": "\t“What’re you doing out here, boy? Where’s your father? What happened to you?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Where’s your father? ",
+          "comment": "I found this to be a strange thing to ask. Maybe, where are your people or are you all alone? ",
+          "context_left": "oing out here, boy? ",
+          "context_right": "What happened to you"
+        }
+      ]
+    },
+    {
+      "body": "\tArty realized he must’ve looked grim, there was little color left in his face, his clothes had been worn and stained with blood.",
+      "annotations": []
+    },
+    {
+      "body": "\t“I— he’s gone,” Arty was barely able to spit the words out, a lump forming in his throat.",
+      "annotations": []
+    },
+    {
+      "body": "\tThe air became still, and the man grunted, then nodded. He grabbed Arty by the collar and lifted him onto the cart beside him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "grunted, then nodded",
+          "comment": "Is it common for fathers to be killed like this in this world? I was surprised the merchant doesn’t really have anything else to say. ",
+          "context_left": " still, and the man ",
+          "context_right": ". He grabbed Arty by"
+        }
+      ]
+    },
+    {
+      "body": "\t“You’re heading towards the village, right?” The man’s voice was softer now.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the village",
+          "comment": "Put village name here",
+          "context_left": "’re heading towards ",
+          "context_right": ", right?” The man’s "
+        }
+      ]
+    },
+    {
+      "body": "Arty couldn’t get any more words out. He nodded. Arty stared forward in silence as the cart jolted forward and rocked back and forth on the path. In the silence his mind wandered to nights before. His face felt wet again. His hand felt a droplet. Arty sniffed, wiped his eyes, and looked away. He wanted to seem brave and strong, like the big kids, his emotions welled inside of him once more. He felt like a baby, he wanted to crawl into his bed, he wanted his mama’s arms wrapped around him. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him",
+          "comment": "I think some sort of conversation here would be helpful. ",
+          "context_left": "d looked away. He wanted to seem brave and strong, like the big kids, his emotions welled inside of ",
+          "context_right": " once more. He felt like a baby, he wanted to crawl into his bed, he wanted his mama’s arms wrapped "
+        }
+      ]
+    },
+    {
+      "body": "Approaching [village name], Arty began to see differences between his home and this new place. It was grimier and more rundown, the streets thick mud from the melted snow. The old man nodded to people as they drove by, clearly a familiar face. Some gave puzzled looks towards his new companion, but most kept their heads down. The man stopped in an open area, which was likely the town center. He hopped off the cart and began removing the animal hides from the back.",
+      "annotations": []
+    },
+    {
+      "body": "“I’m gonna have to let you go now. I got some business to get to and I can’t have no stowaways,” the man stopped for a moment. “You know who you lookin for, right?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "who",
+          "comment": "They might have some conversation earlier about whether Arty has someone to stay with or look for. ",
+          "context_left": "a moment. “You know ",
+          "context_right": " you lookin for, rig"
+        }
+      ]
+    },
+    {
+      "body": "Arty nodded.",
+      "annotations": []
+    },
+    {
+      "body": "“He’s a fur trader.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh ho, you’re looking for Piers. He’s a right mean one.” The man spat on the ground.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Piers",
+          "comment": "May be changed",
+          "context_left": " you’re looking for ",
+          "context_right": ". He’s a right mean "
+        }
+      ]
+    },
+    {
+      "body": "Don’t think he’d love to be bothered by some kid, you sure he’s who you lookin for?”",
+      "annotations": []
+    },
+    {
+      "body": "Arty nodded.",
+      "annotations": []
+    },
+    {
+      "body": "“Alright down that way,” he gestured vaguely down a street. “At the second— er, no —third road turn left. You’ll see it, there’s a sign.”",
+      "annotations": []
+    },
+    {
+      "body": "“Ok, off with you,” he waved his hand. “And um— I’m sorry kid.”",
+      "annotations": []
+    },
+    {
+      "body": "“Thanks sir.”",
+      "annotations": []
+    },
+    {
+      "body": "Arty walked down the street, following the man’s instructions, until he came across a weathered, but well-built storefront. A sign stood separate from the building, a carving depicting animal hide stretched out to dry. Arty carefully approached the door, hesitating, before slowly pushing it open.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "It’s a nice little scene but it can work harder for you. If nothing else, we readers can learn more about the world of the story/village from it. It’s a good addition to the text, Silas. As you know, you’ve got 36 pages more, so mostly, my advice is to keep going, always thinking of what this character wants."
+    }
+  ]
+}

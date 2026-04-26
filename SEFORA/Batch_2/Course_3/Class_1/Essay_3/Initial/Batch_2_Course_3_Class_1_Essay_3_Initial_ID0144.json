@@ -1,0 +1,317 @@
+{
+  "paragraphs": [
+    {
+      "body": "Right Where You Left Me",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Left",
+          "comment": "Great title. ",
+          "context_left": "Right Where You ",
+          "context_right": " Me"
+        }
+      ]
+    },
+    {
+      "body": "“Ma’am? Did you hear me?”",
+      "annotations": []
+    },
+    {
+      "body": "I snap back to the din of chatter, sizzling, and clacking of shoes on linoleum floors and realize someone is speaking to me.",
+      "annotations": []
+    },
+    {
+      "body": "“Sorry, say again please?” I reply, trying not to seem rude and hoping it hasn’t been embarrassingly long since I stopped paying attention.",
+      "annotations": []
+    },
+    {
+      "body": "“I asked if there was anything I could get you.” My eyes latch onto the person standing in front of me. The waitress is young, but still older than I was, maybe 27. Her voice sounds vaguely North Carolinian, and her overgrown roots suggest she hadn’t gotten around to getting her hair done this month. I noted a thin tan line where a ring would have been on her left hand and a worn-out nametag that read Connie.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was",
+          "comment": "I’m interested in this opening. Watch your verb tense — this is probably “I am” right? ",
+          "context_left": "“I asked if there ",
+          "context_right": " anything I could get you.” My eyes latch onto the person standing in front of me. The waitress is y"
+        }
+      ]
+    },
+    {
+      "body": "“Oh,” I pause and try to remember why I’m here. “I’ll just have a coffee for now, thanks.” ",
+      "annotations": []
+    },
+    {
+      "body": "She pockets her miniature notepad, “I’ll have that right out for you, sugar.”",
+      "annotations": []
+    },
+    {
+      "body": "I was only half-listening but catch the pet name at the end of her statement and smile. I feel like I've heard it a million times before from women like her, but it never gets old to be endeared to someone. Connie the waitress leaves, and as I begin to take in my surroundings, confusion swells around me. I am sitting in a restaurant I used to love a lifetime ago, but how did I get here? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "someone",
+          "comment": "Nice. I know that feeling. ",
+          "context_left": "d to be endeared to ",
+          "context_right": ". Connie the waitres"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "how did I get here? ",
+          "comment": "I’m a little lost here, too — is she asking this in a philosophical sense or is she genuinely confused about her surroundings? If it’s the latter, I think we probably wouldn’t learn so much about Connie unless it’s in the context of the narrator trying to ground herself. ",
+          "context_left": "a lifetime ago, but ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The harsh yellow lights and smell of cooking oil all feel familiar to me, and I can hear the food runners gossiping back and forth about the same incident they’ve been talking about for years. My table is littered with a few sharp fragments of a dish someone must have forgotten to clean up. I flip one of the larger pieces over in my hands and watch a couple sitting at the table across from me. The man’s back is to me, but I notice him reach for his pregnant wife’s hand and squeeze it three times. I begin to get the sense I’ve been staring too long, so I turn my attention to the sticky, laminated menu. While examining 150 different iterations of eggs, meat, and toast, I fiddle with the peeled edges and remember Ben poking fun at me. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the same incident ",
+          "comment": "? Incidents? Or is this a key that this setting is not normal? ",
+          "context_left": "ack and forth about ",
+          "context_right": "they’ve been talking"
+        }
+      ]
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "“You always order the same thing, why even look at the menu?” He jabs. He looked somber that day, but I couldn’t tell what had set him off. He keeps cracking his knuckles and wringing his hands, causing his skin to pull on itself and warp his forearm tattoo, an impulse I’d begged him to reconsider, but he insisted suited him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "him",
+          "comment": "I’m guessing that she is more aware of her surroundings because she’s able to conjure up these memories? ",
+          "context_left": "g, why even look at the menu?” He jabs. He looked somber that day, but I couldn’t tell what had set ",
+          "context_right": " off. He keeps cracking his knuckles and wringing his hands, causing his skin to pull on itself and "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "eeps",
+          "comment": "Again, the verb tense jabs (present) and looked (past) is confusing. ",
+          "context_left": "ad set him off. He k",
+          "context_right": " cracking his knuckl"
+        }
+      ]
+    },
+    {
+      "body": "“It’s just what you do! Maybe they added something new.” I mime looking at the menu with a magnifying glass; this place hasn’t changed since it opened, and I don’t think it ever will. My hollow attempt at a joke falls flat, but I can tell Ben’s mind is on other things. “What can I say, I’m set in my ways.” I sigh and try not to look ashamed.",
+      "annotations": []
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "That day with Ben could have been yesterday, but I don’t think it was. The waitress comes back and sets my coffee down. She looks better than before, almost glowing with happiness. Her name was onnie now, the C on her nametag having been half rubbed away. Her overgrown roots have been freshly dyed bright blonde and the hand that was holding my coffee now sparkles with a princess-cut engagement ring. Horribly confused, but attempting to be polite, I smile and congratulate her.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "yesterday",
+          "comment": "Interesting.Can we better understand why the narrator isn’t freaking out more? It’s a good idea to connect it to wanting to be polite but I wasn’t quite sure how that would be more important than, like, knowing where you are in time! ",
+          "context_left": "Ben could have been ",
+          "context_right": ", but I don’t think "
+        }
+      ]
+    },
+    {
+      "body": "“Thank you, sugar. My fiancé — goodness, how strange that feels to say—well, he proposed two days ago. I'm just beaming and my face hurts from smiling. I never thought I’d be the remarrying type, but Walker is just such a charmer. You enjoy that coffee, now.” She practically skips away from my table, admiring her ring along the way. ",
+      "annotations": []
+    },
+    {
+      "body": "How long had I been sitting in this booth? It had only felt like a few minutes, but I couldn’t explain what had just happened. The yellow overhead lights dim slightly, and I take a sip, finding my coffee cold and stale. I nearly spit it out from the surprise. It can’t be cold already; she just gave it to me. I find I’m too tired to care, so I pour three packets of sugar into it and take another sip. Memories of Ben creep into my mind again.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "happened",
+          "comment": "Here’s where I finally was able o sort of focus on her experience. ",
+          "context_left": "plain what had just ",
+          "context_right": ". The yellow overhea"
+        }
+      ]
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "“You want some coffee with your cup of sugar?” He liked his coffee black and scoffed at the idea of ruining espresso with any “unnatural” flavoring. I laughed but continued flipping through the sweetener options. ",
+      "annotations": []
+    },
+    {
+      "body": "“Hey babe, I need to talk to you about something,” he said it fast and all at once without pausing, looking down at his mug as soon as the words left his mouth. ",
+      "annotations": []
+    },
+    {
+      "body": "“What’s up?” I asked, clueless and mixing Sweet n’ Low into my mug.",
+      "annotations": []
+    },
+    {
+      "body": "“I really don’t think this is working out. I think we should stop seeing each other.” This time he is even and sure. He’s planned these words very carefully. The loudest silence roars between us. ",
+      "annotations": []
+    },
+    {
+      "body": "“Is there someone else?” I ask. I know he’s going to say no. He’ll probably say something about focusing on his career or needing time for himself right now.",
+      "annotations": []
+    },
+    {
+      "body": "“Yes. Well, not really.”",
+      "annotations": []
+    },
+    {
+      "body": "“What the hell is that supposed to mean?” I manage. I can’t believe what I’m hearing right now. Sure, Ben and I have always been very different people, but I always saw it in an “opposites attract” kind of way. ",
+      "annotations": []
+    },
+    {
+      "body": "“It’s not that there’s someone else, it’s that I’m hoping there will be. I’ve made a friend, a really good one,” He looks hopeful and genuine. It makes me feel sick to my stomach, but he continues. “One that I can talk to about things you don’t care to listen to. One who wants the same things as me. Nothing happened, obviously, but she--”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "obviously",
+          "comment": "Ouch, Ben, enough. ",
+          "context_left": ". Nothing happened, ",
+          "context_right": ", but she--”"
+        }
+      ]
+    },
+    {
+      "body": "Time stops and I feel my breath catch in my throat. I try to hold it back, not wanting to make a scene in a diner I’m a regular at, but I feel hot tears and mascara start to run down my cheeks. Ben looks mortified, a fake blonde waitress about our age shakes her head and glowers at him. ",
+      "annotations": []
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "After I’ve finished my disgusting coffee, I notice my head has started to itch. I tilt it forward to unpin my bun and gray particles rain down onto the table. I run my hands through my hair and more clouds of dust fall from it. Lint and pilling have collected on my shirt, a new one Ben had bought me a week before he left me. There’s so much dust swirling around it sends me into a coughing fit. The family at the table across from me tries to subtly shield their baby’s face from whatever germs I’m releasing. Once I finally stop, the father goes back to cutting up his daughter’s meal. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "coffee",
+          "comment": "I had trouble believing that she sat in this weird situation and drank an entire cup of coffee, just a note. ",
+          "context_left": "ished my disgusting ",
+          "context_right": ", I notice my head h"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "releasing",
+          "comment": "This is so vivid. Is she freaking out? ",
+          "context_left": " whatever germs I’m ",
+          "context_right": ". Once I finally sto"
+        }
+      ]
+    },
+    {
+      "body": "I’m close to tears and beginning to hyperventilate. I must be going crazy. Every time I look up, something about the diner is slightly different, like time is moving for everyone except me. I focus all my attention on a small cobweb on the ceiling and force myself to remember. When did I come into the restaurant today? It’s too blurry. I can’t remember. All I can remember is Ben.",
+      "annotations": []
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "“I don’t want to hurt you, that’s why I’m doing this. I just don’t want us both to waste our twenties on each other if you won’t even consider marrying me.” The last part stung the most. I had told him early on in our relationship that I never saw myself doing the whole traditional married with children thing. He seemed okay with it, occasionally joking that he could change my mind, but I never thought he was serious.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "marrying",
+          "comment": "I was confused about returning to this conversation. I think it’s the only time in the story when we move to the past but it’s continuous with a prior scene. ",
+          "context_left": "won’t even consider ",
+          "context_right": " me.” The last part "
+        }
+      ]
+    },
+    {
+      "body": "“I don’t understand.” I feel frozen and unable to speak without my voice cracking. “You’re breaking up with me just because you feel like we might potentially in ten years want different things? How does that make any sense, I thought you loved me.”",
+      "annotations": []
+    },
+    {
+      "body": "“Rose, you’ve got to get some perspective here. I know we’re young, but I’ve got to start thinking about the rest of my life. If you won’t marry me, what are we even doing here?” He reaches for my hand, but I pull it away. ",
+      "annotations": []
+    },
+    {
+      "body": "The sharp motion causes the mug in front of him to fall from the table and shatter. He picks up the biggest shards and places them haphazardly on his napkin. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "fall",
+          "comment": "I liked this callback. ",
+          "context_left": " in front of him to ",
+          "context_right": " from the table and "
+        }
+      ]
+    },
+    {
+      "body": "“Leave,” I snap. “Go move on with your life without me. See if I care.” Ben is taken aback but obliges. I put my head in my hands and try to wipe the dried mascara streaks from my face, but the bell above the door rings signaling his exit and more tears come. I don’t know how long I cried at that corner table of my favorite diner, but every time I tried to get up, I couldn’t bring myself to move.",
+      "annotations": []
+    },
+    {
+      "body": "---",
+      "annotations": []
+    },
+    {
+      "body": "I miss Ben every second, but I don’t think he misses me. After he broke my heart that day, he probably took a day or two to think about it and got on with his life. I never could have given him the life he wanted; a cookie cutter, white picket fence existence with a happy family and a pool in his backyard. He had been right to leave me, but I hadn’t been able to bring myself to leave him, or the moment I lost him forever.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "been right to leave me, but I hadn’t been able to bring myself to leave him, or the moment I lost him forever.",
+          "comment": "You don’t need to tell us this. We get it. ",
+          "context_left": "is backyard. He had ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Are you ready to go?” A man whose back is to me asks his wife and daughter. The girl looks about seven. I should feel devastated, confused, or partly insane. Instead, I sat there cross-legged and watched them leave. This time around I can see the man’s face, and his tacky forearm tattoo of a rose, now a bit faded with time. Ben got what he was looking for after all. He’s grown out his beard, and there’s the tiniest whisper of gray in it. His face is marked with smile lines from years of living the life he used to wish he could have with me. I’m dead to him. A ghost who could never bring herself to move on from the place her life fell apart.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "now",
+          "comment": "I love this reveal but I wanted her response to it. ",
+          "context_left": "m tattoo of a rose, ",
+          "context_right": " a bit faded with ti"
+        }
+      ]
+    },
+    {
+      "body": "“Ben,” I try to get his attention, but he can’t hear me. Neither can his wife and daughter. The bell rings and he’s gone again. It’s clear to me now that I will never leave this place. Ben comes back because he wants to, because the food is alright and tastes like nostalgia. I glued myself here a long time ago and missed my chance to move on. I don’t know if I’ll become myself again, but I know that Ben and his family will come back. Maybe instead of living my own life I’ll have to be content with watching theirs. No matter where he goes, I’ll still be here.",
+      "annotations": []
+    },
+    {
+      "body": "I hold back tears and shake more collected dust out of my hair as a middle-aged waitress with a faint Southern accent approaches my table.",
+      "annotations": []
+    },
+    {
+      "body": "“Is there anything I can get you, sugar?”",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I really enjoyed this, Josephine. It’s an ambitious short story and while it doesn’t entirely work yet, I really loved that about it. I felt for Rose and her sense that her life is just not working out the way she wanted, and her frustration about that. I would like to see some tweaks. For one thing, the connection between Rose and Ben doesn’t seem all that deep and I was surprised she would mourn him through time like this. She seems more startled than really upset — which is fine, but makes her lingering on a little confusing. I also wasn’t quite sure about how time is passing — I couldn’t tell if she just returns to the diner a lot (which tracks) or if something otherworldly was happening. I think either works, but you have gestures towards both in the story and it should be one or the other, I think. Is she really experiencing leaps in time or is time just jumbled for her the way it is to all of us. My last note is that I estimate Ben and Rose are about 35 by the end of the story — they seem older as you have written them. Really strong work, Josephine. I enjoyed this one a lot!"
+    }
+  ]
+}

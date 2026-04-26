@@ -1,0 +1,131 @@
+{
+  "paragraphs": [
+    {
+      "body": "I remember it like it was yesterday, A sunny day in New York City like any other. The grass was glistening after it rained, the air was humid, but the warm breeze did not let it bother me. The sun was shining bright as it slowly descends into the horizon. I look to my left, and I see the crowds of parents from both teams, cheering us on hoping we succeed. I look to my right as I see my coach demanding more from us and introducing his new on the spot instructions. I continued to look around and as I turn around and my eyes light up as the reflection of the sun shines at me from the World trade center. For a second, I stand still in awe of what’s in front of me. I was playing the beautiful game in a beautiful atmosphere. For a moment I was at peace, the muffled chanting from the parent’s was no longer audible. It truly was a euphoric moment. Unfortunately disrupted by a loud, annoying whistle blown mere feet away from me, it only meant one thing, the game has begun. I quickly turn around and face the opponents. Their charging footsteps can be heard by the way their cleats rummaging through the muddy field followed by the thud made by the ball when it’s been kicked. Reality began to sink in, but my mind was disinterested, as if I had something important to attend to right after the game. But a 14-year-old does not have that much responsibility, so I began to focus on what was happening around me. The way my teammates shouted reminded me to communicate and the speed of which the ball was played told me to get up to speed and finally my coaches yell put me in motion. I ran to my teammate and demanded the ball but unbeknownst to me my legs were in motion, but my mind was not. Every step I take all I could think about was don’t mess this up. It was louder than anything going on around me, it was so loud that I didn’t hear the charging footsteps that followed me. As I receive the ball on a half turn ready to face my opponent up and make my decision, I noticed I was too late. A decision was made before mine. A kid about twice the size of myself clattered right into me. The thud that the cleat had on my bone was more audible than anything my mind could muster. I fell to the floor in pain and agony, screaming so loud that even New Jersey was alarmed. Not long after two senior figures came rushing to my side, but I didn’t hear what they were asking me. I looked around and what I saw in the faces of the kids around me spoke louder than words could. After I arrived at the hospital I began to worry, not because my 14-year-old self could explain the gravity in of the injury medical terms. But because my mom was extremely worried and that’s unlike her. Eventually doctors rushed in full body attire, masks covering their faces and hairnet’s covering their normal look. I was pushed out of the room on my bed s quickly I thought I got kidnapped. Next thing I remember was the doctor informing my mom that the function of the leg cannot be determined yet.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "descends into",
+          "comment": "keep your verb tense consistent throughout!",
+          "context_left": "bright as it slowly ",
+          "context_right": " the horizon. I look"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Next thing I remember was the doctor informing my mom that the function of the leg cannot be determined yet.",
+          "comment": "wow.",
+          "context_left": "ht I got kidnapped. ",
+          "context_right": ""
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "even New Jersey was alarmed.",
+          "comment": "lol :)",
+          "context_left": "eaming so loud that ",
+          "context_right": " Not long after two "
+        },
+        {
+          "type": "note",
+          "comment": "Nice job starting with narrative! Excellent sensory details, too. Let's talk about how much of this narrative is necessary, however, to \"point\" your reader--in terms of both content and tone--to your essay's central focusing idea.",
+          "context_left": "from the World trade center. For a second, I stand still in awe of what’s in front of me. I was",
+          "context_right": " playing the beautif"
+        }
+      ]
+    },
+    {
+      "body": "My mother was never a fan of western medicine and much less of me wasting money. I mean you would think when you need something badly specifically for medical purposes you would get an excuse but of course that was not the case. And believe me I did not hear the end of it at home. In an aggressive tone she goes on a monologue about how I should have been more careful and that we cannot be wasting money like this. As if I was old enough to make income. At that moment the pain was so bad I didn’t even care to argue but just agreed and hoped for it to end soon. Eventually she stormed back to her room, and I was left with a tense atmosphere in the household but peace for my ears. Coming from a Hispanic family you really learn to save as much as you can and trust me you’d never forget it. The monologue she gave was her way of writing waste on my cast and money on my crutches. Nevertheless, I was happy I would be okay. Days went on and the sympathy treatment I got from my family began to decrease. So, I started to test my ability to function on my own. First, I made my own food, and even though my success rate wasn’t great it was a start. Then I walked the dog and thankfully did not lose him, but it was a defeat that after two blocks I had to turn around and cut the walk short. Lastly, I started carrying packages seemingly too big for my current functionality. Challenges were quite common those days to the point that it felt as if I needed a part time assistant. One that could do the things that were made inconvenient by my broken leg easier. It would sure have made my life easier because some of the things I could not even do if I tried. I began to grow impatient with my recovery. How could I be so useless. I felt disabled and in a sense I temporarily was. I had to abide by rules that limit my ability to function normally. But one day I had to conquer something new. An outdoor excursion to Target.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "My mother was never a fan of western medicine and much less of me wasting money.",
+          "comment": "great line. Nice voice and tone :)",
+          "context_left": "",
+          "context_right": " I mean you would th"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "much as you can and trust me you’d never forget it.",
+          "comment": "This is interesting! Is the  cultural /context something you should develop in its own big idea? Is it important to your essay's central focusing idea? If so, where should it appear in the essay?",
+          "context_left": "ly learn to save as ",
+          "context_right": " The monologue she g"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "First, I made my own food, and even though my success rate wasn’t great it was a start. Then I walked the dog and thankfully did not lose him, but it was a defeat that after two blocks I had to turn around and cut the walk short. Lastly, I started carrying packages seemingly too big for my current functionality.",
+          "comment": "Great details :) Nice voice.",
+          "context_left": "function on my own. ",
+          "context_right": " Challenges were qui"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Coming from a Hispanic family you really learn to save as",
+          "comment": "",
+          "context_left": " peace for my ears. ",
+          "context_right": " much as you can and"
+        }
+      ]
+    },
+    {
+      "body": "This adventure would really put me to the test. My first outdoor activity without anyone by my side. As I walk through the doors, I get a bit overwhelmed. Not only because I cover a lot of the entranceway causing a backup but also because I don’t know what to get a cart or a basket. I stand there awkwardly hoping no one sympathizes with me because it made me feel different. As I contemplate a decision, I see something shiny in my peripheral. A lip stick like red emphasized by the overhead light shining off its bumper. It was an in-store scooter. Suddenly, I found my choice and I scurry on over to meet my ride. As I move closer, I got a whiff of something that must have died on that seat, so I skip past the first and go to the second. Which wasn’t much better considering the massive hole on the seat. At least the third, didn’t smell great and the seat was hard, but it would do. I began the engine, and I began to move but the wheel was kind of messed up, like one of those shopping carts with the wheel that resemble the inflated mascots outside of a car dealership. Regardless I counteract the wheel left sided movements with the rightward steering. Immediately I noticed how for people who need the most help getting around they sure don’t have it easy. I continue on looking through the aisles, but countless times I didn’t get the item I wanted because I felt rushed when someone was behind me. Primarily because the scooter took up the whole aisle. I felt really uncomfortable, I just felt like I didn’t fit in. Furthermore, the stares I got were as descriptive as words can be. The way you are looked at when you cannot function like normal is one of sympathy or inadequacy. It made me feel like I was lesser even if my injury was temporary. The scooter at that point acted like a bright red sign saying I can’t function on my own. Surely my mom would have laughed. But the anxiety you get when that many people deny you any feeling of peace is terrible. I can’t imagine someone who is permanent disabled having to suffer like this on their day to day lives. Especially on a scooter, because you can hear the old run-down engine and when you reverse it sounds like a fire alarm went off. The conditions of the vehicle are uncomfortable, its dirty with stains on the seat, smells like someone used it as a bathroom and is barely big enough to fit in the aisle. Everything about my scooter is a giant reminder that I am not able to function alone. The inadequacy became too much, and I had to leave. My hands begin to tremble on the steering mechanism but all I can hear is the rundown motor that sounds ten times louder to me when you are trying to be inconspicuous. As I start booking it for the exit I hit an aisle. I felt so embarrassed and now everything was exacerbated, in my eyes the situation was dire, I either got out immediately or I’d die from an anxiety attack. My inability to function was so bad I was an inconvenience to everyone and when I left the symbol of the scooter stuck with me because in my eyes they transformed into my crutches.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "can’t imagine someone who is permanent disabled having to suffer like this on their day to day lives.",
+          "comment": "",
+          "context_left": "eace is terrible. I ",
+          "context_right": " Especially on a sco"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "The way you are looked at when you cannot function like normal is one of sympathy or inadequacy. It made me feel like I was lesser even if my injury was temporary.",
+          "comment": "Interesting moments--do these insight reveal something about what's at the heart of this essay?",
+          "context_left": "ve as words can be. ",
+          "context_right": " The scooter at that"
+        }
+      ]
+    },
+    {
+      "body": "When people use the word function, they usually talk about how effective it is. But people forget to acknowledge how no matter the ability to function there is always some function that is missing. Nothing is perfect and that’s normal, but when you can’t function on your own in our current society that makes us different. And the way people treat you shows a person in need that their different is bad. This negative connotation is symbolized through medication, scooters, crutches etc. And people cannot hide their lack of function. But the terrifying fact is that out in the world there is so many people in need that can’t function well. But in addition to the unfortunate circumstance that they find themselves in, there is people who judge, treat them different, tease and so on. There should be more care and awareness for people who cannot function on their own. They should not be treated different for any reason, no one is perfect but by experiencing both sides of the function spectrum I now notice how important it is for people who have more function than others, to offer some of theirs. The world needs more interdependence, and it all starts with you today.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "There should be more care and awareness for people who cannot function on their ",
+          "comment": "You're definitely pointing to some friction that you're noticing in the world. But who, specifically, is your audience? What, specifically, do you want them to do/feel/understand/etc. differently?Let's dig a little deeper... :)",
+          "context_left": "t, tease and so on. ",
+          "context_right": "own. They should not"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "But the terrifying fact is that out in the world there is so many people in need that can’t function well. But in addition to the unfortunate circumstance that they find themselves in, there is people who judge, treat them different, tease and so on.",
+          "comment": "",
+          "context_left": "r lack of function. ",
+          "context_right": " There should be mor"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "This essay explores/synthesizes both an \"odd object\" and a specific \"word\" to discover/reveal a meaningful \"large subject\" (the essay's central focusing idea or \"center of gravity\") with significance and purpose for an audience beyond simply the author themselves.": 15,
+        "This essay develops meaningful, well-organized, and cohesive \"big ideas\" in support of its central focusing idea.": 14,
+        "This essay includes at least one narrative paragraph. This narrative paragraph: 1. Tells a story. 2. Moves through one moment in time (isn’t a vague summary of many events or extended lengths of time). 3. Appeals to the reader with concrete, specific, and sensory details. 4. Serves an intentional, rhetorical purpose (context, discovery, revelation, resonance, metaphor, meaning, etc.).": 13,
+        "This essay includes at least one descriptive paragraph. This descriptive paragraph: 1. focuses on one object/scene without moving through time. 2. Develops using a variety of concrete and specific, sensory details. 3. Reveals/highlights/reinforces a meaningful focus/idea for the essay as a whole.": 12,
+        "This essay includes at least one definition paragraph. This definition paragraph: 1. States the specific \"word\" that the paragraph will define. 2. Defines the word using concrete and specific language. 3. Defines the word in ways that contribute to the author's intention and purpose (and is not a dictionary definition). 4. Makes connections between the word and the ideas at the heart of the essay as a whole.": 12,
+        "Make effective rhetorical choices (including, grammar, punctuation, syntax, MLA formatting, and minimum requirements as outlined by the prompt) for the essay’s audience, purpose, and writing situation.": 12
+      },
+      "comment": "So many fascinating insights and repetitions in this essay! I'm drawn to so many places of heat and energy, so many great details, and I'm particularly taken with the confidence of your voice and tone. Let's talk about the center of gravity for this essay so that we can decide which parts of this essay are necessary for your essay's purpose and which aren't. Audience is key, here, too. So let's talk about that. Also, what is the odd object?And what is the metaphor? Also, let's talk about how you can leverage your descriptive and definition paragraphs in this essay to support your essay's central focusing idea :) Well done!"
+    }
+  ]}

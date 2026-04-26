@@ -1,0 +1,175 @@
+{
+  "paragraphs": [
+    {
+      "body": "How to Use AI in Education Without Causing Harm",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "How to Use",
+          "comment": "Please add a title page before the introduction, follow the style guide of the APA 7th handout, and add page numbers to the paper.",
+          "context_left": "",
+          "context_right": " AI in Education Wit"
+        }
+      ]
+    },
+    {
+      "body": "Introduction Artificial intelligence (AI) is changing how we live, learn, and teach. In many schools today, AI tools like smart tutoring programs, automatic grading systems, and learning apps are already being used. These tools can help students learn better and give teachers more time. But not everything is good. Some people are worried that AI might replace teachers, treat students unfairly, or collect too much personal data.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Introduction",
+          "comment": "I would suggest meeting the minimum length requirement (1500 words).",
+          "context_left": "",
+          "context_right": " Artificial intellig"
+        }
+      ]
+    },
+    {
+      "body": "Some researchers, like Holmes et al. (2019), say AI can give students feedback and help them learn at their own speed. This is great for students who struggle in class. However, Selwyn (2019) reminds us that not all schools have the same access to technology. So, my research question is: How can we use AI in a fair and helpful way in schools, so that it helps all students without making things worse?",
+      "annotations": []
+    },
+    {
+      "body": "My answer is this: AI should help teachers, not replace them. Also, we need clear rules to make sure AI is used fairly and safely. And finally, we must make sure all schools can use AI, not just rich ones.",
+      "annotations": []
+    },
+    {
+      "body": "The Good Things About AI in Schools One of the biggest advantages of AI in education is personalized learning. This means students can learn in their own way and at their own pace. For example, programs like Carnegie Learning and Squirrel AI use machine learning to give students lessons that fit their level. Luckin et al. (2016) said these systems are helpful, especially for students who fall behind in regular classes.",
+      "annotations": []
+    },
+    {
+      "body": "AI can also help teachers. For example, instead of spending hours grading papers, teachers can use AI tools to check quizzes or give feedback. This saves time so teachers can focus on helping students directly.",
+      "annotations": []
+    },
+    {
+      "body": "Another big benefit is how AI helps students with disabilities. For example, it can read text out loud, change speech into text, or give extra support to students who have trouble learning (Holmes et al., 2019). This makes education more inclusive.",
+      "annotations": []
+    },
+    {
+      "body": "AI can also help teachers understand their students better. Some systems can show which students are struggling or losing interest. This allows teachers to give help sooner. When used right, AI can make learning better for everyone.",
+      "annotations": []
+    },
+    {
+      "body": "The Problems AI Can Cause Even though AI has many good sides, it also brings problems. One of the biggest is bias. If an AI tool is trained using data from only certain types of students, it might treat others unfairly. For example, an AI that learns mostly from white or wealthy students may not understand or support students from other backgrounds. Binns et al. (2018) found that AI can sometimes harm poor or minority students because of unfair data.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Binns et al. (2018) found that AI can sometimes harm poor or minority students because of unfair data.",
+          "comment": "Please expand this paragraph by adding more details to the scholars' findings.",
+          "context_left": " other backgrounds. ",
+          "context_right": ""
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "bias.",
+          "comment": "AI's biases",
+          "context_left": "e of the biggest is ",
+          "context_right": " If an AI tool is tr"
+        }
+      ]
+    },
+    {
+      "body": "Another problem is privacy. AI often needs a lot of student information, like test scores, what they click on, and even how they feel. If schools are not careful, this data could be misused. Williamson and Eynon (2020) warn that companies might collect more data than they should, and schools may not fully understand what is being collected or how it is used.",
+      "annotations": []
+    },
+    {
+      "body": "The third problem is unequal access. Not all schools have good internet or money for new tools. This means richer schools can give students better learning tools, while others can’t. Selwyn (2019) explains that this makes the gap between schools even bigger.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Selwyn",
+          "comment": "Same as above. This paragraph is a bit short and needs to be expanded.",
+          "context_left": "while others can’t. ",
+          "context_right": " (2019) explains tha"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "that this makes the gap between schools even bigger.",
+          "comment": "this problem enlarges the educational gaps among students from different socioeconomic backgrounds.",
+          "context_left": "wyn (2019) explains ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "My Solution: A Fair and Safe Way to Use AI in Schools To fix these problems and keep the good parts of AI, I suggest three steps: Step 1: AI Should Help, Not Replace Teachers AI can do some tasks like grading or finding weak points in learning, but it can’t replace the care and understanding of a real teacher. Students, especially those with problems, need human support. Teachers can explain things in ways AI can’t, and they can build real relationships. So AI should work like a helper, not a boss.",
+      "annotations": []
+    },
+    {
+      "body": "Step 2: Create Clear Rules for AI Use Governments and schools should create rules that tell us how AI can be used in education. Every AI tool should be tested before use. We must check if it works the same for all students and does not favor certain groups. There should also be rules about data collection. For example, students and parents should be told what data is collected, why, and how it is protected. If the data is not needed, it should not be collected.",
+      "annotations": []
+    },
+    {
+      "body": "We should also make companies show how their AI works. If a student is marked wrong by a machine, there should be a way to check and fix the mistake. Transparency is important. Step 3: Make AI Tools Available for All Schools If only some schools have AI, that’s not fair. Governments should help poor schools get the tools they need. Maybe this means giving money or free versions of AI programs. Education should be equal. Every student should have the same chance to use good tools, no matter where they live or how much money their school has.",
+      "annotations": []
+    },
+    {
+      "body": "What My Classmates Think: A Small Survey To see what others think, I asked 10 classmates two short questions: 1.Do you think AI is helpful in learning? 2.Are you worried about privacy or fairness when using AI?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "What My Classmates Think: A Small Survey To see what others think, I asked 10 classmates two short questions:",
+          "comment": "Please share the findings of your survey and address counterarguments.",
+          "context_left": "",
+          "context_right": " 1.Do you think AI i"
+        }
+      ]
+    },
+    {
+      "body": "Conclusion AI is a strong tool that can make education better. It helps students learn at their own speed, gives support to teachers, and helps those who need extra help. But we can’t ignore the risks. Bias, privacy problems, and unfair access can make things worse instead of better.",
+      "annotations": []
+    },
+    {
+      "body": "If we use AI to support (not replace) teachers, create clear and strong rules, and make sure all schools can use it, AI can help everyone. This way, students from all places and backgrounds can benefit, and we can build a fairer future in education.",
+      "annotations": []
+    },
+    {
+      "body": "Binns, R., Veale, M., Van Kleek, M., & Shadbolt, N. (2018). “It’s reducing a human being to a percentage”: Perceptions of justice in algorithmic decisions. CHI Conference on Human Factors in Computing Systems, 1–14. https://doi.org/10.1145/3173574.3173951 Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial intelligence in education: Promises and implications for teaching and learning. Center for Curriculum Redesign. Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence unleashed: An argument for AI in education. Pearson Education. Selwyn, N. (2019). Should robots replace teachers? AI and the future of education. Polity Press. Williamson, B., & Eynon, R. (2020). Historical threads, missing links, and future directions in AI in education. Learning, Media and Technology, 45(3), 223–235. https://doi.org/10.1080/17439884.2020.1798995",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Binns,",
+          "comment": "I would suggest adding a 0.5'' hanging indent at the beginning of each reference.",
+          "context_left": "uture in education. ",
+          "context_right": " R., Veale, M., Van "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Intelligence unleashed: An argument for AI in education.",
+          "comment": "Please italicize the book's title.",
+          "context_left": "cier, L. B. (2016). ",
+          "context_right": " Pearson Education."
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Learning, Media and Technology, 45(3),",
+          "comment": "These need to be italicized.",
+          "context_left": "in AI in education. ",
+          "context_right": " 223–235. https://do"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 2.0,
+        "Sources": 2.0,
+        "Organization": 3.0,
+        "Writer’s Ethos": 1.0,
+        "Total": 11.0
+      },
+      "comment": "This paper has a lot of potential. For more information, please see my marginal comments."
+    }
+  ]}

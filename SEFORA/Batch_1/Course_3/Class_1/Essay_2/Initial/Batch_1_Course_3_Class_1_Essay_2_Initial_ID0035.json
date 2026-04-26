@@ -1,0 +1,511 @@
+{
+  "paragraphs": [
+    {
+      "body": "A Father’s Daughter ",
+      "annotations": []
+    },
+    {
+      "body": "She chokes on her first breaths, and time seems to stop. Your chest grows unbearably tight until it seems that you’re the one who can’t get any air. But then she’s crying — a shrieking, wailing sound, surely far too loud and powerful to be coming from such a tiny body. Her red face — wrinkled and raw — scrunches up tight as a fist, only her lips parting to let out her screaming cries. It’s a truly awful sound.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Your ",
+          "comment": "It felt like you were switching between third and second person here at first. ",
+          "context_left": "time seems to stop. ",
+          "context_right": "chest grows unbearab"
+        }
+      ]
+    },
+    {
+      "body": "\tIt’s the most beautiful thing you’ve ever heard. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "It’s the most beautiful thing you’ve ever heard. ",
+          "comment": "Ah, this helped me understand what I was reading. ",
+          "context_left": "\t",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tThe flurry of motion around you hardly registers; nurses mill about, the doctor is saying something you’re not quite listening to, your wife is crying, still sweating and shaking from the hours-long labor but now smiling like she’s never felt pain in her life because that’s her baby the doctor is placing in her arms, that’s her child pressed against her chest, tiny little hands reaching out blindly — she hasn’t even opened her eyes yet — that’s her own little miracle, for whom she endured nine long months of discomfort so that she could push her out, bring her into the world. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "your wife is crying",
+          "comment": "I wondered why you chose to write this for the dad, not the mom. It’s not wrong, just surprising to me. ",
+          "context_left": "quite listening to, ",
+          "context_right": ", still sweating and"
+        }
+      ]
+    },
+    {
+      "body": "\tThat’s your baby. ",
+      "annotations": []
+    },
+    {
+      "body": "\tYour wife looks at you then, crying and laughing so hard she can’t speak, but she doesn’t have to say a word — no word could capture or express this moment any better than the look in her eyes, and you think it might be the most wonderful thing you’ve ever seen — her lying there holding your baby girl, the both of them crying, the both of them holding each other. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "other",
+          "comment": "The writing here is lovely. It is pretty conflict-free, though, and thus I had some trouble imagining what the story was going to be about plot-wise. Everything seems perfect. That’s nice in life but hard to pull off in fiction. ",
+          "context_left": "f them holding each ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tYou lean over and press a gentle kiss to the top of her head, lay a hand on her shoulder, wonder how you could be so lucky, what you’ve done to deserve this. ",
+      "annotations": []
+    },
+    {
+      "body": "\tOne of the nurses procures a blanket from somewhere and swaddles the baby — bundles her up like a present to be left under a Christmas tree. Then she’s being handed to you, placed in your arms, and here you are, holding your little girl for the very first time. You look down at her, and she looks up at you, and then she smiles the tiniest little smile you’ve ever seen.  ",
+      "annotations": []
+    },
+    {
+      "body": "And, in that moment, you know with absolute certainty that nothing will ever be the same again, nothing can ever be the same. She’s stolen your heart right out of your chest. You would have given it to her if she’d asked, but she didn’t need to. She just reached out and wrapped her little fingers around it, and it was hers. ",
+      "annotations": []
+    },
+    {
+      "body": "\tYour heart is hers.",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd she is yours. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThere is no choice in the matter. No doubt, either. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "either",
+          "comment": "For me, the three separate assertions that the dad has completely fallen for the baby were too many. It might be interesting to play with having the dad be more reluctant or scared before finally, here, collapsing into pure love. ",
+          "context_left": "e matter. No doubt, ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tAnd then you blink, and she’s stumbling right into your arms, and it’s like you can’t breathe all over again, because those were her first steps she just took — was it three or four? You’re not sure, but it doesn’t matter, because she took them, and the world can never have them back. Yet another thing she’s claimed as her own. It’s only been a few weeks since she spoke her first word, and now she’s taken her first steps. You look up, and she’s laughing like she knows just how special this moment is, and her mother is fighting back tears of pride and joy. ",
+      "annotations": []
+    },
+    {
+      "body": "And then you blink again, because there’s no way it’s been fourteen months — there’s simply no way it’s been that long, that she’s that old, but, then again, you can hardly think of a time before her anymore. She’s the world — no, she’s the sun, and you’re her planet, orbiting her like it’s what you were made to do, the pull of her gravity too strong, too compelling to break free. But you wouldn’t leave, even if you could. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "she’s the sun, and you’re her planet, orbiting ",
+          "comment": "Again, the writing is lovely, but there’s a lot of asserting the same point here. ",
+          "context_left": "e’s the world — no, ",
+          "context_right": "her like it’s what y"
+        }
+      ]
+    },
+    {
+      "body": "\tAnd then you’re holding her small hand in yours, standing in the parking lot, about to walk her through the wooden double doors to her first day of school. Her mother stands ready, phone camera poised to take a picture of your little girl looking impossibly adorable in her pink, polka dot dress, equipped with a backpack bigger than her torso. Your daughter smiles, and the gap between her teeth shows. You love that gap — it feels like a symbol of her youth and innocence — and you dread the day when years of braces and orthodontics will have taken it away, leaving only a beautifully straight row of teeth. You can’t yet imagine the day when she’ll start looking like an adult or when she’ll start to sound smarter than you. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dread the day when years of braces and orthodontics ",
+          "comment": "Even here is a moment that you could use — he really doesn’t want her to grow up. That can be a sweet quality when she’s a child. But then it gets a little weird after awhile . ",
+          "context_left": "innocence — and you ",
+          "context_right": "will have taken it a"
+        }
+      ]
+    },
+    {
+      "body": "\tBut you know she’ll be smart — without a doubt. She hasn’t even walked into the school yet, but you know she’ll thrive once inside. She’ll come into herself in a way that will shock you, delight you, even make you a little sad when you realize that she can never be five years old again. There is no going backwards, no reversing the clock. Everything will change. ",
+      "annotations": []
+    },
+    {
+      "body": "And maybe you haven’t quite thought about all of this just yet, but some part of you feels it as surely as you feel her little hand in yours. And you can’t help but wonder, as you walk through those doors, why you seem more afraid than she does ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "does",
+          "comment": "Another good hint of something difficult. He has some fear. ",
+          "context_left": "ore afraid than she ",
+          "context_right": " "
+        }
+      ]
+    },
+    {
+      "body": "\tAnd then she’s in middle school, standing in front of you in the living room, grinning from ear to ear, waiting to hear your reaction to how she looks. She even does a little twirl to demonstrate how the skirt of her floral-patterned dress flares wide and swishes around her legs when she moves. Her mother smiles gently to herself, standing a few feet behind, car key in hand, ready to drive your daughter to her first school dance. ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd it’s only at that moment that you realize that you’re not ready to see her like this — hair straightened and wearing a faceful of makeup. Who even taught her how to put on makeup? And are those heels? Wedges, sure, but heels nonetheless, and surely wedges will one day lead to dangerously high stilettos and that flowy, flowery dress will lead to a tiny, skin-tight black dress that shows off too much skin, and— ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "not ready to see ",
+          "comment": "Yes! ",
+          "context_left": "realize that you’re ",
+          "context_right": "her like this — hair"
+        }
+      ]
+    },
+    {
+      "body": "\tAnd that’s your wife’s voice, prompting you about how pretty your daughter looks, about how tonight is a big night for her — it’s her first school dance, after all! She’s going to have so much fun, and everything is going to be okay, she’ll be fine, it’s just a middle school dance. You swallow, unable to hold your wife’s pointed gaze, reading the message loud and clear. ",
+      "annotations": []
+    },
+    {
+      "body": "\tYou look at your daughter again, but the words catch in your throat, because, looking at her like this—  ",
+      "annotations": []
+    },
+    {
+      "body": "Though you’d hardly call her grown up… you can see the person she is and will be starting to take shape. Her jaw has a new set to it, her eye a new gleam. She shines brighter every day, and you hope to always see that light. ",
+      "annotations": []
+    },
+    {
+      "body": "\tYou swallow around the lump in your throat, ignoring the slight sting behind your eyes.",
+      "annotations": []
+    },
+    {
+      "body": "\t“You look beautiful,” you tell her. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "beautiful,” you tell her. ",
+          "comment": "It might be interesting to have him say or do the wrong thing before correcting himself (or being corrected). That would let the story out of this guy’s head a bit more. We never really hear from anyone else which makes it a bit claustrophobic. ",
+          "context_left": "\t“You look ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tAnd then you’re yelling at her from across the room, asking if she knows what time it is? And, so help you G-d, if that’s a boy standing out there on the porch, trying to sneak in… ",
+      "annotations": []
+    },
+    {
+      "body": "\tShe yells in return, matches your outburst of anger — she did, after all, get her temper from you — tells you that she’s in high school now, that she can make her own decisions. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "get her temper ",
+          "comment": "Could we see this temper before now? ",
+          "context_left": "she did, after all, ",
+          "context_right": "from you — tells you"
+        }
+      ]
+    },
+    {
+      "body": "\tLike hell she can. Not if she wants to live under your roof. And if she thinks she can bring a boy into this house…",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "house…",
+          "comment": "I really like seeing how his “she can’t grow up” has turned a little toxic. Just would like some hints of that earlier. ",
+          "context_left": "ing a boy into this ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tYou scream at each other back and forth. Her mother emerges from your bedroom still half-asleep and tries in vain to break it up. But you’ve had just about enough of this. You stomp right past your daughter — ignoring the obscenities she hurls at you — fling the front door open, and just about chase that boy off the porch, swearing at the receding glow of his brake lights speeding down the street that you’ll whoop his ass if he ever comes back here. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Dammit, dad! I love him!” she shouts at you.",
+      "annotations": []
+    },
+    {
+      "body": "\t“You don’t love him! You don’t know the first damn thing about love!” you spit right back. Your wife flinches as you say it. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "as you say it. ",
+          "comment": "The jump from middle school dance to boy sneaking it is a lot! ",
+          "context_left": " Your wife flinches ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“I hate you!” your daughter howls. She runs to her room and slams the door so hard the whole house seems to shake. ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd you stand there, feeling hollow, feeling so small and pathetic beneath the weight of your wife’s disappointed gaze. You stand there, wondering what happened to the sweet, innocent little girl you once knew. When did she become so rebellious and unruly? When did everything change? And even though your wife mutters that she just needs some time to cool off, you can’t help but wonder if that’s really true. If she really does hate you. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "disappointed gaze. ",
+          "comment": "What does she say here, though? ",
+          "context_left": "ight of your wife’s ",
+          "context_right": "You stand there, won"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "did she become so rebellious and unruly",
+          "comment": "I also wonder that, and the story doesn’t really give me any hints. ",
+          "context_left": "you once knew. When ",
+          "context_right": "? When did everythin"
+        }
+      ]
+    },
+    {
+      "body": "\tYou’re not sure you can live with it if she does. ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd then two graduations fly by before you’ve hardly blinked your eyes. The four years between them might as well have been nothing, except for the fact that she’s grown in some irreconcilable way. She’s shed her teenage years and most of the trouble that came with them. and she’s certainly smarter now, though you suppose that’s what a college education will get you. She no longer yells or slams doors, but she’s also started to call less frequently, and you can feel her starting to pull away from you. She’s become far more independent — she doesn’t need her parents as much as she once did. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that came with them. ",
+          "comment": "The story turns away from conflict here. ",
+          "context_left": "most of the trouble ",
+          "context_right": "and she’s certainly "
+        }
+      ]
+    },
+    {
+      "body": "\tYou always knew that this would happen, but it hurts a bit more than you expected. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThat summer, you watch as she packs her things into boxes. She’s moving out — she just bought an apartment across the state with her college roommate. They’ve both received job offers and start next week. She’s even got a boyfriend, and they’ve been together for over a year already.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and start next week. ",
+          "comment": "It strikes me that part of why the story isn’t really registering is that there are not many specific choices here. I would love to know what she studied and what job she took, for example. Where this story takes place. What teams they root for (or don’t root for). Just in general, who these people are. ",
+          "context_left": "received job offers ",
+          "context_right": "She’s even got a boy"
+        }
+      ]
+    },
+    {
+      "body": "It’s like you can see all the pieces coming together, see her finding her way in the world. ",
+      "annotations": []
+    },
+    {
+      "body": "You’re proud of her — you always have been. Happy for her, too. But that doesn’t stop you from going into her old bedroom the day she leaves. You stare at the room, stripped mostly bare, and wonder where her childhood has gone. ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd then she’s standing there, in the door frame, crying. Hardly able to meet your eyes, not that you’re meeting hers either. You can’t look away from the blue-black mark blooming across her cheek. ",
+      "annotations": []
+    },
+    {
+      "body": "\tShe’s choking on her sobs, gasping for air, stumbling over her words as she tries to tell you what happened, how it happened. How he hit her. And your world contracts, narrowing until all you can hear, think, know is that he hit her. ",
+      "annotations": []
+    },
+    {
+      "body": "\tHe put his hands on your little girl. He hit your daughter. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThe anger wells like a great wave about to crash upon a shore, destroying and devouring anything in its path, moving through you faster than you can draw breath until you’re dizzy with it, blind with it, your mind edged with a red haze that spreads like poison and burns like fire. Your ears ring, filled with just three words. He hit her. He hit her. He hit her.  ",
+      "annotations": []
+    },
+    {
+      "body": "The hate is stronger than you could have ever imagined, and you begin to think that you could kill him. You really believe that you could. It wouldn’t be so hard. And he would never touch her again. He would never touch what is yours again. ",
+      "annotations": []
+    },
+    {
+      "body": "\tYou could kill him, you could kill him, you could kill him.",
+      "annotations": []
+    },
+    {
+      "body": "\tYou really could. ",
+      "annotations": []
+    },
+    {
+      "body": "\tBut that’s her hand on your arm, pulling you back, trying to stop you. You look down at your feet, unable to remember having moved towards the door, the car key clutched in your hand like a dagger. You stare at that key. Seriously consider stabbing him with it.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "stabbing him with it.",
+          "comment": "I wanted to see that temper he mentioned. ",
+          "context_left": " Seriously consider ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tBut then you see your daughter’s tear-stained face, hear her voice pleading with you, and you know that there’s nowhere you want — need — to be more than right here, holding her until she stops shaking, until that bruise fades and everything that has ever happened to her — every scratch, scrape, and cut — heals, until they’re nothing more than blurry, half-forgotten memories. You want to wrap your arms around her and hold tight — just the way she held your finger the day she was born. And you know, with a sharp certainty that that boy will never matter a fraction as much as she does, that even your rage will never match the extent of your love.  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "born",
+          "comment": "It’s a little surprising that she doesn’t want her mom. ",
+          "context_left": "ger the day she was ",
+          "context_right": ". And you know, with"
+        }
+      ]
+    },
+    {
+      "body": "\tYou’ll hold her and never let go. ",
+      "annotations": []
+    },
+    {
+      "body": "\tYou’ll brush her hair, wrap a blanket around her shoulders, sit at the edge of her bed until she finally falls asleep. And even then, you’ll sit guard, keep to your vigil, chase away the nightmares when they come for her. They can’t have her — you won’t let them. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThis one is yours. ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd then the tears start to come, because you know now that you can’t protect her from everything. Certainly not life. ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd then she’s getting married, and there’s no trace of that bruise anymore, not physically, not in her mind either. She’s beautiful, and her smile is nothing short of dazzling, and it occurs to you just how much she looks like her mother. You wonder if you’ve ever seen her this happy, looking at you as the song changes and the lights dim, and you’re taking her hand, leading her onto the floor as the DJ announces it’s time for the daddy-daughter dance. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "she’s getting married, ",
+          "comment": "The journey of the daughter is extremely conventional. ",
+          "context_left": "\tAnd then ",
+          "context_right": "and there’s no trace"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "daddy-daughter ",
+          "comment": "Hoo, boy. “Daddy”? ",
+          "context_left": "s it’s time for the ",
+          "context_right": "dance. "
+        }
+      ]
+    },
+    {
+      "body": "\tAnd you know this new husband of hers is a good man, that he’s good to her, that he would never hurt her, that his love for her rivals even yours. Still, you find yourself holding her tight as you sway on the dance floor, wondering if you’ll really be able to let her go when the song ends, if you’ll really be able to watch as she walks into another man’s arms. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "good",
+          "comment": "What’s his name? What’s anyone’s name? ",
+          "context_left": "\tAnd you know this new husband of hers is a ",
+          "context_right": " man, that he’s good to her, that he would never hurt her, that his love for her rivals even yours. "
+        }
+      ]
+    },
+    {
+      "body": "\tBecause she’s yours, and she’s always been yours. She’ll always be yours. But she’s her own person now too, and it’s not an easy pill for you to swallow, not an easy thing to accept, but very little has ever been easy when it comes to her. You fought tooth and nail for everything — every hug, every heartache, every smile, every moment with her beside you. You worked hard and wore yourself out and made mistakes and learned from every single damn second of life, of laughter, of love. Love so full you think you might burst from the pressure of containing it within your being. Love so filling that you tremble to think of what it could mean to be without it, what could possibly be left in its absence. ",
+      "annotations": []
+    },
+    {
+      "body": "\tBut you will never be without that love. Not for one single damn second. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThere is no choice in the matter. No doubt, either. ",
+      "annotations": []
+    },
+    {
+      "body": "\tBut a bird only stays in the nest for so long before it learns to spread its wings and take flight. You know that, but knowing doesn’t stop you from wanting her to stay — just a bit longer, though it will never quite be just long enough. ",
+      "annotations": []
+    },
+    {
+      "body": "\tWhen the song ends, you pull her in for one last hug. And then you let her go. ",
+      "annotations": []
+    },
+    {
+      "body": "And then you’re holding a baby in your arms, watching her choke on her first breaths just the way her mother did that day all those years ago when you looked at her and knew with unwavering certainty that she would forever be yours. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "her first breaths ",
+          "comment": "It would be unusual for the grandfather to be in the delivery room. ",
+          "context_left": "tching her choke on ",
+          "context_right": "just the way her mot"
+        }
+      ]
+    },
+    {
+      "body": "And now you see that same certainty take hold of your daughter as she brings a daughter of her own into the world. ",
+      "annotations": []
+    },
+    {
+      "body": "You think it might be the most wonderful thing you’ve ever seen — her lying there holding her baby girl, the both of them crying, the both of them holding each other. You wonder if you’ve ever seen her this happy. If you’ve ever been as happy as you are now. ",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd then you’ve come to the end of the road, and you know it, too. You’re old and tired and your health finally seems to have gone. Your wife passed away a couple of years ago, and you think that it’s about time you joined her. It’s about time you rested. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "passed away a couple of years ago",
+          "comment": "Here, I really felt that you were a little beyond what you’ve experienced. The death of the wife only gets a sentence? That doesn’t feel right for a man that devoted. ",
+          "context_left": "ave gone. Your wife ",
+          "context_right": ", and you think that"
+        }
+      ]
+    },
+    {
+      "body": "She’s there. Your daughter is there, crouching next to you, holding your hand. “It’s okay, dad,” she whispers. There are tears in her eyes, but she’s smiling. “It’s okay to close your eyes now.” ",
+      "annotations": []
+    },
+    {
+      "body": "You look at her — your daughter. Her hair started to gray a little while ago, and she has a grandchild of her own now with a second on the way. But you look at her now, and you still see your little girl. ",
+      "annotations": []
+    },
+    {
+      "body": "You were never perfect, but she never required perfect — it was never what she needed. She just needed her Dad. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Dad. ",
+          "comment": "Should be lower-case. ",
+          "context_left": "She just needed her ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tYou were that. Lord knows that if there was ever anything you so utterly and completely were, it was her Dad. You are her Dad. Will always be her Dad. ",
+      "annotations": []
+    },
+    {
+      "body": "\tYour heart is hers. And she is yours. ",
+      "annotations": []
+    },
+    {
+      "body": "You lived a life full of love. A life full of her. ",
+      "annotations": []
+    },
+    {
+      "body": "\tThere was no choice in the matter. No doubt, either. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "So, part of what the story isn’t quite working yet is that it’s just what you’ve written here — there is never any doubt that this father is going to be there for his daughter. He always is. That’s beautiful for real life but leaves the story itself kind of flat.Don’t get me wrong. This is beautifully written and you show your usual immense care. But it’s also a little vague and predictable — I keep wondering where this special bond might not hold up, not to mention the details of these folks. Inserting something specific would change the entire story — imagine if the daughter was queer, or if she wasn’t able to have children, or if she didn’t get married, or if she stayed with the guy who hit her. Or what if the dad divorced the mom or just couldn’t forgive his daughter for the domestic abuse incident? What if they’re farmers or live in Chicago or own a sailboat? I’m not advocating for any of those changes, but the addition of something unexpected and specific really shakes the story up, and gives the potential for the dad to do something we don’t see coming. Which I think would make this story go from beautifully crafted to really moving and engaging. I’m excited to see how you revise it. Good luck!"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "paragraphs": [
+    {
+      "body": "The stock market is one of the key pillars of the global economy, first and foremost, it not only provides an avenue for companies to raise capital, but also creates opportunities for investors to build wealth. Market indices simulate the performance of specific market segments to help investors gauge market trends, for example, the FTSE 100 in the UK and the DAX 30 in Germany are widely used to gauge the overall health of their respective markets. At the same time, derivatives, as a financial instrument based on underlying assets, provide investors with a diverse choice of strategies that can be used for both hedging risk and speculative operations. Although derivatives help diversify risk and lock in prices, they are very sensitive to maturities, costs and interest rates, and leveraged transactions may also magnify potential losses. The capital gains tax policy, on the other hand, influences investors' decision-making behavior by encouraging long-term holding. Overall, the steady development of the stock market relies on continued research and in-depth understanding by all parties.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Although derivatives help diversify risk and lock in prices, they are very sensitive to maturities, costs and interest rates, and leveraged transactions may also magnify potential losses. The capital gains tax policy, on the other hand, influences investors' decision-making behavior by encouraging long-term holding. Overall, the steady development of the stock market relies on continued research and in-depth understanding by all parties.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "ulative operations. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Stock market index A market index is a virtual portfolio, which is used to reflect a specific segment of the financial market, the value of which is calculated on the basis of the prices of the assets contained therein. Typically, these weightings allow investors to get a more intuitive view of the performance of a particular part of the market. Market indices will use different weighting methods, such as market capitalization weighting, earnings weighting, liquidity weighting, or fundamental weighting, to determine the weight of each asset in the index. In the USA, additional market indices include the Russell 2000, which tracks small-cap companies, the Wilshire 5000 Total Market Index, representing the entire US stock market, and the NYSE Composite Index, which includes all stocks listed on the New York Stock Exchange. These indices are also commonly used by investors to analyze specific segments and the overall performance of the market. [1]",
+      "annotations": []
+    },
+    {
+      "body": "[[Understanding Market Indices<nowiki>]",
+      "annotations": []
+    },
+    {
+      "body": "Index providers use specific calculation methods to maintain and calculate market indices, often used to employ price or market capitalization weighting. However, market indices are key tools for investment tracking and management for both individual and institutional investors, as well as providing benchmarks for evaluating portfolio performance. Many mutual funds and ETFs will aim to mirror the performance of a particular index, thus allowing investors to invest indirectly in that market. Because market indexes cover a wide range of stocks or other assets, they are often used to reflect market sentiment and as an indicator of the overall health of the market. For example, the Nikkei 225, which tracks 225 leading companies on the Tokyo Stock Exchange, provides an overall view of the state of the Japanese stock market and economy. [2]",
+      "annotations": []
+    },
+    {
+      "body": "[1]",
+      "annotations": []
+    },
+    {
+      "body": "The advantage of derivatives is that they can often be leveraged to use borrowed funds for investment, thus reducing the use of own funds. In addition, derivatives help firms and investors to cope with the risk of price volatility, stabilize transaction prices and diversify risk.",
+      "annotations": []
+    },
+    {
+      "body": "Furthermore, derivatives have the disadvantage that their value is dependent on the price of other assets, which makes their valuation more complex, especially as over-the-counter (OTC) derivatives are also subject to unpredictable counterparty risk. In addition, derivatives are often very sensitive to maturities, holding costs and changes in interest rates, factors that make it difficult to fully match their value to the underlying assets. While the use of leverage can magnify potential gains, it can also increase the risk of loss. [3]",
+      "annotations": []
+    },
+    {
+      "body": "Capital Taxation Capital gains tax is a tax on profits from the sale of assets. In the United States, gains on assets held for more than one year are taxed at 0%, 15%, or 20%, depending on the taxpayer's income level, while gains on assets held for less than one year are taxed at ordinary income tax rates, which are usually higher. This tax structure is intended to encourage investors to hold assets for the long term. Capital gains are taxed only when the asset is sold and an actual profit is generated; unrealized gains are not taxed, thus giving investors the flexibility to choose the best time to sell. [4]",
+      "annotations": []
+    },
+    {
+      "body": "Conclusion In the global economy, stock markets play an important role, both in providing companies with access to finance and in creating wealth-enhancing opportunities for investors. Market indices and derivatives support diversified investment strategies, while tax policies, such as capital gains tax, influence investor decision-making to a certain extent. The continued development of the financial markets relies on continuous and in-depth research and understanding of market dynamics by all participants.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Conclusion",
+          "comment": "This paper is well-written. I would suggest adding in-text citations to justify each factual claim and using Wikipedia's citation style to format the sources. Please also complete the Wikipedia training modules as soon as possible. For more information, please see my marginal comments. Overall good job!",
+          "context_left": "",
+          "context_right": " In the global econo"
+        }
+      ]
+    },
+    {
+      "body": "Reference 1. ^ Young, Julie. \"Market Index: Definition, How Indexing Works, Types, and Examples\". Investopedia. Retrieved 26 October 2024. 2. ^ Young, Julie. \"Market Index: Definition, How Indexing Works, Types, and Examples\". Investopedia. Retrieved 26 October 2024. 3. ^ Fernando, Jason. \"Derivatives: Types, Considerations, and Pros and Cons\". Investopedia. Retrieved 26 October 2024. 4. ^ Fernando, Jason. \"Capital Gains Tax: What It Is, How It Works, and Current Rates\". Investopedia. Retrieved 26 October 2024.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Young, Julie.",
+          "comment": "Please use Wikipedia's citation style to format the sources. The year of publication is missing.",
+          "context_left": "Reference 1. ^ ",
+          "context_right": " \"Market Index: Defi"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.5,
+        "Writer's Ethos": 1.5,
+        "Total": 9.0
+      },
+      "comment": "N/A"
+    }
+  ]}

@@ -1,0 +1,53 @@
+{
+  "paragraphs": [
+    {
+      "body": "A Tale of Two Cathedrals: Learning in Pittsburgh, Believing in Shanghai Before my arrival in Pittsburgh during last summer, the first thing I did was check out pictures of the Cathedral of Learning on the internet. As one of the tallest educational buildings in North America, its towering Gothic architecture immediately stood out. Given its name, “Cathedral of Learning,” I expected a solemn, monumental place—perhaps a historic academic sanctuary that echoed the grandeur of European cathedrals. I imagined vast stone halls, arched ceilings, and heavy wooden doors—impressive, yet nothing beyond what I had already encountered in similar structures. My curiosity, however, extended beyond its height and being as physical architecture. I wondered whether this iconic building held something unique that set it apart from other cathedrals and university buildings worldwide.",
+      "annotations": []
+    },
+    {
+      "body": "However, my first encounter with the Cathedral of Learning shattered these preconceptions. I remember the entire process vividly. It was my first night in Pittsburgh, and I found it difficult to sleep due to jet lag. Restless, I suggested to a friend—someone who had shared the same flight—that we explore the campus. The streets were nearly deserted, with only a few streetlights casting faint glows on the pavement. We wandered aimlessly through the darkness.",
+      "annotations": []
+    },
+    {
+      "body": "It all happened in the blink of an eye, the Cathedral emerged from the shadows—a towering silhouette against the backdrop of midnight sky. It stood there, massive and otherworldly, its pristine white stone façade reflecting the dim lights around it. “这就是传说中的Cathedral 啊,” I murmured in awe. My friend and I exchanged glances, as we marveled at the building’s sheer scale and presence. Compelled by curiosity, we ascended the stone steps and pushed open the heavy revolving door. The moment I stepped inside, the sight before me was beyond anything I had imagined. The vaulted ceiling soared so high that it seemed to touch the heavens. Golden chandeliers cast a warm, ethereal glow, illuminating the towering stone pillars that stretched endlessly upward. The air was heavy with a mix of history and mystery, and the quiet hum of the space amplified our gentle, cautious footsteps echoing through the hall.",
+      "annotations": []
+    },
+    {
+      "body": "I had expected a conventional university building—perhaps an old, stately structure—but what I found was something closer to magic. It felt as if I had walked straight into a scene from Harry Potter, the grand hall reminiscent of Hogwarts itself. We wandered through the great hall, pausing to read the inscriptions etched into the stone, relics of a long academic tradition. Ascending the spiraling corridor, we discovered a series of intricately designed rooms—each themed after a different regional culture. These “Nationality Rooms,” as I later learned, represented various global heritages and served both as functional classrooms and cultural exhibits. Each room opened a new world, immersing us in the languages, art, and histories of distant places.",
+      "annotations": []
+    },
+    {
+      "body": "The Cathedral of Learning was not merely a place of education; it was a living museum, a piece of art, a confluence of global cultures encapsulated in stone and light. I realized that my university years would not be spent shuttling in and out of dull, lifeless lecture halls. Instead, I would be immersed in an environment where rational knowledge and artistic beauty intertwined. The thought of attending classes in such a place—a space where the weight of human knowledge and cultural diversity surrounded me at every turn—was indeed exhilarating.",
+      "annotations": []
+    },
+    {
+      "body": "This magnificent building, however, also reminded me of another cathedral from my home country—the Sheshan Catholic Church in Shanghai. Though the two share the title of “cathedral,” their differences are substantial and striking. While the Cathedral of Learning is an academic institution, bustling with students and open to tourists, Sheshan Church is a place of quiet devotion, perched atop a hill far from the city’s noise. While the former is dedicated to the pursuit of knowledge, the latter is a sanctuary of faith.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "share",
+          "comment": "shared - I would suggest using the past tense consistently throughout the paragraph.",
+          "context_left": "hai. Though the two ",
+          "context_right": " the title of “cathe"
+        }
+      ]
+    },
+    {
+      "body": "Architecturally, the two cathedrals reflect their divergent purposes. The Cathedral of Learning embodies the vertical elegance of Gothic design, with its pointed arches and soaring height. In contrast, Sheshan Catholic Church blends architectural influences from East and West—Roman arches, Greek columns, Gothic spires, and even Chinese glazed tiles on the roof. Each detail of Sheshan Church speaks to the historical intersection of Christianity and Chinese culture, a dialogue between foreign faith and local tradition. It is fair to say that this cultural hybridity is largely absent from the Cathedral of Learning, which remains purely Western in style and symbolism.",
+      "annotations": []
+    },
+    {
+      "body": "Beyond their architectural contrasts, the two cathedrals evoke profoundly different atmospheres. The Cathedral of Learning is vibrant, alive with the chatter of students and the constant hum of academic life. English echoes through its halls, a reminder of its modern, worldly purpose. Sheshan Church, by contrast, is enveloped in silence—punctuated only by the murmur of prayers and the occasional tolling of its bell. The solitude of the church, surrounded by lush greenery, invites a profound and persistent introspection, while the Cathedral of Learning, rooted in a bustling neighborhood, inspires intellectual exploration and cultural exchange.",
+      "annotations": []
+    },
+    {
+      "body": "These contrasts made me realize how much meaning a single word—“cathedral”—can carry across cultural contexts. In Pittsburgh, a cathedral can be a hub of intellectual pursuit, a celebration of knowledge across borders. In Shanghai, it remains a symbol of spiritual faith, connecting heaven and earth. Despite their differences, both cathedrals serve as places where people gather in search of something greater—whether it be truth or transcendence. Each building, in its own way, is a tribute to the human desire to reach beyond the ordinary and seek understanding in forms both sacred and secular.",
+      "annotations": []
+    },
+    {
+      "body": "This cross-cultural experience shifted the way I think about spaces and their meanings. I realized how easily our assumptions can shape our understanding of a place before we even step foot inside. Especially in this age of Global Village, first-hand witnessing and assimilation also helps to eliminate prejudice and misunderstanding in a political sense. No matter how detailed the photographs or how vivid the descriptions, the reality of a place and our first-hand experience can still surprise us—revealing layers of history, identity, and culture that no image or text can fully capture. As the old Chinese saying goes, “百闻 不如一见”. The Cathedral of Learning and Sheshan Catholic Church, despite their apparent similarities, embody distinct worldviews and cultural elements. Yet both offer a glimpse into the profound ways that architecture reflects human aspirations—whether to learn or to believe.",
+      "annotations": []
+    }
+  ]
+}

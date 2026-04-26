@@ -1,0 +1,272 @@
+{
+  "paragraphs": [
+    {
+      "body": "What Lies in the Woods",
+      "annotations": []
+    },
+    {
+      "body": "Jackson woke to the crack of a branch in the distance, his body stiff and cold, lying on the damp ground. His head throbbed, and the faint smell of pine filled his nose. He blinked hard, trying to clear the fog in his mind, but it only deepened his confusion. Where was he? How had he gotten here? His heart raced as panic tickled his chest.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "his",
+          "comment": "An exciting opening! ",
+          "context_left": "Jackson woke to the crack of a branch in the distance, ",
+          "context_right": " body stiff and cold, lying on the damp ground. His head throbbed, and the faint smell of pine fille"
+        }
+      ]
+    },
+    {
+      "body": "He sat up, pushing the wet leaves off his legs, his clothes torn and mudded. The last thing he remembered was... nothing. A blank. His mind was a scattered puzzle, with pieces missing. He tried to piece together the events before he woke up in the woods, but it was like trying to remember a dream that had already slipped away.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "away",
+          "comment": "Bit of an onslaught of metaphors here — I wonder if you can dial them back a bit. ",
+          "context_left": "had already slipped ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "“Hello?” he called, his voice dry.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ry",
+          "comment": "This struck me as a strange thing to say unless he thinks he sees someone? ",
+          "context_left": " called, his voice d",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "But there was no answer.",
+      "annotations": []
+    },
+    {
+      "body": "The only sound was the wind rustling through the trees. He pushed himself to his feet, wincing at a sharp pain in his side. His hand moved to his ribs. As he lifted his shirt, he saw a giant bruise.",
+      "annotations": []
+    },
+    {
+      "body": "His first instinct was to run, but where? The dense trees stretched for miles in every direction, offering no clear path to safety. No signs of another human being.",
+      "annotations": []
+    },
+    {
+      "body": "He tried his phone, but it was dead. Of course, it was dead.",
+      "annotations": []
+    },
+    {
+      "body": "Panic began to set in. What had happened to him? Who did this to him? How did he get here? He tried to remember his last moments before waking up here.",
+      "annotations": []
+    },
+    {
+      "body": "He stumbled forward, pushing his way through the muddy floor of the woods, each step feeling dizzier than the last. There was no sign of a struggle, no evidence that someone had been here with him. No tracks, no footprints. Had he run away? Did he escape who had done this to him?",
+      "annotations": []
+    },
+    {
+      "body": "Minutes turned into hours as he wandered, searching for an escape, any sign of civilization. His stomach growled, reminding him that he hadn’t eaten since, when? When was the last time he had eaten? The questions swirled around in his mind. How long had he been out here? His family must’ve been worried and looking for him. He was determined to get out and find help.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "help",
+          "comment": "I’m not clear if he can remember anything or not — we’re told that he doesn’t, but here he seems to be remembering a family? In general, this state of mind — lost, scared, and perhaps unable to remember — seems hard to sustain for long. I’d consider cutting this page back and getting to the cabin more quickly. ",
+          "context_left": "to get out and find ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Then, as the sun began to sink low in the sky, and the temperature began to drop, Jackson found something.",
+      "annotations": []
+    },
+    {
+      "body": "It was a cabin.",
+      "annotations": []
+    },
+    {
+      "body": "Hidden deep in the trees, it stood at the edge of a clearing, barely visible behind a thick curtain of vines and branches. His heart skipped a beat.",
+      "annotations": []
+    },
+    {
+      "body": "He approached the cabin cautiously, his body tense with fear and a sense of hope. Hope to find help. Every step felt like an eternity. The cabin was old, weathered, and empty.",
+      "annotations": []
+    },
+    {
+      "body": "The door creaked as he slowly pushed it open, the darkness inside swallowing the light from the fading day.",
+      "annotations": []
+    },
+    {
+      "body": "“Hello?” he called, his voice trembling. “Is anyone here?”",
+      "annotations": []
+    },
+    {
+      "body": "There was no answer.",
+      "annotations": []
+    },
+    {
+      "body": "Just the eerie silence of the woods.",
+      "annotations": []
+    },
+    {
+      "body": "His instincts screamed at him to leave, but something, the bite of the cold or the need for help, drove him inside.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "inside",
+          "comment": "I wondered at your decision to write this in this particular style, one sentence paragraphs. It feels like a thriller and I wondered how you arrived at this particular style of writing and story? ",
+          "context_left": "for help, drove him ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "His eyes adjusted to the dimness as he stepped carefully over the doorframe. The interior was sparse, with only a table, a few chairs, and a stone fireplace.",
+      "annotations": []
+    },
+    {
+      "body": "He was hit by a sharp smell of metal. As his eyes roamed the room for a source, they fell on a large puddle of blood. His stomach lurched.",
+      "annotations": []
+    },
+    {
+      "body": "The room felt suffocating, the air thick with an oppressive weight. His breath quickened, his pulse pounding in his ears.",
+      "annotations": []
+    },
+    {
+      "body": "He stepped closer, and behind the chair, following the puddle, a man faced towards the wall. There was blood seeping through his hat on his head, enough blood on the floor for Jackson to know this man was already gone.",
+      "annotations": []
+    },
+    {
+      "body": "His first thought was that whoever did this must be close and was probably the one who brought Jackson out here too, the person who must’ve given him this bruise. And he would be damned if he had to try and get away from this person again.",
+      "annotations": []
+    },
+    {
+      "body": "So, he ran. In the middle of the night, he ran for his life.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "life",
+          "comment": "So far, this story is a lot of this guy running. It’s told in such a heightened yet vague way that I’m having trouble caring very much about your main character — he wakes up, he runs, he finds a cabin and a corpse, he runs some more. What is the conflict here? What does this guy want? ",
+          "context_left": "ght, he ran for his ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "He eventually hit a road where he could see the faint lights from a building in the distance. He ran some more until he almost passed out from hyperventilation.",
+      "annotations": []
+    },
+    {
+      "body": "He reached the building; it was a bar. He rushed through the door, catching his breath. The bar came to a silence.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "silence",
+          "comment": "I’m having trouble telling what time of day it is. ",
+          "context_left": ". The bar came to a ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "He walked to the bartender, her face looking ice cold. He wondered to himself, how long have I been gone? Had my family sent out a search party for me?",
+      "annotations": []
+    },
+    {
+      "body": "As he was about to ask her to call the police, he was interrupted by the volume of the news on the TV.",
+      "annotations": []
+    },
+    {
+      "body": "His head turned to hear his name alongside a picture of him. He felt a sense of relief that he was safe, and that’s why everyone went quiet, because the missing man was found.",
+      "annotations": []
+    },
+    {
+      "body": "He began to sit down when he heard:",
+      "annotations": []
+    },
+    {
+      "body": "“If you see or hear from this man, please contact authorities immediately. He is wanted for the abduction of Max Moore. Max was last seen wearing a blue baseball cap, a black hoodie, and jeans.”",
+      "annotations": []
+    },
+    {
+      "body": "His heart dropped as he heard the name, and suddenly he remembered.",
+      "annotations": []
+    },
+    {
+      "body": "Max. His best friend.",
+      "annotations": []
+    },
+    {
+      "body": "Why would they say I abducted him? Jackson rubbed his eyes, trying to remember. Was that Max in the cabin? Did I leave him there?",
+      "annotations": []
+    },
+    {
+      "body": "And the biggest question, did he do that to him?",
+      "annotations": []
+    },
+    {
+      "body": "The feelings overwhelmed him, and he was flooded with flashbacks from the night before. Surely, they couldn’t be true. He was the one in danger. He was the one that got away.",
+      "annotations": []
+    },
+    {
+      "body": "He would never hurt anyone, especially his best friend. This had to be a setup of some sort.",
+      "annotations": []
+    },
+    {
+      "body": "He ran out of the bar to avoid anyone recognizing his face on the TV, although he already knew it was too late.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "late",
+          "comment": "More running! ",
+          "context_left": "ady knew it was too ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "As he opened the door, he was stopped by the cold touch of metal handcuffs. Before he knew it, the police were pushing the back of his head down to avoid bumping it into the car.",
+      "annotations": []
+    },
+    {
+      "body": "It was all a blur; he saw the lips of the police moving but didn’t hear any words.",
+      "annotations": []
+    },
+    {
+      "body": "As they drove past the entrance of the woods, the memories came flooding back, the drinking, the fighting, the knife.",
+      "annotations": []
+    },
+    {
+      "body": "Jackson wasn’t running from a killer.",
+      "annotations": []
+    },
+    {
+      "body": "He was running from himself.",
+      "annotations": []
+    },
+    {
+      "body": "The bruise wasn’t from an attack, it was from the fight Max put up.",
+      "annotations": []
+    },
+    {
+      "body": "HE was the one who killed his own best friend.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "B"
+      },
+      "comment": "Sophie, this story shows a significant jump in professionalism in terms of sentence structure and grammar, etc. so I hope that you didn’t use AI. Not because it’s forbidden but because that’s not really the point of the class, to let a machine do your creative work for you. I liked your first story, with its mistakes — it felt like you had really written it and reflected your personality and self. This feels like anyone might have written it, and I wondered where you were in it. Anyway, here, if you want to keep working on this, I’d encourage you to take the premise and focus in on a scene or two. Right now, as I noted, the story is a lot of running and doesn’t quite make sense as a plot: for example, if he did kill his best friend, why did he wake up so far from the cabin as if he had been beat up himself? (I get that maybe the friend fought — but why was he miles away?) We also never really got an explanation for the amnesia — why didn’t the main character remember what he had done? I can see a couple of ways to shape this a bit more — you could just write the story of the friends confronting each other (must have been quite a conversation!) or you could expand that scene at the bar. I’d love to read the dialogue between the bartender and the main character, especially as his photo comes up on the television. Be great to know what he thinks there! Happy to discuss, of course."
+    }
+  ]
+}

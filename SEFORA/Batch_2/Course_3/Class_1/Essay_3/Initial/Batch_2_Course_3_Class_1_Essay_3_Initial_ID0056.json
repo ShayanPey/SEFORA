@@ -1,0 +1,159 @@
+{
+  "paragraphs": [
+    {
+      "body": "Grace and Me",
+      "annotations": []
+    },
+    {
+      "body": "I wondered what her problem had been recently. She’d only been saying “bye” before she left the house or “hi”when she got home. She was just eating, siting on her computer, or going to work for the  day. I think she even started stress cleaning! Did I do something wrong or does she just have a project due soon, I wondered. I tried to lay with her, eat with her, and even take peeks at what she was working on, but she kinda just shooed me away every time. I spilled some water in the kitchen one day too and she totally freaked out on me about the mess, she was usually never that snappy. I figured I should talk to Oliver, he was a pretty good neighbor and my only friend at the time, since we recently moved into our new house, I was sure he had some good advice.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "advice",
+          "comment": "I like the premise here — why is she acting this way and who can help me figure it out? It might be helpful to take out these sentences on Oliver and just let us meet him in the next few paragraphs. By the way, I get the sense that the narrator maybe is a little aimless, or even jobless, which works well with helping me somewhat sympathize with Grace. ",
+          "context_left": "re he had some good ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "While outside one day, after Grace went to work, I went out back to get some exercise. After some time, I walked over to the fence separating our yards to try and chop it up with Ollie. Even though it had only been a couple months just talking across backyards, it felt like I’d known him way longer.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "chop it up with Ollie",
+          "comment": "I love this phrasing. I learned so much about the character from this. ",
+          "context_left": "ur yards to try and ",
+          "context_right": ". Even though it had"
+        }
+      ]
+    },
+    {
+      "body": "‘What’s up Ollie how’ve you been?’ I yelped over to him while he was in the garden in the middle of his yard. It was quite a pretty one too, a nearly perfect square with beautifully blue and yellow flowers throughout that were so fresh, I could even smell them from my own yard. ",
+      "annotations": []
+    },
+    {
+      "body": "‘Yo Perry, what’s up dude!’ he yelled back, ‘I haven’t seen you or Grace in a while, how is everything?’ he said as he galloped over to meet me at the fence.",
+      "annotations": []
+    },
+    {
+      "body": "‘Funny you mentioned that, I feel like she’s been acting a little weird honestly. Not sure if work has been busy or what but I’ve been feeling pretty down about it lately,’ I lowly growled. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lowly growled. ",
+          "comment": "I like this dialogue a lot but simplify these phrases. Just “I said” works fine. ",
+          "context_left": "about it lately,’ I ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": " \t‘Yea Ryan gets like that too sometimes. I’m not even sure what work he does but he can definitely get grumpy sometimes,’ he chuckled. ‘I know it can be frustrating, but I think if you kindly show you need more attention in a soft, joyful way, it’ll help her realize what your needs are, especially since you’ve given her some space. This will also help for when she isn’t as busy and stressed, allowing her to be more conscious and put in a little more effort when she’s feeling better.’",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "feeling",
+          "comment": "I like how Ollie gives extremely good advice - it sets up the rest of the story (maybe his advice doesn’t work, or maybe he can’t follow it himself…) ",
+          "context_left": "e effort when she’s ",
+          "context_right": " better.’"
+        }
+      ]
+    },
+    {
+      "body": " \tI knew he would be good to talk to, he’d been with Ryan longer than I had been with Grace, so it only made sense. But I still worried a little bit.",
+      "annotations": []
+    },
+    {
+      "body": " \t‘Yea I guess you’re right, I appreciate it… but what If I did something wrong? I don’t know what I’d do without her.’ ",
+      "annotations": []
+    },
+    {
+      "body": " \tI think this triggered Ollie a little bit. As a good friend would, he dead seriously looked me in the eyes and growled, ‘Dude shut up! If she didn’t want you, she would’ve never taken you home in the first place. Don’t think like that and stop being a baby. When she comes home today, tell her how you feel and show her how happy you are to see her. How could she turn that down? Matching her poor energy with your own crap attitude will not solve anyone’s problem. Making her laugh and giving her the most love and attention possible, will inherently have her reciprocate. Whatever ways you’ve tried in the past simply aren’t enough.’",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Matching her poor energy with your own crap attitude will not solve anyone’s problem. ",
+          "comment": "Good advice!You might consider showing us, very briefly, how the narrator isn’t really doing a great job of supporting Grace at the beginning. We hear from him that she’s acting weirdly but we don’t get to see what he does or says yet. ",
+          "context_left": "she turn that down? ",
+          "context_right": "Making her laugh and"
+        }
+      ]
+    },
+    {
+      "body": " \tHe was right. It had been 9 months, and I knew her well enough to agree. Maybe that time around, I was being too standoffish and shy to approach her with enough intent to try and make her feel more at ease. I told him thank you, finished up my work out in the yard, and ran back inside to get ready for Grace to get home. After thinking some more, eating, and drinking some water… I was ready. The sun was just beginning to set, which meant she’d be home any minute. I started running and jumping around with excitement and anxiousness, hyping myself up for it. I heard her keys messing with the lock to get inside. It was go time. She walked in and I started going crazy, jumping, yelpIng, and running in circles. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "been 9 months, ",
+          "comment": "That is a really long time! ",
+          "context_left": "e was right. It had ",
+          "context_right": "and I knew her well "
+        }
+      ]
+    },
+    {
+      "body": " \tShe looked at me with a big smile, “Hey, someone’s extra excited to see me, I heard you had fun little barking match with Ollie today!”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "today",
+          "comment": "Ohhhhh, I love the surprise of this! ",
+          "context_left": "ng match with Ollie ",
+          "context_right": "!”"
+        }
+      ]
+    },
+    {
+      "body": " \tGrace then walked into the kitchen pulled out a nice big treat from the doggie jar in the kitchen. I forgot how good it was to feel this way with her.",
+      "annotations": []
+    },
+    {
+      "body": "She kneeled down and started scratching that perfect spot behind my ear, “I missed you today buddy, I’m sorry I’ve been so busy lately. Work has been so crazy and grandma is visiting soon, I promise I’ll take you on a nice long walk tomorrow.” ",
+      "annotations": []
+    },
+    {
+      "body": "‘Oh yea, we’re so back!’ I thought.",
+      "annotations": []
+    },
+    {
+      "body": "———————",
+      "annotations": []
+    },
+    {
+      "body": "‘And so moral of the story, take old Oliver’s advice and learn from my experience. When Frank gets home today, make things right.’ I hoarsely bark with my weak old voice.",
+      "annotations": []
+    },
+    {
+      "body": "‘Thanks old man!’ Sophie yaps excitingly as she hops her little legs around the yard and back inside. ",
+      "annotations": []
+    },
+    {
+      "body": "As I look up into the blurry blue sky and feel the warm sun on my fur, I take a deep breath of the soft breeze. I feel my old bones and joints giving way, as my time is low, but it feels good to share some wisdom to the younger pups of the neighborhood. I miss Oliver… the least I could do is be there for others as he was for me. ",
+      "annotations": []
+    },
+    {
+      "body": "“Perry!” Grace shouts nervously as she rubs my butt and scares the shit out of me. “You alright buddy? It’s time for lunch.”",
+      "annotations": []
+    },
+    {
+      "body": "She must’ve been yelling my name from the house again, my hearing certainly isn’t what it once was. Following her back inside, I can’t help but wag my tail wildly as I can start to smell her savory, mouth watering cooking. I’m not sure why, but she’s been making me the best meals lately!",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "A framing device like this one is a great idea, but I’d love to see it be an actual frame — so we see part of this conversation at the top of the story. In general, Natalie, this story is a great draft. Fun to read and I was genuinely surprised to learn that the narrator is a dog — but I bought it! Along with the ideas I mentioned earlier, I would love to see a bit more of the relationship between Grace and her dog. Dogs are so cuddly and loving, I just didn’t buy that he wasn’t trying to show Grace he loved her. (That said, I do love that the advice from Ollie is just, like, LOVE HER which is so dog!) So maybe there’s something that has made the narrator confused — Grace yelled at him, or swatted him or something. I know that you need to hide he’s a dog, but still, something more. I also wanted the narrator to actually do something to win Grace over — right now, she walks in happy with him but I want to see him win her over like Ollie suggested. Again, smart and funny! Thanks! Happy revising!"
+    }
+  ]
+}

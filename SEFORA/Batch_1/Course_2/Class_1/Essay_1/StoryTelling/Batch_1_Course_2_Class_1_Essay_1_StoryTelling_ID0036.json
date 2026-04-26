@@ -1,0 +1,46 @@
+{
+  "paragraphs": [
+    {
+      "body": "1. Compare your experience creating the non-AI-assisted video to the AI-assisted video.",
+      "annotations": []
+    },
+    {
+      "body": "The video that doesn’t require AI assistance needs you to walk through all the scenes, characters and audios. The process needs you to be familiar with the functionalities of the tools to create a set of consistent plots. Instead of focusing on the writing and literacy parts, the first video is more focused on how to use the different tools to create the appropriate scene for each plot and script. In contrast to the first video, the second video requires less use of the tools to create plots and scenes. All the scenes and characters can be generated through written scripts. It focuses more on writing consistent scripts with logical flow.",
+      "annotations": []
+    },
+    {
+      "body": "2. Provide the exact prompt you used to generate Video 2 with Vyond Go and reflect on your intended outcomes.",
+      "annotations": []
+    },
+    {
+      "body": "I chose “The different contexts of Cathedral” because the two cathedrals in comparison regarding their architecture style and history are somewhat similar. And the imagination of the Cathedral of Learning being modern offers a sense of irony, making it more fun and interesting in the scripts. The outcome of the video didn’t come out as I expected due to the limited functionalities of the AI tool. Some scenarios in my video need a church as a scene, but the Vyond doesn't even have a church under the scene category.",
+      "annotations": []
+    },
+    {
+      "body": "3. Describe what you learned about the benefits and limitations of AI in video making.",
+      "annotations": []
+    },
+    {
+      "body": "For me, AI didn’t enhance my ability to generate ideas because of its limitation on generating the characters and scenes. For example, a character can’t be positioned laterally in a way that it is looking at something and church is not is not in the list of scenes.",
+      "annotations": []
+    },
+    {
+      "body": "4. Describe the extent to which you are satisfied with the initial AI-generated video.",
+      "annotations": []
+    },
+    {
+      "body": "The quality is not that good because I don’t really know how to use some of the tools that could make my video even better. Also, the fact that some of the scenes are not provided in the scene category is somewhat frustrating. 5. Describe any changes you made to the AI-generated video (Video 2). For video 2, we added different scenes to make the AI-generated video more varied and diverse in terms of the looks. The original video was too simple with only one person talking and no scenes at all showed up in the whole video. So, we added different scenes in the video.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Storytelling": 3,
+        "Length requirement": 2,
+        "Storytelling Statement": 3
+      },
+      "comment": "N/A"
+    }
+  ]}

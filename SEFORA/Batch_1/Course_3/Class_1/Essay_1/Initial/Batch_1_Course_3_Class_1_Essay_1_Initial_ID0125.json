@@ -1,0 +1,270 @@
+{
+  "paragraphs": [
+    {
+      "body": "By:  ",
+      "annotations": []
+    },
+    {
+      "body": "Graveyard Playground",
+      "annotations": []
+    },
+    {
+      "body": "Three years since we said we’d meet for lunch at our favorite sandwich place, and I stood him up. Three years to this day, and our last words were, \"Call me next week, won't you?\" And I didn’t. I'd send a text and promise to call later, but I never would. Three years since I buried our friendship, and now being forced to dig it back up.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "our last words were",
+          "comment": "This opening is clearer than the one I read, but here, “our” seems wrong — his last words, right? And I’d just note that the finality of that combined with “Graveyard” in the title makes it seem like this character is dead. ",
+          "context_left": "rs to this day, and ",
+          "context_right": ", \"Call me next week"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I'd send a text and promise to call later, but I never would",
+          "comment": "Verbs are confusing here. I think you mean, “I sent a text and promised to call later, but I never did.” ",
+          "context_left": "you?\" And I didn’t. ",
+          "context_right": ". Three years since "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "now being ",
+          "comment": "I’m being forced…",
+          "context_left": "our friendship, and ",
+          "context_right": "forced to dig it bac"
+        }
+      ]
+    },
+    {
+      "body": "As I hover over the graveyard, I see him walk up, and I bite down on my turkey sandwich with shame. I sit down on the ground as if we were still kids playing duck, duck, goose with our old classmates. Instead, it's with the graves of strangers who, we as a society, pretend to know so we have a reason to mourn their deaths, as opposed to seeming like complete assholes for not caring that they're now 6 feet under. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I hover over the graveyard",
+          "comment": "This definitely makes her sound like a ghost! ",
+          "context_left": "As ",
+          "context_right": ", I see him walk up,"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "we as a society, pretend to know so we have a reason to mourn their deaths, ",
+          "comment": "I didn’t understand this. People don’t pretend to know those who’ve died if they didn’t know them when alive. ",
+          "context_left": "s of strangers who, ",
+          "context_right": "as opposed to seemin"
+        }
+      ]
+    },
+    {
+      "body": "\"Can't you chew with your mouth closed, Bean?\" The ground shakes in judgment. \"You were always so gross.\" ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The ground shakes in judgment. ",
+          "comment": "? What does this mean. Note that I fixed formatting through this paragraph. Please copy throughout! ",
+          "context_left": "outh closed, Bean?\" ",
+          "context_right": "\"You were always so "
+        }
+      ]
+    },
+    {
+      "body": "And there he was, standing beside me, waving his hand in disgust. ",
+      "annotations": []
+    },
+    {
+      "body": "\"You could have got me one with you, Ilene.\" ",
+      "annotations": []
+    },
+    {
+      "body": "He crouched down beside me, his legs never fully touching the ground.",
+      "annotations": []
+    },
+    {
+      "body": "\"Sorry,\" I say mid-bite. They didn't have the gluten-free kind you. \"",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "kind you. ",
+          "comment": "Missing word I enjoyed the dialogue, but I will say that it seems pretty chill and friendly, given the three year gap. ",
+          "context_left": "ave the gluten-free ",
+          "context_right": "\""
+        }
+      ]
+    },
+    {
+      "body": "He gives me the deadliest side-eye and says, \"Cheap, you haven't changed.\" ",
+      "annotations": []
+    },
+    {
+      "body": "I could feel the sarcasm pouring out of my mouth—or maybe it was saliva. Either way, he had a point: I really was a gross eater. \"It's not like you would've eaten it, dude.\" ",
+      "annotations": []
+    },
+    {
+      "body": "We went back and forth for a while, and it felt like we were in high school again, which wasn't that great either. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "great either. ",
+          "comment": "Okay, this is a good insight, letting me understand that this chat is kind of dreary. ",
+          "context_left": ", which wasn't that ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\"Three years, Bean, \"He said, interrupting my thoughts, \"until you decided I was finally worth your time.\"  ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "time.\"  ",
+          "comment": "Maybe “time again?” And instead of interrupting her thoughts, maybe we could see this in the dialogue, when he finally just brings it up? ",
+          "context_left": " finally worth your ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I get up from my \"crisscross apple sauce\" position. ",
+      "annotations": []
+    },
+    {
+      "body": "\"I thought of calling you,\" I lied, \"I just always, it never seemed like the right time, that's all. We were both busy with college and relationships; I didn't want to intrude on your life,\" I said, praying he would accept whatever bullshit I made up. ",
+      "annotations": []
+    },
+    {
+      "body": "\"You could've saved us, you know that.\" He gets up to meet my eyes, \"You have no excuse for abandoning us, our friendship, which you said forever , which apparently ended with turning eighteen.\" ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "eighteen.\" ",
+          "comment": "The dialogue is good. I do wonder why they aren’t discussing why she got back in touch now — that, to me, would be the first point of discussion. ",
+          "context_left": " ended with turning ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\"Well it's not like you were doing much fighting yourself,\" I say, looking down to avert his gaze. ",
+      "annotations": []
+    },
+    {
+      "body": "\"You're mumbling Bean,\" he said, tapping his rotting shoes, the holes allowing his Spiderman socks to peak out. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Don't act like you're some victim, ok,\" I snap, \"You can't blame me for not giving a shit when you never cared; those monkey bar promises meant nothing, huh?\" He blinked at me as if I just had a seizure in front of him. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Monkey bar promises? Really?\" I assume he coughs here because he had a cold, not to cover his laugh, mainly for my ego. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Bean, we were six,\" He says hesitantly, \"But you were always my best friend.\" ",
+      "annotations": []
+    },
+    {
+      "body": "I scoff, \"You liar. You barely looked at me our senior year of high school. Why would I force you to care? To each their own, you know.\" I point at the grave we are so clearly disturbing, \"Now we're here.\"",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you know",
+          "comment": "I think you would help the story if they each have specific incidents to refer back to. The idea seems to be that she stopped communicating because she sensed a lack of interest in the friendship from him. But what made her think that, and what does he think happened? Let them compare their stories. They’re speaking vaguely right now. ",
+          "context_left": " To each their own, ",
+          "context_right": ".\" I point at the gr"
+        }
+      ]
+    },
+    {
+      "body": "\"No I did care,\" He interrupts, \"I cared I did, and I tried to keep in touch, but you never answered, so why the fuck would I try, so don't go blaming the new six feet of dirt between us on me.\" ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "blaming the new six feet of dirt between us on me.\" ",
+          "comment": "Need some reference to this before now — some acknowledgment of why they’re both at the graveyard. ",
+          "context_left": " I try, so don't go ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\"Well how should I blame it on, the bike?\" I screech back. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Ilene, I did care,\" He says with a calming tone, \"I cared so much that I was on my way to see you when the accident happened.\" ",
+      "annotations": []
+    },
+    {
+      "body": "I froze, \"You what?\" I stammer.",
+      "annotations": []
+    },
+    {
+      "body": "\"I came to see you, to fix things, to fix us, and then, well, you know.\" He points to the grave.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "know.\" He points to the grave.",
+          "comment": "I like that you’re trying to find that reason why they met up again. Keep working on it. It’s a little hard to believe that after three years,  he just happened to be on his way to make up when something happened. ",
+          "context_left": "and then, well, you ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I want to tell him that I'm sorry, that I take back every moment I didn't call, every time I would drive by his house without stopping to say hello. I want to tell him that I miss him, but it could wait until later. ",
+      "annotations": []
+    },
+    {
+      "body": "Instead, I look down to see the second half of my sandwich untouched. I smile to myself, crouching down to the paper bag by his feet. \"Here,\" I say, passing him the sandwich, \"A few years too late, so sorry if it's cold.\" ",
+      "annotations": []
+    },
+    {
+      "body": "He chuckles and reaches for it, our fingers barely missing. \"I don't mind Bean,\" He looks at me in the same way he did as kids, completely innocent, \"Gluten-free, right?\" he asked. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Don't make me take it back,\" I say in a less than convincing threatening tone.   ",
+      "annotations": []
+    },
+    {
+      "body": "And he just sat by me, watching the dust land perfectly on the gravestone before us. \"I'm really glad I saw you Ilene,\" He places his hand on my knee, \"You'll always be my best friend.\" ",
+      "annotations": []
+    },
+    {
+      "body": "I smiled at him, feeling the brick that had been weighing on my heart for three years remove itself. \"I'm glad to have you back,\" I manage to say. ",
+      "annotations": []
+    },
+    {
+      "body": "But there was no answer. I turn to my left to find that he'd gotten up from my side, his broad shoulders blocking my view of the stone in front of me. All that I could see was the single chip on the left side. \"It all happened so fast, \"He mumbled, running his reddened fingers over the name. \"Too fast,\" He stared at the dust stuck to his hands for a moment, \"I'll see you soon Bean,\" and he walks off before I could answer. I watch him turn the corner at the end of the block before focusing my attention once again on the grave in front of me. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Miss you Bean,\" the note read attached to a sandwich leaning on the stone, \"PS: this was gluten-free :)\" ",
+      "annotations": []
+    },
+    {
+      "body": "I smirk and take in the scenery one last time. Finally, being able to lay down, rest, and say, \"I got my best friend back.\"",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Okay, so it seems like the idea is that she’s dead the whole time? This is her grave? If so, I would suggest reorienting the story a bit so that we see she’s just waiting for him. The business with her having the sandwich confuses the point. I think most of your readers are going to guess that she’s dead, which is fine, so worry less about keeping that as a big shock and more about what these two would have to say to each other, given this incredibly rare (impossible!) opportunity to settle what went wrong between them when she was alive. I still want to urge you towards specifics — they have to each believe that something specific caused their rupture and have the need to work that out between them. Talking vaguely won’t work! It’s a nice draft, Lily. Great work!"
+    }
+  ]
+}

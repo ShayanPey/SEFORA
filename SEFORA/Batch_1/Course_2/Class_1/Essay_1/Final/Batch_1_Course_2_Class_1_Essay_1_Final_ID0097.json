@@ -1,0 +1,58 @@
+{
+  "paragraphs": [
+    {
+      "body": "Insight into Cultural Differences: Comparing Kennywood in Pittsburgh and Happy Valley in Qingdao, China After I stepped onto the land of America and started my college life in Pittsburgh, I realized a lot of differences between the US and my Homeland of China, as well as between my expectations of Pittsburgh and the reality of the city. These differences evoked me all kinds of feelings. Some of them made me feel embarrassed, such as the time when I took the bus in Pittsburgh for the first time and didn't realize that I needed to pull the string to request a stop. As a result, I missed my stop and ended up walking for a long time to reach my destination. But the difference I am going to discuss, which is a comparison between the Kennywood in Pittsburgh and the Happy Valley in Qingdao, China, brings me more surprise.",
+      "annotations": []
+    },
+    {
+      "body": "First of all, Kennywood gave me a lot of new experiences that I never had in any amusement park in China. Last year when I was invited by my friends to go to Kennywood, it was imagined as a small amusement park for little kids, with warming and lovely decorations for children(In the left picture below). I thought the amusement accommodations were all unintimidating and might be boring for me, who is a big fan of roller coasters and other exciting programs. But its true self gave me a big surprise. The first characteristic I noticed which was so different from my expectations was the decoration in the park and the clothing of the staff, which together created a spooky Halloween atmosphere(the picture of right below). Also, all of the entertainment programs, such as the high-speed roller coasters and the haunted house, were very thrilling and exciting, which gave me great experiences. There were also many surprising distinguishments between Happy Valley in my hometown, Qingdao, China, and Kennywood in Pittsburgh. The Happy Valley was always very crowded because Qingdao was an incredibly popular city for traveling because of its beautiful beaches and mountains, as well as its pleasant weather. For popular programs such as roller coasters or pirate ships (海盗船), the wait time always exceeded two hours. But Kennywood was not so crowded even during the Halloween period and during the weekends. The lines of most programs were not so long so I could try all of the programs in half of the day. Secondly, the food sold in Kennywood was much cheaper compared with Happy Valley. The burgers and chips sell at a normal price with satisfying quantities, while the beverages and food sold in Happy Valley in Qingdao were all at a higher price than the food price outside the park. On the other hand, the variety of food in Happy Valley was much higher than in Kennywood. Different café and restaurants were selling a variety of food, such as hamburgers, noodles, sushi, and Korean-style fried rice cake. While Kennywood offered fewer options for visitors, mainly Western fast food. Happy Valley and Kennywood also had many common advantages. For instance, both amusement parks were very large with many interesting programs, satisfying various interests and preferences. The roller coasters of both amusement parks were incredibly exciting and amusing, which were preferred by roller coaster lovers, such as me. And there were also some 4-D indoor video programs, which are suitable for little kids.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " it",
+          "comment": "I imagined the park as",
+          "context_left": " to go to Kennywood,",
+          "context_right": " was imagined as a s"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "are ",
+          "comment": "were",
+          "context_left": "deo programs, which ",
+          "context_right": "suitable for little "
+        }
+      ]
+    },
+    {
+      "body": "Beyond the physical differences between Kennywood in Pittsburgh and Happy Valley in Qingdao, my experiences at both parks provided me with valuable insights into the cultural differences between the U.S. and China. The atmosphere at Happy Valley, with its huge crowds and diverse food options, reflects that Qingdao is prosperous and lively as a popular traveling city. In contrast, the fact that Kennywood was less crowded, even during weekends or holidays, indicates the differences in the ways people spend their free time in the U.S. versus China. In the U.S., it seems that amusement parks like Kennywood may not be as much of a national attraction as they are in China, where amusement parks like Happy Valley attract massive numbers of visitors from all over the country.",
+      "annotations": []
+    },
+    {
+      "body": "Additionally, the thick Halloween atmosphere of Kennywood revealed something interesting about American culture. Although Halloween has become more popular among Chinese people in recent years, especially groups of young ages, it doesn’t have the same widespread cultural influence that it does in the U.S. Amusement parks like Kennywood, which fully embraced the spooky atmosphere with fearful props in the park, elaborately decorated haunted houses, and the costumed staff was an eye-opening experience for me, highlighting the sense of ceremony(仪式感)of Americans have during Halloweens. In summary, my experiences at Kennywood in Pittsburgh have been full of surprises, because of the unexpected Halloween experience in Kennywood. Comparing Kennywood to Happy Valley in Qingdao has deepened my understanding of the cultural and practical differences between amusement parks in the U.S. and China. While Kennywood offered a less crowded and more exciting experience with its roller coasters, Happy Valley excelled in its variety of food and programs. Despite these differences, both parks shared the common goal of providing a wide range of exciting programs that attract different interests and age groups. Through these experiences, I gained a broader perspective on how different cultures influence people’s entertainment ways, and I look forward to exploring even more unique experiences during my next several years in the U.S. The comparison picture of the Kennywood and the Happy Valley.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In summary,",
+          "comment": "This is a well-written paper. My only suggestion is to add detailed descriptions, such as dialogues, into the storytelling. Overall, good job!",
+          "context_left": " during Halloweens. ",
+          "context_right": " my experiences at K"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 3,
+        "Organization": 3,
+        "Writer's Ethos": 2
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

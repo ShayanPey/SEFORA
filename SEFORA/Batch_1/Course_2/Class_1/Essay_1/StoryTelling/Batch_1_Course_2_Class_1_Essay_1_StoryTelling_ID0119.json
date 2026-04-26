@@ -1,0 +1,30 @@
+{
+  "paragraphs": [
+    {
+      "body": "AI technology offers significant advantages in terms of speed and convenience when it comes to creating animated stories. By providing a clear text-based input, AI can rapidly generate coherent and polished narratives, reducing the time spent on production. This makes AI particularly useful for projects that require quick turnaround or for creators who might not have the technical skills to manually animate each aspect of a story. However, the efficiency of AI-generated content also comes with notable limitations, particularly when creators seek high-quality, personalized results that demand a greater focus on detail and artistry.",
+      "annotations": []
+    },
+    {
+      "body": "One of the major differences between AI-created content and manual animation is the level of control and customization that creators can apply to their work. While AI is capable of producing coherent output, it often lacks the nuance and finesse that comes from manual craftsmanship. Creators who design their projects by hand spend significant time refining every element of their work, from character design to story development, resulting in a final product that not only meets their artistic vision but also demonstrates a higher level of detail and intentionality. This process allows for a much deeper connection between the creator and the final result, making the work feel more personal and meaningful.",
+      "annotations": []
+    },
+    {
+      "body": "Furthermore, hand-crafted animation offers greater flexibility in incorporating elements such as background music, character expressions, and overall mood, which can elevate the storytelling to a much higher level. These subtleties are crucial for building emotional depth and creating a more immersive experience for the audience. While AI-generated work can be impressive in its technical abilities, it often lacks the emotional weight that comes from this careful attention to detail. For creators who value storytelling that goes beyond the surface level, manual animation provides a more authentic and engaging experience.",
+      "annotations": []
+    },
+    {
+      "body": "In conclusion, AI serves as a powerful tool for speeding up the production of animated stories, especially when there is a need for efficiency. However, for creators who place importance on artistic expression, emotional depth, and detailed craftsmanship, manual creation remains irreplaceable. The time and effort invested in hand-made work result in a product that not only reflects the creator's unique vision but also engages the audience on a deeper, more personal level. The soul and vibrancy of manual animation are aspects that AI has yet to fully replicate, making it a preferred choice for those seeking a more refined final product.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Storytelling": 3,
+        "Length requirement": 2,
+        "Storytelling Statement": 2
+      },
+      "comment": "N/A"
+    }
+  ]}

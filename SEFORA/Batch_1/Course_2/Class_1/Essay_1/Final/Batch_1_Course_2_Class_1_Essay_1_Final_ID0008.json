@@ -1,0 +1,66 @@
+{
+  "paragraphs": [
+    {
+      "body": "Downtown at both Ends of the Earth",
+      "annotations": []
+    },
+    {
+      "body": "Walking on the streets of downtown Pittsburgh, the characteristics of this city bring me an unprecedented feeling. After exploring the different cultures at both ends of the earth, for me who was born in Beijing, the downtown of Pittsburgh is very different from the downtown of Beijing in my impression. The modern style of downtown Pittsburgh and the traditional style of downtown Beijing form a sharp contrast. Furthermore, the customs of the two places also cause people to think about their differences.",
+      "annotations": []
+    },
+    {
+      "body": "I have heard that Pittsburgh is a city with a sense of old because the University of Pittsburgh has a long history. Before I go to downtown Pittsburgh, I always think it is an undeveloped place that retained its original architectural style. In my imagination, there are many old and elegant western buildings for tourists to visit or architects to study. Besides, I think there must be the most distinctive traditional culture of the city of Pittsburgh. I guess the streets must be very lively and crowded. In addition, I think in such a city with a developed steel industry, there must be countless steel artworks. Thus, as the center of the city, I think it must be the most interesting and prosperous area. I take the bus through the long Fifth Avenue and finally arrive in downtown of Pittsburgh. Compared with places like Oakland or Squirrel Hill, downtown is more modern. The high-rise buildings there are densely gathered, and it looks like a more commercial place. However, there are no Western-style construction workers with the traditional Pittsburgh characteristics that I imagined, also they are not very lively and have no interesting entertainment venues. Some small shops are usually on the first floor of these buildings, which are basically some commercial chain stores. On the other hand, their steel industry is fully reflected in these extremely tall commercial buildings and the bridge that crosses the river. The construction here is more like some commercial areas around the center of Beijing, such as Zhongguancun (中关村) and Wangjing (望京). Consequently, this is different from what I imagined and what I once know about the downtown.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "think ",
+          "comment": "To reduce repetition, I would rephrase \"I think\" with another term.",
+          "context_left": "o study. Besides, I ",
+          "context_right": "there must be the mo"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "take",
+          "comment": "Please use the simple past tense to describe events in the past.",
+          "context_left": " prosperous area. I ",
+          "context_right": " the bus through the"
+        }
+      ]
+    },
+    {
+      "body": "The downtown of Pittsburgh has subverted my perception of the city center to a certain extent. Compared to the Pittsburgh, the downtown of Beijing is livelier and has a traditional cultural atmosphere. I think this may be related to the longer history of China. Most of the downtown of Beijing is ancient buildings built from the Yuan Dynasty to the Qing Dynasty. For example, Hutong (胡同) and the Forbidden City (故宫) are very distinctive traditional Chinese buildings. Some old buildings are no longer in use but are open to tourists for sightseeing, so it is often crowded here. In addition, there are many small shops in the city center selling local snacks and handicrafts. However, in this area of the city center, there are no high-rise buildings like Pittsburgh, nor a lot of commercial development. The city focuses more on retaining the traditional style and then developing some small private businesses.",
+      "annotations": []
+    },
+    {
+      "body": "Through these observations, I find that the city centers of these two cities at the two ends of the earth are indeed very different. For people living in Beijing, they may cherish Chinese traditional culture more, so they protect the most original appearance of the city center. On the contrary, the citizens of Pittsburgh may pursue more innovative lifestyles and efficient economic development, so they build high-rise buildings in the city center. The residents of these two areas also have different lifestyles. People in the center of Beijing are usually elderly residents who basically do not need to work, so their lives are very leisurely. In such an old city, the pace of life is very slow, although there are thousands of noisy tourists passing by there every day. However, on the streets of downtown Pittsburgh, there are more young workers. They are dressed in suits and look very busy. Compared with the Downtown Beijing, the Downtown Pittsburgh does not give people a leisurely feeling. Thus, the different living habits and pursuits of people in different regions also create the differences between the two city centers.",
+      "annotations": []
+    },
+    {
+      "body": "In summary, although the two city centers are very different, they have their characteristics. We should respect the cultural development of different regions and feel the different appearances brought by different cities. This is a very meaningful thing for me, and I am very interested in doing such things. When understanding the culture of different city centers, some are not only novel and shocking but also can gain more comprehensive and diversified knowledge from them. Therefore, different languages, customs, and races have their unique civilizations, which are also worth learning from us. Language is very important as a bridge and tool for us to understand different cultures. After comparing the two cities, I find that different languages also reflect the way of thinking of people in different regions. Translating one language into another can sometimes be challenging, as the cultural differences between regions are often significant. I think respecting cultural differences can enable us to understand more cultures of other regions with an inclusive attitude. The commonalities between cultures enable people from different cultural backgrounds to communicate, and cultural differences can enable wonderful cultural collisions between people. I believe this is the meaning of cultural diversity.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In summary, ",
+          "comment": "This is a well-written paper. Please use the simple past tense to describe events in the past and reduce the use of repeated words and phrases. I would  also add detailed descriptions, such as dialogues, into the storytelling. Overall, good job!",
+          "context_left": "",
+          "context_right": "although the two cit"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 3,
+        "Organization": 3,
+        "Writer's Ethos": 2
+      },
+      "comment": "N/A"
+    }
+  ]}

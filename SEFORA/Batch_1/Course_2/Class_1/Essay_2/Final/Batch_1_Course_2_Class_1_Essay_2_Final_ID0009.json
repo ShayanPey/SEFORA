@@ -1,0 +1,62 @@
+{
+  "paragraphs": [
+    {
+      "body": "Cantonese Cuisine: Modern Developments and Global Influence Introduction Cantonese cuisine or Cantonese cuisine, also known as Cantonese cuisine (Chinese: Cantonese cuisine or Cantonese cuisine), is the cuisine of Guangdong Province, China, especially the capital city of Guangzhou, and the surrounding areas of the Pearl River Delta (including Hong Kong and Macau). [1] Cantonese cuisine, originated from Guangdong Province of China, constitutes one of the eight major cuisines in China and is renowned for its delicate, savory and diverse flavors. Cantonese cuisine attaches great importance to the freshness and original taste of ingredients and lays emphasis on cooking techniques like steaming, stir-frying and stewing. The representative dishes, including desserts, plain chicken and roast goose, are favored by customers both at home and abroad. In recent years, with the advancement of globalization, Cantonese cuisine has gained increasing popularity on the international stage, and numerous restaurants have commenced blending tradition with innovation to infuse new vitality into this ancient culinary art. Historical Background Cantonese cuisine traces its origins back over 2,000 years to the early Han dynasty. During the Pre-Qin period, culinary practices in the Central Plains were highly developed, while those in Lingnan remained simple. According to a historical account, \"the cuisine of the Lingnan region was relatively simple\", until Zhao Tuo's governance began to foster cultural exchanges. This shift led to the integration of \"exotic foods “into local diets, with unique dishes like snake and various aquatic creatures becoming delicacies.[2] As cooking techniques evolved, emphasis on freshness distinguished Cantonese cuisine from the heavier styles of the Central Plains. The Tang and Song dynasties marked significant growth, as trade expanded, and regional flavors gained popularity. By the late Qing dynasty, Cantonese dishes were celebrated for their light, delicate flavors, with international acclaim for their presentation. This transformation positioned Cantonese cuisine as a prominent culinary tradition in China and beyond, reflecting the region's rich cultural heritage and adaptability. Modern Development and Global Influence Cantonese cuisine has become a significant global phenomenon, influenced by migration and cultural exchange. According to Wu and Cheung, the study of food practices helps illuminate “cultural adaptation and social grouping in a more general way,” highlighting how Chinese culinary traditions have shaped local foodways worldwide. Historically, Chinese cuisine has absorbed ingredients and techniques from various cultures, with the authors emphasizing that “Chinese food makes a particularly strong subject of study” to understand globalization. The influence of Cantonese cooking, particularly in North America and Australia, emerged prominently in the nineteenth century, introducing dishes like \"chop suey\" that catered to Western tastes. [3] This adaptation showcases how Chinese cuisine continues to evolve and integrate into diverse culinary landscapes, illustrating the dynamic interplay between local and global influences. The interconnectedness of migration and food practices underscores the broader implications of Cantonese cuisine as a vital aspect of cultural identity and globalization. Thus, Cantonese cuisine's global journey reflects not just the flavors but also the rich cultural narratives of the communities it touches, exemplifying the resilience and adaptability of culinary traditions across borders. Signature Dishes in Contemporary Cantonese Cuisine Contemporary Cantonese cuisine features an array of iconic dishes that reflect its rich culinary heritage. Wonton soup is a staple, with delicate dumplings filled with shrimp or pork in a savory broth. Stir-fried dishes, such as beef with broccoli, highlight the quick cooking technique that preserves vibrant flavors and textures. Dim sum remains a favorite, offering a variety of bite-sized delights like shrimp dumplings and char siu bao. Clay pot rice, cooked with a mix of ingredients like Chinese sausage, delivers a comforting, smoky flavor, and the marinated platter, featuring soy sauce chicken and five-spice duck, etc. These delicacies showcase the depth of Cantonese flavors. Conclusion Cantonese cuisine has evolved into a global culinary phenomenon, reflecting its rich heritage and adaptability. Its influence is evident in diverse food cultures, where classic dishes like dim sum and wonton soup have become favorites worldwide. As globalization continues to shape culinary landscapes, Cantonese cuisine is poised for further innovation, blending traditional flavors with modern techniques and local ingredients. The growing popularity of Cantonese food in international markets highlights its role in cultural exchange and identity, suggesting a bright future where it can continually evolve while maintaining its essence, bridging cultures through shared gastronomic experiences. References 1, Hsiung, Deh-Ta; Simonds, Nina (2005). Food of China. Allen & Unwin. ISBN 978-1-74045-463-6. 2, [1]虞迅,张敏杰.粤菜特色形成的历史[J].广州研究,1984(05):42-45. 3, Cheung, Sidney; Wu, David Y. H., eds. (2014-04-08). The Globalisation of Chinese Food (0 ed.). Routledge. doi:10.4324/9781315028620. ISBN 978-1-315- 02862-0.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "culinary practices",
+          "comment": "I would suggest adding hyperlinks to other relevant Wikipedia articles.",
+          "context_left": "the Pre-Qin period, ",
+          "context_right": " in the Central Plai"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In recent years, with the advancement of globalization, Cantonese cuisine has gained increasing popularity on the international stage, and numerous restaurants have commenced blending tradition with innovation to infuse new vitality into this ancient culinary art.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "at home and abroad. ",
+          "context_right": " Historical Backgrou"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Dim sum remains a favorite,",
+          "comment": "I would use a neutral tone throughout the Wikipedia edit.",
+          "context_left": "avors and textures. ",
+          "context_right": " offering a variety "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(2005).",
+          "comment": "Please cite recently published sources.",
+          "context_left": "h-Ta; Simonds, Nina ",
+          "context_right": " Food of China. Alle"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Conclusion",
+          "comment": "This paper is well-written. I would suggest using the neutral tone throughout the Wikipedia edit, adding in-text citations to justify each factual claim, and citing more recently published sources (within the past 5 years). For more information, please see my marginal comments. Overall good job!",
+          "context_left": " Cantonese flavors. ",
+          "context_right": " Cantonese cuisine h"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": 2.0,
+        "Organization": 2.0,
+        "Support": 2.0,
+        "Sources": 1.0,
+        "Writer's Ethos": 1.5,
+        "Total": 8.5
+      },
+      "comment": "N/A"
+    }
+  ]}

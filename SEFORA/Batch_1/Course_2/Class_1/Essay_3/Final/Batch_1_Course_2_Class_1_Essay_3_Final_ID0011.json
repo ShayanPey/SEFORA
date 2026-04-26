@@ -1,0 +1,134 @@
+{
+  "paragraphs": [
+    {
+      "body": "Streaming services and the decline of cinema.",
+      "annotations": []
+    },
+    {
+      "body": "Streaming services like Netflix, Amazon Prime, and Disney+ have completely changed how people in the Western world watch movies and shows. These platforms offer affordable subscription models and are easily accessible, which has made them incredibly popular. However, their rise has coincided with a noticeable decline in cinema attendance and live theatre show audiences. For instance, box office revenues in the US and Australia have fallen by 14–17% (G. Duarte de Souza, 2024). This trend raises important questions about the future of cinemas and theatres, and whether these cultural staples can adapt to remain relevant in a world increasingly dominated by digital entertainment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "",
+          "comment": "I would add a 0.5'' indentation at the beginning of each paragraph and meet the minimum length requirement (1200 words).",
+          "context_left": "Str",
+          "context_right": "Streaming services l"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "(G. Duarte de Souza, 2024).",
+          "comment": "de Sousa, 2024",
+          "context_left": "ve fallen by 14–17% ",
+          "context_right": " This trend raises i"
+        }
+      ]
+    },
+    {
+      "body": "For decades, cinemas have been central to entertainment culture in the Western world, providing audiences with a communal and immersive experience. However, streaming platforms have quickly eroded their dominance. Subscriptions to services like Netflix are far cheaper than regular trips to the movies, and the convenience of watching films at home has further reduced the appeal of going out. The COVID-19 pandemic significantly sped up this shift, as major studios began releasing blockbuster films directly onto streaming services. This move disrupted the exclusive window that cinemas used to enjoy, and with platforms like Netflix promoting immediate digital access, many consumers began to bypass theatrical releases entirely (Turkish Online Journal of Design, Art and Communication, 2019). What was once a unique social activity has become less appealing in a world where comfort and personalization are paramount. Another major challenge for cinemas is the sheer volume and diversity of content now available on streaming platforms. These services cater to a wide range of tastes and offer personalized recommendations, making it easier than ever to find something to watch. While this variety is a positive development, it also diminishes the distinctiveness of theatrical releases (A. Özgün, 2021). With endless options available at home, the idea of going out to see a movie feels less special. This flood of easily accessible content risks making cinemas less relevant and further fragments the shared cultural experience they once provided.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "(Turkish Online Journal of Design, Art and Communication, 2019).",
+          "comment": "Ormanli, 2019",
+          "context_left": "l releases entirely ",
+          "context_right": " What was once a uni"
+        },
+        {
+          "type": "strikeout",
+          "text": "A. Ö",
+          "comment": "",
+          "context_left": "heatrical releases (",
+          "context_right": "zgün, 2021). With en"
+        }
+      ]
+    },
+    {
+      "body": "Live theatre, an essential part of Western cultural identity, faces similar challenges. Streaming platforms now offer recordings of famous stage performances, such as Hamilton on Disney+. While this makes theatre more accessible to people who might not be able to attend live shows, it also reduces the need for in-person attendance. Watching a play live creates a sensory and emotional connection that simply cannot be replicated on a screen. Losing this unique experience would be a significant cultural loss. Economic pressures also play a role. Tickets for high-profile theatre productions are often prohibitively expensive, and inflation has only made this worse. For many people, streaming recorded performances offers a much cheaper and more convenient alternative. This shift in audience preferences is reshaping the live theatre landscape, pushing it to adapt to modern demands without losing its core essence.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Live theatre, an essential part of Western cultural identity, faces similar challenges. Streaming platforms now offer recordings of famous stage performances, such as Hamilton on Disney+. While this makes theatre more accessible to people who might not be able to attend live shows, it also reduces the need for in-person attendance. Watching a play live creates a sensory and emotional connection that simply cannot be replicated on a screen. Losing this unique experience would be a significant cultural loss.",
+          "comment": "Please add in-text citations to justify your claims.",
+          "context_left": "",
+          "context_right": " Economic pressures "
+        }
+      ]
+    },
+    {
+      "body": "Streaming platforms have not only changed how content is consumed but also how it is created. According to J. Meyn (2023), the rise of streaming has provided new opportunities for independent production companies and allowed for greater diversity in media. This shift has brought new voices and stories to the forefront, enriching the cultural landscape. However, it also presents challenges for traditional cinemas and theatres, which have historically been known for their high-quality productions. The sheer volume of content on streaming platforms makes it difficult for standout films or plays to gain the attention they deserve. This raises concerns about whether society is sacrificing quality for quantity and whether traditional entertainment models can continue to thrive in this new era.",
+      "annotations": []
+    },
+    {
+      "body": "To survive and thrive in the age of streaming, cinemas and theatres must innovate and embrace their unique strengths. Cinemas can focus on creating immersive experiences that cannot be replicated at home. Technologies like IMAX, 4D screenings, and interactive storytelling can make movies more visually and emotionally engaging. For example, Christopher Nolan’s Oppenheimer, shot specifically for IMAX, highlights the importance of this approach. Hybrid release models, which combine theatrical premieres with simultaneous digital releases, could also appeal to a wider audience while preserving the cultural significance of cinemas. Similarly, live theatre can experiment with dynamic pricing models to make tickets more affordable and attract a broader audience. Integrating technology into performances, such as incorporating virtual reality or interactive elements, could also help theatres reach new audiences while maintaining the immersive quality of live shows.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "For example, Christopher Nolan’s Oppenheimer, shot specifically for IMAX, highlights the importance of this approach. Hybrid release models, which combine theatrical premieres with simultaneous digital releases, could also appeal to a wider audience while preserving the cultural significance of cinemas. Similarly, live theatre can experiment with dynamic pricing models to make tickets more affordable and attract a broader audience.",
+          "comment": "Same as above. Citations are needed.",
+          "context_left": "otionally engaging. ",
+          "context_right": " Integrating technol"
+        }
+      ]
+    },
+    {
+      "body": "Despite declining attendance, there is hope for the future of cinemas and theatres. These cultural spaces offer unique experiences—the stunning visuals of the big screen and the emotional immediacy of live performances—that streaming services cannot fully replicate. To stay relevant, these industries should collaborate with streaming platforms rather than compete directly. For example, they could partner with streaming services to offer exclusive live-streamed events or make recordings of special performances available to a global audience. This type of collaboration could help them reach new viewers and generate additional revenue. While streaming has disrupted traditional entertainment, it has also created opportunities for evolution and growth. By embracing innovation and finding ways to blend traditional and digital forms of entertainment, cinemas and theatres can continue to be important cultural and artistic spaces for future generations.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Despite declining",
+          "comment": "Please address counterarguments and add a concluding paragraph at the end.",
+          "context_left": "",
+          "context_right": " attendance, there i"
+        }
+      ]
+    },
+    {
+      "body": "References: ● Loureiro, B. R. N. (2019). The impact of streaming services and video-on-demand on the cinematic exhibition industry: taking an experiential approach (Master's thesis). https://pitt.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/impact-streaming-services-video-on-demand/docview/3110355608/se-2 ● Özgün, A., & Treske, A. (2021). On Streaming-Media Platforms, Their Audiences, and Public Life. Rethinking Marxism, 33(2), 304–323. https://doi.org/10.1080/08935696.2021.1893090 ● Meyn, J., Kandziora, M., Albers, S. et al. Consequences of platforms' remuneration models for digital content: initial evidence and a research agenda for streaming services. J. of the Acad. Mark. Sci. 51, 114–131 (2023). https://doi.org/10.1007/s11747-022-00875-6 ● ONLINE FILM PLATFORMS AND THE FUTURE OF THE CINEMA. (2019). Turkish Online Journal of Design, Art and Communication. https://doi.org/10.7456/ctc_2019_19 ● Duarte de Souza, G., Nishijima, M., & Rodrigues, M. (2024). Is video streaming hurting box office revenues at U.S. theaters? Applied Economics, 1–13. https://doi.org/10.1080/00036846.2024.2387860 ● Terence McSweeney, S. J., McSweeney, T., & Joy, S. (2019). Through the Black Mirror: Deconstructing the Side Effects of the Digital Age (1st ed.). Springer International Publishing. https://doi.org/10.1007/978-3-030-19458-1",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Loureiro, B. R. N. (2019). The impact of streaming services and video-on-demand on the cinematic exhibition industry: taking an experiential approach (Master's thesis).",
+          "comment": "I would cite this source in the body paragraphs.",
+          "context_left": "ions. References: ● ",
+          "context_right": " https://pitt.idm.oc"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "ONLINE FILM PLATFORMS AND THE FUTURE OF THE CINEMA.",
+          "comment": "Please add the author's name to the reference.",
+          "context_left": "11747-022-00875-6 ● ",
+          "context_right": " (2019)."
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Terence",
+          "comment": "This citation has not appeared in the body paragraphs.",
+          "context_left": "6846.2024.2387860 ● ",
+          "context_right": " McSweeney, S. J., M"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 2.0,
+        "Sources": 2.0,
+        "Organization": 3.0,
+        "Writer's Ethos": 1.0,
+        "Total": 11.0
+      },
+      "comment": "This paper has some good arguments, but there are areas for improvement. Please also meet the length requirement. For more information, please see my marginal comments."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "paragraphs": [
+    {
+      "body": "Dear Jamacia Kincaid, My name is Derek Vaughn and I am a student at the University of Pittsburgh. I recently read your unconventional essay “Girl” which explored how overwhelming gender norms (specifically for women) can be in your culture. I noticed the way you wrote your essay conveyed the idea that all women are expected to do can be overwhelming. Within your entire essay, not once does a period appear. At first, I thought it was just bad grammar, but I now realize it was an intentional decision. It makes the reader feel overwhelmed and out of breath while reading due to having no breaks, which perfectly conveys the message you were going for. I also noticed that your essay was written like a list. I can see that this was done to make the reader feel like they’re reading a list of chores they have to do, which is exactly what you were going for. I didn’t grow up in the Indies nor am I a woman, so I can’t say that can relate too heavily to your message. That being said, much like gender norms can be overwhelming to women, the same can be said for men. Expectations to be stoic and strong might come easy to some, but not all. It doesn’t affect me much, but I see other guys struggle with it. I noticed some of the points you made in your essay were repeated. For example, you talked about being ordered to set the table nearly 5 times in a row. I wonder if you repeated these specific tasks because you had to do those the most often, or were they the ones you disliked doing the most? Thank you for making this essay, I rarely think about how different cultures treat women and I have been made more aware of the struggles of women outside the US Thanks, Derek",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "first, I thought it was just bad grammar, but I now realize it was an intentional decision. It makes the reader feel overwhelmed and out of breath while reading due to having no breaks, which perfectly conveys the message you were going for. I also noticed that your essay was written like a list. I can see that this was done to make the reader feel like they’re reading a list of chores they have to do, which is exactly what you were going for.",
+          "comment": "This is a really good observation, and you're doing great work of communicating to the author your own perspective of their work without sounding pedantic.",
+          "context_left": "a period appear. At ",
+          "context_right": " I didn’t grow up in"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "That being said, much like gender norms can be overwhelming to women, the same can be said for men. Expectations to be stoic and strong might come easy to some, but not all. It doesn’t affect me much, but I see other guys struggle with it.",
+          "comment": "This is a really good point--even though you don't feel the pressure as much as some people, could you give an example of an observation you have made in your own life?",
+          "context_left": "ly to your message. ",
+          "context_right": " I noticed some of t"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Overall": 96.0
+      },
+      "comment": "You're doing a really good job here, of making a connection with an author by discussing the intricacies of their own work. I honestly would love to see you be more specific about a moment when you have observed someone else struggling to conform to gender roles in some way--I think that would help the author get a sense of who you are and how their writing affected you."
+    }
+  ]}

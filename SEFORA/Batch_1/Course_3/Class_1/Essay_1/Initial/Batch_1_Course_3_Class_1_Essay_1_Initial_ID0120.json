@@ -1,0 +1,275 @@
+{
+  "paragraphs": [
+    {
+      "body": "Title",
+      "annotations": []
+    },
+    {
+      "body": "\tI’d never really been close with another guy before. They always say I’m too girly, too much of a sissy, too weak. I try to play their games, but I can never keep up. Sure, I’m not the most athletic, but there’s other unathletic guys who don’t get picked on the way I do. They never get called girly or a sissy, they just get called losers. What’s so different about me? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "What’s",
+          "comment": "I was immediately quite interested in this narrator. I wanted to know which guy he’s close to. I also found him both sympathetic and also annoying. Real title, please?",
+          "context_left": " get called losers. ",
+          "context_right": " so different about "
+        }
+      ]
+    },
+    {
+      "body": "\tThe cool autumn breeze brushed past the branches of the birch tree outside my window, scraping against the panes. Our house was nothing special, a simple split level painted light blue with a tire swing out front. A broken down chain link fence separated our yard from the neighbor’s, but it didn’t do a very good job as Macy, our dog, still finds her way into their yard, much to the neighbor’s dismay.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "autumn breeze ",
+          "comment": "Here, the story moves from a sort of broad opening to a more specific scene. I wondered if you might locate those first thoughts in this moment to help the story begin? ",
+          "context_left": "\tThe cool ",
+          "context_right": "brushed past the bra"
+        }
+      ]
+    },
+    {
+      "body": "\tAcross the street in a big brick house was where my best friend Trisha lived. Trisha and I have known each other for as long as I can remember, she's practically my sister. Her mom used to babysit me when I was really little. She was a year younger than me, but we went to the same school, so we carpooled fairly often. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Trisha and I have known each other for as long as I can remember, she's practically my sister. Her mom used to babysit me when I was really little.",
+          "comment": "Just noting that you sort of told us three times that he’s close to Trisha. What’s the story about? This is all well written but feels like an information dump. ",
+          "context_left": "riend Trisha lived. ",
+          "context_right": " She was a year youn"
+        }
+      ]
+    },
+    {
+      "body": "\t“Mason! Time to get ready for school! I’m gonna walk you over to Tera’s in a few minutes!” called Mom.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Tera’s",
+          "comment": "Is this Trisha? ",
+          "context_left": "na walk you over to ",
+          "context_right": " in a few minutes!” "
+        }
+      ]
+    },
+    {
+      "body": "\t“I’m coming!”",
+      "annotations": []
+    },
+    {
+      "body": "\tI was excited to see Trisha and excited for the first day of fourth grade. I grabbed my pink and orange backpack that I had specially chosen at Walmart for the year, and my waffle sandwich for breakfast, heading out the door to meet Mom. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "excited for the first day of fourth grade. ",
+          "comment": "This feels somewhat perplexing, given that the story begins with him recounting how he’s picked on. ",
+          "context_left": "d to see Trisha and ",
+          "context_right": "I grabbed my pink an"
+        }
+      ]
+    },
+    {
+      "body": "\t“Are you excited for the new school year?” she asked, smiling down at me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Are you excited for the new school year?” she asked, smiling down at me.",
+          "comment": "Notice that this repeats information we already knew some of. Since we’ve already been told that he gets picked on, this doesn’t bode well. Might it be more effective if he hadn’t said that at the beginning? ",
+          "context_left": "\t“",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“I am! I’m hoping that this year, Lincoln and Tyler let me sit with them at lunch. They’re so cool!” I said, smiling back at her. She glanced away from me, her green eyes staring distantly. ",
+      "annotations": []
+    },
+    {
+      "body": "“Mason, why don’t you sit with Trisha at lunch. You’ll both have lunch together this year since she’s in third grade now.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "grade now.”",
+          "comment": "I absolutely applaud you for creating a mom who’s more interesting than they often are in these stories. I love that she sees this is a terrible idea but doesn’t want to tell him. ",
+          "context_left": "ince she’s in third ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“I mean I could, but I want to make friends with the boys in my grade. I’ve also known Lincoln and Tyler from little league for a while now. Maybe I can sit with them?” I said with excitement. We walked in silence until we got to Trisha’s door, and she dropped down to my height.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "We walked in silence until ",
+          "comment": "I wonder if the mom might sigh or in some way indicate she feels this will not go well. ",
+          "context_left": "id with excitement. ",
+          "context_right": "we got to Trisha’s d"
+        }
+      ]
+    },
+    {
+      "body": "\t“Don’t worry too much about who you sit with at lunch. I’m sure whoever you sit with, you’ll have fun.” She knocked on the door, and Trisha opened it soon after.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Mason! Are you excited for school?” she said enthusiastically.",
+      "annotations": []
+    },
+    {
+      "body": "\t“I guess so. I’m excited to play video games in the car!” I replied. Mom gave me a hug and we said our goodbyes. Soon after, Trisha’s mom corralled us into the car for school.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "so. I’m excited to play video games in the car",
+          "comment": "What else can this dialogue do besides ask Mason if he’s excited for school, since we already know that?",
+          "context_left": "\t“I guess ",
+          "context_right": "!” I replied. Mom ga"
+        }
+      ]
+    },
+    {
+      "body": "\t“Do you want to play the mountain climbing game? We’re so close to getting to the top!” said Trisha.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Of course!” We booted up the game on the little car tv and joined together. I always chose Everesta Christine as my avatar and Trisha chose Olympia Monsoon. The goal of the game was to climb to the top of the mountain without falling off the platforms. You also got a grappling hook to help climb faster.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Ok, ready Mason? No falling today, got it?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“I won't, I promise!” Trisha jumped from platform to platform, moving across the screen with grace. I tried my best to keep up with her, but she was pretty good.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "jumped",
+          "comment": "This is sweet, but is it moving the story along? ",
+          "context_left": " I promise!” Trisha ",
+          "context_right": " from platform to pl"
+        }
+      ]
+    },
+    {
+      "body": "\t“Watch out! The platform is crumbling!” she yelled. That split second I saw the stone begin to fall, I completely panicked. My mind raced as every solution ran through it, yet my fingers did nothing. Trisha was quick to act, shooting her grappling hook at me. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Don’t worry, Mason! I’ve got your back!” she said, smiling. She reeled me in, and we continued up the mountain. We kept playing until we arrived at school, just ten minutes early. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Bye, Trisha! See you later!” I called.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you later!” I called.",
+          "comment": "I just want to note that you can stop the scene and summarize what happens until the next part you really want to show. Devoting nearly a page to the video game playing doesn’t seem to make sense, unless you want it to work harder for you. But it seems separate from the main plot you’ve chosen. ",
+          "context_left": "\t“Bye, Trisha! See ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“Wait, Mason. Can you sit with me at lunch?” She gave me her best puppy dog eyes, but I didn’t know what to say. I still wanted to sit with Lincoln and Tyler, and if I sat with Trisha, I’d have to sit with her whole posse of girls. I can’t even begin to imagine the names they would come up with for me. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Actually, Trisha, I’m going to sit with my friends from little league today if that’s okay. But I’ll play with you during recess, I promise!” Trisha looked down at the ground, but she never lost her smile. She nodded and got in line with the rest of the third grade class. I walked over to my class’ line, where Lincoln and Tyler were talking to the rest of the popular guys. As I started to approach, I made eye contact with Tyler. His eyes narrowed, then widened as he tapped Logan on the arm and pointed at me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lost her smile. ",
+          "comment": "This a nice moment (dramatically, I mean, not for Trisha) and I wonder if you might move it to the car. ",
+          "context_left": "ound, but she never ",
+          "context_right": "She nodded and got i"
+        }
+      ]
+    },
+    {
+      "body": "\tI thought they would have come up to me, but instead they just laughed.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hey, guys, what’s up!” I said, approaching.",
+      "annotations": []
+    },
+    {
+      "body": "\t“What do you want,” snapped Lincoln. I was taken aback by his response.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I was taken aback by his response.",
+          "comment": "Feels a little old for a 3rd grader. ",
+          "context_left": ",” snapped Lincoln. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“I was just coming over to say hi. I thought maybe we could hang out later at lunch or something.” The boys looked at each other, then looked at me. They started laughing again.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Listen, we tolerated you at Little League, but we aren’t going to be seen around here with some fairy like you.” said Tyler, laughing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "tolerated you at Little League",
+          "comment": "Again, feels a little old. The use of the slur is very effective — I felt so badly for the narrator. ",
+          "context_left": "\t“Listen, we ",
+          "context_right": ", but we aren’t goin"
+        }
+      ]
+    },
+    {
+      "body": "\t“I’m not a fairy! I’m a guy just looking for some bros!” I quickly replied, my smile fading.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Whatever, go make your friendship bracelets and stop bothering us.” said Lincoln.",
+      "annotations": []
+    },
+    {
+      "body": "I had never felt like this before. I ran away from the group, tears welling up in my eyes. I didn’t understand what made me so different. Why couldn’t I just have guy friends. Why did they always treat me so harshly? Was it because I wasn’t good at sports? Or the way I talked? It felt like there was something they knew about me that I didn’t even know. Some kind of marker that just made me easy to pick on. But the girls weren’t like this. They were always kind to me. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I had never felt like this before. ",
+          "comment": "Somewhat contradicted by the opening paragraph. ",
+          "context_left": "",
+          "context_right": "I ran away from the "
+        }
+      ]
+    },
+    {
+      "body": "\tI scanned the room for Trisha, but she and all her girlfriends were filing into the bathroom together. I felt so alone. The guys wouldn’t accept me as one of them and the girls were nice to me, yet I never truly felt like a part of their group. Just an outsider welcomed in. ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "David, congratulations on finishing your draft! I enjoyed it. I felt for Mason and will be interested to see what his story shapes up to be. I do think you kind of ruin your own story with the opening paragraph. For one thing, it sounds much older than Mason turns out to be, and also, we read the story knowing that this absolutely is not going to go well for him, just waiting for that to come true. So the suspense is gone. I wonder if you think of this story as a kid absolutely convinced something’s going to go great while everyone around him knows that it will not. He is so mean to Trisha but even she knows — it’s not going to happen. I wonder if you want to try to show us why Mason thinks that the boys will be nice to him (I wondered why they felt they had to tolerate him at the games, if he was terrible, but not at school, where there would likely be some things he’s good at?), and perhaps also consider if he’s a bit of a jerk to Trisha because she’s a girl, showing that while Mason is a victim of stereotyping, he also is guilty of doing it himself? I love that you have a real conflict here, but shaping the story a bit (losing the opening, taking out the long video playing game section or making it more revealing) will really help you tighten it up. Happy revising!"
+    }
+  ]
+}

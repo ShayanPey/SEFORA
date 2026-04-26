@@ -1,0 +1,78 @@
+{
+  "paragraphs": [
+    {
+      "body": "There’s nothing more satisfying than a bowl of wonton noodles—springy egg noodles in a hearty broth of pork or chicken, topped with juicy prawn wontons that burst with flavor. A drizzle of chili oil or a splash of tangy red vinegar completes the dish, a quintessential Cantonese staple found in restaurants across Hong Kong. These eateries, bustling with waitstaff weaving through tightly packed tables, serve piping hot bowls to a fast-moving crowd.",
+      "annotations": []
+    },
+    {
+      "body": "Growing up in Australia, my noodle experiences were limited to chicken chow mein or salty pho, until I discovered authentic wonton noodles at a Hong Kong eatery. Living in Hong Kong and China for nearly a decade, I savored the finest noodle dishes—cart noodles at Wing Kee, mala cold noodles on Garden Hill, and beef brisket at Sister Wah. Across Asia, I indulged in ramen, khao soi, and braised beef noodles, often dragging friends along to try more.",
+      "annotations": []
+    },
+    {
+      "body": "Facing a move to the United States, I worried about finding authentic noodles. Two weeks into my new life, I’ve found the noodles in New York surprisingly good, thanks to a growing appreciation for genuine Asian cuisine. While I still seek the perfect prawn wonton noodles, the journey itself mirrors the joy of discovery.[1]",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Facing a move to the United States, I worried about finding authentic noodles.",
+          "comment": "Please use a third person, neutral tone.",
+          "context_left": "",
+          "context_right": " Two weeks into my n"
+        }
+      ]
+    },
+    {
+      "body": "New York Maxi’s Noodle, a Hong Kong-style pop-up in Flushing, Queens, specializes in wonton noodle soup. Despite a seemingly extensive menu, the star is the carefully crafted wonton soup, requiring a variety of ingredients prepared with precision. The broth, made from pork bones and dried shrimp, forms the base. Complementing it are elastic yellow noodles, five-spice-flavored stewed beef, fish balls mixed with scallions, crispy fried fish skin, and more. However, the true highlight is the wontons.",
+      "annotations": []
+    },
+    {
+      "body": "Each bowl features plump wontons filled with a shrimp-forward mixture of shrimp and pork. Customers can opt for four wontons with noodles or six without, with each morsel boasting crisp, high-quality shrimp encased in delicate wrappers.",
+      "annotations": []
+    },
+    {
+      "body": "The venture is deeply personal for Maxi Lau, who opened it after leaving corporate management to honor her late mother’s unrealized dream of running a wonton shop. Lau learned the craft from a family friend in Toronto and launched Maxi’s as a pop-up at her aunt's cafe. She plans to open a permanent noodle soup shop later in Flushing. In the meantime, demand for her frozen wontons has exceeded expectations, with many customers returning for more. [2]",
+      "annotations": []
+    },
+    {
+      "body": "Squirrel Hill has transformed into Pittsburgh's Little Asia, boasting a variety of Asian cuisines such as Korean, Thai, Chinese, ramen, and teppanyaki, all within a few blocks. Among these, Everyday Noodles stands out for its focus on handmade noodles.",
+      "annotations": []
+    },
+    {
+      "body": "The noodles are crafted in-house, and diners may even catch the chef in action through a glass-paneled kitchen. The rhythmic slapping of dough on the counter often surprises customers with its intensity, making the noodle-making process a spectacle. The menu offers both noodle soups and dry noodles packed with bold flavors. Favorites include the rich noodles with minced pork, the nutty sesame cold noodles, and the spicy wonton noodles, which deliver a satisfying kick of heat.",
+      "annotations": []
+    },
+    {
+      "body": "While the noodles are the main attraction, Everyday Noodles offers a range of other dishes, including dim sum, dumplings, and rice plates. A standout is the pork soup dumplings, which feature tender wrappers, seasoned pork, and a flavorful broth. These dumplings are so irresistible that ordering extra is a must.",
+      "annotations": []
+    },
+    {
+      "body": "With its vibrant menu and expertly crafted dishes, Everyday Noodles provides a memorable dining experience, making it a favorite for locals eager to explore unique flavors.[3]",
+      "annotations": []
+    },
+    {
+      "body": "1. Yiu, Pak (2024-03-27). \"A hearty bowl of wonton noodles would make my day\". The Hong Konger. Retrieved 2024-12-13. 2. \"The Key to a Singular Soup: Multiple Won Tons (Published 2019)\". 2019-03-05.",
+      "annotations": []
+    },
+    {
+      "body": "Archived from the original on 2024-04-10. Retrieved 2024-12-13. 3. \"Everyday Noodles Review - Taiwanese Noodles in Squirrel Hill\". 2015-09-05.",
+      "annotations": []
+    },
+    {
+      "body": "Retrieved 2024-12-13.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Main Idea": "N/A",
+        "Organization": "N/A",
+        "Support": "N/A",
+        "Sources": "N/A",
+        "Writer's Ethos": "N/A",
+        "Total": 8.0
+      },
+      "comment": "N/A"
+    }
+  ]}

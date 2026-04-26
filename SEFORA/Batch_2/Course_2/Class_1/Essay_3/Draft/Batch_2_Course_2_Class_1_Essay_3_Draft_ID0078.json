@@ -1,0 +1,99 @@
+{
+  "paragraphs": [
+    {
+      "body": "Can AI Be Truly Creative? A Philosophical and Empirical Inquiry Artificial intelligence (AI) has demonstrated impressive skills in generating art, composing music, and even crafting poetry. With systems such as GPT-4 and Deepseek, AI-created pieces often look almost the same as those produced by humans. This scenario raises an important query: Are machines capable of genuine creativity, or are they merely imitating patterns from human models? Creativity has traditionally been viewed as a uniquely human trait, necessitating not only novel concepts but also deliberate intent and self-reflective awareness. While certain specialists argue that AI is missing these essential elements, others suggest that its ability to generate surprising results could signify a novel type of innovation. This paper explores the potential of AI to attain genuine creativity by analyzing current philosophical frameworks and psychological theories, addressing counterarguments, and offering a different perspective on the role of machines in creative processes. The conclusion indicates that AI exhibits a form of assisted creativity—producing original results based on existing data patterns, yet it lacks the self-directed intention that characterizes human creative actions.",
+      "annotations": []
+    },
+    {
+      "body": "1 The Core of Creativity",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "1 The Core of Creativity",
+          "comment": "Please left align the headings",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "Creative activities are typically seen to encompass two essential criteria: uniqueness and significance. Researchers such as Boden (2004) outline categories that involve reassembling established concepts in new ways, broadening the limits of accepted ideas, and completely transforming entire frameworks. Contemporary AI systems, especially those utilizing sophisticated learning algorithms, excel in the initial two categories by recognizing patterns in training data to produce new results. Nonetheless, the third category—like creating entirely new artistic styles—still largely exceeds current technological abilities.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(2004)",
+          "comment": "",
+          "context_left": "chers such as Boden ",
+          "context_right": " outline categories "
+        }
+      ]
+    },
+    {
+      "body": "Philosophers like Searle (1980) highlight AI's lack of genuine understanding, pointing to his famous analogy regarding rule-following systems. When AI creates a poem, it lacks an understanding of poetic expression—it systematically follows language rules to construct text that people perceive as meaningful. This viewpoint suggests that AI’s creative results are deceptive, embodying intricate pattern reproduction instead of genuine creative reasoning.",
+      "annotations": []
+    },
+    {
+      "body": "2 AI and the Automation of Creative Tasks The conversation regarding the mechanization of creativity delves into more profound inquiries about what makes humans unique. While AI can replicate specific creative activities via data analysis and statistical modeling, its results ultimately stem from human-created training resources and established guidelines. Genuine creativity, as some argue, requires personal lived experiences and cultural understanding that machines cannot truly represent. Upcoming advancements may center on hybrid methods where AI enhances rather than replaces human creativity, utilizing synergies between natural inspiration and computational efficiency while recognizing the intrinsic limitations in both areas.",
+      "annotations": []
+    },
+    {
+      "body": "Advocates of AI-generated creativity often highlight the clear innovation present in artworks produced by machines. For instance, artworks created by AI platforms such as DeepArt have reached significant auction prices, alongside symphonies composed by algorithms and performed by real orchestras (Elgammal et al., 2017). These examples indicate that artificial systems can produce results deemed creative by human viewers. Additionally, tools like OpenAI’s DALL·E create unique artistic creations—pieces that may not typically arise from human creativity by itself.",
+      "annotations": []
+    },
+    {
+      "body": "Nonetheless, these results do not completely validate that AI has true creativity. In simple terms, creativity encompasses not just the end result but also the mental processes that precede it. Human creators act with intention, emotional motivation, and self-understanding, while AI systems function devoid of these internal conditions—producing results by adhering to mathematical patterns in data instead of any genuine desire to create. According to Boden (2004), human creativity often entails difficulties, spontaneous thoughts, and significant personal commitment, which machines do not undergo.",
+      "annotations": []
+    },
+    {
+      "body": "3 Opposing views: Might AI Creativity Develop? Certain researchers suggest that as AI models become increasingly advanced, they may exhibit types of creativity similar to that of humans (Colton et al., 2012). If we characterize creativity solely by results—signifying that anything generating original creations counts—then AI could potentially satisfy fundamental standards. This perspective suggests that the reluctance to classify AI as creative arises from a preference for human thought.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "The arguments look great! In the final draft, please add survey or interview results to enrich your argument.",
+          "context_left": "ativity Develop? Cer",
+          "context_right": "Certain researchers "
+        }
+      ]
+    },
+    {
+      "body": "Furthermore, there are theories proposing that sophisticated learning systems might eventually replicate intentional behavior (Goertzel, 2014). If an AI system acquires the capability to assess its results, intentionally modify them, and cultivate aesthetic tastes, it could achieve genuine creativity. Though conjectural, this prompts essential inquiries: If these achievements were attained, would we continue to deny the \"creative\" designation, or would we alter the definition of creativity itself?",
+      "annotations": []
+    },
+    {
+      "body": "4 A Fresh View: AI as a Partner in Creativity Instead of seeing AI as simply creative or uncreative, a more effective perspective considers it as a collaborative ally. By managing monotonous tasks or producing initial ideas, AI could allow human creators to concentrate on more advanced thinking. This collaborative framework recognizes the existing constraints of AI while utilizing its advantages to boost human creativity.",
+      "annotations": []
+    },
+    {
+      "body": "For example, AI-assisted design tools allow architects to explore new forms and structures that human designers might not have considered alone. Similarly, AI-driven music composition tools can suggest harmonies and melodies that inspire musicians to create in new ways. This view reframes AI not as a competitor to human creativity but as a powerful instrument that enhances the creative process.",
+      "annotations": []
+    },
+    {
+      "body": "5 Conclusion While AI can generate outputs that are novel and valuable, it lacks the self-awareness, intentionality, and emotional engagement that characterize true creativity. AI is best understood as a derivative creator, excelling at recombining and exploring known patterns but incapable of transformational creativity without human input. However, rather than dismissing AI’s creative potential, we should recognize its role as an invaluable collaborator that augments and extends human creativity. The future of creativity will likely be a hybrid process, where human imagination and AI’s computational power work together to push the boundaries of art, literature, and innovation.",
+      "annotations": []
+    },
+    {
+      "body": "References List Boden, M. A. (2004). The creative mind: Myths and mechanisms (2nd ed.). Routledge. Colton, S., Wiggins, G. A., & Guckelsberger, C. (2009). Computational creativity: Coming of age. In Proceedings of the 3rd International Conference on Computational Creativity (pp. 1-9). https://doi.org/10.1609/aimag.v30i3.2257 Elgammal, A., Liu, B., Elhoseiny, M., & Mazzone, M. (2017). CAN: Creative adversarial networks, generating “art” by learning about styles and deviating from style norms. https://doi.org/10.48550/arXiv.1706.07068 Goertzel, B. (2014). Artificial general intelligence: Concept, state of the art, and future prospects. Journal of Artificial General Intelligence, 5(1), 1-48. https://doi.org/10.2478/jagi-2014-0001 Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-457. https://doi.org/10.1017/S0140525X00005756",
+      "annotations": [
+        {
+          "type": "strikeout",
+          "text": "Lis",
+          "comment": "",
+          "context_left": "References ",
+          "context_right": "t Boden, M. A. (2004"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Total": "N/A"
+      },
+      "Peer Comment": "Purpose/Thesis: After reading the draft, what would you say is the purpose or thesis the paperis trying to get across? How does the draft fulfill (or not fulfill) that purpose? The paper talks about if AI can really be creative. The main idea is that AI can make creative things, but it is not truly creative like humans. The paper explains this clearly. Persuasiveness: What did you learn about the topic after reading the paper that you didn't fullyappreciate before you read it? ls this something you find significant or interesting? lf so, why?How well did the author address counterarguments? I learned that AI can make art and music, but it doesn’t have feelings or real thoughts. I think this topic is interesting. The writer also showed the other side, which was good. Support: Did you find the claims, reasons, and evidence in the document convincing? Why orwhy not? Did you see a balanced coverage/an even distribution of claims and evidence? Whatinformation can be omitted or added to help your peer focus on the thesis? (Include paragraphnumbers). The paper has good examples like DALL·E and DeepArt. The writer used many sources. I think paragraph 4 could have one more example of people using AI to create something together. Quoting and Paraphrasing: How effective has the author quoted and paraphrased information? Has the author used a signal phrase to introduce a quote/paraphrase and explain thequote/paraphrase in their own words? The writer used quotes in a good way. They used simple words to explain the quotes and said where they came from. Organization: How is the draft organized in a logical manner (e.g., using headings/subheadings)?Given the organization, could the main points be presented in a more effective way? (include paragraph numbers) The paper is easy to read. It has clear sections. The ideas go in a good order. Each paragraph talks about one idea. Transition: What suggestions can you make for transitions both between and within paragraphs that would make connections clearer and easier to follow? (include paragraph numbers). Most paragraphs connect well. But between paragraph 3 and 4, maybe add one sentence to make the change smoother. The sentences: Choose 1-2 sentences you consider the most interesting or best written-stylistically effective, entertaining, or otherwise memorable. Then choose 1-2 sentences you seeas weak-confusing, awkward, or uninspiring. Advise your peer on how to revise the weaksentences. (include paragraph numbers). Good sentence: “Creativity has traditionally been viewed as a uniquely human trait…” Weak sentence: “If these achievements were attained…” — maybe write “If AI can do this in the future…” to make it clearer. The format/design: To the best of your ability, check for and point out mechanical/grammaticalerrors, word choice issues, spelling mistakes, and APA formatting issues. Did the authors useformal academic language and a first/third person serious tone? (Include paragraph numbers) The paper looks clean. I didn’t see grammar mistakes. The language is formal and fits the topic. Introduction/concusion: What strategy/strategies have been used to introduce and concludethe draft? Does the introduction catch the reader's interest? Does the draft conclude in amemorable way? How else might this draft begin and end? The beginning is interesting and asks a good question. The ending repeats the idea well and finishes strong. Any other comments? Nice job! Maybe just add one real story of someone using AI to create something with it."
+    }
+  ]
+}

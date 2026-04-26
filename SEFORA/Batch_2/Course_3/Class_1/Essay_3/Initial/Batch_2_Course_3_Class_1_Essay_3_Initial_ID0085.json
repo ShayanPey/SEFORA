@@ -1,0 +1,309 @@
+{
+  "paragraphs": [
+    {
+      "body": "From the Journal of Dr. James M. Rotherham",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Rotherham",
+          "comment": "Love this title and love a journal story. ",
+          "context_left": "nal of Dr. James M. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "[Wednesday, March 12]",
+      "annotations": []
+    },
+    {
+      "body": "It’s still not working. I don’t understand what changed between the Wednesday and last night, but PREDS is failing all the base tests again. Not one out of the 538,913 was green last I checked. I was too arrogant to think that PREDS wouldn’t fail after I got it working the first time. Stupid, stupid me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "was too arrogant ",
+          "comment": "This might be better phrases as “I was arrogant” or “it was arrogant of me…”?",
+          "context_left": "n last I checked. I ",
+          "context_right": "to think that PREDS "
+        }
+      ]
+    },
+    {
+      "body": "But I’m sure I can fix it. It’ll take time, but I’ll get it working again. I’ll probably start by adjusting the fifth-level cofactors in the quadratic model, god knows how many times that’s been an issue in the past.",
+      "annotations": []
+    },
+    {
+      "body": "I’ll have to cancel dinner with Elise tonight. I don’t think she’ll mind as long as I make it up within the next couple days. Unfortunately, I can’t know for sure how she’ll feel, because I can’t use the damn model right now. But based on my prior knowledge, as long as I can get PREDS fixed in the next 48 hours, everything will work out.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "right now",
+          "comment": "Oh, I was so intrigued by this! ",
+          "context_left": " use the damn model ",
+          "context_right": ". But based on my pr"
+        }
+      ]
+    },
+    {
+      "body": "[Friday, March 14]",
+      "annotations": []
+    },
+    {
+      "body": "Got it again! Turns out it was actually a quantum probability collapse in System 7. I was able to stabilize the covariates and it works perfectly again. Elise said she’d be happy to reschedule for today, so we’re on for tonight. I’ve already memorized the things to say and all her responses. PREDS gave Petey’s Pizza as the best place instead of Pimio’s, it’ll be less crowded today which is what she prefers. I’d say I hope this date goes as well as the first date last week, but I don’t need to hope, I have PREDS, so I know!",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Got it again",
+          "comment": "Maybe “fixed”? In  general I like this story a lot. I’m interested. Make sure your words are working as hard as possible for you. ",
+          "context_left": "",
+          "context_right": "! Turns out it was a"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "again. Elise ",
+          "comment": "It’s a nice touch that these things are apparently of roughly equal importance to him. ",
+          "context_left": " it works perfectly ",
+          "context_right": "said she’d be happy "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "so",
+          "comment": "Nice. We really get a sense of what he’s doing here. I wonder if PREDS maybe reassured him that she would put up with one reschedule but not two, earlier. ",
+          "context_left": "ize the covariates and it works perfectly again. Elise said she’d be happy to reschedule for today, ",
+          "context_right": " we’re on for tonight. I’ve already memorized the things to say and all her responses. PREDS gave Pe"
+        }
+      ]
+    },
+    {
+      "body": "[Saturday, March 15]",
+      "annotations": []
+    },
+    {
+      "body": "Everything went as expected yesterday. I didn’t flub any of my lines, and her responses were exactly as predicted. Sometimes I have to stop myself from mouthing her words as she says them – she would definitely think that was weird, and then we’d end up going off-script. I also had to hold my chuckle when she complimented me, saying it’s like I “knew what to say” – I knew that line was coming, but it was still hard for me to contain my laughter.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "laughter.",
+          "comment": "I would love one more sentence here, to know whether he’s laughing because he’s delighted by PREDS or if he’s a little, uh, evil, in realizing he can manipulate her so well. ",
+          "context_left": "or me to contain my ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "I’m going to start setting up the automated betting system tonight. I’ll have to be careful or the sportsbooks will catch on, and I definitely don’t need the attention. I’ll keep my wagers low and spread out for now, but soon enough, I should have the money to take Elise to that musical next Saturday. PREDS says that will result in the best possible outcome.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "possible",
+          "comment": "Again, very nice. Has he bet before using PREDS? ",
+          "context_left": " result in the best ",
+          "context_right": " outcome."
+        }
+      ]
+    },
+    {
+      "body": "[Monday, March 17]",
+      "annotations": []
+    },
+    {
+      "body": "Money is starting to rack up. Up to $2,300 and so far, the sportsbooks haven’t caught on. I got the tickets to the musical - middle balcony level, three rows up. The 3rd most ideal seating possibility, but the other two options were taken. It’ll still go well – when we take our seats, she’ll look to me and tell me, “James... these are amazing. How did you even manage to...”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "manage",
+          "comment": "I enjoy his sharing of what will happen. ",
+          "context_left": "g. How did you even ",
+          "context_right": " to...”"
+        }
+      ]
+    },
+    {
+      "body": "And I’ll cut her off and say “I just got lucky with the timing,” giving her a smile and squeezing her hand. When I drive her home, I’ll park the car outside her apartment. Before she exits, she’ll look back at me, and I’ll lean in to kiss her for the first time. PREDS can’t really tell me how to kiss, though, so I hope I don’t screw that up.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "squeezing",
+          "comment": "squeeze",
+          "context_left": "ing her a smile and ",
+          "context_right": " her hand. When I dr"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "up",
+          "comment": "Love this. ",
+          "context_left": " I don’t screw that ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "[Tuesday, March 18]",
+      "annotations": []
+    },
+    {
+      "body": "Now at $4,100. Would be more but PREDS messed up one of my bets – I took the over on the Yankees game but the score ended up under by one run. I don’t know what caused it, there may be some temporal instability in the entropic variables I need to check on. Concerning, but not red-alert level. I’ll have to make sure everything is perfect for next Saturday.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Saturday",
+          "comment": "Fix formatting. Nice to show that PREDS isn’t perfect. Is this the first time it’s messed up? Or does he know it’s a bit of a - heh - gamble. ",
+          "context_left": "is perfect for next ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "[Wednesday, March 19]",
+      "annotations": []
+    },
+    {
+      "body": "PREDS really fucked up this time. I was meeting Elise for lunch, sticking to the script, complimenting how her earrings matched her eyes, and she suddenly asked me what my plans were, if I was going to stick to academia or go somewhere else. She was supposed to compliment the white cable-knit sweater I wore that PREDS picked out. I sat there silently for maybe 15 seconds, before stammering something about keeping my options open. Truth be told, I haven’t consulted PREDS on my future yet. Eventually I’ll have enough income from my betting that I won’t need to be a professor anymore, but I don’t know what the most optimal path will be after that. And will I need to hide my betting from Elise? Maybe I should find a more respectable way to make the money. I need to fix PREDS for good and figure it all out.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "PREDS for good ",
+          "comment": "Suggest getting an earlier sense that it’s still not working quite right. I thought it was back on track. ",
+          "context_left": "oney. I need to fix ",
+          "context_right": "and figure it all ou"
+        }
+      ]
+    },
+    {
+      "body": "Anyway, I made an excuse about needing to go back to the office for some meeting I forgot about. She seemed disappointed, but there was no way in hell I would let things go any further unscripted. Tonight, I’m not sleeping until I get PREDS back to 100%.",
+      "annotations": []
+    },
+    {
+      "body": "[Thursday, March 20]",
+      "annotations": []
+    },
+    {
+      "body": "I fixed PREDS and then I fucked up. I was up until 4 AM adjusting parameters, and fell asleep in the lab. When I woke, it was 11, the morning class I should have been teaching already over with, my email littered with messages from confused students. It’s not the end of world, but it sets me back on time while I try to make up the lecture.\nThen in the afternoon, while I was walking back from Starbucks, 12 minutes later than usual, I ran into Elise on the street. I guess she was on campus today for a special work meeting. I tried to pretend not to see her, but her eyes quickly found mine.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lecture",
+          "comment": "Ugh, the professor’s nightmare! You might get something out of his having to teach just one class if he’s also researching for the university. Or is PREDS a private project? ",
+          "context_left": " try to make up the ",
+          "context_right": ".\nThen in the aftern"
+        }
+      ]
+    },
+    {
+      "body": "“James?” she asked, with an inquisitive smile. “I was hoping I’d see you!” She laughed, approaching me, while I stood there stiff as a board. Her expression seemed to shift into concern. “Hey, are you feeling alright? You look a bit... off.”",
+      "annotations": []
+    },
+    {
+      "body": "I did that thing where I was silent for a good bit. Then I mumbled something briefly about work again and sped off. That definitely wasn’t good, and I’m going to have to do a good bit of recalculating to see how I can make this up.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "up",
+          "comment": "This really nicely shows that she genuinely likes him and he doesn’t get it. ",
+          "context_left": "how I can make this ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "On the plus side, my earnings are up over $8,000 now. I can probably put in some bigger bets I think, get some more cash. I’m starting to like the idea of quitting academia.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "academia",
+          "comment": "I’d love to learn just a bit more about the narrator — does he want to be a professor, did he meet Elise through his job, etc. Those little details help shape the story. ",
+          "context_left": "he idea of quitting ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "[Friday, March 21]",
+      "annotations": []
+    },
+    {
+      "body": "My earnings are now 0. I was aggressive with the bets last night, using my winnings to get more money, faster. Every single bet failed. I broke my monitor after slamming my fist into it, as I watched each game - baseball, horseracing, curling, and the like – all finish the wrong way, one by one. I don’t think I can afford those tickets anymore. I could sell them to get something back, maybe. But that was the ideal date.",
+      "annotations": []
+    },
+    {
+      "body": "Not sure that matters now, anyway. PREDS is probably busted for good. Any more mistakes and my chances with Elise are gone – not even the world’s most complex mathematical model can make possible the impossible, only the improbable. Without PREDS working, I’m like a blind, deaf bull in a china shop. I may as well give up now before I hurt her any more.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "PREDS is probably busted for ",
+          "comment": "I needed a little more here — busted because the computer is busted or because it doesn’t work? ",
+          "context_left": "atters now, anyway. ",
+          "context_right": "good. Any more mista"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "shop",
+          "comment": "You’ve really set up his complication well. I find myself so eager for him to learn! ",
+          "context_left": "eaf bull in a china ",
+          "context_right": ". I may as well give"
+        }
+      ]
+    },
+    {
+      "body": "[Saturday, March 22]",
+      "annotations": []
+    },
+    {
+      "body": "I still tried to fix it last night. I made it worse. I made it worse to the point where I angrily deleted all the program files of PREDS after incoherently raging at my broken monitor screen, which burned bright with red, the color of errors. Then I tried to desperately recover the files after the weight of my actions sank in, frantic regret sinking in as I attempted to undo my actions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "undo",
+          "comment": "You might want to try to show when in time he’s writing this — presumably a while later? I wonder who he’s keeping this journal for. ",
+          "context_left": "n as I attempted to ",
+          "context_right": " my actions."
+        }
+      ]
+    },
+    {
+      "body": "There’s no way to get the files back. They’re gone now.",
+      "annotations": []
+    },
+    {
+      "body": "A buzzing against my forehead jerked me back to reality, after I had spent an hour moping face-down on my desk. It was Elise, calling. That was never part of PREDS’ prediction. Nothing from that point on would be again. I picked up the phone, the screen glowing with her face on it. In her profile photo, her long hair flowed softly down the sides of her head, the red dye on the underside gracefully peeking through. The golden flecks of her eyes caught the sunlight. She wore cat-shaped earrings, black and white, just like her cat Oreo that saw her through childhood, and for whom she cried for weeks when he passed.\nI swiped across the screen, accepting the call.",
+      "annotations": []
+    },
+    {
+      "body": "“James?” she said. “Can... can we talk?”",
+      "annotations": [
+      ]
+    },
+    {
+      "body": "I think the corners of my mouth may have upturned ever so slightly as I responded. “Yes. Let’s talk.”",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I couldn’t tell if this was good news or bad news! Lincoln, this is a lovely first draft. I enjoyed this concept for your story a lot — it’s a rich one, and I liked how you mostly kept James from being kind of a villain. I do want to know a bit more about the circumstances — how he knows Elise, for example. I got the sense he did not build PRENDS just to woo her, but I wasn’t sure about that. I also wanted a bit more of a moral through line here, not because stories need them but because I sensed a possible lesson — be yourself or people will love you for who you are or whatever you think it is. Show us that a bit more — what is Elise calling to tell him in the end? Very nice work! Happy revising! "
+    }
+  ]
+
+}

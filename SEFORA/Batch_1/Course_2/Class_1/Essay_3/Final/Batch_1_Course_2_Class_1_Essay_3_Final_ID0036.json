@@ -1,0 +1,134 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Power of Preliminary Testing in Boosting Memory Retention",
+      "annotations": []
+    },
+    {
+      "body": "Most people have experienced a moment of blanking out during an exam, despite extensive preparation. It’s natural to wonder why this happens, even with diligent studying. The answer often lies in how frequently and effectively students use self-assessment, rather than solely focusing on studying. Research highlights that integrating preliminary testing into the learning process enhances memory retention by engaging working memory and reinforcing learned material, which prevents it from fading quickly. Without regular self-assessment, exams can become a stressful experience, as students may not have a clear sense of their preparedness or mastery of the material. Testing not only helps students identify strengths and areas needing improvement but also strengthens their ability to transfer information from working memory to long-term memory through active recall. Studies also show that retrieval practice, regardless of the format—multiple-choice, short-answer, or hybrid—leads to better retention and performance in exams. The significance of preliminary self-assessment is undeniable. This thesis will explore how using testing as a learning tool supports effective material retention, the scientific explanations behind this model, and further insights into its benefits.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "further",
+          "comment": "offer insights into",
+          "context_left": "ind this model, and ",
+          "context_right": " insights into its b"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Studies also show that retrieval practice, regardless of the format—multiple-choice, short-answer, or hybrid—leads to better retention and performance in exams. The significance of preliminary self-assessment is undeniable.",
+          "comment": "Please add in-text citations to justify your claims.",
+          "context_left": "ough active recall. ",
+          "context_right": " This thesis will ex"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "thesis ",
+          "comment": "paper",
+          "context_left": "is undeniable. This ",
+          "context_right": "will explore how usi"
+        }
+      ]
+    },
+    {
+      "body": "Research has shown that preliminary testing before an actual exam helps students improve their academic performance. The incorporation of testing into one's learning process highlights the strengths students have in each studied material, allowing them to identify areas that need further review. Additionally, testing serves as a powerful tool for active learning by engaging and stimulating working memory, which is essential for processing and retaining new information (Zheng, Shi, & Anthony, 2024). This is particularly important as working memory, often described as the brain's workbench, plays a crucial role in temporarily holding and manipulating information necessary for cognitive tasks like problem-solving and comprehension (Chai, Hamid, & Abdullah, 2018). However, working memory has a limited capacity, meaning it can only hold a small amount of information at a time. If this information is not actively retrieved and applied—such as through solving problems, practicing recall, or using the concept in different contexts—it quickly fades (Miller, 2021). This is where testing plays a critical role. By repeatedly engaging with learned material, students not only strengthen their understanding but also begin the process of consolidation, where information is transferred from working memory to long-term memory. Long-term memory, in contrast to working memory, has an immense and virtually limitless capacity. Consolidation through testing involves not only recalling information but also connecting it to previously learned concepts and creating meaningful associations. This process makes material more memorable and easier to retrieve in the future. Studies have shown that practice testing significantly improves retention rates compared to passive review, enabling students to build a solid foundation for learning and reducing the need for repetitive study sessions later. Testing also helps students develop a deeper understanding of the material, enhancing their ability to apply knowledge in varied and complex scenarios. Ultimately, integrating preliminary testing into the study process offers significant benefits for long-term learning and academic success.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "(Zheng, Shi, & Anthony,",
+          "comment": "Zheng et al., 2024",
+          "context_left": "ing new information ",
+          "context_right": " 2024). This is part"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Studies have shown that practice testing significantly improves retention rates compared to passive review, enabling students to build a solid foundation for learning and reducing the need for repetitive study sessions later. Testing also helps students develop a deeper understanding of the material, enhancing their ability to apply knowledge in varied and complex scenarios.",
+          "comment": "Same as above. Citations are needed to support your claims.",
+          "context_left": "ieve in the future. ",
+          "context_right": " Ultimately, integra"
+        }
+      ]
+    },
+    {
+      "body": "The process of consolidation involves recalling learned material, connecting it to related concepts, applying it to practice problems, and creating meaningful associations with studied concepts, all of which make the material easier to remember (Cotton & Ricker, 2022). This practice enhances the ability to retrieve memories later on. Therefore, the retrieval of information from working memory significantly facilitates and supports consolidation into long-term memory. Supporting this, Smith and Karpicke (2014) examined whether different question formats equally promote the testing effect, a phenomenon that strengthens memory through retrieval practice. Their experiments with undergraduate students revealed that participants who engaged in retrieval practice, such as answering short-answer, multiple-choice, or hybrid questions after reading, significantly outperformed a control group that did not practice retrieval (Smith & Karpicke, 2014). One week later, these students answered nearly twice as many questions correctly, demonstrating improved retention of factual and inferential information. Importantly, the type of retrieval practice—whether short-answer, multiple-choice, or hybrid— did not significantly affect learning outcomes, though hybrid questions offered a slight advantage in specific contexts. These findings emphasize that retrieval practice, regardless of format, is crucial for reinforcing learning and aiding the transfer of information from working memory to long-term memory.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "this,",
+          "comment": "this view",
+          "context_left": " memory. Supporting ",
+          "context_right": " Smith and Karpicke "
+        }
+      ]
+    },
+    {
+      "body": "To effectively implement testing into study routines, several strategies can be used to optimize learning and improve outcomes. Practice tests are one of the best methods, as they simulate real exam conditions, helping students identify their strengths and weaknesses while also promoting retrieval practice by revisiting the material. Similarly, flashcards are a great hands-on tool for recalling individual concepts, such as definitions or key terms, encouraging active engagement and reinforcing memory. In addition to individual efforts, study groups can be an effective way to quiz one another on the material, sparking in-depth discussions, clearing up misunderstandings, and providing valuable peer feedback. Another key strategy is spaced repetition, where material is reviewed at regular intervals over time. This approach combats the forgetting curve by revisiting concepts periodically, ensuring long-term retention. By combining these methods in a well-structured study plan, students can effectively integrate active recall and retrieval-based learning into their routines. Testing should not only be seen as a way to measure knowledge but also as a tool to reinforce and master information. These techniques help students retain material more effectively, deepen their understanding, and improve overall academic performance.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Practice tests are one of the best methods, as they simulate real exam conditions, helping students identify their strengths and weaknesses while also promoting retrieval practice by revisiting the material. Similarly, flashcards are a great hands-on tool for recalling individual concepts, such as definitions or key terms, encouraging active engagement and reinforcing memory. In addition to individual efforts, study groups can be an effective way to quiz one another on the material, sparking in-depth discussions, clearing up misunderstandings, and providing valuable peer feedback.",
+          "comment": "I would suggest adding more sources here.",
+          "context_left": "d improve outcomes. ",
+          "context_right": " Another key strateg"
+        }
+      ]
+    },
+    {
+      "body": "Some people might argue that integrating testing into the study process takes up too much time, potentially limiting the opportunity for students to review and cover other parts of the material that require attention. However, without testing, information is quickly forgotten, leading to the need for repeated reviews later on. Research, such as Ebbinghaus’s Forgetting Curve, demonstrates how rapidly memory declines if information isn’t revisited (Burton, 2023). Forgetting occurs steeply at first—most people forget about 75% of what they learn during a lecture within a couple of days, and the majority of forgetting happens within the first hour. After this initial drop, the rate of forgetting slows, but only a few key details are typically retained for an extended period. However, Ebbinghaus also found that reinforcing information through review, such as testing, helps combat this decline (Burton, 2023). Testing strengthens memory retention and reduces the need for excessive reviewing in the future, ultimately making study sessions more efficient. Engaging in testing as part of the learning process not only counters this rapid forgetting but also enhances long-term retention, helping students build a strong foundation for future learning. While it may seem like testing takes valuable time away from other material, its long-term benefits outweigh the drawbacks by promoting active recall and retrieval-based learning. This practice enables students to retain information more effectively and reduces the overall time spent re-learning forgotten material, resulting in better performance and time management over the long term.",
+      "annotations": []
+    },
+    {
+      "body": "In summary, incorporating tests into study schedules is not just a tool for measurement but a highly effective method for enhancing learning and improving information retention. While it may initially require time and effort, the benefits of active recall and retrieval-based learning far outweigh any drawbacks. Testing helps combat the forgetting curve, strengthens memory consolidation, and ensures a deeper understanding of the material. By identifying areas of weakness and reinforcing knowledge through repeated retrieval, students can optimize their study time, reduce the need for excessive review in the future, and build a solid foundation for academic success. This approach transforms the learning process, making it both effective and efficient.",
+      "annotations": []
+    },
+    {
+      "body": "Bibliography Burton, C. (2023, August 15). Ebbinghaus forgetting curve: Why we forget and how to combat it. Thinkific Plus. Retrieved December 3, 2024, from https://www.thinkific.com/blog/ebbinghaus-forgetting-curve Cotton, K., & Ricker, T. J. (2022). Examining the relationship between working memory consolidation and long-term consolidation. Psychonomic Bulletin & Review, 29(6), 1625– 1648. https://doi.org/10.3758/s13423-022-02084-2 Chai, W. J., Hamid, A. I. A., & Abdullah, J. M. (2018). Working memory from the psychological and neurosciences perspectives: A review. Frontiers in Psychology, 9. https://doi.org/10.3389/fpsyg.2018.00401 Miller, R. R. (2021). Failures of memory and the fate of forgotten memories. Neurobiology of Learning and Memory, 181. Smith, M. A., & Karpicke, J. D. (2014). Retrieval practice with short-answer, multiple-choice, and hybrid tests. Memory, 22(7), 784–802. https://learninglab.psych.purdue.edu/downloads/2014/2014_Smith_Karpicke_Memory.pf Zheng, Y., Shi, A., & Anthony, X. L. (2024). A working memory dependent dual process model of the testing effect. npj Science of Learning, 9(56). https://doi.org/10.1038/s41539-024-00268-0",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Bibliography ",
+          "comment": "",
+          "context_left": "",
+          "context_right": "Burton, C. (2023, Au"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Bibliogra",
+          "comment": "References",
+          "context_left": "",
+          "context_right": "phy Burton, C. (2023"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "(2014).",
+          "comment": "Please cite more recently published sources.",
+          "context_left": ", & Karpicke, J. D. ",
+          "context_right": " Retrieval practice "
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 2.0,
+        "Sources": 3.0,
+        "Organization": 3.0,
+        "Writer's Ethos": 3.0,
+        "Total": 14.0
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

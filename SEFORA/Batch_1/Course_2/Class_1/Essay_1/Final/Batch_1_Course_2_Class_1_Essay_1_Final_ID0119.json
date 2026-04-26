@@ -1,0 +1,45 @@
+{
+  "paragraphs": [
+    {
+      "body": "\"Bridges Across Cultures: Walking from Pittsburgh to Suzhou\" In this narrative, I explore how my expectations of places differ from reality and how cross-cultural experiences change the way we understand them. By comparing a place in Pittsburgh to one in Suzhou, I learned about the uniqueness of each culture. These experiences broadened my view of the world and gave me a deeper understanding of cultural diversity. Before visiting, I had only heard about the Cathedral of Learning at the University of Pittsburgh. I imagined it as a grand structure, similar to ancient Chinese academies. I thought it would be surrounded by tall stone walls and old pine trees, giving off a sense of history and learning. Its name reminded me of Suzhou’s Confucian Temple (文庙), a place that symbolizes Confucian learning and intellectual tradition. I expected the Cathedral to feel calm and solemn, just like the temple in Suzhou. When I finally visited the Cathedral of Learning, I was surprised by its Gothic architecture. The building was massive and towered over everything around it. It was completely different from the humble and understated places I had imagined. The atmosphere felt modern, not ancient. The most surprising part was the Nationality Rooms. Each room represented the culture of a different country, and this blend of cultural heritage created a dynamic and lively space. It was far from the quiet, scholarly atmosphere I had anticipated. The Cathedral of Learning reminded me of the Confucian Temple in Suzhou. Both places are important symbols of education and culture in their respective cities. However, they are very different in style and meaning. The Confucian Temple reflects traditional Chinese values, with its peaceful and humble environment. It focuses on passing down knowledge in a quiet, reflective setting. On the other hand, the Cathedral’s Gothic style represents Western modernity. It embraces cultural diversity and a more global perspective. While both places symbolize learning, their architecture and the emotions they evoke are completely different. The Confucian Temple feels reverent and serene, while the Cathedral feels open and culturally vibrant. This experience made me realize how much cultural background influences architecture and academic spaces. Both the Cathedral of Learning and the Confucian Temple serve as symbols of education, but they reflect different values and histories. Visiting the Cathedral made me rethink my original ideas and showed me how cultural differences shape the way we experience a place. It opened my mind to a new way of seeing and appreciating academic spaces. Through this comparison, I also gained a deeper understanding of how culture and language are connected. The Cathedral of Learning taught me about the diversity and openness in Western culture. Meanwhile, Suzhou’s Confucian Temple helped me appreciate the calmness and tradition in Eastern culture. This cross-cultural experience expanded my awareness of cultural and linguistic diversity. I realized that the symbols we associate with education and architecture carry different meanings depending on the cultural context they come from. These experiences taught me that each place holds its own unique identity, shaped by its culture and history.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In ",
+          "comment": "Please add a 0.5'' hanging indent to the beginning of each paragraph.",
+          "context_left": "ttsburgh to Suzhou\" ",
+          "context_right": "this narrative, I ex"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Through this comparison,",
+          "comment": "This is nice paper. Please format the paper with times new roman and add a 0.5'' indentation to the beginning of each paragraph. I would also suggest using the simple past tense more consistently and adding detailed descriptions, such as dialogues, into the storytelling. Overall, good job!",
+          "context_left": "ng academic spaces. ",
+          "context_right": " I also gained a dee"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "are",
+          "comment": "Please use the simple past tense consistently throughout the paragraph.",
+          "context_left": "Suzhou. Both places ",
+          "context_right": " important symbols o"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3,
+        "Support": 2,
+        "Sources": 2,
+        "Organization": 3,
+        "Writer's Ethos": 2
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

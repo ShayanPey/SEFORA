@@ -1,0 +1,258 @@
+{
+  "paragraphs": [
+    {
+      "body": "Aurora",
+      "annotations": []
+    },
+    {
+      "body": "The water was green today, opaque and cloudy looking. The locals had superstitions about the color. Based their days around it. He’d never bothered to learn their meanings. Water was water. Sometimes calm, other times rough and disorienting. The green today was probably a side effect of more growing algae, nothing more. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "nothing more. ",
+          "comment": "I love this opening — I got a strong sense of “him” and this location right away (and I immediately sided with the locals!). ",
+          "context_left": "more growing algae, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "He turned the car left, away from the ocean and started up the curving hill towards the old house. The sun was out in full force today, like all days, but the trees surrounding the path made it feel cooler. The house at the top of the hill was the same as always. Lightly washed yellow stucco surrounded by trees and other vegetation. She had always called it a garden, but his parents still considered it a mess. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "She had always called it a garden, but his parents still considered it a mess. ",
+          "comment": "Intriguing. My general sense is that this opening is maybe 1-2 sentences too long. It’s beautifully written but I’d like to get to the story a bit more quickly. ",
+          "context_left": "d other vegetation. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "He pulled into the garage and turned off the engine. The old ford she used to drive had yet to be replaced with a new car. It didn’t matter much, he guessed. She barely left the house anymore these days. Convinced he would try to take it from her. He would eventually, he was sure. Had been trying for a while, but not today. Saturdays were for coffee and what she called exchanges of power. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ford",
+          "comment": "Capitalize",
+          "context_left": "the engine. The old ",
+          "context_right": " she used to drive h"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "power. ",
+          "comment": "Again, very intriguing. ",
+          "context_left": "called exchanges of ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The stains of the strawberry jam she had dropped the last time he’d come, a few weeks ago, still littered the white marble flooring when he walked in. It was rare for the house to let something sit for so long, but it had changed since he’d first met her. It still looked the same as always, of course, but as they’d grown older it had hidden more within its walls. She’d grown paranoid and he’d grown tired. The divorce hadn’t been unkind, but she’d felt wronged anyway, citing broken vows and pure evil. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "pure evil. ",
+          "comment": "Until here, I thought that the characters were a man and his mom! I just didn’t get it. I love the detail of the jam, and that he notices. ",
+          "context_left": "ing broken vows and ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "She turned her head as she heard him shuffle through the kitchen doorway and smiled. She looked younger than she had in years, unworried. ",
+      "annotations": []
+    },
+    {
+      "body": "“You look good today, Aurora”, he stepped forward from the doorway. ",
+      "annotations": []
+    },
+    {
+      "body": "“It’s a good day.” She placed a mug of coffee next to where he sat down and pulled out the chair across the table. He’d known her for almost twenty years, but looking at her was always different. Like seeing her for the first time all over again. “How was the drive in? Not too long, I hope. Since your offices expanded, and all.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "“How was the drive in? Not too long, I hope. Since your offices expanded, and all.”",
+          "comment": "This dialogue line should have its own paragraph. The way you have it here, it seems like he is saying it to her. ",
+          "context_left": "ime all over again. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“I already told you that land expansion was necessary and we made sure not to go near that turtle habitat. The drive was fine, the water was green though, I’m sure you’ll tell me what that means.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "the water was green though",
+          "comment": "I wonder if instead of referencing the native people, he would think more specifically about how his ex will have something to say about the water. ",
+          "context_left": "The drive was fine, ",
+          "context_right": ", I’m sure you’ll te"
+        }
+      ]
+    },
+    {
+      "body": "She sipped at her mug, a soft smile gracing her lips when she looked back at him. “That’s bad luck, for you.” She always knew how to push his buttons just the right way, “My father used to say the ocean told him everything he ever needed.”",
+      "annotations": []
+    },
+    {
+      "body": "He sighed, “What about when he died?” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "died",
+          "comment": "I love this dialogue — I really get a sense of them as people who know each other well, for good and for ill. That said, I did wonder what the purpose of his visit is? He seems to stop regularly, and if they’re exes, that’s a little odd. (I’m not against it, but would like to know a bit more.) ",
+          "context_left": "“What about when he ",
+          "context_right": "?” "
+        }
+      ]
+    },
+    {
+      "body": "She straightened and set her mug on the table, “The ocean is not a fortune teller. Just a reflection of our own depths. The day my father died was the day the oil rig exploded. The water was thick and poisonous, and it turned everything it touched black.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "black.” ",
+          "comment": "I love her line about the ocean. But I did wonder if he’d heard about the oil rig already? ",
+          "context_left": "erything it touched ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "He took a sip of the coffee. He still remembered that day clearly, such a long time ago. His parents had needed extra security because of the mob that had almost gotten through the gates. He had moved into her house the next day. Her parents wouldn’t be there to stop him anymore. “Tell me then, what the green water means.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "anymore",
+          "comment": "Concise and interesting details. ",
+          "context_left": "e there to stop him ",
+          "context_right": ". “Tell me then, wha"
+        }
+      ]
+    },
+    {
+      "body": "She took another sip of her coffee, “It’s not for me to tell you, only you know the deepest parts of you.” ",
+      "annotations": []
+    },
+    {
+      "body": "He sighed and pushed his own mug away. He had entertained her enough. “Where are the kids Aurora?” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "kids Aurora",
+          "comment": "Ah! Okay, this makes sense now. Again, I love your flow of pacing. ",
+          "context_left": "ugh. “Where are the ",
+          "context_right": "?” "
+        }
+      ]
+    },
+    {
+      "body": "“They’re in the garden, with the flowers.” She reached for the honey pot on the table and poured some into her coffee. She’d always taken it black.",
+      "annotations": []
+    },
+    {
+      "body": "His own coffee was prepared the way she always had for him, more cream than sugar. “There’s always something everytime I come to pick them up. Last time –” ",
+      "annotations": []
+    },
+    {
+      "body": "“Relax, they wanted to help the plants grow.” She stirred the spoon slowly in her cup, the black mixture taking on a slight iridescence where the light hit it. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "plants grow.” ",
+          "comment": "I didn’t quite follow why having the kids in the garden was a problem. (Or at least, that he perceives it as one?) ",
+          "context_left": " wanted to help the ",
+          "context_right": "She stirred the spoo"
+        }
+      ]
+    },
+    {
+      "body": "“Well, would you go and grab them? They’re gonna have to wash up now if they’re as filthy as I assume they are playing in that dirt.” He pushed his chair back. It never ended well if he spent too long with her. ",
+      "annotations": []
+    },
+    {
+      "body": "She stopped her stirring and looked up at him, “You know you can go to them yourself. They adore you, after all.” ",
+      "annotations": []
+    },
+    {
+      "body": "He stood up, “You’re still mad about the deed to the house aren’t you? It’s not my fault you married me against your parents wishes and are reaping the consequences.” ",
+      "annotations": []
+    },
+    {
+      "body": "She dropped the silver spoon onto the table, “You promised me the house would stay in my name until our children were old enough to keep it for themselves.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "themselves",
+          "comment": "I like how the dialogue keeps turning and tightening. It was great that he asks her to do something he can do perfectly well, and then when she bristles, he takes it up a notch. That all felt right to me.You are doing a little bit of dialogue as exposition here, though, and I’d love to see you eliminate that. (We can discuss!) ",
+          "context_left": "ough to keep it for ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "“And that’s exactly what’s happening!” He yelled.",
+      "annotations": []
+    },
+    {
+      "body": "“No, it’s not! You convinced the kids the land should be developed for your fucking oil company and they’ve agreed to give it to you when they turn of age in a few months.” She threw the ceramic cup at the wall. It shattered, spilling the sweet, oily coffee onto the floor. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "age in a few months.” ",
+          "comment": "Oh, I definitely thought “the kids” were, like, children. Are they twins? I wonder how we might see how angry she about this earlier? She does seem relatively calm when he first arrives, and I’m not sure I buy that at this point. I love that she throws her mug, but how did we go from zero to 60? ",
+          "context_left": "u when they turn of ",
+          "context_right": "She threw the cerami"
+        }
+      ]
+    },
+    {
+      "body": "He drew back, “That’s it. I’m leaving now. Where are the damn kids, Aurora?” He watched as the cracks in the marble slowly filled with the hot liquid. ",
+      "annotations": []
+    },
+    {
+      "body": "She laughed, standing up from the chair, “I already told you, helping the flowers grow.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "grow",
+          "comment": "Oh no! Big twist! ",
+          "context_left": "helping the flowers ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "He stared at her, finally noticing how different she seemed. “I haven’t heard them at all. They usually come up to me when they hear my car. Aurora, what did you do?”",
+      "annotations": []
+    },
+    {
+      "body": "She walked over slowly and took his hand, pulling him towards the garden. “You never did bother to learn any of our meanings here, did you Jason? I already told you, they’re with the flowers.”",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I enjoyed this piece, Claire. You write with such delicacy and imagery. It made me think of Hawai’i, actually, but wherever it’s set for you is vividly rendered. I love a two-hander (a two character story) and I do think you did a great job of making these two oppose each other. The use of the kids as the reason to be together worked nicely too — they actually are not really the conflict, but they’re part of it. I felt that the last 25% of the story got a little heavy-handed and rushed — the characters suddenly started saying pretty obvious dialogue to each other and Aurora turned out to be a murderer of her own children! Did not see that coming (because it’s not really in the story). So I wonder what happens when you do one of two things — either you pepper this Aurora and what she has done earlier in the story (so maybe she’s already spilled coffee, etc since she’s killed her children!) OR you take away the murder at the end to some other resolution. For example, she might pretend she has killed them? Or perhaps there’s another ending that makes a little more sense. (I even could see her killing *him* before their kids?)Strong work and really lovely, fun draft. I love the single scene, two character set up very much."
+    }
+  ]
+}

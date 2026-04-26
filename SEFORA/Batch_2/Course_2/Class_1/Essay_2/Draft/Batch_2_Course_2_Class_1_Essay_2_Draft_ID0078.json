@@ -1,0 +1,28 @@
+{
+  "paragraphs": [
+    {
+      "body": "The philosophy of testimony is a subfield of epistemology that examines the nature, scope, and justification of beliefs acquired through the testimony of others. Testimony, in this context, refers to the act of conveying information from one person to another, typically through speech or writing. The central questions in the philosophy of testimony include how we come to know things through the words of others, the conditions under which testimony is reliable, and the ethical implications of believing or disbelieving others.",
+      "annotations": []
+    },
+    {
+      "body": "According to Christoph Jäger in his chapter on Epistemic Authority (2025)[1], testimony is a fundamental source of knowledge, as it allows individuals to rely on the expertise and authority of others. Jäger argues that epistemic authority is often ascribed to individuals who possess superior knowledge or understanding in a particular domain. When we treat someone as an epistemic authority, we assign special weight to their views, which can lead to the transmission of knowledge or understanding. However, Jäger also highlights the challenges of identifying reliable authorities and the potential for epistemic dependence, where individuals may overly rely on authorities without critically evaluating their claims.",
+      "annotations": []
+    },
+    {
+      "body": "In a similar vein, Berislav Marušić (2024)[2], explores the concept of interpersonal reasoning in his article Interpersonal Reasoning: A Philosophical Psychology of Testimonial Trust. Marušić argues that believing someone involves a distinctive kind of reasoning that is fundamentally interpersonal. He draws an analogy between practical reasoning and interpersonal reasoning, suggesting that just as practical reasoning involves deciding to act based on what one sees as good, interpersonal reasoning involves trusting someone for the truth based on their testimony. Marušić emphasizes that this form of reasoning is not merely about evaluating evidence but about recognizing the speaker as a knower and engaging in a shared epistemic practice. This recognition, according to Marušić, is what distinguishes believing someone from merely treating their testimony as evidence.",
+      "annotations": []
+    },
+    {
+      "body": "Miranda Fricker (2007)[3], in her seminal work Epistemic Injustice, introduces the concept of testimonial injustice, which occurs when a speaker is not believed due to prejudice or bias. Fricker argues that testimonial injustice undermines the speaker's capacity as a knower and can lead to significant ethical and epistemic harms. She emphasizes that the act of believing someone is not just an epistemic matter but also an ethical one, as it involves recognizing the speaker's credibility and treating them with respect. Fricker's work highlights the importance of trust in testimonial exchanges and the need to address systemic biases that can distort our judgments of others' credibility.",
+      "annotations": []
+    },
+    {
+      "body": "Richard Moran (2020)[4], in The Exchange of Words, further develops the idea of testimony as a social act that involves mutual recognition between the speaker and the hearer. Moran argues that when a speaker tells someone something, they are offering an assurance of the truth, and the hearer's belief in the speaker is based on this assurance rather than on inductive evidence. Moran's assurance view of testimony emphasizes the interpersonal nature of testimonial exchanges and the role of trust in facilitating the transmission of knowledge. He suggests that the act of telling is completed through mutual recognition, where the speaker and the hearer align in their understanding of the reason for belief. In summary, the philosophy of testimony is concerned with understanding how we acquire knowledge through the testimony of others, the conditions under which such knowledge is justified, and the ethical implications of our reliance on others' words. Key themes in this field include the role of epistemic authority, the nature of interpersonal reasoning, the ethical dimensions of testimonial trust, and the social dynamics of testimonial exchanges. By examining these issues, philosophers of testimony seek to elucidate the complex interplay between knowledge, trust, and social interaction in our epistemic practices.",
+      "annotations": []
+    },
+    {
+      "body": "1. Jäger, Christoph (2025), Lackey, Jennifer; McGlynn, Aidan (eds.), \"Epistemic Authority\" (http s://philpapers.org/rec/JGEEA), Oxford Handbook of Social Epistemology, Oxford University Press, retrieved 2025-02-28 2. Marušić, Berislav. \"Interpersonal Reasoning: A Philosophical Psychology of Testimonial Trust\" (https://onlinelibrary.wiley.com/doi/10.1111/ejop.13023). European Journal of Philosophy. n/a (n/a). doi:10.1111/ejop.13023 (https://doi.org/10.1111%2Fejop.13023). ISSN 1468-0378 (https://search.worldcat.org/issn/1468-0378). 3. Fricker, Miranda (2007). Epistemic Injustice: Power and the Ethics of Knowing (https://philpa pers.org/rec/FRIEIP). New York: Oxford University Press. 4. Moran, Richard (2020). \"The Exchange of Words: Speech, Testimony, and Intersubjectivity\" (https://ndpr.nd.edu/reviews/the-exchange-of-words-speech-testimony-and-intersubjectivit y/).",
+      "annotations": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "paragraphs": [
+    {
+      "body": "Deepfake at Stake: An Ethical Justification of The Technology",
+      "annotations": []
+    },
+    {
+      "body": "Deepfake at Stake: An Ethical Justification of The Technology “…the essence of technology is by no means anything technological.” --Martin Heidegger, The Question Concerning Technology and Other Essays, p. 4",
+      "annotations": []
+    },
+    {
+      "body": "Deepfake “refers to machine learning techniques that can be used to produce realistic looking and sounding video or audio files of individuals doing or saying things they did not necessarily do or say” (de Ruiter, 2021, p. 1312). In recent years, as the number of Deepfake incidents has undeniably increased, ethical critiques of the technology have skyrocketed in volume. (Matthews et al., 2024, p. 344). Within this research, skepticism about Deepfake predominates; as Cejudo (2024) suggested, the proliferation of Deepfake works will push social trust to an edge and leads to the “post-truth” society where nothing could be trusted by no one. Therefore, the first section of this paper discusses the demerits of Deepfake.",
+      "annotations": []
+    },
+    {
+      "body": "As my survey went, participants generally presented a relatively negative attitude towards the use and future prospect of Deepfake (see, Appendix).",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(see, Appendix).",
+          "comment": "See Appendix A",
+          "context_left": "rospect of Deepfake ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "However, despite all the harmful consequences that might impact our society, this paper tries to provide a justification on Deepfake. As Heidegger put it in the quotation above, the problem of technology never manifested from within, but stems from human use of it. Accordingly, the second section of the paper argues that Deepfake could be morally suspicious but possesses no intrinsic ethical wrongness (de Ruiter, 2021).",
+      "annotations": []
+    },
+    {
+      "body": "1 The Negative Ethical Practices of Deepfake A financial worker in Hong Kong transferred millions of dollars to an account after a Zoom meeting with the “chief financial officer” of another company. It was later revealed that the virtual meeting was fake, despite the realistic faces and voices. (Chen & Magramo, 2024).",
+      "annotations": []
+    },
+    {
+      "body": "2 The first risk posed by Deepfake is that it is highly likely to disrupt human cognition. All damaging moral effects originate from deceived beliefs. This might be called “epistemological pitfall”, where epistemology refers to the subject researching the conditions and outcomes of human cognitive mechanism. Hence, we might first examine the epistemological respect of Deepfake, follows the ethical respect. 1.1 Epistemological Pitfalls as Prequel of Ethical Concerns To confirm beliefs formed through interactions with our surrounding environment, we conventionally rely on the following: 1. Witnessing things by ourselves, that is experience what happened by our bare cognition. 2. Examining testimonial evidence, which is practiced through reading or listening to relevant accounts. 3. Seeing recordings about the moment. However, in real life, we “can’t be everywhere”, hence, the role of method 2 and 3 becomes much more critical in our daily epistemic scenarios (Matthews et al., 2024, p. 344).",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "\"; hence,",
+          "context_left": "an’t be everywhere”,",
+          "context_right": "hence, the role of m"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This ",
+          "comment": "This risk",
+          "context_left": "m deceived beliefs. ",
+          "context_right": "might be called “epi"
+        },
+        {
+          "type": "strikeout",
+          "text": "1.1",
+          "comment": "",
+          "context_left": "he ethical respect. ",
+          "context_right": " Epistemological Pit"
+        }
+      ]
+    },
+    {
+      "body": "Most concerns are directed toward the third method. Matthews et al. (2024) concludes two general functions of electronic recordings as following: first, they could be used to correct our epistemic claims, and second, it provides a possibility that our claims could be verified (p. 346). However, with the emergence of Deepfake among other complementary technologies such as GANs1, the trust we put on videos are no longer stable as it is before. Due to the self-correction and machine learning process, Deepfake videos can contain as many details as real ones. We now face the risk that all epistemic credentials are fading away (Rini, 2020, p. 8).",
+      "annotations": []
+    },
+    {
+      "body": "1 i.e. the Generative Adversarial Networks. “This process mimics the way in which learning takes place in the human brain… which allow for knowledge to be activated and reproduced more quickly and effectively when a person has been exposed more frequently to examples or experiences of something” (de Ruiter, 2021, pp. 1314-1315). In other words, GANs makes Deepfake able to learn from and automatically correct itself.",
+      "annotations": []
+    },
+    {
+      "body": "3 This directly leads to the result that, if audience cannot detect Deepfake elements in footages, they are likely to acquire false beliefs, meanwhile the trust they put in videos might be vanished (Matthew et al., 2024, p. 344). The epistemological trust is gradually undermined.",
+      "annotations": []
+    },
+    {
+      "body": "The concept of epistemological rights is the junction between epistemology and ethics of Deepfake. Watson (2021) states, the epistemological rights concern “epistemic goods [like] knowledge, truth, belief, justification, understanding, wisdom, information, misinformation and ignorance” (p. 15). Put it bluntly, Matthew et al. summarized this as “[w]e have a right to be kept informed about certain things” (p. 349).",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " Matthew et al. ",
+          "comment": "Matthew et al. (2021)",
+          "context_left": "15). Put it bluntly,",
+          "context_right": "summarized this as “"
+        }
+      ]
+    },
+    {
+      "body": "Being deceived evidently violates one of our rights. Under the circumstance of deception, we are deprived of the right to acquire genuine belief of certain objects. This violation of human rights leads us directly to the ethical dimension. 1.2 Ethical Issues as the Major Concern As shown above, the deception of Deepfake caused the systematic undermining of epistemological trust along with rights. The motivation of deception could be drawing public attention to harm someone’s reputation or earn profit. A common strategy involves using humans as means to achieve personal goals rather than treating them as ends in themselves.",
+      "annotations": []
+    },
+    {
+      "body": "This could be considered as against Kantian ethics. Kant states, “[n]ow I say that the human being and in general every rational being exists as an end in itself, not merely as a means” (Kant, 1998, p. 37). Namely, human beings deserve the right of developing as an end in themselves. However, what some users of Deepfake are doing is violating this ethical norm—in the example above, scammers treated the financial worker and people from whom they stole data as merely means.",
+      "annotations": []
+    },
+    {
+      "body": "4 de Ruiter (2021) suggested another crucial aspect of the ethical crisis of Deepfake by deploying the phenomenological analysis of Merleau-Ponty, which emphasizes the role of “body”. We do not merely own a body, rather we “are” our own body (p. 1326). Our body is thus the most immediate symbol that involves in our experience of the world; what other individuals interact with is therefore not our bodyless selfhood, but our body. de Ruiter (2021) argues that the “distinct wrong” of Deepfake lies in its frequent misuse of individuals' faces and voices without consent. While voice and facial features are critical components that constitute our identity, the theft of face and voice as body parts tarnishes people’s reputation (see, p. 1323).",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " suggested ",
+          "comment": "suggests",
+          "context_left": "4 de Ruiter (2021)",
+          "context_right": "another crucial aspe"
+        }
+      ]
+    },
+    {
+      "body": "2 Redemption of Pandora’s Box: A Possible Justification Although we acknowledge all the possible detrimental effects of Deepfake, they couldn’t prove the point that Deepfake is intrinsically ethical evil. We try to provide a justification in this section. 2.1 Consent and Deception As we shall see in most damaging cases of the use of Deepfake, the problem at stake is the “misuse” of data: the prefix “mis” means “wrongly”. Indeed, as we have seen in most Deepfake crimes, the nonconsensual use of data is one of the major reasons why this is deemed as inappropriate. Nonetheless, alternative case exists: for instance, Deepfake could make disabled people “speak” again, through its sophisticated imitating mechanism.",
+      "annotations": []
+    },
+    {
+      "body": "Therefore, two factors here are (1) ends of utilizing Deepfake and (2) the consent. The consensual use of Deepfake, say, generating a virtual figure of someone in the video for saving time has nothing to do with the harm of reputation and social identity. Meanwhile, the production and publication of this type of consensual video not only satisfies the end of the video creator, but the figure who is being simulated in the video. Consent therefore mitigates the 5 ethical concerns to some extent. Nonetheless, as in the name of Deepfake, the products of it are without any doubt “fake”, that is deceptive in the common sense.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "for saving time",
+          "comment": "to save time",
+          "context_left": "omeone in the video ",
+          "context_right": " has nothing to do w"
+        }
+      ]
+    },
+    {
+      "body": "de Ruiter (2021) offers us a compelling counterargument. The author draws the definition of the word “deception”, indicating that deception only exist when the target believes false convictions are true. Whereas if the footage failed or does not intend to convince the audience its truthiness, deception does not exist (p. 1319). Henceforth, the violation of epistemic does not exist either. 2.2 Ethics In Epistemic Actorhood Kerner & Risser introduced an important notion of “Epistemic Actorhood”, which closely relates to the ethics of Deepfake technology. “In terms of what occurs within networks, seekers and revealers obtain or generate information according to prevalent standards…but normally individuals—the actors—do not even make a noticeable contribution to them. They fill roles by meeting expectations” (Kerner & Risser, 2021, p. 90).",
+      "annotations": []
+    },
+    {
+      "body": "By decomposing this complex sentence, we can distill the following points: first, we, as normal individuals, act as both seekers and revealers in the process of knowing. Second, we, as actors, are mostly restricted to a specific “script”, in this case, the moral standard among with other standards.",
+      "annotations": []
+    },
+    {
+      "body": "Furthermore, Kerner & Risser (2021) listed four roles in epistemic actorhood: individual epistemic subject and object, collective epistemic subject and object. Deepfake permeates all four layers of the theory; we begin with the individual level. In a one-to-one epistemic process, every individual is dual role simultaneously, we know each other and being known by others at the same time. Naturally, we respect certain standards of inquiry (p. 91) when trying to inquire others, and vice versa, as objects, there are certain rules regulating what part of us could be 6 known and in what fashion, and this is where Deepfake dives into the narrative. Although Deepfake may not immediately alter ethical standards, it can adjust certain nuances of epistemic rules—in the past, it was impossible to see a human face on a deer, while this rule is clearly disrupted by Deepfake. As for collective dimension, which individuals are a part of, they set the standards of our society. Specifically, the collective epistemic objects “maintain and contribute to the pool of what is known about us collectively” (p. 91). This is essential, since the massive use of Deepfake is linked to the collective knowledge from this respect and emerges concerns on epistemic trust and rights as discussed above.",
+      "annotations": []
+    },
+    {
+      "body": "Nevertheless, Deepfake’s intervention in epistemic actorhood may be justified. Kerner & Risser (2021) mentioned the concept of digital lifeworld, which emphasizes how humans live and learn from an immersive digital world. Within it, the transforming of epistemic actorhood is not necessarily problematic— “[t]hey open up artistic possibilities unknown to the analog world” (p. 82). Deepfake, indeed, can violate several ethical rules, while it can open a wider space for education and art as well. As Cejudo (2024) observed in the Dalí Lives project, Deepfake is potent to preserve historical art heritage (see, p. 136), through adjusting relations between actorhood.",
+      "annotations": []
+    },
+    {
+      "body": "From a broader sense, the violation of moral norms prompts the adaptation of ethics, “it will take much thought and careful regulation to make [we can enjoy technology] …without suffering too much damage from the perils” (Kerner & Risser, 2021, p. 83). Again, Deepfake should be considered as a double-edged sword, how it presents itself depends on various factors other than itself.",
+      "annotations": []
+    },
+    {
+      "body": "3 Conclusion 7 In this paper, we discussed the prevailing opinions which regard Deepfake as a “born evil” and tried to clarify the multiple dimensions in which it may be harmful. While we fully acknowledge the potential for Deepfake to have devastating societal and moral impacts, this does not prove that the technology is intrinsically unethical. As de Ruiter (2021) accurately concluded, Deepfake is “morally suspect, but not inherently morally wrong” (p. 1328), because there are chances that Deepfake can be used in benign ends, like education and art. However, appropriate regulations should accompany its development.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "this",
+          "comment": "this risk",
+          "context_left": "3 Conclusion 7 In ",
+          "context_right": " paper, we discussed"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " we",
+          "comment": "I",
+          "context_left": "ion 7 In this paper,",
+          "context_right": " discussed the preva"
+        }
+      ]
+    },
+    {
+      "body": "Reference List Heidegger, M. (1977). The question concerning technology, and other essays (1st ed.). Harper & Row Matthews, T., Kidd, I. J., Fox, C., & Saunders, J. (2024). The Ethics and Epistemology of Deepfakes. In The routledge handbook of philosophy and media ethics (1st ed., Vol. 1, pp. 342–354). Routledge. https://doi.org/10.4324/9781003134749-33 Cejudo, R. (2024). Ethical Problems of the Use of Deepfakes in the Arts and Culture. In Ethics of Artificial Intelligence (Lara, F., Deckers, J. ed., pp. 129–148). Springer. https://doi.org/10.1007/978-3-031-48135-2_7 de Ruiter, A. (2021). The Distinct Wrong of Deepfakes. Philosophy & Technology, 34(4), 1311–1332. https://doi.org/10.1007/s13347-021-00459-2 Chen, H., & Magramo, K. (2024, February 4). Finance worker pays out $25 million after video call with Deepfake “chief financial officer.” CNN. https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html  Rini, R. (2020). Deepfakes and the Epistemic Backstop. Philosophers’ Imprint, 20(24), 1-16. Watson, L. (2021). The right to know: epistemic rights and why we need them. Routledge. Kant, I. (1998). Groundwork of the metaphysics of morals (M. J. Gregor, Trans.). Cambridge University Press. Kerner, C. & Risse, M. (2021). Beyond Porn and Discreditation: Epistemic Promises and Perils of Deepfake Technology in Digital Lifeworlds. Moral Philosophy and Politics, 8(1), 81- 108. https://doi.org/10.1515/mopp-2020-0024 Appendix 9 10",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 3.0,
+        "Sources": 3.0,
+        "Organization": 3.0,
+        "Writer’s Ethos": 2.0,
+        "Total": 14.0
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]
+}

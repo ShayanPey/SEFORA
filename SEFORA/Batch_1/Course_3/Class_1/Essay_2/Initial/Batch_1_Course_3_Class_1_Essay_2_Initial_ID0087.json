@@ -1,0 +1,349 @@
+{
+  "paragraphs": [
+    {
+      "body": "Lei’s Stream",
+      "annotations": []
+    },
+    {
+      "body": "      I overheard a conversation amongst my mother and our next-door neighbor, Mrs.Wilkens. They spoke of things such as abortion rights and The Me Too movement. At the time, I was not allowed to discuss such topics. According to her, I couldn't simply understand or know the “right way to speak”. I was 10 by the way, but I remember vividly, my mother pulling Eve into conversation at the age of 13. I knew then I just had to wait for my turn. There are some tales which my mother does not tell when there are men in the room, you will never find her speaking of menstruation or feminism when my father is present. She tells them to women only, usually in the kitchen or occasionally in the backyard, when they are helping with the dishes or gardening vegetables, peeling carrot skins, stacking plates on shelves. She tells them in a subdued tone, her hand gestures adjoin with the air, and if you listen close enough, you could almost hear the movements cut between her skin and bones. These are stories of illicit affairs, political rage, and dreadful suicides. They lack richness in details; instead, they are plain and completely facts. Since my sister's disappearance, my mother and I no longer speak of such things, Dr.Wilkens doesn’t come over for Friday dinners as often as she used to and the flowers in our garden have yet to bloom. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "amongst",
+          "comment": "Between. I love opening with the overheard conversation. It might be helpful to include snippets of what was overheard vs. the vague outlines of the conversation. ",
+          "context_left": "eard a conversation ",
+          "context_right": " my mother and our n"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " her",
+          "comment": "This is the mother? ",
+          "context_left": " rights and The Me Too movement. At the time, I was not allowed to discuss such topics. According to",
+          "context_right": ", I couldn't simply understand or know the “right way to speak”. I was 10 by the way, but I remember"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Eve",
+          "comment": "Let us know who this is. ",
+          "context_left": ", my mother pulling ",
+          "context_right": " into conversation a"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "djoin",
+          "comment": "Work doesn’t quite work. ",
+          "context_left": " her hand gestures a",
+          "context_right": " with the air, and i"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my mother and I no longer speak of such things",
+          "comment": "Just a note that we didn’t find out when she did start to talk to the narrator about such things. ",
+          "context_left": "er's disappearance, ",
+          "context_right": ", Dr.Wilkens doesn’t"
+        }
+      ]
+    },
+    {
+      "body": "      I went for a run to clear my head. I went to my favorite trail–Hawksbill. Running helped my mind go blank, even in the most useless way. I am always counting, I fear, counting in intervals of five when I am breathing through my mouth while running, or counting the number of pages I have left in a story after only flipping a page. I never realized the things I was counting were senseless, when I should have been counting my last moments with Eve. Maybe even lingering near the front-door uncomfortably for three more seconds waiting for her to walk in to give her a hug or play a senseless trick to make her laugh. Instead, I was always locked up in my room or running, running away from a thought or an excuse to feel bad for the life that I was given. Since Eve’s disappearance, my family has been numb to each other, my mother is somewhat immune to it, my dad flinches just by the mention of her name. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "even in the most useless way",
+          "comment": "?",
+          "context_left": "d my mind go blank, ",
+          "context_right": ". I am always counti"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Eve",
+          "comment": "I haven’t read the entire draft yet, but for me this paragraph is the stronger beginning. I suspect Mrs. Wilkens isn’t very important to the story, whereas the narrator’s missing her sister really is. ",
+          "context_left": "zed the things I was counting were senseless, when I should have been counting my last moments with ",
+          "context_right": ". Maybe even lingering near the front-door uncomfortably for three more seconds waiting for her to w"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Since Eve’s disappearance, my family has been numb to each other, my mother is somewhat immune to it, my dad flinches just by the mention of her name. ",
+          "comment": "It’s always hard to believe more than one person yelling anything simultaneously. I would also note that here, you both have the narrator tell us how the parents react and then show us dialogue that shows them reacting slightly differently. ",
+          "context_left": "e that I was given. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“ where have you been, we’ve been worried sick” they yelled",
+      "annotations": []
+    },
+    {
+      "body": "“ I lost track of time, im sorry” I said",
+      "annotations": []
+    },
+    {
+      "body": "“We don’t need the burden of losing another daughter, don't do it again” ",
+      "annotations": []
+    },
+    {
+      "body": "“I won't ” I said ",
+      "annotations": []
+    },
+    {
+      "body": "      Most days melted into one long, boundless piece of thread, I feel like I am reliving the same day over and over. I see it in my mothers eyes and in the dismissive tone my father acquires when he gets home from a long day at work. Sometimes I wonder how we all survive, how my mother bottles up the hurt and cooks dinner every night or how my dad wakes up at the crack of dawn to go to his lousy 9-5 job. I wonder if Eve thought of us, I wonder if she is out there scared or I wonder if she is dead in a ditch. I wonder what the point of all of this is. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "lousy 9-5 job",
+          "comment": "It’s interesting that the narrator doesn’t seem to consider that the parents are looking after her, despite their grief. ",
+          "context_left": "f dawn to go to his ",
+          "context_right": ". I wonder if Eve th"
+        }
+      ]
+    },
+    {
+      "body": "Eve and I were forced to spend Sunday mornings together, my parents thought it would be a good idea for us to have a day for healthy sisterly bonding. I found the car rides and hikes in the beginning to be a bit forced, but it grew on us. These hikes were filled with conversations about the countries we would travel to if our government was overturned by fascists, how our mother probably only married our father because her first love ended up with her ex best friend Penelope Hemingway (who must not be named) or the fact that I am never going to run in college because I didn’t win a title at Penn relays or sectionals last year. I missed these talks, you always knew how to make me see the world more clearly, more like you. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Eve and I were ",
+          "comment": "Give us some help in the time here — “In the past, Eve and…”",
+          "context_left": "",
+          "context_right": "forced to spend Sund"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "who must not be named",
+          "comment": "How do they know what her name is, then? :) ",
+          "context_left": "Penelope Hemingway (",
+          "context_right": ") or the fact that I"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you always knew how to make me see the world more clearly, more like you. ",
+          "comment": "Here, we see the narrator suddenly begin addressing the sister, which has not been the case in the story until now. I think it’s a nice choice, but then the entire story should be written in the “You” voice. ",
+          "context_left": "missed these talks, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "      You would always go past where our feet could touch, the water was glass-like and our reflections would disappear if we ever looked too long. Specks of gold flakes and hues of blissful green surrounded us. I would wait the whole way there for you, you would always follow, accept this time you didn’t. I should have asked you questions, I should have asked you how to be, asked you to write it down for me. With each passing moment, your absence grew more palpable, a void expanding where your presence once stood. Where could you be? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "reflections would ",
+          "comment": "Why would the reflections disappear? ",
+          "context_left": " glass-like and our ",
+          "context_right": "disappear if we ever"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "this time ",
+          "comment": "What time is this? ",
+          "context_left": "ways follow, accept ",
+          "context_right": "you didn’t. I should"
+        }
+      ]
+    },
+    {
+      "body": "Add filler paragraph  (scene of the past) ",
+      "annotations": []
+    },
+    {
+      "body": "“Eve why are you up so late?” I whispered ",
+      "annotations": []
+    },
+    {
+      "body": "      She had loose papers scattered throughout her floor. From a distance it was almost like she was one of those detectives in a true crime podcast trying to solve a mystery with a single piece of red string.",
+      "annotations": []
+    },
+    {
+      "body": "“Oh nothing, just a stupid school project for history, you better go to bed. Don't you have a meet tomorrow?”  she said convincingly",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " convincingly",
+          "comment": "Is this the word you want? ",
+          "context_left": "tomorrow?”  she said",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "“Yea coach is putting me in to anchor the relay” I smiled ",
+      "annotations": []
+    },
+    {
+      "body": "“Good luck, if I can’t swing by and Night” ",
+      "annotations": []
+    },
+    {
+      "body": "“Night loser ” I close the door behind leaving it a crack open ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "open",
+          "comment": "I like the instinct to show us how they talked to each other. ",
+          "context_left": " leaving it a crack ",
+          "context_right": " "
+        }
+      ]
+    },
+    {
+      "body": "Need a transition from this past scene: ",
+      "annotations": []
+    },
+    {
+      "body": "          You would always go past where our feet could touch, the water was glass-like and our reflections would disappear if we ever looked too long. Specks of gold flakes and hues of blissful green surrounded us. I would wait the whole way there for you, you would always follow, accept this time you didn’t. I should have asked you questions, I should have asked you how to be, asked you to write it down for me. With each passing moment, your absence grew more palpable, a void expanding where your presence once stood. Where could you be? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "your absence grew more palpable, a void expanding where your presence once stood. Where could you be? ",
+          "comment": "I assume the repeating paragraph is just a mistake?",
+          "context_left": "ach passing moment, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "       Why did she always have a knack for collecting things? There is just so much shit in here, anything could be a clue or some sort of proof that she is still alive. Through all of the junk…okay, maybe not junk to her, but let's be serious, who would still keep a human sized cardboard cutout of Kurt Cobain and giant foam fingers from every highschool football game they’ve attended? Eve dressed her walls in pages of Beloved by Toni Morrison (the thrifted copy of course). I remember when I was 9,  I would peek through the crack of her door while she was in action, you could tell she enjoyed moments where she could experiment and find comfort within those walls . She purchased these beautifully warned shelves that looked like they traveled through the mid-19th-century Gothic Revival. Her room glistened with fairy lights and photosynthesized with the overwhelming amount of Iris Cristata and Lavendula Angustifolia. Her journals scattered all over the place, beneath her bed, on the shelves, and loose leaves in every crevice of her desk. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Why did ",
+          "comment": "Where is the narrator now, physically and in time? ",
+          "context_left": "       ",
+          "context_right": "she always have a kn"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "in action",
+          "comment": "In action doing what? ",
+          "context_left": " door while she was ",
+          "context_right": ", you could tell she"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "arned",
+          "comment": "?",
+          "context_left": " these beautifully w",
+          "context_right": " shelves that looked"
+        }
+      ]
+    },
+    {
+      "body": "        I don’t think I ever truly knew Eve, I sculpted myself into those crevices of her stories and visualized her life as this theatrical phenomenon that I was a master of. Now I realize I was just someone on the sidelines of her life that was so far from her truth, her story. I flip through the pages of her journal in hopes of finding some sort of evidence, a sort of clue that will lead me to the inevitable conclusion of her disappearance. Her journals were filled with glitter glue in the shapes of hearts and abstract designs with obscure words flowing through the pages. Eve is an artist, yet she got into Stanford for mechanical engineering. She is a creator, I guess you can say building circuits and writing poetry come hand in hand.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "in hand.",
+          "comment": "I felt that the story started to come into shape here. I got the idea of how much Eve is missed. I do think you’re relying too much on describing Eve’s room and we could use a bit more about who Eve is/was, especially the less-great parts of her personality. ",
+          "context_left": "ng poetry come hand ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "      The floorboards in her room are stained cherry. Since our house was recently built, we didn’t have those special creaky wooden floors that gave a house charm. However, knowing Eve she would somehow find a loophole.  Something caught my eye. As I tip-toed to her bookshelf, I felt a creaking sound beneath my feet. I extended to the floor and applied great pressure, and the floorboard unfastened like a seatbelt. My eyes are drawn to the obscure lines in various shades of colors and aged pages from a book with no cover. I fetch all the loose pages with colored lines and scatter them on the floor. First thing that comes to my mind is an art piece that she must have been working on. But these abstract movements of color look too familiar to me, South Mountain. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Something caught my eye. As ",
+          "comment": "I’m a little unclear — something catches her eye on the shelf, but she’s actually finding something on the floor? ",
+          "context_left": "w find a loophole.  ",
+          "context_right": "I tip-toed to her bo"
+        }
+      ]
+    },
+    {
+      "body": "“Routes?” ",
+      "annotations": []
+    },
+    {
+      "body": "      We had hiked almost every trail there was, yet she had mapped out trails I had never seen before, trails I never knew existed. And on this map she crafted, she included the river we would always venture past, and our cherished sycamore. She named the river Leila’s stream. My heart immediately sinks into my stomach, and my eyes begin to water. Before I let the tears trickle down my cheek, I flip through the book with no cover, pages filled with sketches and journal entries recorded for 3 years now. I finger the edges of the book, brushing my hands against the thickness of the pages, I bring my nose closer trying to catch her scent, it smells like her, but my eyes become focused on A 4x4 piece of yellow paper projecting out of the book. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "our cherished sycamore. ",
+          "comment": "Maybe we can see this tree in the past memory? ",
+          "context_left": "s venture past, and ",
+          "context_right": "She named the river "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "river Leila’s stream",
+          "comment": "We haven’t been told the narrator’s name, so this doesn’t land yet. ",
+          "context_left": "more. She named the ",
+          "context_right": ". My heart immediate"
+        }
+      ]
+    },
+    {
+      "body": "A FUCKING STICKY NOTE. Are you kidding me? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Are",
+          "comment": "I laughed. ",
+          "context_left": "UCKING STICKY NOTE. ",
+          "context_right": " you kidding me? "
+        }
+      ]
+    },
+    {
+      "body": "Lei, ",
+      "annotations": []
+    },
+    {
+      "body": "Follow the river, start at maple falls cascades and end up at the wildflower preserve. Make it by dawn. I will be there waiting for you. ",
+      "annotations": []
+    },
+    {
+      "body": "Love,",
+      "annotations": []
+    },
+    {
+      "body": "Eve",
+      "annotations": []
+    },
+    {
+      "body": "She wrote this TWO MONTHS ago, how can she possibly still be there? How can she possibly think I would be the one to time this out correctly. She has to still be there, it can't be too late. I grab the map, pack my bag and run out.  ",
+      "annotations": []
+    },
+    {
+      "body": "“ It’s Eve, she'll be there” ",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "Yeah, I don’t think she’ll be there. I enjoyed this draft, Mila. I felt it was strongest when you included the details of the environment and the girls’ relationship. It’s clearly a big leap to buy that Eve prepared all of this and left it for Leia (a bad plan as well as an unrealistic one!) but I liked the story enough to buy it. You have a lot of formatting work to do and you need to slow down and take more care — the repeated paragraph and the jumbled dialogue really make the work seem more amateur than it is. I would also suggest cutting out the first paragraph. It doesn’t introduce your story. Instead, you might think about either showing us a scene from their hikes or a scene with the parents, to help us see how Eve’s absence has affected the family (and also, I assume, why she ran away). An interesting beginning! Happy revising!"
+    }
+  ]
+}

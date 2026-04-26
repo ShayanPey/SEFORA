@@ -1,0 +1,70 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Magnificent Beauty of the Cathedral of Learning Before I came to Pittsburgh, I imagined Pittsburgh as a friendly, quiet, civilized city. The name “Cathedral of Learning,” on the other hand, conjured up images of a grand, stately, and perhaps historically significant Gothic building. I aspire to someday stroll through the church's vast halls, admire the exquisite interiors, and experience the far-reaching significance of culture and education. Coming from the bustling city of Xuzhou, China, I look forward to the contrast between Pittsburgh's historic landmarks and the more modern, towering buildings such as the TV tower back home. In my imagination, Pittsburgh is a place where students from all walks of life come together to learn, work, and help each other - a scene that fills me with excitement and anticipation.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "was",
+          "context_left": "ely, and perhaps his",
+          "context_right": "historically signifi"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "look",
+          "comment": "looked forward",
+          "context_left": "of Xuzhou, China, I ",
+          "context_right": " forward to the cont"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "aspire",
+          "comment": "aspired",
+          "context_left": " Gothic building. I ",
+          "context_right": " to someday stroll t"
+        }
+      ]
+    },
+    {
+      "body": "When I arrived in Pittsburgh, the Cathedral of Learning did not disappoint. Compared with Xuzhou, the city where I have lived for more than a decade, I was shocked by the scene in Pittsburgh at the beginning. The most prominent is the Cathedral of Learning, located in the heart of the University of Pittsburgh. I find people here are busy and laughing at the same time. I can see many students playing various ball games or having a picnic on the lawn. There are also many similar activities organized by students around the university. For example, second-hand markets, concert tickets, or football ticket purchases. All of these activities aroused my longing and interest in university. I can think of some Chinese phrases to describe this place. “鸟语花香 ，人来人往” “春眠不觉晓，处处闻啼鸟”As I walk around campus, I notice the Cathedral of Learning in the heart of the University of Pittsburgh. From the moment I laid eyes on the building, I was struck by its towering height and unique blend of Gothic, Renaissance, and modern architectural styles. Unlike any building I had ever seen before, its sheer size and grandeur was breathtaking. Its soaring vertical height, intricate stonework and exquisite facade all emphasize the city's deep understanding of history, learning and culture. Upon entering, I felt a sense of awe, as if I had entered a space that had witnessed the intellectual growth of countless people over the decades. I was thinking about a chinese poem “危楼高百尺，手可摘星辰” and “高楼一何峻.迢迢峻而安” With its towering corridors, beautiful arches and intricate wood paneling, there is an atmosphere of academic and cultural grandeur everywhere.",
+      "annotations": []
+    },
+    {
+      "body": "It is an interesting perspective to compare the Cathedral of Education with the TV tower in my hometown of Xuzhou. These two iconic buildings are equally tall and majestic, but their design, use and cultural connotations are very different. The Xuzhou TV Tower stands tall as a beacon of modernization. It serves primarily as a functional building for telecommunications, and its sleek, modern structure symbolizes the city's rapid development and modernization. The TV tower's design is simple, clean and sharp, reflecting Xuzhou's technological progress and vision for the future. Interestingly, next to Xuzhou TV Tower is the most famous post office in Xuzhou City. Every day, many people come to collect and post letters. Next to the Cathedral of Learning are many of the Pittsburgh College buildings. Every day, different students or professors go back and forth to study or work. In stark contrast, the Cathedral of Learning has a deep sense of historical and academic heft. It is a 'cathedral' in the truest sense of the word, a place where past, present and future meet. I was impressed by the interior of the Cathedral of Learning. Every inch of the building, including the soaring vaulted ceilings and beautifully designed nationality rooms, highlights the global appreciation of knowledge and culture. Each nationality room epitomizes its culture and represents the diversity of students who walk through the halls.",
+      "annotations": []
+    },
+    {
+      "body": "My experience studying the Cathedral and the Television Tower has broadened my understanding of cultural diversity and the beauty of architecture. Although these two buildings differ in purpose and style, they both offer unique insights into the values and history of their respective locations. The Cathedral of Learning's elaborate interior and academic atmosphere added to my appreciation of Pittsburgh's rich and colorful educational and cultural history. Whenever I sit inside the church for class or study, I see many other students using laptops to study and discuss communication issues. I always felt a unique atmosphere that encouraged me to make progress all the time, which is perhaps one of the charms of studying the cathedral. Seeing the rapid development of my hometown Xuzhou in the past ten years, I can't help but sigh at the power of science and technology and the unity of everyone.The TV tower's sleek and modern design is a constant reminder of the rapid growth and ambition of my hometown.",
+      "annotations": []
+    },
+    {
+      "body": "Through these experiences, I have learned that beauty comes in many forms, from the historic grandeur of the House of Education to the modern elegance of the TV Tower. Some things that can only be seen on TV or the Internet are often not as good as the reality at a glance. This makes me sigh at an old Chinese saying, \"Seeing is better than hearing a hundred times.\" （ 百闻不如一见）Each type of beauty offers a different perspective on the world, and each has its own unique narrative and historical context. As I continue my journey in Pittsburgh, I will draw from both buildings to deepen my appreciation for the diversity of architecture, culture, and human achievement.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Through these experiences, I",
+          "comment": "This is a nice paper. Please avoid vague pronouns such as \"it\" and use the simple past tense consistently throughout the paper. I would also integrate more detailed descriptions, such as dialogues, into the narrative. Overall, good job!",
+          "context_left": "",
+          "context_right": " have learned that b"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 2,
+        "Support": 2,
+        "Sources": 2,
+        "Organization": 3,
+        "Writer's Ethos": 2
+      },
+      "comment": "This paper has some good arguments, but there are areas for improvement. For more information, please see my marginal comments."
+    }
+  ]}

@@ -1,0 +1,542 @@
+{
+  "paragraphs": [
+    {
+      "body": "First chapter and a little bit of a second chapter of a novel ",
+      "annotations": []
+    },
+    {
+      "body": "\tThe QuikGo’s primetime for customers was Saturday mornings, right before the 10 o’clock tee time. The gas station and accompanying market were minutes down the road from the entrance of Whitney Hope Country Club, a “prestigious establishment hidden away from chaos in the heart of North Carolinian nature,” according to their pamphlet. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "primetime",
+          "comment": "I like this opening. Always love a gas station story! That said, I’d try to vary the wording so you’re not saying “time” twice in the first sentence. ",
+          "context_left": "\tThe QuikGo’s ",
+          "context_right": " for customers was S"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "pamphlet",
+          "comment": "Maybe their website? ",
+          "context_left": " according to their ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "Sam had long ago taken this to mean: Pay us a lot of money and you can come drink and golf and mingle with other people that also have a lot of money. Her stepmother, Lynn, reveres Whitney Hope members as if they were singlehandedly saving the world. The reality was that the club created a lot of traffic for the QuikGo, and were in a way singlehandedly preventing the business from going under. Lynn, of course, would never admit this outright. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "money",
+          "comment": "Yes, correct. :) Like the introduction of Sam. ",
+          "context_left": "Sam had long ago taken this to mean: Pay us a lot of ",
+          "context_right": " and you can come drink and golf and mingle with other people that also have a lot of money. Her ste"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Lynn, of course, would never admit this outright",
+          "comment": "Not quite following why Lynn wouldn’t admit this? ",
+          "context_left": "s from going under. ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "During the morning rush, golfers of all shapes, sizes, and ages step into the store, stopping in for gas or cigarettes, oftentimes opting for a granola bar to hold them over or a cold Gatorade to heal their heads from the night before. This was a manifestation of both Lynn’s business model and life philosophy: be there. Have the item in stock that customers didn’t even know they wanted. Be the last guest at your childhood friend’s wife’s wake, waiting to prey on the widower. Be there for closing time at the bar, when fellow patrons are most eager to lend a smoke.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "This was ",
+          "comment": "What was? I assume the golfers are mostly white guys, aged 18 to 70, right? ",
+          "context_left": "m the night before. ",
+          "context_right": "a manifestation of b"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Be the last guest at your childhood friend’s wife’s wake, waiting to prey on the widower. ",
+          "comment": "Since it sounds like this is what Lynn did, maybe this should be last in the list? (Clever introduction of this by the way). ",
+          "context_left": "n know they wanted. ",
+          "context_right": "Be there for closing"
+        }
+      ]
+    },
+    {
+      "body": "\t“It’s how you get what you want, Sammy,” she would drawl when Sam would unfortunately cross paths with her after Lynn returned from a night at Lucky’s, the beat-up tavern a few miles down the road, “You have to be there, be there when they’re desperate and be there when they’re not. No one will give you anything, otherwise. No one will know you.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "will",
+          "comment": "This does sound like something a drunk woman would say when she felt wise. ",
+          "context_left": " road, “You have to be there, be there when they’re desperate and be there when they’re not. No one ",
+          "context_right": " give you anything, otherwise. No one will know you.”"
+        }
+      ]
+    },
+    {
+      "body": "\tSam learned not to fight back and dispute the glaringly offensive things Lynn spewed in times like this. If she could, it would be more effective to put them into the style of a list: “A. Don’t call me Sammy. B. I don’t want advice from you C. Don’t suggest that my father was desperate D. I don’t want to be known by anyone in this town, so being there is the opposite of what I’m going to do.”",
+      "annotations": []
+    },
+    {
+      "body": "\tLynn wouldn’t remember anything Sam said, and she would repeat the same routine in a few days. So, Sam adjusted to muting herself and leading Lynn to her bedroom, pushing her onto the full bed covered in a perpetual layer of dust, and leaving a glass of water and some pain reliever on the nightstand. If she was lucky, she could return to her room and slip out of the house early the next morning, long before Lynn would wake up and demand a favor be done.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "perpetual layer of dust, ",
+          "comment": "I get what you’re going for here, but hard to follow how a bed used every night would have a layer of dust. That said, in general, you’re painting the portrait of Sam’s life well. ",
+          "context_left": "ll bed covered in a ",
+          "context_right": "and leaving a glass "
+        }
+      ]
+    },
+    {
+      "body": "\tThis is the routine they performed the night before, and Sam was so preoccupied behind the counter this morning that she didn’t have the chance to stew on Lynn’s inaccuracies or the fact that she hasn’t done payroll in weeks. Instead, she spent her morning in a blur of “forty dollars on Pump 2” and “two packs of Marlboro’s,” wolfing down a TastyKake for breakfast when she had a spare moment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "and ",
+          "comment": "But ",
+          "context_left": "\tThis is the routine they performed the night before, ",
+          "context_right": "Sam was so preoccupied behind the counter this morning that she didn’t have the chance to stew on Ly"
+        }
+      ]
+    },
+    {
+      "body": "\tSam liked Saturdays. She liked when there were enough customers that she didn’t have time to think or worry or wonder; her body could work on autopilot after all of her years behind the counter. The mindlessness was nice. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "counter",
+          "comment": "I wondered how old Sam could possibly be to have “years” behind the counter. ",
+          "context_left": "er years behind the ",
+          "context_right": ". The mindlessness w"
+        }
+      ]
+    },
+    {
+      "body": "And she liked more of the regulars than she disliked: Earl and James would say please and thank you and shove a single into the tip jar every once and awhile. Rich worked with her father years ago and would always ask Sam how she was doing. There was still Cole, of course, one of the younger golfers who had made a few too many comments on Sam’s blonde hair, but she knew she could just mention her upcoming eighteenth birthday and he would slink off. For now.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "once and awhile. ",
+          "comment": "Once in a while",
+          "context_left": "o the tip jar every ",
+          "context_right": "Rich worked with her"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "eighteenth birthday ",
+          "comment": "Ah. Although 18 would probably be alluring to him, gross as that is. ",
+          "context_left": "ention her upcoming ",
+          "context_right": "and he would slink o"
+        }
+      ]
+    },
+    {
+      "body": "\tIt was the shallowness that she appreciated the most; none of these regulars knew too much about her, or even cared to know, and she ventured into town so infrequently that she never ran into them outside of her spot behind the counter. Her life here was contained into a routine of monotony, the most excitement she faced on a day-to-day was a new flavor of Double Bubble being delivered. This is how she wanted it: no roots to this town, or these people. That way, when it was time for her to pick up and go, she could. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "counter",
+          "comment": "Very nice portrait of her. ",
+          "context_left": "her spot behind the ",
+          "context_right": ". Her life here was "
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "she could. ",
+          "comment": "It might be more effective to leave this revelation — that she wants out and soon — for here instead of mentioning it earlier. ",
+          "context_left": " to pick up and go, ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tWhen the store finally hit a down time around noon, Sam was able to check her messages for the first time that day. Predictably, she had texts from her best friend, Jess. They had been best friends since elementary school and have stayed so over the past four years, from when Sam’s dad relocated both of them from Charlotte to live in Lynn’s nowhere town and operate the gas station. Even though their relationship mainly consisted of texting and a yearly visit, if they were lucky, Jess was a fiercely loyal friend. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "day",
+          "comment": "I have trouble buying that this story is THAT busy — everyone finds a moment to check messages. Unless there was some sort of distraction beyond the typical Saturday morning. Or if she just didn’t do it until now. ",
+          "context_left": "the first time that ",
+          "context_right": ". Predictably, she h"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "best friend, Jess. They had been best ",
+          "comment": "From Jess. They had been best friends…",
+          "context_left": " had texts from her ",
+          "context_right": "friends since elemen"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "relocated both of them from ",
+          "comment": "Sounds like Sam’s dad moved Jess too? ",
+          "context_left": "from when Sam’s dad ",
+          "context_right": "Charlotte to live in"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "though their relationship mainly consisted of texting and a yearly visit, if they were lucky, Jess was a fiercely loyal friend. ",
+          "comment": "I’m torn on whether you need this much explanation — I think we could just read the texts and see what you mean here. ",
+          "context_left": "e gas station. Even ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tJess: how are your savings going? did the witch ever pay you for last week?",
+      "annotations": []
+    },
+    {
+      "body": "Jess: my brother is driving me nuts. need to get out of here asap",
+      "annotations": []
+    },
+    {
+      "body": "Jess: do u think we need a two bedroom? we could prob squeeze into one i think",
+      "annotations": []
+    },
+    {
+      "body": "Next were links to three different apartments, spanning from Manhattan to Brooklyn to Fort Lee. Sam got the impression that Jess either didn’t realize the difference between each of these locations, or simply just didn’t care. Jess had a life philosophy, too: fuck it. If escaping North Carolina and moving to New York City wasn’t their mutual fantasy, Jess would have up and left her home the second she turned eighteen, trusting that she would figure it out as she went. Sam was the one who intervened with hesitancies on savings and travel and employment. She was also the one that was still seventeen, and would be for another three weeks until her birthday on the third day of July.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Sam got the impression that Jess either didn’t realize the difference between each of these locations, or simply just didn’t care",
+          "comment": "This made me laugh because I was immediately like, oh, those are so different. ",
+          "context_left": "ooklyn to Fort Lee. ",
+          "context_right": ". Jess had a life ph"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "wasn’t their mutual fantasy",
+          "comment": "I think you have to be careful of how you present this. Is it really a fantasy? I was thinking of it as a plan. Since the narrator is pretty closely aligned to Sam, we need to understand what she thinks it is. ",
+          "context_left": "ng to New York City ",
+          "context_right": ", Jess would have up"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "July",
+          "comment": "This helps a little, although again, not sure if this is a plan for Sam at all. ",
+          "context_left": "on the third day of ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "Jess kept a countdown for the day on her phone. She thought that the second it struck midnight, Sam would be beelining for her in Charlotte and together they would travel up to New York. It was cowardly, and she knew it, but Sam had played along with these plans with no intention of following through. She didn’t yet have the car she was saving up for, and definitely not enough for any sort of rent. There were too many variables to consider before a decision like this; she wanted to go just as bad as Jess did, but she couldn’t risk trying and failing. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "through",
+          "comment": "Ah, okay. Good! ",
+          "context_left": "ention of following ",
+          "context_right": ". She didn’t yet hav"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "failing",
+          "comment": "You might consider having Sam not quite so sure she wants to leave (or at least not presented as being super sure she wants to leave) at the top of the story. It feels a little like backtracking now. ",
+          "context_left": "n’t risk trying and ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\tThe bell chiming over the QuikGo door pulled Sam out of her thoughts. It was someone she didn’t recognize stepping through the doors, a glamorous woman with hair that was seemingly immune to the Southern humidity. Sam would recognize a person like this, far from their regular clientele and seemingly feeling just as out of place as she looked.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Sam would recognize a person like this, far from their regular clientele and seemingly feeling just as out of place as she looked.",
+          "comment": "? Would recognize? ",
+          "context_left": " Southern humidity. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\t“Hello,” Sam called out as the woman glanced around the store. Wire shelves stocked with chips and jerky and candies. Cases of cold drinks, including a limited selection of beer and wine (Lynn said the drinkers could rely on somebody else to fuel them, not her. Sam suspects they stopped carrying Lynn’s favorite brands after past attempts proved that she would consume too much of the stock herself.) The dilapidated slushie machine churned Red 40 in the corner, next to three coffee machines and a host of creamers. And there, to the left when you walk in, was Sam on her stool behind the counter. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Lynn’s favorite brands after past attempts proved that she would consume too much of the stock herself.) ",
+          "comment": "Why wouldn’t Sam know this for sure? ",
+          "context_left": "ey stopped carrying ",
+          "context_right": "The dilapidated slus"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "counter",
+          "comment": "You might consider if Sam has work to do with any of these machines that would keep her pretty busy? ",
+          "context_left": "er stool behind the ",
+          "context_right": ". "
+        }
+      ]
+    },
+    {
+      "body": "\t“Hi there,” the woman said, taking a few more cautious steps into the store. She was treading lightly, as if the sticky linoleum floor would turn into quicksand at any moment and trap her in this fluorescent nightmare. She walks towards the coolers in the back, grabbing a bottle of Diet Coke and taking the long way back to the cash register, scanning the junk food as if it were her first day on Earth. She stepped up to the counter and stared intensely at Sam for a moment, before shaking her head with a laugh, “I’m sorry if I seem out of it, I just got off of a long flight.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Oh, no worries. Where are you coming back from?” (Lynn insists that small talk makes money. Sam has come to agree, but would never admit it.)",
+      "annotations": []
+    },
+    {
+      "body": "\t“London,” the woman smiles, “my husband had business there, so I tagged along. That’s also why I’m in here,” she gestures vaguely to the surroundings of the store, “We’re new members at Whitney Hope, and he’s golfing, and well, I got terribly bored just sitting by the pool. So here I am,” she places the Diet Coke on the counter, “Could I get a scratch-off, too? Any 2 dollar one is fine.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Whitney",
+          "comment": "This story sounds so odd to me, but maybe it’s supposed to. ",
+          "context_left": "e’re new members at ",
+          "context_right": " Hope, and he’s golf"
+        }
+      ]
+    },
+    {
+      "body": "\tSam tears a “Set For Life!” from the roll, sliding it across the counter. After ringing up the soda, the woman hands her a five-dollar bill and asks, “Have you ever been to London?”",
+      "annotations": []
+    },
+    {
+      "body": "\tSam buffers for a moment — a strange question to ask a girl seated behind a gas station counter, no? — but tells her honestly, “No, ma’am. I’m just hoping to get out of North Carolina one day. Then I’ll think about Europe.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "day",
+          "comment": "I wonder if Sam is surprised that she shares this? ",
+          "context_left": " North Carolina one ",
+          "context_right": ". Then I’ll think ab"
+        }
+      ]
+    },
+    {
+      "body": "\tThe woman nods sagely, “Well, that’s as good a goal as any. I was the same way once.” Sam had placed her change on the counter in front of her, and the woman scooped it up into her palm in one easy motion as she says, “I desperately wanted to leave my hometown too. You’ll know how to, when it’s time.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Where are you from?” It’s the easiest question Sam could ask from what she just said.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Oh, everywhere,” the woman smiles, parted red lips revealing bright white teeth. She glances at her watch, and then back at Sam, squinting to read the name tag Lynn forced her to pin onto her shirt each day. “Well, thank you, Sam. I’m Michelle. I’m sure I’ll be seeing you here again.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "everywhere,” the woman ",
+          "comment": "Mysterious! ",
+          "context_left": "\t“Oh, ",
+          "context_right": "smiles, parted red l"
+        }
+      ]
+    },
+    {
+      "body": "\tSam nods and smiles back, watching Michelle exit the store and hold the door open for the next customer to walk in, a man named Paul who purchases a Mountain Dew and a Slim Jim every other day. As she rings him up and asks how his day has been, Sam can’t help but think about what Michelle had said, the phrase ricocheting off the walls of her brain: You’ll know how to, when it’s time.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "time",
+          "comment": "I maybe would think about the release of information here — this might be the better time to share about Jess and her plan, or perhaps something about the interaction with Michelle makes Sam have more to say to Jess? In other words, you have the elements here but they don’t quite collide yet. ",
+          "context_left": "w how to, when it’s ",
+          "context_right": "."
+        }
+      ]
+    },
+    {
+      "body": "\tSam’s shift relief, Rob, comes at 3 o’clock to take over until closing. Rob is a few years older than Sam and doesn’t really seem to know what’s going on at any given moment; he once asked at their shift change how the register knows just how many coins to dish out when someone pays with cash. Long ago, she decided to stop caring about the QuikGo once she left for the day, but there have been times where she daydreams that Rob accidentally burns the place down. It’s not entirely implausible. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "moment",
+          "comment": "This description made me laugh! ",
+          "context_left": "ing on at any given ",
+          "context_right": "; he once asked at t"
+        }
+      ]
+    },
+    {
+      "body": "\tShe mounts her bike that was parked out back and takes off towards the house that she and Lynn cohabitate. Lynn used to live in an apartment above the only pizza shop in town, but when Sam’s dad relocated them here he insisted they needed more space. The one-story house is just under a mile from the gas station, tucked away on a woodsy side street off the main road, the one that leads right to Whitney Hope. The irony isn’t lost on Sam that the closer you get to the country club, the more run-down the real estate becomes. For as long as they’ve lived here, there have been worried whispers from distant neighbors that Whitney Hope would buy them all out and knock down their homes, maybe to build another golf course or even more tennis courts. Sam had never seen the problem with this. Half of the house was left to her in her dad’s will, and she would be more than happy to sell-out. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "house that she ",
+          "comment": "Where ",
+          "context_left": "kes off towards the ",
+          "context_right": "and Lynn cohabitate."
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sell",
+          "comment": "You have a nice knack for description that reveals plot and character without dragging the story down. ",
+          "context_left": " more than happy to ",
+          "context_right": "-out. "
+        }
+      ]
+    },
+    {
+      "body": "\tSam rides down the gravel driveway towards the home, taking in the sight: pale yellow shingles, caked over with moss and dirt. A rickety front porch. Overgrown weeds covering what was once a stone pathway. And perched on the peak of the roof, a plaster skeleton reflecting the same elemental damage as the home’s siding. It has been perched up there for nearly three years now, originally put up there by Sam’s father to celebrate their first Halloween in the new home. Sam remembers his excitement about the décor, and also Lynn’s eyeroll over it that she thought no one could see. His accident was a few days before Halloween, and neither of them had bothered to take down the skeleton since. It peers down at her each time she enters the home, reminding her how nothing and everything has changed. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "has",
+          "comment": "What a grim and spooky touch. ",
+          "context_left": " peak of the roof, a plaster skeleton reflecting the same elemental damage as the home’s siding. It ",
+          "context_right": " been perched up there for nearly three years now, originally put up there by Sam’s father to celebr"
+        }
+      ]
+    },
+    {
+      "body": "\tSam shoves her hand into the full mailbox on her way into the house, holding the screen door open with her hip. The past few days of mail have accumulated, leaving her with bills, politicians asking for money, more bills, and her recently earned high school diploma. The mailman had bypassed the “Do Not Bend” tape, and a big fat crease divided the envelope down the middle. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Not Bend” ",
+          "comment": "Another nice detail. ",
+          "context_left": "ad bypassed the “Do ",
+          "context_right": "tape, and a big fat "
+        }
+      ]
+    },
+    {
+      "body": "\tIn the kitchen, Sam slaps the bills down on the edge of the counter and stops to listen for Lynn – is she still sleeping? She must be here, Sam thought, since her beat up 2004 Escape was parked outside. With her ear up to Lynn’s door, she hears voices from the TV and knocks.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Come in,” Lynn calls, so Sam creaks the door open but doesn’t step over the threshold.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Hi. Just letting you know I’m back.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“How were sales today?” Lynn is watching some form of reality television, and her eyes are glued to what appears to be an elimination as she speaks. Her bedroom reeks of cigarette smoke and the high-end perfume that she somehow justifies to herself as necessary. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Good. Average.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Did you speak to the customers today? Or were you mute behind the counter again?” She turns to look at Sam as she says this, while the contestant who was voted off is sobbing on the television.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "you mute behind the ",
+          "comment": "It didn’t seem hard for Sam to do this so perhaps it’s more of a clear struggle or she can rightly be annoyed with Lynn for making up this problem that isn’t real. ",
+          "context_left": "mers today? Or were ",
+          "context_right": "counter again?” She "
+        }
+      ]
+    },
+    {
+      "body": "\t“I spoke,” Sam gets out after a deep sigh.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Anyone say anything interesting?” ",
+      "annotations": []
+    },
+    {
+      "body": "\tSam thinks about it, and knows she does have an answer. But she can’t share Michelle’s wisdom with Lynn, who would slaughter her if she found out she was planning to skip town. Sam scrambles, “No. Just the regulars.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Alright. Well, I need you on tomorrow night’s shift, okay? Rob has to drive his grandmother somewhere, or something. So, 3 to 11 tomorrow.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“What? You have to be kidding,” Sam protests while Lynn is patting around her bedside table until she lands on her cigarettes and lighter, “Rob’s making that up and you know it. Tomorrow’s my first day off in weeks.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Not anymore, kid. Don’t know what to tell ya,” she shrugs, turning back to the TV, “Now, mind getting out? I just missed the whole elimination.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "elimination",
+          "comment": "Lynn is effectively the worst. I wonder why Sam stays. ",
+          "context_left": "st missed the whole ",
+          "context_right": ".”"
+        }
+      ]
+    },
+    {
+      "body": "2",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "2",
+          "comment": "This doesn’t quite feel like the beginning of a chapter. It feels pretty aligned with the last part of what you call Chapter 1. ",
+          "context_left": "",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "\tWhen Sam’s dad was still alive, Lynn was much more tolerable. Even likeable, sometimes. She had always had her vices, but would at least smoke outside and try to be subtle when coming home drunk. Sam’s dad had cared about her, that much she knew. They had grown up together, not far from the rural town Lynn runs the gas station out of, and when Sam’s mother passed away when she was 10, Lynn was there at the wake. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Lynn and I, we have a connection that grew when I wasn’t expecting it to,” Sam’s dad had explained when telling her that he had a fiancée just nine months after they buried her mother, “I love her, Sammy, and your mom wouldn’t have wanted me to be alone.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to",
+          "comment": "Ugh. ",
+          "context_left": "\t“Lynn and I, we have a connection that grew when I wasn’t expecting it ",
+          "context_right": ",” Sam’s dad had explained when telling her that he had a fiancée just nine months after they buried"
+        }
+      ]
+    },
+    {
+      "body": "\tAnd what was she supposed to say to that? So, she smiled and reassured and watched it all happen: their years of long distance, their hushed arguments over Lynn driving to Charlotte every other weekend without any reciprocation, their phone calls with realtors for the tiny yellow house. Sam had no other family, no say in their decisions that would uproot her and what she knew. So, she smiled and reassured, and only recently began to realize the contempt she felt towards Lynn, the resentment held towards her father. The loneliness she was left with because of them and their arrangement that deserted her to cope on her own.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "A"
+      },
+      "comment": "I might like to see this a bit more than be told it, twice. I appreciate that she’s beginning to realize the change in her feelings. Charlotte, this is a rich opening to your novel. Mostly, I’d like you to keep going. I’m really interested in Sam and what’s going to happen to her. The pace right now is leisurely, which isn’t bad, but also means that it’s easy to forget about things like inciting incidents and conflict. I feel that Sam has some problems (bad stepmom, bad job, aimlessness) but I don’t really see what her conflict is. What is that she wants to do, and who or what keeps her from doing it? You might be helped by thinking of turning everything up a notch — the step mom might be a little worse, the job might be a little bad, Jess may be planning to leave tomorrow, Michelle might make an actual offer, etc. In other words, you have your characters and setting, which are great — but what’s you plot going to be?"
+    }
+  ]
+}

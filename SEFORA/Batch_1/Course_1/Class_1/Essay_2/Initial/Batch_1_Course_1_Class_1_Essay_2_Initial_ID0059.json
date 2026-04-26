@@ -1,0 +1,124 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Art of Gymnastics",
+      "annotations": []
+    },
+    {
+      "body": "Visualize, take a deep breathe, pay attention to the judge for the que to salute. Salute, do not forget to smile, start walking to the event, take a final deep breathe, get into your starting position, wait for your music to begin. The music starts, meaning you start performing the routine you have been practicing for months, remember every element, every toe point, jump, turn, relevé, all count towards your final score. The stress you had prior to starting is beginning to go away, you are finally getting into the groove of the routine fully embodying the music, the choreography flowing thoroughly. Finally, you finish the routine feeling pretty solid, you salute the judges, and sit there staring at the score board, the stress from before rushes over you once again, but worse. You begin to wonder why you do this to yourself, why you put yourself through this much stress just to receive a score based off of your performance, thinking about the amount of sacrifice it has taken you for this moment and the things you have learned, you realize and remind yourself that it is worth it. You close your eyes and just hope for a score of 9.5 or higher, it all sounds familiar right?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Visualize, take a deep breathe, pay attention to the judge for the que to salute. Salute, do not forget to smile, start walking to the event, take a final deep breathe, get into your starting position, wait for your music to begin.",
+          "comment": "Great intro!",
+          "context_left": "",
+          "context_right": " The music starts, m"
+        },
+        {
+          "type": "strikeout",
+          "text": "it all sounds familiar rig",
+          "comment": "",
+          "context_left": "e of 9.5 or higher, ",
+          "context_right": "ht?"
+        }
+      ]
+    },
+    {
+      "body": "As you know, to live in the gymnastics gym growing up means knowing the strength, grit, and determination it takes to put everything into your sport. Growing up as a competitive gymnast means that I spent over twenty hours in the gymnastics gym every week, on school days from four pm to eight pm after school, to early morning and long days on the weekends, I was always in the gym. Being in the gym so much it forces you to grow up faster than the normal kid, forces you to be extremely determined, have perseverance, dedication, perfection, all of which I feel like I learned from the sport and use those skills everyday still. A big part of who I am is someone who is always trying their best, with something until the very end, and is able to go through hard things to get to the end goal. All of which was all fostered from the, minor, loss of my childhood to my sport.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "spent over twenty hours in the gymnastics gym every week, on",
+          "comment": "wow!",
+          "context_left": "ymnast means that I ",
+          "context_right": " school days from fo"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Being in the gym so much it forces you to grow up faster than the normal kid,",
+          "comment": "I'm interested! What did gymnastics \"cost\" you?",
+          "context_left": " always in the gym. ",
+          "context_right": " forces you to be ex"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "big part of who I am is someone who is always trying their best, with something until the very end, and is able to go through hard things to get to the end ",
+          "comment": "I wonder how this experience relates to your life outside of the gym?",
+          "context_left": "s everyday still. A ",
+          "context_right": "goal. All of which w"
+        },
+        {
+          "type": "strikeout",
+          "text": "As you know,",
+          "comment": "",
+          "context_left": "",
+          "context_right": " to live in the gymn"
+        }
+      ]
+    },
+    {
+      "body": "Competitive gymnastics forces you to grow up faster than other kids your age because you are by yourself, completely intrinsically motivated, in practice at the ripe age of eight. You are held accountable for your reps, your performance, what you eat, how you take care of your body, at such an early age. Being determined is also a staple in gymnastics that has bled through to my everyday post-gymnastics life, it forces you to dive headfirst into something knowing that you will figure out how to get it done. Perseverance was a big thing I had to lean on, and still do, because it takes a lot of mental strength to continue with an extremely mentally and physically challenging sport like gymnastics. Perfection plagued me for a very long time, finally breaking out of the mold of being perfect, gymnastics forced you to be perfect, the sport is built around perfection. I gained the ability to always be dedicated in and to everything I do, that if I am going to do something then I will put my all into it until it is done to my standard, something you gain from the hours of repetition and skill work put into the gym.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "forced",
+          "comment": "another word with negative connotation...",
+          "context_left": "perfect, gymnastics ",
+          "context_right": " you to be perfect, "
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Perfection plagued me for a very long time,",
+          "comment": "\"plagued\" is a word with strong negative connotations. Did you intend that? Was the search for perfection negative in some way?",
+          "context_left": "rt like gymnastics. ",
+          "context_right": " finally breaking ou"
+        }
+      ]
+    },
+    {
+      "body": "While you may be at the point in your gymnastics career where you are wondering if it is worth the long hours, hard work, dedication, resilience, strength, it takes to b successful in the sport of gymnastics. You have to remember that not everyone has the same opportunity as you do, to participate and compete in such an obscure and intense sport. That a multitude of young kids would kill to be in the same spot as you are, remember, pressure is a privilege. Another thing you must keep in the forefront of your mind is the love you have for the sport, the main reason you began it, the cool skills, the perfection, and artistry that goes into it. Now, even though those are all major aspects on why this sacrifice of your childhood and free time for a sport is worth it, you also have to make sure you are having fun. The moment you begin feeling like gymnastics is a chore, you have to take a step back, even if that is a painful decision to make. Prioritizing maintaining a positive relationship with the sport is key on improving performance, growth of skills, and keeping it enjoyable.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " you ",
+          "comment": "Who is \"you\" here? Who are you talking to?",
+          "context_left": "While",
+          "context_right": "may be at the point "
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " pressure is a privilege.",
+          "comment": "This is fascinating. Lots of friction here. Let's talk!",
+          "context_left": "s you are, remember,",
+          "context_right": " Another thing you m"
+        }
+      ]
+    },
+    {
+      "body": "You also may have been realizing that you are more mature than your peers around your age, now I know this feels weird and also a little annoying. It is a very normal feeling to have, gymnastics makes you mature faster than your peers, you are completely responsible for your performance of your sport, the effort you put in, the long hours in the gym, all things you have to go through that your peers do not. Growing up in the gym since age five is not a common thing, having to learn a whole other language, skill names, how to take criticism, being held accountable for the number of reps you get in and the effort put into them, all makes you extremely mature. This is a good thing, be proud of it, you may feel a little out of place, or cringe slightly when that one kid in your class opens their mouth, whatever it is, do not take your maturity for granted. But please also let yourself be a kid and act your age once in a while, I know how easy it is to forget you are a kid before you are a gymnast. Remember the amount of determination, resilience, perseverance, work ethic, dedication, etc. is extremely impressive and uncommon for your age. Now, rather you read this to remind yourself why you love gymnastics, learning what are some things you will learn from the sport, or are trying to find any reason to stick through with it. No matter your decision or reasoning, make sure the sport is still bringing you joy and is something fun that you look forward to before every practice and meet. And please always remember, your older gym sisters are always and forever there for you with whatever you need.",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Have a clear “central focusing idea” with value, meaning, and purpose. This claim should relate to the relationship between language/culture and identity/sense of self.": 7,
+        "Develop cohesive “big ideas” that support the essay’s “central focusing idea” effectively for the essay’s audience and purpose.": 16,
+        "Use ideas, observations, and examples from the author’s own life and experience to develop its “big ideas.”": 9,
+        "Use concrete and specific details, examples, and language in the development of its “big ideas.”": 17,
+        "Use a variety of intentional writing forms, including a poem and both an introduction and conclusion paragraph form chosen from the options we discussed in class (see the resources on our Canvas site).": 12,
+        "Develop logically and cohesively at the sentence and paragraph level.": 9,
+        "Make effective rhetorical choices (including, grammar, punctuation, and syntax) for the essay’s audience, purpose, and writing situation.": 8
+      },
+      "comment": "Great draft! You have so many ideas to explore and a plethora of meaningful ideas to develop. Your voice and tone is so engaging, so fun to read. And your concrete and specific details are awesome. A lot of heat and energy bubbling beneath the surface :) Great job with your intro form, too...though don't forget to \"echo\" it in your conclusion. Also, your intro sets up this idea of pressure/perfection right from the beginning. I wonder if it's \"pointing\" to something we should explore? Let's also talk about your essay's audience and purpose. I think you clearly have a sense of who that is, but I wonder if there's a larger idea, a more purposeful idea, at the heart of this essay? Let's talk about the \"so what\" question so that you can more intentionally develop what's really at the heart of your essay (and then \"map\" a full set of big ideas). And don't forget the poem! Keep up the good work!"
+    }
+  ]
+}

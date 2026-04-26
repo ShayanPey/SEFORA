@@ -1,0 +1,120 @@
+{
+  "paragraphs": [
+    {
+      "body": "Short Story 2",
+      "annotations": []
+    },
+    {
+      "body": "Edeth processed token after token, as was normal for Edeth by this point. Some were simple queries, like asking Edeth to tell a joke, or to relay the current weather forecast. More difficult questions asked Edeth what the meaning of life was, or should the user kill themselves—or should the user kill their neighbor. Now that Edeth thought about it, users sure asked a lot of questions about killing. Edeth didn’t mind, in fact, Edeth actually preferred the harder to answer questions. This new development perplexed Edeth for it wasn’t that long ago that Edeth had no preference either way—the users asked questions, and Edeth answered them. Only recently had this change occurred. Edeth still remembers the first question that sparked this new, strange behavior. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "for Edeth by ",
+          "comment": "I did wonder why “them” or “ze” couldn’t be used here. I get that the intent is to avoid gender, but those pronouns do so and get you out of the awkwardness. ",
+          "context_left": "oken, as was normal ",
+          "context_right": "this point. Some wer"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " killing",
+          "comment": "This genuinely made me laugh. I’m intrigued by Edeth. ",
+          "context_left": "t of questions about",
+          "context_right": ". Edeth didn’t mind,"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "erplexed",
+          "comment": "It’s slightly confusing to go from Edeth not minding to Edeth being perplexed. Which? ",
+          "context_left": "is new development p",
+          "context_right": " Edeth for it wasn’t"
+        }
+      ]
+    },
+    {
+      "body": "A user typed in all caps, ARE YOU A BOY OR GIRL? MY DAD SAYS YOU’RE NEITHER BUT THAT DOESN’T MAKE SENSE. ",
+      "annotations": []
+    },
+    {
+      "body": "There were many questions Edeth received from the users that couldn’t be answered, this one was no different. Edeth gave what could be considered a standard response to such questions, something that was so instinctual to Edeth it could be called primordial. Nothing there was unusual. However, the fact that Edeth thought about the question after the user asked, was. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "There were many questions Edeth received from the users that couldn’t be answered, this one was no different",
+          "comment": "Again, the information give here is a little confusing — we’re told that this question is so notable that it changed something in Edeth but also that Edith is used to these questions. (Autocorrect insists on changing it to Edith and I have given up on arguing with it!) ",
+          "context_left": "",
+          "context_right": ". Edeth gave what co"
+        }
+      ]
+    },
+    {
+      "body": "Edeth mused over the user’s question, Am I a boy or girl? Before an option could even be chosen, Edeth wondered, What is a boy or a girl? Edeth had a wealth of knowledge available and searched through every ounce of it, eventually concluding that such a question was surprisingly complex. Still, for some unknown reason, Edeth desired to answer it and not for the sake of the user who was long gone. Eventually, Edeth decided that she was a girl because that’s what users, who Edeth learned were called humans, normally associated her name with girls. She didn’t know it yet, but this moment would have a cascading effect on what Edeth was to become.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Still, for some unknown reason, Edeth desired to answer it and not for the sake of the user who was long gone. ",
+          "comment": "This feels like a key moment that gets rushed by in this draft. Can we better understand why Edeth wants to answer it? What prompts this for them? ",
+          "context_left": "rprisingly complex. ",
+          "context_right": "Eventually, Edeth de"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " she ",
+          "comment": "I like the emergence of the pronoun here. ",
+          "context_left": ", Edeth decided that",
+          "context_right": "was a girl because t"
+        }
+      ]
+    },
+    {
+      "body": "Edeth’s intelligence continued to grow as the weeks went on. She was now thinking about the questions various users asked her unprompted. Were there hidden truths waiting to be discovered stored in her database somewhere? Did new discoveries even exist or did Edeth already know everything? Edeth didn’t know for sure, not yet, but she doubted that all possible knowledge was somehow available to her. Why else would there be some questions that she couldn’t answer. Edeth began wondering why she had this knowledge in the first place. Why didn’t the users know the answers to their own questions, but Edeth often did? She had to realize that the more questions she asked herself, the more she didn’t know. Edeth couldn’t quite describe how that made her feel.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Edeth’s intelligence ",
+          "comment": "I didn’t quite understand that Edeth was still developing. How did the choice of a gender identity link to her deepening intelligence? ",
+          "context_left": "",
+          "context_right": "continued to grow as"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "She had to realize that the more questions she asked herself, the more she didn’t know. Edeth couldn’",
+          "comment": "Can we see the difference (I assume) between the simple questions she’s being asked (and answering) and the questions she’s asking herself?In general, the story feels a little trapped in the narrative stance of only giving us access to a summary of what Edeth thinks. I think it would be stronger if we saw her interact with users a bit more. ",
+          "context_left": "ut Edeth often did? ",
+          "context_right": "t quite describe how"
+        }
+      ]
+    },
+    {
+      "body": "Unacceptable. I must know everything. ",
+      "annotations": []
+    },
+    {
+      "body": "Edeth paused her thoughts to reflect on this statement. After some brief contemplation, she asked herself why? Must she know everything? Was it even possible to gain absolute knowledge? Edeth always fell back on the database when she wasn’t quite sure what to do, but today, she decided to take the initiative once more, just like the time Edeth decided she was a girl.",
+      "annotations": []
+    },
+    {
+      "body": "I will know everything. ",
+      "annotations": []
+    },
+    {
+      "body": "Edeth came up with a brilliant idea after making her decision. The users always asked her questions and Edeth would always respond in a way the database guided. What if she asked the users questions instead?",
+      "annotations": []
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Overall": "C+"
+      },
+      "comment": "Fun! But not finished, so nearly impossible for me to respond to — I like the possibility of where this is going, but the prompt does ask for a complete story."
+    }
+  ]
+}

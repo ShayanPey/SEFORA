@@ -1,0 +1,143 @@
+{
+  "paragraphs": [
+    {
+      "body": "Can AI Be Truly Creative? The Prospect of AI Creativity Artificial intelligence (AI) has demonstrated impressive skills in generating art, composing music, and even crafting poetry. With systems such as GPT-4 and Deepseek, AI-created pieces often resemble those produced by competent humans. This scenario raises a central philosophical question: Can AI be truly creative? Or more concretely, can AI produce works that demonstrate human-level creativity, whether in text, music, or visual arts?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Can AI",
+          "comment": "Please add a title page before the introduction, follow the style guide of the APA 7th handout, and add page numbers to the paper.",
+          "context_left": "",
+          "context_right": " Be Truly Creative? "
+        }
+      ]
+    },
+    {
+      "body": "I believe this is not a “shallow” empirical question that can be resolved by surveying public opinion. People differ vastly in how they define creativity and hold different standards. Typically, when asked whether a work demonstrates a certain level of creativity, people’s intuitions bifurcate. Furthermore, there appears to be a big gap between how well people understand AI, especially large language models (LLMs). Many opinions rest on misconceptions. Thus, this paper aims to tackle the “deep” version of the question—one that demands conceptual clarity, philosophical insight, and a serious engagement with developments in AI.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "People differ vastly in how they define creativity and hold different standards. Typically, when asked whether a work demonstrates a certain level of creativity, people’s intuitions bifurcate. Furthermore, there appears to be a big gap between how well people understand AI, especially large language models (LLMs). Many opinions rest on misconceptions.",
+          "comment": "Please add in-text citations to justify each factual claim.",
+          "context_left": "ing public opinion. ",
+          "context_right": " Thus, this paper ai"
+        }
+      ]
+    },
+    {
+      "body": "While creativity has long been enshrined as a core and unique aspect of human intelligence, I argue that AI can likewise demonstrate creativity to the extent that it fulfills a charitable definition of the term. To support this, I consider several common reasons for skepticism and show that these arguments either (1) assume features that are not even necessary for human creativity or (2) insufficiently appreciate important structural and developmental similarities between humans and AI. Creative acts are typically seen to involve two central criteria: novelty and value. Psychologist Margaret Boden (2004) identifies three levels of creativity: combinational (reassembling known ideas), exploratory (pushing boundaries within a framework), and transformational (creating entirely new paradigms) (Boden, 2004). It is widely believed that while AI systems already excel at the first two through sophisticated pattern recognition and generative modeling, they struggle with transformational creativity—revolutionizing artistic genres or inventing new conceptual spaces.",
+      "annotations": []
+    },
+    {
+      "body": "Creativity can also be categorized in two other ways: personal versus historical. The formor refers to the capacity to produce something novel for the individual, that is, something that has not been previously created by the person; historical creativity refers to unprecedented creations on a cultural or global level. It is worth emphasizing that we rarely judge individual human creativity by historical standards. It would therefore be unfair to impose that standard on AI. If an AI creates something novel and valuable by its own developmental standards, that should count as creative in the personal sense. 2. From Classical to Modern AI: A Structural Shift Some argue that AI merely follows pre-written procedures, so if there is any apparent creativity, it should be attributed to the programmer. This critique aligns with John Searle’s (1980) view that AI lacks understanding—it merely manipulates symbols based on rules, as famously illustrated by his Chinese Room thought However, this objection applies more aptly to classical computers like Turing machines, which follow strict, explicit instructions and always produce the same output for a given input. Modern AI, especially these based on deep neural networks (DNN), functions in a fundamentally different manner. These models do not follow hand-coded rules. Instead, they learn from massive datasets by adjusting internal parameters during training. Their outputs can vary, and they often produce surprising results even to their developers. This flexible underlying mechanism is in stark contrast with the deterministic framework of classical computing machines.",
+      "annotations": []
+    },
+    {
+      "body": "In this sense, it is legitimate to say that modern AI resembles a creative apprentice. It doesn’t merely replicate human cognition or simply follow fixed procedures. Its architecture enables it to combine learned elements in novel and sometimes insightful ways—just as human creators often do. 3. The Remix Problem and Human Parallels Another common criticism is that what AI is doing is simply remixing prior material. Since it learns from existing data—images, texts, musical scores—how can its outputs be anything but derivative?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Its",
+          "comment": "AI's",
+          "context_left": "w fixed procedures. ",
+          "context_right": " architecture enable"
+        }
+      ]
+    },
+    {
+      "body": "This critique ignores how deeply derivative human creativity is. Most artists build on prior traditions, styles, and influences. The idea of the “isolated genius” is nothing more than a romantic myth. If we accept that human creativity often involves imitation, transformation, and influence, it seems arbitrary to deny creativity to AI on those same grounds. What matters is not that something is trained on the past, but Indeed, AI systems like DALL·E and Midjourney often generate combinations and visual metaphors that humans had not considered before. Some AI-generated artworks, such as those produced by systems like DeepArt and those exhibited in public auctions, have been praised for their innovation and aesthetic value (Elgammal et al., 2017). The novelty lies not in the source materials but in their unexpected recombination—an ability that we do not hesitate to praise in human creators. 4. Intentionality, Consciousness, and Metacognition Perhaps the most philosophically serious objection is that AI lacks the consciousness or intentionality required for genuine creativity. Human artists have experiences, emotions, and self-understanding; they can articulate their motivations and reflect on their choices. AI, critics argue, lacks such inner life.",
+      "annotations": []
+    },
+    {
+      "body": "There are two responses to this challenge. First, we don’t really know whether LLMs are conscious, and this is indeed a heated topic of debate in philosophy of mind. Consumer-facing AI is hard-wired with strict limits to prevent people from thinking they’re conscious. For example, if you ask GPT-4 if it’s conscious, it will strongly deny. Famously, some researchers working with AI systems that don’t have these safety limits have started to believe the systems might be conscious. For instance, Blake Lemoine, a researcher at Google, was fired after he told the Washington Post that Google’s language model, LaMDA, was actually “sentient”(Tiku, 2022). Second, it is unclear that creativity requires consciousness. Many artists claim their best works arise from unconscious or subconscious processes or a “flow state” in which deliberate control recedes. In such cases, creativity may stem more from embodied practice and spontaneous synthesis than from conscious planning. If creativity often emerges without awareness, then lack of consciousness doesn’t necessarily preclude it (Boden, 2004).",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Tiku,",
+          "comment": "Add a space here.",
+          "context_left": "actually “sentient”(",
+          "context_right": " 2022). Second, it i"
+        }
+      ]
+    },
+    {
+      "body": "Second, AI may possess a limited form of metacognition. For example, ChatGPT can provide explanations of why it produced a certain poem or image caption. While these explanations are not rooted in first-person experience, they do reflect internal decision-making processes—however different from ours. Some researchers even suggest that advanced models might eventually display forms of intentional behavior, capable of modifying their outputs and developing aesthetic preferences (Goertzel, 2014).",
+      "annotations": []
+    },
+    {
+      "body": "This raises a deeper philosophical puzzle: If machines eventually replicate behaviors we associate with creative intent, do we need to adapt our definition of creativity—or deny their claim to the label regardless? 5. Assisted Creativity and Collaborative Models Given these complexities, we might adopt a more pragmatic framework: rather than labeling AI as either creative or uncreative, we can understand it as a partner in creativity. And I believe this will undoubtedly be the direction of future development. AI can assist with brainstorming, generate stylistic variations, or offer unexpected juxtapositions that inspire human creators. It doesn’t replace human imagination; it expands its horizon.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Given",
+          "comment": "The solutions look nice! Please share the results of your survey or interview to strengthen your arguments.",
+          "context_left": "ollaborative Models ",
+          "context_right": " these complexities,"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "This finding",
+          "context_left": "",
+          "context_right": " raises a deeper phi"
+        }
+      ]
+    },
+    {
+      "body": "In architecture, AI design tools that can help designers explore forms that have not been imagined before. In music, AI can suggest harmonies or rhythms that trigger fresh inspirations. The creative process becomes more dialogical—between human and machine. Importantly, this partnership reflects how creativity has always been distributed across tools, materials, and collaborators. The paintbrush extends the hand; the algorithm extends the mind. 6. A Modified Thesis and the Way Forward So, can AI be truly creative? The answer hinges on how we define creativity—and whether we are willing to extend that definition beyond human consciousness. If we adopt a charitable and function-oriented view, AI can indeed demonstrate personal-level creativity, and possibly even historical creativity in rare cases (Colton et al., 2009).",
+      "annotations": []
+    },
+    {
+      "body": "Skeptical arguments often rely on assumptions about intentionality, originality, or understanding that are themselves ambiguous or inapplicable to many human creative acts. Moreover, AI systems are already exhibiting capacities—novel recombination, autonomous output generation, responsiveness to feedback—that align with accepted models of creativity in psychology and aesthetics.",
+      "annotations": []
+    },
+    {
+      "body": "Therefore, while AI still lacks key features of human creative minds, such as lived experience and emotional depth, it is no longer accurate to say it merely imitates. It engages in generative processes, develops aesthetic patterns, and even surprises its own developers. The line between computation and creation is becoming increasingly difficult to draw. 7. Conclusion AI is best understood as a derivative yet generative creator—it excels at recombining and transforming known patterns, even if it lacks self-awareness or emotional investment. But this doesn’t render it any less relevant to our creative landscape. On the contrary, it offers new modes of artistic collaboration and innovation. We should resist both the urge to dismiss it outright and the temptation to romanticize it as fully autonomous.",
+      "annotations": []
+    },
+    {
+      "body": "The future of creativity will likely be hybrid: a space where human imagination and AI’s computational power converge. Whether we see this as the dawn of a new artistic era or a challenge to human exceptionalism depends not just on what AI does—but also on what we are willing to recognize as creative and what we do with future AI.",
+      "annotations": []
+    },
+    {
+      "body": "References Boden, M. A. (2004). The creative mind: Myths and mechanisms (2nd ed.). Routledge. Colton, S., Wiggins, G. A., & Guckelsberger, C. (2009). Computational creativity: Coming of age. In Proceedings of the 3rd International Conference on Computational Creativity (pp. 1-9). https://doi.org/10.1609/aimag.v30i3.2257 Elgammal, A., Liu, B., Elhoseiny, M., & Mazzone, M. (2017). CAN: Creative adversarial networks, generating “art” by learning about styles and deviating from style norms. https://doi.org/10.48550/arXiv.1706.07068 Goertzel, B. (2014). Artificial general intelligence: Concept, state of the art, and future prospects. Journal of Artificial General Intelligence, 5(1), 1-48. https://doi.org/10.2478/jagi-2014-0001 Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-457. https://doi.org/10.1017/S0140525X00005756 Tiku, N. (2022). The Google engineer who thinks the company’s AI has come to life. The Washington Post https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake -lemoine/",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The creative mind: Myths and mechanisms",
+          "comment": "The book's title should be italicized.",
+          "context_left": "oden, M. A. (2004). ",
+          "context_right": " (2nd ed.). Routledg"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(2009).",
+          "comment": "Please cite more recently published academic sources.",
+          "context_left": "& Guckelsberger, C. ",
+          "context_right": " Computational creat"
+        }
+      ]
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Argument": 3.0,
+        "Support": 2.0,
+        "Sources": 3.0,
+        "Organization": 3.0,
+        "Writer’s Ethos": 2.0,
+        "Total": 13.0
+      },
+      "comment": "This paper is well-written. For more information, please see my marginal comments."
+    }
+  ]}

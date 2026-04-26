@@ -1,0 +1,178 @@
+{
+  "paragraphs": [
+    {
+      "body": "Life’s unpredictability",
+      "annotations": []
+    },
+    {
+      "body": "What is something you can truly call unpredictable? The best answer to this question is life. Yes, life—you heard me right. You walk out of your house thinking you’ll buy a couple of groceries and then return home. But there’s always a chance you might never come back. That’s how unpredictable life can be.",
+      "annotations": []
+    },
+    {
+      "body": "Recently, I came across an article by Joseph Holmes titled “Good Night Malaysia 370.” What intrigued me most was not the article's content, but its title—these were the last words spoken by the captain of that aircraft. Holmes explains what led to this horrific plane crash and how millions were spent on a search that ultimately yielded nothing. Now, let’s return to the pilot’s words: “Good night.” He seemed calm, wishing those back at the control tower a pleasant evening, unaware that he and the 298 passengers onboard would soon sleep forever.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "“Good Night Malaysia 370.”",
+          "comment": "",
+          "context_left": "oseph Holmes titled ",
+          "context_right": " What intrigued me m"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Holmes explains what led to this horrific plane crash and how millions were spent on a search that ultimately yielded nothing.",
+          "comment": "Is this your whole summary?  Should it, for the purposes of the prompt, be longer and more complete?",
+          "context_left": "n of that aircraft. ",
+          "context_right": " Now, let’s return t"
+        },
+        {
+          "type": "note",
+          "comment": "This feels like the beginning of your response and not like a part of the article. Should you change the wording of this sentence? Or include it in the next paragraph?",
+          "context_left": "Now, let’s return to the pilot’s words: “Good night.” He seemed calm, wishing those back",
+          "context_right": " at the control towe"
+        }
+      ]
+    },
+    {
+      "body": "My parents have always emphasized the importance of gratitude, teaching me to appreciate every little thing in my life, even if it seems as insignificant as a tiny needle. There were times when my mom didn’t prepare my favorite meal, and I expressed disappointment about what was served. In those moments, I often lost sight of the fact that millions of people worldwide are not as fortunate and may not even have a meal to call their own. Throughout my childhood, I never owned a laptop, as it wasn’t a necessity for my studies. However, as I prepared to embark on my college journey, my parents surprised me with a laptop of my choice. This gift was a monumental moment for me, filled with gratitude and excitement, reminiscent of the day I received my first phone. It wasn’t just about the laptop; it represented their support and belief in my future. This experience reminded me that every blessing, big or small, deserves recognition and appreciation, reinforcing the values my parents instilled in me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "My parents have always emphasized the importance of gratitude, teaching me to appreciate every little thing in my",
+          "comment": "Interesting shift! Nice job.",
+          "context_left": "",
+          "context_right": " life, even if it se"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "as I prepared to embark on my college journey,",
+          "comment": "Is this your voice?",
+          "context_left": "y studies. However, ",
+          "context_right": " my parents surprise"
+        }
+      ]
+    },
+    {
+      "body": "Throughout my life, I’ve encountered a wide range of people—some who express genuine appreciation and others who overlook the good things happening around them. For instance, my friends, whom I see almost every day, often fail to acknowledge their achievements. Whenever they receive good grades, they dismiss it as mere luck. However, when faced with setbacks, they lament, “Why does this always happen to me?” This contrast highlights the importance of appreciating even the smallest positive moments. We should all strive to recognize and cherish these moments, as we never know if they will come around again. By fostering a mindset of gratitude, we can cultivate resilience and a deeper sense of fulfillment in our lives. After all, gratitude can transform our perspective and help us find joy even in challenging times.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "fulfillment in",
+          "comment": "",
+          "context_left": "d a deeper sense of ",
+          "context_right": " our lives. After al"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "For instance, my friends, whom I see almost every day, often fail to acknowledge their achievements. Whenever they receive good grades, they dismiss it as mere luck. However, when faced with setbacks, they lament, “Why does this always happen to me?” This contrast highlights the importance of appreciating even the smallest positive moments.",
+          "comment": "nice example, though I wonder if it's still kind of vague and general?",
+          "context_left": "pening around them. ",
+          "context_right": " We should all striv"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "By fostering a mindset of gratitude, we can cultivate resilience and a deeper sense of fulfillment in our lives. After all, gratitude can transform our perspective and help us find joy even in challenging times.",
+          "comment": "This doesn't sound like your authentic voice, exactly. In fact, it's the kind of vague and general conclusions that AI might develop. How does your essay become something that only you could write? How do you use your own life, ideas, and experiences to write an essay that nobody else, including A.I. could?",
+          "context_left": " come around again. ",
+          "context_right": ""
+        }
+      ]
+    },
+    {
+      "body": "The question remains: why is life so unpredictable? The simplest answer is that we can’t control everything that happens to us. I remember my middle school days, where I took exams very seriously and studied hard to achieve the best possible scores. Sometimes, I would not get the desired results, while other times, I would. I concluded that life’s unpredictability can lead to unexpected outcomes, which can be either good or bad. Often, people claim these outcomes can be controlled, which may be true in some scenarios. For example, cramming the day before an exam might lead to a poor outcome, while those who study regularly may have a completely different experience. Conversely, some outcomes cannot be controlled. Consider the recent news about the Baltimore bridge collapsing—who knew this was going to happen? No one, literally no one. The people on the bridge, who were commuting, listening to the radio, and having a good time, were completely unprepared for this tragedy. Who knew the people on the Titanic, simply on vacation, would never return? Who knew the passengers on Flight 370, heading to reunite with loved ones, would also never come back? This illustrates just how unpredictable life can be. Some might find this terrifying, but it’s simply how life works. You cannot predict your tomorrow. While some might attempt to forecast their profession ten years from now, they often ignore the reality of life’s unpredictability.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " I concluded that life’s unpredictability can lead to unexpected outcomes, which can be either good or bad. Often, people claim these outcomes can be controlled, which may be true in some",
+          "comment": "Can you see the vagueness in this statement? How does it address the \"so what\" question?",
+          "context_left": "ther times, I would.",
+          "context_right": " scenarios. For exam"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "I remember my middle school days, where I took exams very seriously and studied hard to achieve the best possible scores.",
+          "comment": "Do you have a specific example? Again, this is so vague that it's not as effective as it could be.",
+          "context_left": "that happens to us. ",
+          "context_right": " Sometimes, I would "
+        },
+        {
+          "type": "note",
+          "comment": "New paragraph here.",
+          "context_left": " cannot be controlle",
+          "context_right": "d. Consider the rece"
+        }
+      ]
+    },
+    {
+      "body": "After reading Holmes’s article about the Flight 370 disaster, I was struck by the connection between the captain’s last words—“Good night Malaysia 370”—and life’s unpredictability. According to Holmes, “The story of MH370 is one of failures and broken hopes: from accusations that the aircraft should never have been cleared to fly; to the heartbroken families who took the investigation into their own hands and may even have found a piece of the plane; to the mishaps by the airline during the vital first few hours.” Holmes’s point is that sometimes these unpredictable outcomes can result from human error, leading to unbearable losses. The innocent lives of 298 people on board were lost for no reason. Could we have avoided this outcome? Absolutely, we could have, had the airline made timely decisions to prevent that plane from taking off. Holmes further states that “in the initial hours of the crash, families endured false hopes, unsubstantiated rumors, and shocks as they waited for news of their loved ones.” Essentially, Holmes conveys that in such incidents, families must endure the most pain due to human error, despite being innocent. It’s not their fault, yet they still must face such a difficult ordeal. Another point to note is that while we might label this incident as unpredictable and suggest it could have been controlled, let me remind you that the idea of control is often an illusion.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "According to Holmes,",
+          "comment": "",
+          "context_left": "s unpredictability. ",
+          "context_right": " “The story of MH370"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Holmes’s point is ",
+          "comment": "nice templates!",
+          "context_left": "l first few hours.” ",
+          "context_right": "that sometimes these"
+        },
+        {
+          "type": "note",
+          "comment": "While your quotes may be accurate, how do they relate to your essay's \"so what\" question about, and exploration of, unpredictability and gratitude? They don't seem to be building upon any of your \"big ideas.\"",
+          "context_left": "have, had the airline made timely decisions to prevent that plane from taking off.",
+          "context_right": " Holmes further stat"
+        }
+      ]
+    },
+    {
+      "body": "Life may be unpredictable, but that unpredictability can sometimes manifest as joyful experiences. These are the moments you should celebrate and appreciate. Cherish every bit of these moments, as they can bring joy when least expected. It might be a fun day with friends or a special surprise from a loved one. These little joys can brighten our days and lift our spirits, providing much-needed relief from daily routines and challenges. Whether it’s a spontaneous adventure or a heartfelt gesture, these experiences remind us of the beauty in spontaneity and connection. They serve as gentle reminders that, despite life's uncertainties, happiness can arise in the most unexpected ways. Ultimately, life is indeed unpredictable, and it’s those joyful surprises that remind us to embrace every experience fully and to stay open to the happiness that comes our way, cultivating a deeper appreciation for the richness of our lives.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "You're generalizing about vague notions of joy and relief from daily routines, but without concrete and specific details (preferably from your own life, as per the prompt), these notions are less memorable or effective. Again, write the essay that no one else  in the world but you could write.",
+          "context_left": "experiences. These are the moments you should celebrate and appreciate. Cherish",
+          "context_right": " every bit of these "
+        }
+      ]
+    },
+    {
+      "body": "Your images should be integrated throughout the text. Right now, because they're all at the end, it's unclear how the photos relate, directly, to your words and ideas. Therefore, the images aren't yet intentionally developing your essay's speciﬁc points.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Your images should be integrated throughout the text. Right now, because they're all at the end, it's unclear how the photos relate, directly, to your words and ideas. Therefore, the images aren't yet intentionally developing your essay's specific points.",
+          "context_left": "",
+          "context_right": "photos relate, directly, to your words and ideas. Therefore"
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "grades": {
+        "Summary": 11,
+        "Response": 27,
+        "Concrete and specific details and examples": 14,
+        "Integrating quotes": 17,
+        "Effective rhetorical choice and effect": 10,
+        "Effective images": 3
+      },
+      "comment": "Great job! Nice revision. See my comments in text by clicking \"View Feedback\" from the grades site. Ultimately, you're making some really interesting observations and connections, but the essay still needs more concrete and specific details and examples from your own life and experience. Who is your audience, specifically? What do you want them to see/understand/do differently? What is the \"so what\" question that you're addressing? How is your experience of unpredictability and gratitude different from everyone else's experience? Remember that this essay should be something that only you could write. Right now, it sometimes sounds like vague platitudes that a lot of people, including A.I., could write. Make this yours!!"
+    }
+  ]
+}

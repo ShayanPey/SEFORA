@@ -1,0 +1,82 @@
+{
+  "paragraphs": [
+    {
+      "body": "Creating a video without AI assistance makes the process more creative but more time-spending. I need to create the video from a blank scene, including creating the characters, decorating the background, and deciding where to start the next scene. While on the one hand, using AI to produce a video saves me a lot of steps and promotes my efficiency. As I type in the content of my storytelling video, the AI automatically generates an integrated video for me with a thorough scene setting. On the other hand, AI-assisted video is not always perfectly set. AI often misunderstands the points I am trying to explain. Thus, I need to revise the video in detail after AI creation. Besides, AI assistance limits my ability to make some creations on the video.",
+      "annotations": []
+    },
+    {
+      "body": "Prompt for video 2: Scene 1 Dialogue: Elizabeth (curious): \"We’ve seen incredible advancements over the past few decades. But imagine where we’ll be 50 years from now!\"",
+      "annotations": []
+    },
+    {
+      "body": "Zhimei (grinning mischievously): \"Funny you should mention that. I recently came across something... unusual in our archives.\"",
+      "annotations": []
+    },
+    {
+      "body": "Elizabeth (raising an eyebrow): \"Unusual?\" Zhimei (holding up a small, glowing device): \"Let’s just say it can take us there.\"",
+      "annotations": []
+    },
+    {
+      "body": "Scene 2 Dialogue: Elizabeth (awestruck): \"This… this is incredible! The museum has evolved into a living, breathing experience.\"",
+      "annotations": []
+    },
+    {
+      "body": "Zhimei (admiring): \"The visitors don’t just observe anymore—they’re part of the story.\"",
+      "annotations": []
+    },
+    {
+      "body": "Elizabeth (explaining): \"Every exhibit adapts to the visitor’s needs. Whether it’s an expert paleontologist or a school child, the AI customizes the learning experience in real-time.\"",
+      "annotations": []
+    },
+    {
+      "body": "Zhimei (thoughtful): \"Impressive. But what about the artifacts themselves? Are they still here?\"",
+      "annotations": []
+    },
+    {
+      "body": "Elizabeth (nodding): \"Of course. The originals are stored and protected, but visitors engage with perfect digital recreations that are just as tactile.\"",
+      "annotations": []
+    },
+    {
+      "body": "Scene 3 Dialogue: Zhimei (proudly): \"Welcome to the Nanjing Museum of 2074. They’ve fully embraced the idea of museums as living cultural archives. Visitors can now contribute their own stories, and the exhibits evolve in real-time.\"",
+      "annotations": []
+    },
+    {
+      "body": "Elizabeth (fascinated): \"So it’s a collective history—a digital, interactive reflection of modern society.\" Zhimei (explaining): \"They’ve moved beyond simply preserving artifacts. Now, the people’s voices shape the narrative. The exhibits aren’t just static—they grow as society does.\"",
+      "annotations": []
+    },
+    {
+      "body": "Elizabeth (impressed): \"So, the museum becomes a living record of both past and present.\"",
+      "annotations": []
+    },
+    {
+      "body": "Scene 4 Dialogue: Elizabeth (thoughtfully): \"It’s amazing how both of our museums have taken such different approaches to the future. Carnegie leans into immersive, personalized learning, while Nanjing turns the museum into a cultural hub for communal storytelling.\"",
+      "annotations": []
+    },
+    {
+      "body": "Zhimei (nodding): \"Both paths have merit. The question is, what will the role of museums be in an even more digital and connected world?\"",
+      "annotations": []
+    },
+    {
+      "body": "Elizabeth (smiling): \"Perhaps the real answer lies in the balance—keeping the richness of the past while embracing the dynamism of the future.\"The prompt basically illustrates what we want the AI of Vyond to produce in the video, like the changes in two museums due to rapid technological development.",
+      "annotations": []
+    },
+    {
+      "body": "The quality of videos Vyond Go produced is good, but some details still need to be artificially fixed. For example, when we generate the second video using the Al of Vyond, what we expect the AI to develop is a dialogue between two female characters, while the AI generates one male and one female. So we have to create a new female character and replace it. Also, what the Al-assisted video illustrates is somehow different from our main points. Thus, what we need to do is revise the dialogue and explain our main points more clearly.",
+      "annotations": []
+    },
+    {
+      "body": "Besides, although the AI generates an integrated video for us, we still spend some time on modifying details. Except changing the characters and dialogues as I mentioned above, we also change the background of the scenes since the Al-generated background is not suitable for our story content.",
+      "annotations": []
+    }
+  ]
+,
+  "annotations":   [
+    {
+      "grades": {
+        "Storytelling": 3,
+        "Length requirement": 2,
+        "Storytelling Statement": 3
+      },
+      "comment": "N/A"
+    }
+  ]}
