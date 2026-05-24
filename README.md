@@ -148,4 +148,3 @@ You are free to share and adapt the material, provided that appropriate credit i
 
 For questions or issues:
 
-* shayan.p@pitt.edu
