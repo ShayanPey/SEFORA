@@ -61,7 +61,7 @@ mkdir -p SEFORA_flat && find SEFORA -type f -name "*.json" -exec cp {} SEFORA_fl
           "context_left": "<left context>",
           "context_right": "<right context>",
           "comment": "<instructor comment>",
-          "text": "<highlighted text (only for type='highlight')>",
+          "text": "<highlighted text (only for type='highlight' | 'strikeout')>",
           "color": "green | pink | yellow | generic (only for type='highlight')"
         },
         ...
