@@ -2,7 +2,7 @@
 This repository accompanies our paper, **SEFORA**: **S**tudent **E**ssays with **F**eedback C**or**pus **A**nd LLM Feedback Evaluation Framework, and provides the dataset, along with tools for parsing annotated PDF and DOCX files, a pipeline for generating LLM-based feedback on student essays, and UniMatch, a reference-based method for evaluating LLM-generated feedback. For full details, please refer to the paper.
 
 ## DISCLAIMER
-+ **Content warning**: This dataset contains authentic student writing, including **vulgar or strong language**. We do not mask it, as doing so would alter the writer's voice and distort the feedback context.
++ **Content warning**: This dataset contains authentic student writing, including **vulgar** or **strong language**. We do not mask it, as doing so would alter the writer's voice and distort the feedback context.
 + All names/family names within essay bodies and annotations are **replaced** with consistent within-essay pseudonyms while preserving grammatical and narrative coherence; references to public figures are retained. Any resemblance to actual persons (other than public figures), living or dead, is purely coincidental.
 + All personal links and identifiers have been removed or altered. Any resemblance to an actual username, handle, or URL is coincidental.
 + These essays are written by students and may contain strong opinions or emotionally charged language. This is expected as the prompts involve fictional subjects designed to evoke a range of responses, whether affectionate, critical, joyful, or bitter alike. The views expressed belong solely to their authors and do not represent our team, editors, compilers, or affiliated institutions.
