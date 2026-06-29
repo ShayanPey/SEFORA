@@ -105,7 +105,7 @@ All components are available both in the notebook and as separate Python files (
 
 ## Parsers
 
-### PDF Parser
+### Annotated PDF Parser
 PDFs are made of positioned elements and their coordinates in the page, which makes them highly portable but hard to parse. Refer to the source code for implementation details. Overview of the logic is as follows:
 + Pages are processed as collections of text blocks with their coordinates
 + For each block:
@@ -116,7 +116,7 @@ PDFs are made of positioned elements and their coordinates in the page, which ma
 + Injects the annotations
 + Reconstructs paragraphs based on geometric and layout cues
 
-### DOCX Parser
+### Annotated DOCX Parser
 Unlike PDFs, DOCX files are much easier to parse. DOCX file is basically a ZIP archive of XML documents, where `word/document.xml` contains the main text. The content is already organized into paragraphs (`<w:p>`), each composed of runs (`<w:r>`) representing formatted text spans.
 
 ---
