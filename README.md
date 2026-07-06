@@ -122,15 +122,14 @@ Unlike PDFs, DOCX files are much easier to parse. DOCX file is basically a ZIP a
 ---
 
 ## Citation
-\[This is yet to be completed\]
 If you use this dataset or code, please cite:
 
 ```bibtex
-@article{sefora2026,
-  title={...},
-  author={...},
-  journal={...},
-  year={...}
+@article{oskoui2026sefora,
+  title={SEFORA: Student Essays with Feedback Corpus and LLM Feedback Evaluation Framework},
+  author={Oskoui, Shayan Peyghambari and Almousa, Norah and Hou, Zhaoyi Joey and Gustafson, Carolina and Rogers, Gayle and Coelho, Raquel and Litman, Diane and Li, Xiang Lorraine},
+  journal={arXiv preprint arXiv:2607.00274},
+  year={2026}
 }
 ```
 
