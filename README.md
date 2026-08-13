@@ -137,9 +137,14 @@ If you use this dataset or code, please cite:
 
 ## License
 
-This dataset and code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+This repository contains two types of material with different licenses:
 
-You are free to share and adapt the material for non-commercial purposes, provided that appropriate credit is given.
+- **Essays / Dataset:** licensed under the Creative Commons
+  Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+  You are free to share and adapt the material for non-commercial
+  purposes, provided that appropriate credit is given.
+
+- **Code:** licensed under the MIT License.
 
 ---
 
