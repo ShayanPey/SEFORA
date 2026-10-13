@@ -12,7 +12,7 @@ This repository accompanies our paper, **SEFORA**: **S**tudent **E**ssays with *
 Clone the repository:
 
 ```bash
-git clone https://github.com/[masked for blind submission]
+git clone https://github.com/ShayanPey/SEFORA.git
 cd SEFORA
 ```
 
@@ -124,8 +124,13 @@ Unlike PDFs, DOCX files are much easier to parse. DOCX file is basically a ZIP a
 ## Citation
 If you use this dataset or code, please cite:
 
-```
-[masked for blind submission]
+```bibtex
+@article{oskoui2026sefora,
+  title={SEFORA: Student Essays with Feedback Corpus and LLM Feedback Evaluation Framework},
+  author={Oskoui, Shayan Peyghambari and Almousa, Norah and Hou, Zhaoyi Joey and Gustafson, Carolina and Rogers, Gayle and Coelho, Raquel and Litman, Diane and Li, Xiang Lorraine},
+  journal={arXiv preprint arXiv:2607.00274},
+  year={2026}
+}
 ```
 
 ---
@@ -146,4 +151,4 @@ This repository contains two types of material with different licenses:
 ## Contact
 
 For questions or issues:
-[masked for blind submission]
+shayan.p@pitt.edu
